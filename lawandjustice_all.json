@@ -1,0 +1,38 @@
+{
+  "french": {
+    "lawandjustice": [
+      {
+        "word": "loi",
+        "translation": "law"
+      },
+      {
+        "word": "juge",
+        "translation": "judge"
+      }
+    ]
+  },
+  "spanish": {
+    "lawandjustice": [
+      {
+        "word": "ley",
+        "translation": "law"
+      },
+      {
+        "word": "juez",
+        "translation": "judge"
+      }
+    ]
+  },
+  "portuguese": {
+    "lawandjustice": [
+      {
+        "word": "lei",
+        "translation": "law"
+      },
+      {
+        "word": "juiz",
+        "translation": "judge"
+      }
+    ]
+  }
+}
