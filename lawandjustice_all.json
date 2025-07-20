@@ -1,38 +1,45 @@
-{
+[{
   "french": {
     "lawandjustice": [
-      {
-        "word": "loi",
-        "translation": "law"
-      },
-      {
-        "word": "juge",
-        "translation": "judge"
-      }
+      { "word": "law", "translation": "loi" },
+      { "word": "judge", "translation": "juge" }
+    ],
+    "healthandmedicine": [
+      { "word": "health", "translation": "santé" },
+      { "word": "doctor", "translation": "médecin" }
+    ],
+    "humanitarianandngo": [
+      { "word": "ngo", "translation": "ONG" },
+      { "word": "aid", "translation": "aide" }
     ]
   },
   "spanish": {
     "lawandjustice": [
-      {
-        "word": "ley",
-        "translation": "law"
-      },
-      {
-        "word": "juez",
-        "translation": "judge"
-      }
+      { "word": "law", "translation": "ley" },
+      { "word": "judge", "translation": "juez" }
+    ],
+    "healthandmedicine": [
+      { "word": "health", "translation": "salud" },
+      { "word": "doctor", "translation": "médico" }
+    ],
+    "humanitarianandngo": [
+      { "word": "ngo", "translation": "ONG" },
+      { "word": "aid", "translation": "ayuda" }
     ]
   },
-  "portuguese": {
+  "german": {
     "lawandjustice": [
-      {
-        "word": "lei",
-        "translation": "law"
-      },
-      {
-        "word": "juiz",
-        "translation": "judge"
-      }
+      { "word": "law", "translation": "Gesetz" },
+      { "word": "judge", "translation": "Richter" }
+    ],
+    "healthandmedicine": [
+      { "word": "health", "translation": "Gesundheit" },
+      { "word": "doctor", "translation": "Arzt" }
+    ],
+    "humanitarianandngo": [
+      { "word": "ngo", "translation": "NGO" },
+      { "word": "aid", "translation": "Hilfe" }
     ]
   }
-}
+  // etc. pour les autres langues
+}]
