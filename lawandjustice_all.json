@@ -1,45 +1,122 @@
-[{
+{
   "french": {
-    "lawandjustice": [
-      { "word": "law", "translation": "loi" },
-      { "word": "judge", "translation": "juge" }
-    ],
-    "healthandmedicine": [
-      { "word": "health", "translation": "santé" },
-      { "word": "doctor", "translation": "médecin" }
-    ],
-    "humanitarianandngo": [
-      { "word": "ngo", "translation": "ONG" },
-      { "word": "aid", "translation": "aide" }
-    ]
+    "lawandjustice": [],
+    "healthandmedicine": [],
+    "economyandfinance": [],
+    "educationandteaching": [],
+    "tourismandhospitality": [],
+    "transportandlogistics": [],
+    "customsandbordersecurity": [],
+    "diplomacyandinternationalrelations": [],
+    "tradeandentrepreneurship": [],
+    "humanitarianandngos": []
   },
   "spanish": {
-    "lawandjustice": [
-      { "word": "law", "translation": "ley" },
-      { "word": "judge", "translation": "juez" }
-    ],
-    "healthandmedicine": [
-      { "word": "health", "translation": "salud" },
-      { "word": "doctor", "translation": "médico" }
-    ],
-    "humanitarianandngo": [
-      { "word": "ngo", "translation": "ONG" },
-      { "word": "aid", "translation": "ayuda" }
-    ]
+    "lawandjustice": [],
+    "healthandmedicine": [],
+    "economyandfinance": [],
+    "educationandteaching": [],
+    "tourismandhospitality": [],
+    "transportandlogistics": [],
+    "customsandbordersecurity": [],
+    "diplomacyandinternationalrelations": [],
+    "tradeandentrepreneurship": [],
+    "humanitarianandngos": []
   },
   "german": {
-    "lawandjustice": [
-      { "word": "law", "translation": "Gesetz" },
-      { "word": "judge", "translation": "Richter" }
-    ],
-    "healthandmedicine": [
-      { "word": "health", "translation": "Gesundheit" },
-      { "word": "doctor", "translation": "Arzt" }
-    ],
-    "humanitarianandngo": [
-      { "word": "ngo", "translation": "NGO" },
-      { "word": "aid", "translation": "Hilfe" }
-    ]
+    "lawandjustice": [],
+    "healthandmedicine": [],
+    "economyandfinance": [],
+    "educationandteaching": [],
+    "tourismandhospitality": [],
+    "transportandlogistics": [],
+    "customsandbordersecurity": [],
+    "diplomacyandinternationalrelations": [],
+    "tradeandentrepreneurship": [],
+    "humanitarianandngos": []
+  },
+  "italian": {
+    "lawandjustice": [],
+    "healthandmedicine": [],
+    "economyandfinance": [],
+    "educationandteaching": [],
+    "tourismandhospitality": [],
+    "transportandlogistics": [],
+    "customsandbordersecurity": [],
+    "diplomacyandinternationalrelations": [],
+    "tradeandentrepreneurship": [],
+    "humanitarianandngos": []
+  },
+  "portuguese": {
+    "lawandjustice": [],
+    "healthandmedicine": [],
+    "economyandfinance": [],
+    "educationandteaching": [],
+    "tourismandhospitality": [],
+    "transportandlogistics": [],
+    "customsandbordersecurity": [],
+    "diplomacyandinternationalrelations": [],
+    "tradeandentrepreneurship": [],
+    "humanitarianandngos": []
+  },
+  "chinese": {
+    "lawandjustice": [],
+    "healthandmedicine": [],
+    "economyandfinance": [],
+    "educationandteaching": [],
+    "tourismandhospitality": [],
+    "transportandlogistics": [],
+    "customsandbordersecurity": [],
+    "diplomacyandinternationalrelations": [],
+    "tradeandentrepreneurship": [],
+    "humanitarianandngos": []
+  },
+  "arabic": {
+    "lawandjustice": [],
+    "healthandmedicine": [],
+    "economyandfinance": [],
+    "educationandteaching": [],
+    "tourismandhospitality": [],
+    "transportandlogistics": [],
+    "customsandbordersecurity": [],
+    "diplomacyandinternationalrelations": [],
+    "tradeandentrepreneurship": [],
+    "humanitarianandngos": []
+  },
+  "hindi": {
+    "lawandjustice": [],
+    "healthandmedicine": [],
+    "economyandfinance": [],
+    "educationandteaching": [],
+    "tourismandhospitality": [],
+    "transportandlogistics": [],
+    "customsandbordersecurity": [],
+    "diplomacyandinternationalrelations": [],
+    "tradeandentrepreneurship": [],
+    "humanitarianandngos": []
+  },
+  "turkish": {
+    "lawandjustice": [],
+    "healthandmedicine": [],
+    "economyandfinance": [],
+    "educationandteaching": [],
+    "tourismandhospitality": [],
+    "transportandlogistics": [],
+    "customsandbordersecurity": [],
+    "diplomacyandinternationalrelations": [],
+    "tradeandentrepreneurship": [],
+    "humanitarianandngos": []
+  },
+  "russian": {
+    "lawandjustice": [],
+    "healthandmedicine": [],
+    "economyandfinance": [],
+    "educationandteaching": [],
+    "tourismandhospitality": [],
+    "transportandlogistics": [],
+    "customsandbordersecurity": [],
+    "diplomacyandinternationalrelations": [],
+    "tradeandentrepreneurship": [],
+    "humanitarianandngos": []
   }
-  // etc. pour les autres langues
-}]
+}
