@@ -1,6 +1,6 @@
 {
   "french": {
-    "LawandJustice": [{ "word": "justice", "translation": "justice" },
+    "lawandjustice": [{ "word": "justice", "translation": "justice" },
 { "word": "court", "translation": "tribunal" },
 { "word": "judge", "translation": "juge" },
 { "word": "lawyer", "translation": "avocat" },
