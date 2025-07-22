@@ -1,6 +1,6 @@
 {
   "french": {
-    "lawandjustice": [{ "word": "justice", "translation": "justice" },
+    "Law and Justice": [{ "word": "justice", "translation": "justice" },
 { "word": "court", "translation": "tribunal" },
 { "word": "judge", "translation": "juge" },
 { "word": "lawyer", "translation": "avocat" },
@@ -1988,7 +1988,7 @@
 { "word": "stakeholder meeting", "translation": "réunion des parties prenantes" }]
   },
   "spanish": {
-    "lawandjustice": [{ "word": "justice", "translation": "justicia" },
+    "Law and Justice": [{ "word": "justice", "translation": "justicia" },
 { "word": "court", "translation": "tribunal" },
 { "word": "judge", "translation": "juez" },
 { "word": "lawyer", "translation": "abogado" },
@@ -3975,7 +3975,7 @@
 { "word": "stakeholder meeting", "translation": "reunión de partes interesadas" }]
   },
   "german": {
-    "lawandjustice": [{ "word": "justice", "translation": "Gerechtigkeit" },
+    "Law and Justice": [{ "word": "justice", "translation": "Gerechtigkeit" },
 { "word": "court", "translation": "Gericht" },
 { "word": "judge", "translation": "Richter" },
 { "word": "lawyer", "translation": "Anwalt" },
@@ -5862,7 +5862,7 @@
 { "word": "stakeholder meeting", "translation": "Stakeholder-Treffen" }]
   },
   "italian": {
-    "lawandjustice": [{ "word": "justice", "translation": "giustizia" },
+    "Law and Justice": [{ "word": "justice", "translation": "giustizia" },
 { "word": "court", "translation": "tribunale" },
 { "word": "judge", "translation": "giudice" },
 { "word": "lawyer", "translation": "avvocato" },
@@ -7848,7 +7848,7 @@
 { "word": "stakeholder meeting", "translation": "riunione delle parti interessate" }]
   },
   "portuguese": {
-    "lawandjustice": [{ "word": "justice", "translation": "justiça" },
+    "Law and Justice": [{ "word": "justice", "translation": "justiça" },
 { "word": "court", "translation": "tribunal" },
 { "word": "judge", "translation": "juiz" },
 { "word": "lawyer", "translation": "advogado" },
@@ -9831,7 +9831,7 @@
 { "word": "stakeholder meeting", "translation": "reunião de partes interessadas" }]
   },
   "chinese": {
-    "lawandjustice": [{ "word": "justice", "translation": "正义" },
+    "Law and Justice": [{ "word": "justice", "translation": "正义" },
 { "word": "court", "translation": "法院" },
 { "word": "judge", "translation": "法官" },
 { "word": "lawyer", "translation": "律师" },
@@ -11816,7 +11816,7 @@
 { "word": "stakeholder meeting", "translation": "利益相关者会议" }]
   },
   "arabic": {
-    "lawandjustice": [{ "word": "justice", "translation": "عدالة" },
+    "Law and Justice": [{ "word": "justice", "translation": "عدالة" },
 { "word": "court", "translation": "محكمة" },
 { "word": "judge", "translation": "قاضٍ" },
 { "word": "lawyer", "translation": "محامٍ" },
@@ -13801,7 +13801,7 @@
 { "word": "stakeholder meeting", "translation": "اجتماع أصحاب المصلحة" }]
   },
   "hindi": {
-    "lawandjustice": [{ "word": "justice", "translation": "न्याय" },
+    "Law and Justice": [{ "word": "justice", "translation": "न्याय" },
 { "word": "court", "translation": "अदालत" },
 { "word": "judge", "translation": "न्यायाधीश" },
 { "word": "lawyer", "translation": "वकील" },
@@ -15786,7 +15786,7 @@
 { "word": "stakeholder meeting", "translation": "हितधारक बैठक" }]
   },
   "turkish": {
-    "lawandjustice": [{ "word": "justice", "translation": "adalet" },
+    "Law and Justice": [{ "word": "justice", "translation": "adalet" },
 { "word": "court", "translation": "mahkeme" },
 { "word": "judge", "translation": "yargıç" },
 { "word": "lawyer", "translation": "avukat" },
@@ -17772,7 +17772,7 @@
 { "word": "stakeholder meeting", "translation": "paydaş toplantısı" }]
   },
   "russian": {
-    "lawandjustice": [{ "word": "justice", "translation": "справедливость" },
+    "Law and Justice": [{ "word": "justice", "translation": "справедливость" },
 { "word": "court", "translation": "суд" },
 { "word": "judge", "translation": "судья" },
 { "word": "lawyer", "translation": "адвокат" },
