@@ -193,7 +193,7 @@
   { "word": "restitution", "translation": "restitution" },
   { "word": "enforcement", "translation": "application" },
   { "word": "sanction", "translation": "sanction" }],
-    "Health and Medicine": [{ "word": "health", "translation": "santé" },
+    "healthandmedicine": [{ "word": "health", "translation": "santé" },
 { "word": "medicine", "translation": "médecine" },
 { "word": "hospital", "translation": "hôpital" },
 { "word": "clinic", "translation": "clinique" },
@@ -1988,7 +1988,7 @@
 { "word": "stakeholder meeting", "translation": "réunion des parties prenantes" }]
   },
   "spanish": {
-    "Law and Justice": [{ "word": "justice", "translation": "justicia" },
+    "law andjustice": [{ "word": "justice", "translation": "justicia" },
 { "word": "court", "translation": "tribunal" },
 { "word": "judge", "translation": "juez" },
 { "word": "lawyer", "translation": "abogado" },
@@ -2181,7 +2181,7 @@
   { "word": "restitution", "translation": "restitución" },
   { "word": "enforcement", "translation": "ejecución" },
   { "word": "sanction", "translation": "sanción" }],
-    "Health and Medicine": [{ "word": "health", "translation": "salud" },
+    "healthandmedicine": [{ "word": "health", "translation": "salud" },
 { "word": "medicine", "translation": "medicina" },
 { "word": "hospital", "translation": "hospital" },
 { "word": "clinic", "translation": "clínica" },
@@ -3975,7 +3975,7 @@
 { "word": "stakeholder meeting", "translation": "reunión de partes interesadas" }]
   },
   "german": {
-    "Law and Justice": [{ "word": "justice", "translation": "Gerechtigkeit" },
+    "lawandjustice": [{ "word": "justice", "translation": "Gerechtigkeit" },
 { "word": "court", "translation": "Gericht" },
 { "word": "judge", "translation": "Richter" },
 { "word": "lawyer", "translation": "Anwalt" },
@@ -4168,7 +4168,7 @@
   { "word": "restitution", "translation": "Wiedergutmachung" },
   { "word": "enforcement", "translation": "Vollstreckung" },
   { "word": "sanction", "translation": "Sanktion" }],
-    "Health and Medicine": [{ "word": "health", "translation": "Gesundheit" },
+    "healthandmedicine": [{ "word": "health", "translation": "Gesundheit" },
 { "word": "medicine", "translation": "Medizin" },
 { "word": "hospital", "translation": "Krankenhaus" },
 { "word": "clinic", "translation": "Klinik" },
@@ -5862,7 +5862,7 @@
 { "word": "stakeholder meeting", "translation": "Stakeholder-Treffen" }]
   },
   "italian": {
-    "Law and Justice": [{ "word": "justice", "translation": "giustizia" },
+    "lawandjustice": [{ "word": "justice", "translation": "giustizia" },
 { "word": "court", "translation": "tribunale" },
 { "word": "judge", "translation": "giudice" },
 { "word": "lawyer", "translation": "avvocato" },
@@ -6054,7 +6054,7 @@
   { "word": "restitution", "translation": "restituzione" },
   { "word": "enforcement", "translation": "esecuzione" },
   { "word": "sanction", "translation": "sanzione" }],
-    "Health and Medicine": [{ "word": "health", "translation": "salute" },
+    "healthandmedicine": [{ "word": "health", "translation": "salute" },
 { "word": "medicine", "translation": "medicina" },
 { "word": "hospital", "translation": "ospedale" },
 { "word": "clinic", "translation": "clinica" },
@@ -9831,7 +9831,7 @@
 { "word": "stakeholder meeting", "translation": "reunião de partes interessadas" }]
   },
   "chinese": {
-    "Law and Justice": [{ "word": "justice", "translation": "正义" },
+    "lawandjustice": [{ "word": "justice", "translation": "正义" },
 { "word": "court", "translation": "法院" },
 { "word": "judge", "translation": "法官" },
 { "word": "lawyer", "translation": "律师" },
@@ -10024,7 +10024,7 @@
   { "word": "restitution", "translation": "赔偿" },
   { "word": "enforcement", "translation": "执行" },
   { "word": "sanction", "translation": "制裁" }],
-    "Health and Medicine": [{ "word": "health", "translation": "健康" },
+    "healthandmedicine": [{ "word": "health", "translation": "健康" },
 { "word": "medicine", "translation": "医学" },
 { "word": "hospital", "translation": "医院" },
 { "word": "clinic", "translation": "诊所" },
@@ -11816,7 +11816,7 @@
 { "word": "stakeholder meeting", "translation": "利益相关者会议" }]
   },
   "arabic": {
-    "Law and Justice": [{ "word": "justice", "translation": "عدالة" },
+    "lawandjustice": [{ "word": "justice", "translation": "عدالة" },
 { "word": "court", "translation": "محكمة" },
 { "word": "judge", "translation": "قاضٍ" },
 { "word": "lawyer", "translation": "محامٍ" },
@@ -12009,7 +12009,7 @@
   { "word": "restitution", "translation": "تعويض" },
   { "word": "enforcement", "translation": "تنفيذ" },
   { "word": "sanction", "translation": "عقوبة" }],
-    "Health and Medicine": [{ "word": "health", "translation": "الصحة" },
+    "healthandmedicine": [{ "word": "health", "translation": "الصحة" },
 { "word": "medicine", "translation": "الطب" },
 { "word": "hospital", "translation": "مستشفى" },
 { "word": "clinic", "translation": "عيادة" },
@@ -13801,7 +13801,7 @@
 { "word": "stakeholder meeting", "translation": "اجتماع أصحاب المصلحة" }]
   },
   "hindi": {
-    "Law and Justice": [{ "word": "justice", "translation": "न्याय" },
+    "lawandjustice": [{ "word": "justice", "translation": "न्याय" },
 { "word": "court", "translation": "अदालत" },
 { "word": "judge", "translation": "न्यायाधीश" },
 { "word": "lawyer", "translation": "वकील" },
@@ -13994,7 +13994,7 @@
   { "word": "restitution", "translation": "क्षतिपूर्ति" },
   { "word": "enforcement", "translation": "प्रवर्तन" },
   { "word": "sanction", "translation": "प्रतिबंध / स्वीकृति" }],
-    "Health and Medicine": [{ "word": "health", "translation": "स्वास्थ्य" },
+    "healthandmedicine": [{ "word": "health", "translation": "स्वास्थ्य" },
 { "word": "medicine", "translation": "चिकित्सा" },
 { "word": "hospital", "translation": "अस्पताल" },
 { "word": "clinic", "translation": "क्लिनिक" },
@@ -15786,7 +15786,7 @@
 { "word": "stakeholder meeting", "translation": "हितधारक बैठक" }]
   },
   "turkish": {
-    "Law and Justice": [{ "word": "justice", "translation": "adalet" },
+    "lawandjustice": [{ "word": "justice", "translation": "adalet" },
 { "word": "court", "translation": "mahkeme" },
 { "word": "judge", "translation": "yargıç" },
 { "word": "lawyer", "translation": "avukat" },
@@ -15980,7 +15980,7 @@
   { "word": "enforcement", "translation": "infaz" },
   { "word": "sanction", "translation": "yaptırım" }
 ],
-    "Health and Medicine": [{ "word": "health", "translation": "sağlık" },
+    "healthandmedicine": [{ "word": "health", "translation": "sağlık" },
 { "word": "medicine", "translation": "tıp" },
 { "word": "hospital", "translation": "hastane" },
 { "word": "clinic", "translation": "klinik" },
@@ -17772,7 +17772,7 @@
 { "word": "stakeholder meeting", "translation": "paydaş toplantısı" }]
   },
   "russian": {
-    "Law and Justice": [{ "word": "justice", "translation": "справедливость" },
+    "lawandjustice": [{ "word": "justice", "translation": "справедливость" },
 { "word": "court", "translation": "суд" },
 { "word": "judge", "translation": "судья" },
 { "word": "lawyer", "translation": "адвокат" },
@@ -17965,7 +17965,7 @@
   { "word": "restitution", "translation": "возмещение убытков" },
   { "word": "enforcement", "translation": "исполнение" },
   { "word": "sanction", "translation": "санкция" }],
-    "Health and Medicine": [{ "word": "health", "translation": "здоровье" },
+    "healthandmedicine": [{ "word": "health", "translation": "здоровье" },
 { "word": "medicine", "translation": "медицина" },
 { "word": "hospital", "translation": "больница" },
 { "word": "clinic", "translation": "клиника" },
