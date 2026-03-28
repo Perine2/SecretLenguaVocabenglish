@@ -2579,7 +2579,7 @@
   { "word": "competitiveness", "translation": "competitividad" },
   { "word": "productivity", "translation": "productividad" },
   { "word": "financial literacy", "translation": "alfabetización financiera" }],
-    "educationandteaching": [{ "word": "education", "translation": "educación" },
+  "educationandteaching": [{ "word": "education", "translation": "educación" },
 { "word": "teaching", "translation": "enseñanza" },
 { "word": "learning", "translation": "aprendizaje" },
 { "word": "student", "translation": "estudiante" },
