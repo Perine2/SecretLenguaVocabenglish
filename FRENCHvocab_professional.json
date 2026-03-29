@@ -3203,7 +3203,6 @@
   { "word": "freight management", "translation": "gestión del flete" },
   { "word": "order management", "translation": "gestión de pedidos" }],
     "customsandbordersecurity": [{ "word": "douane", "translation": "aduana" },
-
   { "word": "border", "translation": "frontera" },
   { "word": "security", "translation": "seguridad" },
   { "word": "patrol", "translation": "patrulla" },
@@ -4680,7 +4679,6 @@
   { "word": "règle", "translation": "Lineal" },
   { "word": "calculatrice", "translation": "Rechner" },
   { "word": "ordinateur portable", "translation": "Laptop" },
-
   { "word": "tablette", "translation": "Tablet" },
   { "word": "e-learning", "translation": "E-Learning" },
   { "word": "cours en ligne", "translation": "Online-Kurs" },
@@ -6450,8 +6448,7 @@
   { "word": "compétitivité", "translation": "competitività" },
   { "word": "productivité", "translation": "produttività" },
   { "word": "culture financière", "translation": "alfabetizzazione finanziaria" }],
-    "educationandteaching": [
-  { "word": "éducation", "translation": "educazione" },
+    "educationandteaching": [{ "word": "éducation", "translation": "educazione" },
   { "word": "enseignement", "translation": "insegnamento" },
   { "word": "apprentissage", "translation": "apprendimento" },
   { "word": "étudiant", "translation": "studente" },
@@ -6471,7 +6468,6 @@
   { "word": "collège", "translation": "collegio" },
   { "word": "institution", "translation": "istituzione" },
   { "word": "académie", "translation": "accademia" },
-
   { "word": "programme (curriculum)", "translation": "curriculum" },
   { "word": "syllabus", "translation": "programma" },
   { "word": "matière", "translation": "materia" },
@@ -6649,8 +6645,7 @@
   { "word": "certificat de fin d'études", "translation": "certificato di completamento" },
   { "word": "examen national", "translation": "esame nazionale" },
   { "word": "baccalauréat international", "translation": "baccalaureato internazionale" }],
-    "tourismandhospitality": [
-  { "word": "tourisme", "translation": "turismo" },
+    "tourismandhospitality": [{ "word": "tourisme", "translation": "turismo" },
   { "word": "touriste", "translation": "turista" },
   { "word": "voyageur", "translation": "viaggiatore" },
   { "word": "voyage", "translation": "viaggio" },
@@ -6849,8 +6844,7 @@
   { "word": "street food", "translation": "cibo di strada" },
   { "word": "transports publics", "translation": "trasporto pubblico" },
   { "word": "conseil de voyage", "translation": "consiglio di viaggio" }],
-    "transportandlogistics":[
-  { "word": "transport", "translation": "trasporto" },
+    "transportandlogistics":[ { "word": "transport", "translation": "trasporto" },
   { "word": "logistique", "translation": "logistica" },
   { "word": "expédition", "translation": "spedizione" },
   { "word": "livraison", "translation": "consegna" },
@@ -7648,7 +7642,7 @@
   { "word": "acquisition", "translation": "acquisizione" },
   { "word": "introduction en bourse", "translation": "offerta pubblica iniziale" }],
     "humanitarianandngos": [{ "word": "humanitaire", "translation": "umanitario" },
-{ "word": "ONG", "translation": "ONG" },
+  {  "word": "ONG", "translation": "ONG" },
   { "word": "organisation non gouvernementale", "translation": "organizzazione non governativa" },
   { "word": "charité", "translation": "beneficenza" },
   { "word": "aide", "translation": "aiuto" },
@@ -10193,7 +10187,7 @@
   { "word": "prestataire de soins", "translation": "医疗提供者" },
   { "word": "antécédents médicaux", "translation": "病史" },
   { "word": "dossier de santé électronique (DSE)", "translation": "电子健康记录（EHR）" }],
-    "economyandfinance": [{ "word": "economy", "translation": "经济" }, 
+    "economyandfinance": [{ "word": "économie", "translation": "经济" }, 
  { "word": "finance", "translation": "金融" },
   { "word": "argent", "translation": "金钱" },
   { "word": "revenu", "translation": "收入" },
@@ -13624,7 +13618,6 @@
   { "word": "enfants", "translation": "الأطفال" },
   { "word": "femmes", "translation": "نساء" },
   { "word": "filles", "translation": "فتيات" },
-
   { "word": "hommes", "translation": "رجال" },
   { "word": "garçons", "translation": "أولاد" },
   { "word": "personnes âgées", "translation": "المسنون" },
