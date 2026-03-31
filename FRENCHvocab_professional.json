@@ -9744,16 +9744,1955 @@
 {"word": "réunion des parties prenantes", "translation": "reunião de partes interessadas"}]
   },
   "chinese": {
-    "lawandjustice": [],
-    "healthandmedicine": [],
-    "economyandfinance": [],
-    "educationandteaching": [],
-    "tourismandhospitality": [],
-    "transportandlogistics": [],
-    "customsandbordersecurity": [],
-    "diplomacyandinternationalrelations": [],
-    "tradeandentrepreneurship": [],
-    "humanitarianandngos": []
+    "lawandjustice": [{"word": "justice", "translation": "司法"},
+{"word": "tribunal", "translation": "法院"},
+{"word": "juge", "translation": "法官"},
+{"word": "avocat", "translation": "律师"},
+{"word": "procureur", "translation": "检察官"},
+{"word": "défendeur", "translation": "被告"},
+{"word": "plaignant", "translation": "原告"},
+{"word": "procès", "translation": "审判"},
+{"word": "jury", "translation": "陪审团"},
+{"word": "verdict", "translation": "裁决"},
+{"word": "peine", "translation": "刑罚"},
+{"word": "punition", "translation": "惩罚"},
+{"word": "prison", "translation": "监狱"},
+{"word": "caution", "translation": "保释金"},
+{"word": "mandat", "translation": "逮捕令"},
+{"word": "arrestation", "translation": "逮捕"},
+{"word": "police", "translation": "警察"},
+{"word": "officier de police", "translation": "警官"},
+{"word": "crime", "translation": "犯罪"},
+{"word": "criminel", "translation": "罪犯"},
+{"word": "coupable", "translation": "有罪"},
+{"word": "innocent", "translation": "无辜"},
+{"word": "preuve", "translation": "证据"},
+{"word": "témoin", "translation": "证人"},
+{"word": "témoignage", "translation": "证词"},
+{"word": "contre-interrogatoire", "translation": "交叉询问"},
+{"word": "objection", "translation": "异议"},
+{"word": "rejeté", "translation": "驳回"},
+{"word": "accepté", "translation": "接受"},
+{"word": "appel", "translation": "上诉"},
+{"word": "affaire", "translation": "案件"},
+{"word": "audience", "translation": "听证会"},
+{"word": "assignation à comparaître", "translation": "传票"},
+{"word": "déclaration sous serment", "translation": "宣誓陈述"},
+{"word": "déposition", "translation": "口供"},
+{"word": "décision", "translation": "裁定"},
+{"word": "statut", "translation": "状态"},
+{"word": "constitution", "translation": "宪法"},
+{"word": "règlement", "translation": "条例"},
+{"word": "code", "translation": "法典"},
+{"word": "clause", "translation": "条款"},
+{"word": "disposition", "translation": "规定"},
+{"word": "contrat", "translation": "合同"},
+{"word": "accord", "translation": "协议"},
+{"word": "violation", "translation": "违反"},
+{"word": "consentement", "translation": "同意"},
+{"word": "responsabilité", "translation": "责任"},
+{"word": "dommages", "translation": "损害赔偿"},
+{"word": "compensation", "translation": "赔偿"},
+{"word": "règlement à l’amiable", "translation": "庭外和解"},
+{"word": "litige", "translation": "诉讼"},
+{"word": "réclamation", "translation": "索赔"},
+{"word": "poursuite judiciaire", "translation": "法律诉讼"},
+{"word": "injonction", "translation": "禁令"},
+{"word": "ordonnance restrictive", "translation": "限制令"},
+{"word": "garde", "translation": "监护权"},
+{"word": "tutelle", "translation": "监护"},
+{"word": "adoption", "translation": "收养"},
+{"word": "divorce", "translation": "离婚"},
+{"word": "mariage", "translation": "婚姻"},
+{"word": "époux/épouse", "translation": "配偶"},
+{"word": "pension alimentaire pour enfant", "translation": "子女抚养费"},
+{"word": "pension alimentaire", "translation": "赡养费"},
+{"word": "propriété", "translation": "财产"},
+{"word": "patrimoine", "translation": "遗产"},
+{"word": "héritage", "translation": "继承"},
+{"word": "testament", "translation": "遗嘱"},
+{"word": "exécuteur testamentaire", "translation": "遗嘱执行人"},
+{"word": "fiduciaire", "translation": "受托人"},
+{"word": "bénéficiaire", "translation": "受益人"},
+{"word": "acte de propriété", "translation": "产权证"},
+{"word": "titre de propriété", "translation": "房产证"},
+{"word": "propriétaire bailleur", "translation": "房东"},
+{"word": "locataire", "translation": "租户"},
+{"word": "bail", "translation": "租约"},
+{"word": "expulsion", "translation": "驱逐"},
+{"word": "saisie immobilière", "translation": "房产查封"},
+{"word": "faillite", "translation": "破产"},
+{"word": "créancier", "translation": "债权人"},
+{"word": "débiteur", "translation": "债务人"},
+{"word": "défaut de paiement", "translation": "违约"},
+{"word": "hypothèque", "translation": "抵押"},
+{"word": "privilège", "translation": "优先权"},
+{"word": "fraude", "translation": "诈骗"},
+{"word": "détournement de fonds", "translation": "挪用资金"},
+{"word": "corruption", "translation": "腐败"},
+{"word": "vol", "translation": "盗窃"},
+{"word": "vol à main armée", "translation": "持械抢劫"},
+{"word": "agression", "translation": "攻击"},
+{"word": "coups et blessures", "translation": "伤害罪"},
+{"word": "meurtre", "translation": "谋杀"},
+{"word": "homicide involontaire", "translation": "过失杀人"},
+{"word": "homicide", "translation": "杀人"},
+{"word": "viol", "translation": "强奸"},
+{"word": "harcèlement", "translation": "骚扰"},
+{"word": "discrimination", "translation": "歧视"},
+{"word": "droits", "translation": "权利"},
+{"word": "liberté", "translation": "自由"},
+{"word": "égalité", "translation": "平等"},
+{"word": "procédure régulière", "translation": "正当程序"},
+{"word": "procès équitable", "translation": "公正审判"},
+{"word": "présomption", "translation": "推定"},
+{"word": "contre-interroger", "translation": "交叉询问"},
+{"word": "défense", "translation": "辩护"},
+{"word": "poursuite", "translation": "起诉"},
+{"word": "pénal", "translation": "刑事"},
+{"word": "correctionnel", "translation": "矫正"},
+{"word": "réhabilitation", "translation": "康复"},
+{"word": "libération conditionnelle", "translation": "假释"},
+{"word": "probation", "translation": "缓刑"},
+{"word": "mineur", "translation": "未成年人"},
+{"word": "détention", "translation": "拘留"},
+{"word": "réforme", "translation": "改革"},
+{"word": "terrorisme", "translation": "恐怖主义"},
+{"word": "suspect", "translation": "嫌疑人"},
+{"word": "interrogatoire", "translation": "讯问"},
+{"word": "confession", "translation": "供认"},
+{"word": "surveillance", "translation": "监控"},
+{"word": "enquête", "translation": "调查"},
+{"word": "médico-légal", "translation": "法医"},
+{"word": "empreinte digitale", "translation": "指纹"},
+{"word": "ADN", "translation": "DNA"},
+{"word": "juridiction", "translation": "司法管辖权"},
+{"word": "lieu du procès", "translation": "审判地点"},
+{"word": "cour suprême", "translation": "最高法院"},
+{"word": "tribunal de district", "translation": "地方法院"},
+{"word": "magistrat", "translation": "裁判官"},
+{"word": "application de la loi", "translation": "执法"},
+{"word": "législation", "translation": "立法"},
+{"word": "adoption de la loi", "translation": "立法通过"},
+{"word": "lobby", "translation": "游说"},
+{"word": "précédent juridique", "translation": "法律先例"},
+{"word": "droit coutumier", "translation": "习惯法"},
+{"word": "droit civil", "translation": "民法"},
+{"word": "droit pénal", "translation": "刑法"},
+{"word": "droit administratif", "translation": "行政法"},
+{"word": "droit international", "translation": "国际法"},
+{"word": "droits de l’homme", "translation": "人权"},
+{"word": "avocat commis d’office", "translation": "公设辩护人"},
+{"word": "aide juridique", "translation": "法律援助"},
+{"word": "système juridique", "translation": "司法系统"},
+{"word": "procédure judiciaire", "translation": "司法程序"},
+{"word": "contraignant", "translation": "具有约束力"},
+{"word": "non contraignant", "translation": "非约束力"},
+{"word": "médiation", "translation": "调解"},
+{"word": "arbitrage", "translation": "仲裁"},
+{"word": "notaire", "translation": "公证人"},
+{"word": "certifié", "translation": "认证"},
+{"word": "signature", "translation": "签名"},
+{"word": "documentation", "translation": "文件"},
+{"word": "officiel", "translation": "官方"},
+{"word": "greffier", "translation": "书记员"},
+{"word": "cour d’appel", "translation": "上诉法院"},
+{"word": "condamnation", "translation": "定罪"},
+{"word": "acquittement", "translation": "无罪释放"},
+{"word": "libéré conditionnel", "translation": "假释"},
+{"word": "récidivisme", "translation": "累犯"},
+{"word": "prescription", "translation": "时效"},
+{"word": "immunité", "translation": "豁免权"},
+{"word": "plaidoyer", "translation": "辩护词"},
+{"word": "négociation de plaidoyer", "translation": "辩诉交易"},
+{"word": "inculpation", "translation": "起诉"},
+{"word": "comparution initiale", "translation": "初次出庭"},
+{"word": "huissier", "translation": "法警"},
+{"word": "rôle du tribunal", "translation": "法庭职权"},
+{"word": "banc des juges", "translation": "法官席"},
+{"word": "chambre", "translation": "法庭"},
+{"word": "barreau", "translation": "律师协会"},
+{"word": "éthique", "translation": "职业道德"},
+{"word": "faute professionnelle", "translation": "职业过失"},
+{"word": "confidentialité", "translation": "保密"},
+{"word": "client", "translation": "客户"},
+{"word": "honoraires initiaux", "translation": "初始费用"},
+{"word": "litige judiciaire", "translation": "司法诉讼"},
+{"word": "délit civil", "translation": "民事侵权"},
+{"word": "négligence", "translation": "过失"},
+{"word": "culpabilité", "translation": "罪责"},
+{"word": "intention criminelle", "translation": "犯罪意图"},
+{"word": "acte criminel", "translation": "犯罪行为"},
+{"word": "assignation à comparaître", "translation": "传票"},
+{"word": "restitution", "translation": "返还"},
+{"word": "application", "translation": "执行"},
+{"word": "sanction", "translation": "制裁"}],
+    "healthandmedicine": [{"word": "santé", "translation": "健康"},
+{"word": "médecine", "translation": "医学"},
+{"word": "hôpital", "translation": "医院"},
+{"word": "clinique", "translation": "诊所"},
+{"word": "médecin", "translation": "医生"},
+{"word": "infirmier/infirmière", "translation": "护士"},
+{"word": "patient", "translation": "病人"},
+{"word": "diagnostic", "translation": "诊断"},
+{"word": "traitement", "translation": "治疗"},
+{"word": "thérapie", "translation": "疗法"},
+{"word": "maladie", "translation": "疾病"},
+{"word": "maladie", "translation": "疾病"},
+{"word": "affection", "translation": "病症"},
+{"word": "symptôme", "translation": "症状"},
+{"word": "signe", "translation": "体征"},
+{"word": "prévention", "translation": "预防"},
+{"word": "guérison", "translation": "康复"},
+{"word": "chirurgie", "translation": "外科手术"},
+{"word": "opération", "translation": "手术"},
+{"word": "urgence", "translation": "紧急情况"},
+{"word": "médecin", "translation": "医生"},
+{"word": "médecin généraliste", "translation": "全科医生"},
+{"word": "spécialiste", "translation": "专科医生"},
+{"word": "chirurgien", "translation": "外科医生"},
+{"word": "dentiste", "translation": "牙医"},
+{"word": "pharmacien", "translation": "药剂师"},
+{"word": "thérapeute", "translation": "治疗师"},
+{"word": "psychologue", "translation": "心理学家"},
+{"word": "psychiatre", "translation": "精神科医生"},
+{"word": "aidant", "translation": "护理人员"},
+{"word": "ambulancier", "translation": "急救人员"},
+{"word": "sage-femme", "translation": "助产士"},
+{"word": "anesthésiologiste", "translation": "麻醉师"},
+{"word": "radiologue", "translation": "放射科医生"},
+{"word": "dermatologue", "translation": "皮肤科医生"},
+{"word": "cardiologue", "translation": "心脏科医生"},
+{"word": "neurologue", "translation": "神经科医生"},
+{"word": "oncologue", "translation": "肿瘤科医生"},
+{"word": "pédiatre", "translation": "儿科医生"},
+{"word": "gynécologue", "translation": "妇科医生"},
+{"word": "médicament", "translation": "药物"},
+{"word": "médicament", "translation": "药物"},
+{"word": "pilule", "translation": "药片"},
+{"word": "comprimé", "translation": "片剂"},
+{"word": "capsule", "translation": "胶囊"},
+{"word": "injection", "translation": "注射"},
+{"word": "vaccin", "translation": "疫苗"},
+{"word": "antibiotique", "translation": "抗生素"},
+{"word": "analgésique", "translation": "止痛药"},
+{"word": "antidépresseur", "translation": "抗抑郁药"},
+{"word": "anti-inflammatoire", "translation": "抗炎药"},
+{"word": "antiviral", "translation": "抗病毒药"},
+{"word": "pommade", "translation": "药膏"},
+{"word": "crème", "translation": "乳膏"},
+{"word": "sirop", "translation": "糖浆"},
+{"word": "ordonnance", "translation": "处方"},
+{"word": "dosage", "translation": "剂量"},
+{"word": "en vente libre", "translation": "非处方"},
+{"word": "effet secondaire", "translation": "副作用"},
+{"word": "pharmacien", "translation": "药剂师"},
+{"word": "test", "translation": "检测"},
+{"word": "scanner", "translation": "扫描"},
+{"word": "radiographie", "translation": "X光"},
+{"word": "IRM", "translation": "核磁共振"},
+{"word": "scanner CT", "translation": "CT扫描"},
+{"word": "analyse de sang", "translation": "血液检查"},
+{"word": "analyse d’urine", "translation": "尿检"},
+{"word": "biopsie", "translation": "活检"},
+{"word": "dépistage", "translation": "筛查"},
+{"word": "bilan de santé", "translation": "体检"},
+{"word": "ECG", "translation": "心电图"},
+{"word": "échographie", "translation": "超声检查"},
+{"word": "laboratoire", "translation": "实验室"},
+{"word": "diagnostic", "translation": "诊断"},
+{"word": "moniteur", "translation": "监护仪"},
+{"word": "thermomètre", "translation": "温度计"},
+{"word": "stéthoscope", "translation": "听诊器"},
+{"word": "pression artérielle", "translation": "血压"},
+{"word": "pouls", "translation": "脉搏"},
+{"word": "battement du cœur", "translation": "心跳"},
+{"word": "cerveau", "translation": "大脑"},
+{"word": "cœur", "translation": "心脏"},
+{"word": "poumons", "translation": "肺"},
+{"word": "foie", "translation": "肝脏"},
+{"word": "reins", "translation": "肾脏"},
+{"word": "estomac", "translation": "胃"},
+{"word": "intestins", "translation": "肠"},
+{"word": "pancréas", "translation": "胰腺"},
+{"word": "vessie", "translation": "膀胱"},
+{"word": "peau", "translation": "皮肤"},
+{"word": "os", "translation": "骨头"},
+{"word": "muscles", "translation": "肌肉"},
+{"word": "nerfs", "translation": "神经"},
+{"word": "artères", "translation": "动脉"},
+{"word": "veines", "translation": "静脉"},
+{"word": "articulations", "translation": "关节"},
+{"word": "gorge", "translation": "喉咙"},
+{"word": "nez", "translation": "鼻子"},
+{"word": "yeux", "translation": "眼睛"},
+{"word": "oreilles", "translation": "耳朵"},
+{"word": "grippe", "translation": "流感"},
+{"word": "rhume", "translation": "感冒"},
+{"word": "fièvre", "translation": "发烧"},
+{"word": "infection", "translation": "感染"},
+{"word": "virus", "translation": "病毒"},
+{"word": "bactérie", "translation": "细菌"},
+{"word": "diabète", "translation": "糖尿病"},
+{"word": "cancer", "translation": "癌症"},
+{"word": "asthme", "translation": "哮喘"},
+{"word": "allergie", "translation": "过敏"},
+{"word": "hypertension", "translation": "高血压"},
+{"word": "AVC", "translation": "中风"},
+{"word": "crise cardiaque", "translation": "心脏病发作"},
+{"word": "pneumonie", "translation": "肺炎"},
+{"word": "tuberculose", "translation": "结核病"},
+{"word": "arthrite", "translation": "关节炎"},
+{"word": "migraine", "translation": "偏头痛"},
+{"word": "obésité", "translation": "肥胖"},
+{"word": "insomnie", "translation": "失眠"},
+{"word": "dépression", "translation": "抑郁症"},
+{"word": "toux", "translation": "咳嗽"},
+{"word": "mal de tête", "translation": "头痛"},
+{"word": "mal de gorge", "translation": "喉咙痛"},
+{"word": "nausée", "translation": "恶心"},
+{"word": "vomissement", "translation": "呕吐"},
+{"word": "vertige", "translation": "头晕"},
+{"word": "fatigue", "translation": "疲劳"},
+{"word": "faiblesse", "translation": "虚弱"},
+{"word": "gonflement", "translation": "肿胀"},
+{"word": "éruption cutanée", "translation": "皮疹"},
+{"word": "démangeaison", "translation": "瘙痒"},
+{"word": "saignement", "translation": "出血"},
+{"word": "éternuement", "translation": "打喷嚏"},
+{"word": "nez qui coule", "translation": "流鼻涕"},
+{"word": "congestion", "translation": "鼻塞"},
+{"word": "frissons", "translation": "寒战"},
+{"word": "crampes", "translation": "抽筋"},
+{"word": "essoufflement", "translation": "呼吸急促"},
+{"word": "transpiration", "translation": "出汗"},
+{"word": "palpitations", "translation": "心悸"},
+{"word": "ambulance", "translation": "救护车"},
+{"word": "salle d’urgence", "translation": "急诊室"},
+{"word": "traumatisme", "translation": "创伤"},
+{"word": "plaie", "translation": "伤口"},
+{"word": "brûlure", "translation": "烧伤"},
+{"word": "fracture", "translation": "骨折"},
+{"word": "entorse", "translation": "扭伤"},
+{"word": "saignement", "translation": "出血"},
+{"word": "réanimation cardio-pulmonaire", "translation": "心肺复苏"},
+{"word": "défibrillateur", "translation": "除颤器"},
+{"word": "brancard", "translation": "担架"},
+{"word": "bandage", "translation": "绷带"},
+{"word": "pansement", "translation": "敷料"},
+{"word": "oxygène", "translation": "氧气"},
+{"word": "sauvetage", "translation": "救援"},
+{"word": "choc", "translation": "休克"},
+{"word": "triage", "translation": "分诊"},
+{"word": "ambulancier", "translation": "急救人员"},
+{"word": "évacuation", "translation": "疏散"},
+{"word": "alerte", "translation": "警报"},
+{"word": "hygiène", "translation": "卫生"},
+{"word": "assainissement", "translation": "卫生设施"},
+{"word": "nutrition", "translation": "营养"},
+{"word": "vaccination", "translation": "疫苗接种"},
+{"word": "dépistage", "translation": "筛查"},
+{"word": "soins de santé", "translation": "医疗保健"},
+{"word": "santé publique", "translation": "公共卫生"},
+{"word": "épidémie", "translation": "流行病"},
+{"word": "pandémie", "translation": "大流行"},
+{"word": "quarantaine", "translation": "隔离"},
+{"word": "isolement", "translation": "隔离"},
+{"word": "sensibilisation", "translation": "宣传"},
+{"word": "éducation", "translation": "教育"},
+{"word": "assurance", "translation": "保险"},
+{"word": "couverture", "translation": "保险范围"},
+{"word": "politique de santé", "translation": "卫生政策"},
+{"word": "bien-être", "translation": "福祉"},
+{"word": "mode de vie", "translation": "生活方式"},
+{"word": "forme physique", "translation": "体能"},
+{"word": "santé mentale", "translation": "心理健康"},
+{"word": "dossier médical", "translation": "病历"},
+{"word": "assurance", "translation": "保险"},
+{"word": "consultation", "translation": "问诊"},
+{"word": "orientation médicale", "translation": "转诊"},
+{"word": "rendez-vous", "translation": "预约"},
+{"word": "facture médicale", "translation": "医疗账单"},
+{"word": "autorisation", "translation": "授权"},
+{"word": "documentation", "translation": "文件"},
+{"word": "couverture", "translation": "保险范围"},
+{"word": "consentement", "translation": "同意"},
+{"word": "confidentialité", "translation": "保密"},
+{"word": "liste d’attente", "translation": "等候名单"},
+{"word": "admission", "translation": "入院"},
+{"word": "sortie", "translation": "出院"},
+{"word": "plan de soins", "translation": "护理计划"},
+{"word": "visite chez le spécialiste", "translation": "专科就诊"},
+{"word": "gestionnaire de cas", "translation": "病例管理人员"},
+{"word": "prestataire de soins", "translation": "医疗服务提供者"},
+{"word": "antécédents médicaux", "translation": "病史"},
+{"word": "dossier de santé électronique (DSE)", "translation": "电子健康档案"}],
+    "economyandfinance": [{"word":"économie","translation":"经济"},
+{"word":"finance","translation":"金融"},
+{"word":"argent","translation":"钱"},
+{"word":"revenu","translation":"收入"},
+{"word":"dépense","translation":"支出"},
+{"word":"recette","translation":"收入"},
+{"word":"profit","translation":"利润"},
+{"word":"perte","translation":"损失"},
+{"word":"budget","translation":"预算"},
+{"word":"coût","translation":"成本"},
+{"word":"investissement","translation":"投资"},
+{"word":"capital","translation":"资本"},
+{"word":"intérêt","translation":"利息"},
+{"word":"prêt","translation":"贷款"},
+{"word":"dette","translation":"债务"},
+{"word":"crédit","translation":"信用"},
+{"word":"épargne","translation":"储蓄"},
+{"word":"solde","translation":"余额"},
+{"word":"transaction","translation":"交易"},
+{"word":"espèces","translation":"现金"},
+{"word":"banque","translation":"银行"},
+{"word":"compte","translation":"账户"},
+{"word":"dépôt","translation":"存款"},
+{"word":"retrait","translation":"取款"},
+{"word":"relevé","translation":"对账单"},
+{"word":"inflation","translation":"通货膨胀"},
+{"word":"déflation","translation":"通货紧缩"},
+{"word":"récession","translation":"经济衰退"},
+{"word":"boom économique","translation":"经济繁荣"},
+{"word":"PIB","translation":"国内生产总值"},
+{"word":"croissance","translation":"增长"},
+{"word":"ralentissement","translation":"放缓"},
+{"word":"richesse","translation":"财富"},
+{"word":"actifs","translation":"资产"},
+{"word":"passifs","translation":"负债"},
+{"word":"capitaux propres","translation":"股本"},
+{"word":"actionnaire","translation":"股东"},
+{"word":"partie prenante","translation":"利益相关者"},
+{"word":"dividende","translation":"股息"},
+{"word":"action","translation":"股票"},
+{"word":"obligation","translation":"债券"},
+{"word":"monnaie","translation":"货币"},
+{"word":"échange","translation":"交换"},
+{"word":"taux","translation":"利率"},
+{"word":"marché","translation":"市场"},
+{"word":"commerce","translation":"贸易"},
+{"word":"importation","translation":"进口"},
+{"word":"exportation","translation":"出口"},
+{"word":"tarif douanier","translation":"关税"},
+{"word":"impôt","translation":"税"},
+{"word":"TVA","translation":"增值税"},
+{"word":"audit","translation":"审计"},
+{"word":"impôt sur le revenu","translation":"所得税"},
+{"word":"impôt sur les sociétés","translation":"企业所得税"},
+{"word":"exonération","translation":"免税"},
+{"word":"déduction","translation":"扣除"},
+{"word":"paie","translation":"工资单"},
+{"word":"salaire","translation":"工资"},
+{"word":"salaire","translation":"薪资"},
+{"word":"prime","translation":"奖金"},
+{"word":"pension","translation":"养老金"},
+{"word":"retraite","translation":"退休"},
+{"word":"fonds","translation":"基金"},
+{"word":"subvention","translation":"补贴"},
+{"word":"subvention","translation":"资助"},
+{"word":"politique","translation":"政策"},
+{"word":"règlement","translation":"法规"},
+{"word":"loi","translation":"法律"},
+{"word":"conformité","translation":"合规"},
+{"word":"fraude","translation":"欺诈"},
+{"word":"détournement de fonds","translation":"挪用资金"},
+{"word":"faillite","translation":"破产"},
+{"word":"insolvabilité","translation":"无力偿债"},
+{"word":"fusion","translation":"合并"},
+{"word":"acquisition","translation":"收购"},
+{"word":"prise de contrôle","translation":"控股"},
+{"word":"taux d’intérêt","translation":"利率"},
+{"word":"banque centrale","translation":"中央银行"},
+{"word":"politique monétaire","translation":"货币政策"},
+{"word":"politique budgétaire","translation":"财政政策"},
+{"word":"dépenses","translation":"支出"},
+{"word":"excédent","translation":"盈余"},
+{"word":"déficit","translation":"赤字"},
+{"word":"balance commerciale","translation":"贸易差额"},
+{"word":"consommateur","translation":"消费者"},
+{"word":"producteur","translation":"生产者"},
+{"word":"fournisseur","translation":"供应商"},
+{"word":"demande","translation":"需求"},
+{"word":"offre","translation":"供给"},
+{"word":"prix","translation":"价格"},
+{"word":"prix de revient","translation":"成本价"},
+{"word":"prix de détail","translation":"零售价"},
+{"word":"vente en gros","translation":"批发"},
+{"word":"taux d’inflation","translation":"通胀率"},
+{"word":"risque","translation":"风险"},
+{"word":"rendement","translation":"回报"},
+{"word":"rendement","translation":"收益率"},
+{"word":"portefeuille","translation":"投资组合"},
+{"word":"diversification","translation":"多元化"},
+{"word":"liquidité","translation":"流动性"},
+{"word":"solvabilité","translation":"偿付能力"},
+{"word":"effet de levier","translation":"杠杆效应"},
+{"word":"financement","translation":"融资"},
+{"word":"capital-risque","translation":"风险投资"},
+{"word":"investisseur providentiel","translation":"天使投资人"},
+{"word":"entrepreneuriat","translation":"创业"},
+{"word":"startup","translation":"初创企业"},
+{"word":"entreprise","translation":"企业"},
+{"word":"entreprise","translation":"公司"},
+{"word":"société","translation":"公司"},
+{"word":"entreprise","translation":"企业"},
+{"word":"entreprise","translation":"公司"},
+{"word":"PDG","translation":"首席执行官"},
+{"word":"directeur financier","translation":"首席财务官"},
+{"word":"introduction en bourse","translation":"首次公开募股"},
+{"word":"action","translation":"股票"},
+{"word":"dividende","translation":"股息"},
+{"word":"courtier","translation":"经纪人"},
+{"word":"trading","translation":"交易"},
+{"word":"marché boursier","translation":"股票市场"},
+{"word":"bourse","translation":"证券交易所"},
+{"word":"indice","translation":"指数"},
+{"word":"NASDAQ","translation":"纳斯达克"},
+{"word":"NYSE","translation":"纽约证券交易所"},
+{"word":"Dow Jones","translation":"道琼斯指数"},
+{"word":"FTSE","translation":"富时指数"},
+{"word":"contrats à terme","translation":"期货"},
+{"word":"options","translation":"期权"},
+{"word":"produits dérivés","translation":"衍生品"},
+{"word":"couverture","translation":"对冲"},
+{"word":"couverture","translation":"套期保值"},
+{"word":"spéculation","translation":"投机"},
+{"word":"actif","translation":"资产"},
+{"word":"actif tangible","translation":"有形资产"},
+{"word":"actif intangible","translation":"无形资产"},
+{"word":"valeur nette","translation":"净值"},
+{"word":"revenus","translation":"收入"},
+{"word":"marge bénéficiaire","translation":"利润率"},
+{"word":"revenu brut","translation":"毛收入"},
+{"word":"revenu net","translation":"净收入"},
+{"word":"coût d’exploitation","translation":"运营成本"},
+{"word":"frais généraux","translation":"管理费用"},
+{"word":"amortissement","translation":"折旧"},
+{"word":"amortissement","translation":"摊销"},
+{"word":"facture","translation":"发票"},
+{"word":"facturation","translation":"计费"},
+{"word":"reçu","translation":"收据"},
+{"word":"paiement","translation":"支付"},
+{"word":"virement électronique","translation":"电子转账"},
+{"word":"virement bancaire","translation":"银行转账"},
+{"word":"banque en ligne","translation":"网上银行"},
+{"word":"banque mobile","translation":"手机银行"},
+{"word":"porteur d’intérêt","translation":"持份者"},
+{"word":"taux fixe","translation":"固定利率"},
+{"word":"taux variable","translation":"浮动利率"},
+{"word":"hypothèque","translation":"抵押贷款"},
+{"word":"versement","translation":"付款"},
+{"word":"garantie","translation":"担保"},
+{"word":"garant","translation":"担保人"},
+{"word":"score de crédit","translation":"信用评分"},
+{"word":"historique de crédit","translation":"信用记录"},
+{"word":"carte de crédit","translation":"信用卡"},
+{"word":"carte de débit","translation":"借记卡"},
+{"word":"conseiller financier","translation":"财务顾问"},
+{"word":"planificateur","translation":"规划师"},
+{"word":"économiste","translation":"经济学家"},
+{"word":"secteur économique","translation":"经济部门"},
+{"word":"secteur public","translation":"公共部门"},
+{"word":"secteur privé","translation":"私营部门"},
+{"word":"organisation à but non lucratif","translation":"非营利组织"},
+{"word":"financement participatif","translation":"众筹"},
+{"word":"collecte de fonds","translation":"筹款"},
+{"word":"dons","translation":"捐款"},
+{"word":"coût-bénéfice","translation":"成本效益"},
+{"word":"évaluation","translation":"评估"},
+{"word":"rapport financier","translation":"财务报告"},
+{"word":"résultats trimestriels","translation":"季度业绩"},
+{"word":"rapport annuel","translation":"年度报告"},
+{"word":"rapport d’audit","translation":"审计报告"},
+{"word":"bilan","translation":"资产负债表"},
+{"word":"compte de résultat","translation":"损益表"},
+{"word":"flux de trésorerie","translation":"现金流"},
+{"word":"seuil de rentabilité","translation":"盈亏平衡点"},
+{"word":"prévision","translation":"预测"},
+{"word":"projection","translation":"预测"},
+{"word":"modèle financier","translation":"财务模型"},
+{"word":"analyse de sensibilité","translation":"敏感性分析"},
+{"word":"scénario","translation":"情景"},
+{"word":"référence","translation":"基准"},
+{"word":"meilleure pratique","translation":"最佳实践"},
+{"word":"croissance économique","translation":"经济增长"},
+{"word":"macroéconomie","translation":"宏观经济学"},
+{"word":"microéconomie","translation":"微观经济学"},
+{"word":"chaîne d’approvisionnement","translation":"供应链"},
+{"word":"logistique","translation":"物流"},
+{"word":"biens","translation":"商品"},
+{"word":"services","translation":"服务"},
+{"word":"compétitivité","translation":"竞争力"},
+{"word":"productivité","translation":"生产率"},
+{"word":"littératie financière","translation":"金融素养"}],
+    "educationandteaching": [{"word":"éducation","translation":"教育"},
+{"word":"enseignement","translation":"教学"},
+{"word":"apprentissage","translation":"学习"},
+{"word":"étudiant","translation":"学生"},
+{"word":"élève","translation":"学生"},
+{"word":"enseignant","translation":"教师"},
+{"word":"éducateur","translation":"教育者"},
+{"word":"instructeur","translation":"教员"},
+{"word":"professeur","translation":"教授"},
+{"word":"chargé de cours","translation":"讲师"},
+{"word":"tuteur","translation":"导师"},
+{"word":"mentor","translation":"导师"},
+{"word":"coach","translation":"教练"},
+{"word":"stagiaire","translation":"实习生"},
+{"word":"salle de classe","translation":"教室"},
+{"word":"école","translation":"学校"},
+{"word":"université","translation":"大学"},
+{"word":"collège","translation":"学院"},
+{"word":"institution","translation":"机构"},
+{"word":"académie","translation":"学院"},
+{"word":"programme scolaire","translation":"课程计划"},
+{"word":"syllabus","translation":"教学大纲"},
+{"word":"matière","translation":"科目"},
+{"word":"cours","translation":"课程"},
+{"word":"leçon","translation":"课"},
+{"word":"conférence","translation":"讲座"},
+{"word":"atelier","translation":"研讨会"},
+{"word":"séminaire","translation":"研讨会"},
+{"word":"formation","translation":"培训"},
+{"word":"module","translation":"模块"},
+{"word":"unité","translation":"单元"},
+{"word":"devoir","translation":"作业"},
+{"word":"travail à domicile","translation":"家庭作业"},
+{"word":"test","translation":"测试"},
+{"word":"examen","translation":"考试"},
+{"word":"évaluation","translation":"评估"},
+{"word":"quiz","translation":"小测验"},
+{"word":"note","translation":"成绩"},
+{"word":"score","translation":"分数"},
+{"word":"note","translation":"评分"},
+{"word":"diplôme","translation":"文凭"},
+{"word":"certificat","translation":"证书"},
+{"word":"diplôme universitaire","translation":"大学文凭"},
+{"word":"licence","translation":"学士学位"},
+{"word":"master","translation":"硕士"},
+{"word":"doctorat","translation":"博士"},
+{"word":"PhD","translation":"博士学位"},
+{"word":"thèse","translation":"论文"},
+{"word":"dissertation","translation":"学位论文"},
+{"word":"recherche","translation":"研究"},
+{"word":"étude","translation":"研究"},
+{"word":"projet","translation":"项目"},
+{"word":"système éducatif","translation":"教育体系"},
+{"word":"éducation primaire","translation":"初等教育"},
+{"word":"éducation secondaire","translation":"中等教育"},
+{"word":"enseignement supérieur","translation":"高等教育"},
+{"word":"préscolaire","translation":"学前教育"},
+{"word":"jardin d’enfants","translation":"幼儿园"},
+{"word":"école élémentaire","translation":"小学"},
+{"word":"collège","translation":"初中"},
+{"word":"lycée","translation":"高中"},
+{"word":"diplômé","translation":"毕业生"},
+{"word":"postuniversitaire","translation":"研究生阶段"},
+{"word":"inscription","translation":"注册"},
+{"word":"admission","translation":"录取"},
+{"word":"enregistrement","translation":"登记"},
+{"word":"académique","translation":"学术的"},
+{"word":"chercheur","translation":"研究员"},
+{"word":"bourse d’études","translation":"奖学金"},
+{"word":"subvention","translation":"资助"},
+{"word":"financement","translation":"资金"},
+{"word":"frais de scolarité","translation":"学费"},
+{"word":"frais de scolarité","translation":"学杂费"},
+{"word":"semestre","translation":"学期"},
+{"word":"trimestre","translation":"学期"},
+{"word":"trimestre","translation":"季度"},
+{"word":"année scolaire","translation":"学年"},
+{"word":"année académique","translation":"学年"},
+{"word":"vacances","translation":"假期"},
+{"word":"pause","translation":"休息"},
+{"word":"récréation","translation":"课间休息"},
+{"word":"jour férié","translation":"节假日"},
+{"word":"salle de classe","translation":"教室"},
+{"word":"bureau","translation":"书桌"},
+{"word":"chaise","translation":"椅子"},
+{"word":"tableau noir","translation":"黑板"},
+{"word":"tableau blanc","translation":"白板"},
+{"word":"marqueur","translation":"记号笔"},
+{"word":"craie","translation":"粉笔"},
+{"word":"gomme","translation":"橡皮"},
+{"word":"manuel scolaire","translation":"教材"},
+{"word":"cahier d’exercices","translation":"练习册"},
+{"word":"cahier","translation":"笔记本"},
+{"word":"cahier d’exercices","translation":"练习本"},
+{"word":"dossier","translation":"文件夹"},
+{"word":"classeur","translation":"活页夹"},
+{"word":"stylo","translation":"钢笔"},
+{"word":"crayon","translation":"铅笔"},
+{"word":"règle","translation":"尺子"},
+{"word":"calculatrice","translation":"计算器"},
+{"word":"ordinateur portable","translation":"笔记本电脑"},
+{"word":"tablette","translation":"平板电脑"},
+{"word":"apprentissage en ligne","translation":"在线学习"},
+{"word":"cours en ligne","translation":"在线课程"},
+{"word":"apprentissage numérique","translation":"数字学习"},
+{"word":"apprentissage à distance","translation":"远程学习"},
+{"word":"apprentissage hybride","translation":"混合学习"},
+{"word":"plateforme","translation":"平台"},
+{"word":"application","translation":"应用程序"},
+{"word":"application de quiz","translation":"测验应用"},
+{"word":"jury d’examen","translation":"考试委员会"},
+{"word":"évaluation","translation":"评估"},
+{"word":"retour d’information","translation":"反馈"},
+{"word":"participation","translation":"参与"},
+{"word":"présence","translation":"出勤"},
+{"word":"ponctualité","translation":"准时"},
+{"word":"discipline","translation":"纪律"},
+{"word":"règlement scolaire","translation":"校规"},
+{"word":"comportement","translation":"行为"},
+{"word":"motivation","translation":"动力"},
+{"word":"effort","translation":"努力"},
+{"word":"performance","translation":"表现"},
+{"word":"succès","translation":"成功"},
+{"word":"échec","translation":"失败"},
+{"word":"redoublement","translation":"留级"},
+{"word":"abandon scolaire","translation":"辍学"},
+{"word":"soutien","translation":"支持"},
+{"word":"tutorat","translation":"辅导"},
+{"word":"aide supplémentaire","translation":"额外帮助"},
+{"word":"classe de rattrapage","translation":"补习班"},
+{"word":"programme pour surdoués","translation":"天才班"},
+{"word":"éducation spécialisée","translation":"特殊教育"},
+{"word":"éducation inclusive","translation":"融合教育"},
+{"word":"pédagogie","translation":"教育学"},
+{"word":"didactique","translation":"教学法"},
+{"word":"méthodologie","translation":"方法论"},
+{"word":"approche","translation":"方法"},
+{"word":"style d’apprentissage","translation":"学习风格"},
+{"word":"apprenant visuel","translation":"视觉型学习者"},
+{"word":"apprenant auditif","translation":"听觉型学习者"},
+{"word":"apprenant kinesthésique","translation":"动觉型学习者"},
+{"word":"pensée critique","translation":"批判性思维"},
+{"word":"résolution de problèmes","translation":"解决问题"},
+{"word":"collaboration","translation":"合作"},
+{"word":"travail d’équipe","translation":"团队合作"},
+{"word":"créativité","translation":"创造力"},
+{"word":"innovation","translation":"创新"},
+{"word":"connaissance","translation":"知识"},
+{"word":"compétence","translation":"技能"},
+{"word":"compétence","translation":"能力"},
+{"word":"alphabétisation","translation":"识字能力"},
+{"word":"numératie","translation":"计算能力"},
+{"word":"bilingue","translation":"双语"},
+{"word":"multilingue","translation":"多语"},
+{"word":"langue étrangère","translation":"外语"},
+{"word":"seconde langue","translation":"第二语言"},
+{"word":"apprentissage des langues","translation":"语言学习"},
+{"word":"grammaire","translation":"语法"},
+{"word":"vocabulaire","translation":"词汇"},
+{"word":"prononciation","translation":"发音"},
+{"word":"orthographe","translation":"拼写"},
+{"word":"lecture","translation":"阅读"},
+{"word":"écriture","translation":"写作"},
+{"word":"expression orale","translation":"口语表达"},
+{"word":"écoute","translation":"听力"},
+{"word":"compréhension","translation":"理解"},
+{"word":"fluidité","translation":"流利度"},
+{"word":"précision","translation":"准确性"},
+{"word":"préparation aux examens","translation":"备考"},
+{"word":"révision","translation":"复习"},
+{"word":"mémorisation","translation":"记忆"},
+{"word":"objectifs d’apprentissage","translation":"学习目标"},
+{"word":"résultats d’apprentissage","translation":"学习成果"},
+{"word":"centré sur l’étudiant","translation":"以学生为中心"},
+{"word":"centré sur l’enseignant","translation":"以教师为中心"},
+{"word":"critères d’évaluation","translation":"评估标准"},
+{"word":"environnement d’apprentissage","translation":"学习环境"},
+{"word":"classe inclusive","translation":"包容性课堂"},
+{"word":"gestion de classe","translation":"课堂管理"},
+{"word":"fournitures scolaires","translation":"学习用品"},
+{"word":"réunion parents-enseignants","translation":"家长会"},
+{"word":"bulletin scolaire","translation":"成绩单"},
+{"word":"réussite académique","translation":"学业成功"},
+{"word":"distinctions","translation":"荣誉"},
+{"word":"major de promotion","translation":"毕业第一名"},
+{"word":"doyen","translation":"院长"},
+{"word":"directeur","translation":"校长"},
+{"word":"proviseur","translation":"校长"},
+{"word":"conseil scolaire","translation":"校务委员会"},
+{"word":"ministère de l’éducation","translation":"教育部"},
+{"word":"réforme éducative","translation":"教育改革"},
+{"word":"école publique","translation":"公立学校"},
+{"word":"école privée","translation":"私立学校"},
+{"word":"internat","translation":"寄宿学校"},
+{"word":"enseignement à domicile","translation":"在家教育"},
+{"word":"test standardisé","translation":"标准化考试"},
+{"word":"test de QI","translation":"智商测试"},
+{"word":"certificat de fin de formation","translation":"结业证书"},
+{"word":"examen national","translation":"国家考试"},
+{"word":"baccalauréat international","translation":"国际文凭"}],
+    "tourismandhospitality": [{"word":"tourisme","translation":"旅游"},
+{"word":"touriste","translation":"游客"},
+{"word":"voyageur","translation":"旅行者"},
+{"word":"voyage","translation":"旅行"},
+{"word":"trajet","translation":"行程"},
+{"word":"vacances","translation":"假期"},
+{"word":"vacances","translation":"度假"},
+{"word":"voyage","translation":"旅行"},
+{"word":"industrie du tourisme","translation":"旅游业"},
+{"word":"hôtellerie","translation":"酒店业"},
+{"word":"hôte","translation":"主人"},
+{"word":"invité","translation":"客人"},
+{"word":"destination","translation":"目的地"},
+{"word":"attraction","translation":"景点"},
+{"word":"visite touristique","translation":"观光"},
+{"word":"excursion","translation":"短途旅行"},
+{"word":"itinéraire","translation":"行程安排"},
+{"word":"tour","translation":"旅游"},
+{"word":"agence de voyage","translation":"旅行社"},
+{"word":"guide touristique","translation":"导游"},
+{"word":"agent de voyage","translation":"旅行代理"},
+{"word":"assurance voyage","translation":"旅行保险"},
+{"word":"réservation","translation":"预订"},
+{"word":"réservation","translation":"预约"},
+{"word":"enregistrement","translation":"登记"},
+{"word":"départ","translation":"出发"},
+{"word":"confirmation","translation":"确认"},
+{"word":"annulation","translation":"取消"},
+{"word":"nouvelle réservation","translation":"重新预订"},
+{"word":"horaire","translation":"时间表"},
+{"word":"retard","translation":"延误"},
+{"word":"départ","translation":"出发"},
+{"word":"arrivée","translation":"到达"},
+{"word":"aéroport","translation":"机场"},
+{"word":"terminal","translation":"航站楼"},
+{"word":"porte d’embarquement","translation":"登机口"},
+{"word":"compagnie aérienne","translation":"航空公司"},
+{"word":"vol","translation":"航班"},
+{"word":"carte d’embarquement","translation":"登机牌"},
+{"word":"billet","translation":"机票"},
+{"word":"passeport","translation":"护照"},
+{"word":"visa","translation":"签证"},
+{"word":"douane","translation":"海关"},
+{"word":"immigration","translation":"移民局"},
+{"word":"contrôle de sécurité","translation":"安检"},
+{"word":"bagages","translation":"行李"},
+{"word":"valise","translation":"行李箱"},
+{"word":"bagage à main","translation":"手提行李"},
+{"word":"récupération des bagages","translation":"行李领取"},
+{"word":"bagages perdus","translation":"行李丢失"},
+{"word":"transport","translation":"交通"},
+{"word":"taxi","translation":"出租车"},
+{"word":"navette","translation":"班车"},
+{"word":"bus","translation":"公交车"},
+{"word":"autocar","translation":"长途汽车"},
+{"word":"train","translation":"火车"},
+{"word":"chemin de fer","translation":"铁路"},
+{"word":"métro","translation":"地铁"},
+{"word":"métro","translation":"地铁"},
+{"word":"tramway","translation":"有轨电车"},
+{"word":"location de voiture","translation":"租车"},
+{"word":"conducteur","translation":"司机"},
+{"word":"permis","translation":"驾照"},
+{"word":"GPS","translation":"导航"},
+{"word":"carburant","translation":"燃料"},
+{"word":"péage","translation":"过路费"},
+{"word":"parking","translation":"停车场"},
+{"word":"hôtel","translation":"酒店"},
+{"word":"auberge","translation":"旅馆"},
+{"word":"motel","translation":"汽车旅馆"},
+{"word":"station balnéaire","translation":"海滨度假村"},
+{"word":"maison d’hôtes","translation":"民宿"},
+{"word":"auberge","translation":"客栈"},
+{"word":"chambre d’hôtes","translation":"家庭旅馆"},
+{"word":"hébergement","translation":"住宿"},
+{"word":"logement","translation":"住宿"},
+{"word":"réception","translation":"前台"},
+{"word":"réception","translation":"接待处"},
+{"word":"concierge","translation":"礼宾"},
+{"word":"portier","translation":"门童"},
+{"word":"portier","translation":"看门人"},
+{"word":"service de ménage","translation":"客房清洁"},
+{"word":"service en chambre","translation":"客房服务"},
+{"word":"nettoyage","translation":"清洁"},
+{"word":"blanchisserie","translation":"洗衣服务"},
+{"word":"chambre double","translation":"双人间"},
+{"word":"chambre simple","translation":"单人间"},
+{"word":"suite","translation":"套房"},
+{"word":"chambre twin","translation":"双床房"},
+{"word":"deluxe","translation":"豪华"},
+{"word":"standard","translation":"标准"},
+{"word":"numéro de réservation","translation":"预订号"},
+{"word":"équipements","translation":"设施"},
+{"word":"piscine","translation":"游泳池"},
+{"word":"salle de sport","translation":"健身房"},
+{"word":"spa","translation":"水疗"},
+{"word":"bien-être","translation":"健康"},
+{"word":"massage","translation":"按摩"},
+{"word":"restaurant","translation":"餐厅"},
+{"word":"café","translation":"咖啡馆"},
+{"word":"bar","translation":"酒吧"},
+{"word":"pub","translation":"酒馆"},
+{"word":"buffet","translation":"自助餐"},
+{"word":"à la carte","translation":"单点"},
+{"word":"petit-déjeuner","translation":"早餐"},
+{"word":"déjeuner","translation":"午餐"},
+{"word":"dîner","translation":"晚餐"},
+{"word":"menu","translation":"菜单"},
+{"word":"repas","translation":"餐"},
+{"word":"plat","translation":"菜"},
+{"word":"entrée","translation":"前菜"},
+{"word":"plat principal","translation":"主菜"},
+{"word":"dessert","translation":"甜点"},
+{"word":"boisson","translation":"饮料"},
+{"word":"boisson","translation":"饮品"},
+{"word":"serveur","translation":"服务员"},
+{"word":"serveuse","translation":"女服务员"},
+{"word":"serveur","translation":"服务生"},
+{"word":"chef","translation":"主厨"},
+{"word":"cuisinier","translation":"厨师"},
+{"word":"cuisine","translation":"厨房"},
+{"word":"personnel hôtelier","translation":"酒店员工"},
+{"word":"pourboire","translation":"小费"},
+{"word":"addition","translation":"账单"},
+{"word":"reçu","translation":"收据"},
+{"word":"facture","translation":"发票"},
+{"word":"paiement","translation":"支付"},
+{"word":"espèces","translation":"现金"},
+{"word":"carte","translation":"卡"},
+{"word":"carte de crédit","translation":"信用卡"},
+{"word":"carte de débit","translation":"借记卡"},
+{"word":"devise étrangère","translation":"外币"},
+{"word":"taux de change","translation":"汇率"},
+{"word":"banque","translation":"银行"},
+{"word":"distributeur automatique","translation":"自动取款机"},
+{"word":"visite touristique","translation":"观光"},
+{"word":"visite guidée","translation":"导览"},
+{"word":"audioguide","translation":"语音导览"},
+{"word":"musée","translation":"博物馆"},
+{"word":"monument","translation":"纪念碑"},
+{"word":"site historique","translation":"历史遗址"},
+{"word":"château","translation":"城堡"},
+{"word":"église","translation":"教堂"},
+{"word":"temple","translation":"寺庙"},
+{"word":"mosquée","translation":"清真寺"},
+{"word":"événement culturel","translation":"文化活动"},
+{"word":"festival","translation":"节日"},
+{"word":"parade","translation":"游行"},
+{"word":"plage","translation":"海滩"},
+{"word":"montagne","translation":"山"},
+{"word":"nature","translation":"自然"},
+{"word":"randonnée","translation":"徒步"},
+{"word":"aventure","translation":"冒险"},
+{"word":"safari","translation":"野生动物之旅"},
+{"word":"croisière","translation":"邮轮旅行"},
+{"word":"ferry","translation":"渡船"},
+{"word":"bateau","translation":"船"},
+{"word":"yacht","translation":"游艇"},
+{"word":"navigation à voile","translation":"帆船航行"},
+{"word":"plongée","translation":"潜水"},
+{"word":"plongée avec tuba","translation":"浮潜"},
+{"word":"natation","translation":"游泳"},
+{"word":"surf","translation":"冲浪"},
+{"word":"camping","translation":"露营"},
+{"word":"terrain de camping","translation":"露营地"},
+{"word":"tente","translation":"帐篷"},
+{"word":"sac à dos","translation":"背包"},
+{"word":"guide de voyage","translation":"旅行指南"},
+{"word":"carte","translation":"地图"},
+{"word":"GPS","translation":"导航"},
+{"word":"application","translation":"应用程序"},
+{"word":"avis","translation":"评价"},
+{"word":"évaluation","translation":"评分"},
+{"word":"recommandation","translation":"推荐"},
+{"word":"blog de voyage","translation":"旅行博客"},
+{"word":"vlog de voyage","translation":"旅行视频博客"},
+{"word":"influenceur","translation":"网红"},
+{"word":"expérience","translation":"体验"},
+{"word":"souvenirs","translation":"纪念品"},
+{"word":"photo","translation":"照片"},
+{"word":"appareil photo","translation":"相机"},
+{"word":"vidéo","translation":"视频"},
+{"word":"barrière linguistique","translation":"语言障碍"},
+{"word":"traduction","translation":"翻译"},
+{"word":"communication","translation":"沟通"},
+{"word":"sécurité","translation":"安全"},
+{"word":"urgence","translation":"紧急情况"},
+{"word":"santé","translation":"健康"},
+{"word":"clinique","translation":"诊所"},
+{"word":"hôpital","translation":"医院"},
+{"word":"conseil aux voyageurs","translation":"旅行建议"},
+{"word":"ambassade","translation":"大使馆"},
+{"word":"consulat","translation":"领事馆"},
+{"word":"coutumes locales","translation":"当地习俗"},
+{"word":"souvenir","translation":"纪念品"},
+{"word":"shopping","translation":"购物"},
+{"word":"marché","translation":"市场"},
+{"word":"nourriture de rue","translation":"街头食品"},
+{"word":"transport public","translation":"公共交通"},
+{"word":"conseil de voyage","translation":"旅行建议"}],
+    "transportandlogistics": [{"word":"transport","translation":"运输"}
+{"word":"logistique","translation":"物流"}
+{"word":"expédition","translation":"发货"}
+{"word":"livraison","translation":"配送"}
+{"word":"fret","translation":"货运"}
+{"word":"cargo","translation":"货物"}
+{"word":"transport routier","translation":"公路运输"}
+{"word":"entrepôt","translation":"仓库"}
+{"word":"inventaire","translation":"库存清单"}
+{"word":"stockage","translation":"储存"}
+{"word":"distribution","translation":"分销"}
+{"word":"emballage","translation":"包装"}
+{"word":"chargement","translation":"装载"}
+{"word":"déchargement","translation":"卸载"}
+{"word":"messagerie","translation":"快递"}
+{"word":"transporteur","translation":"承运人"}
+{"word":"responsable logistique","translation":"物流经理"}
+{"word":"chaîne d’approvisionnement","translation":"供应链"}
+{"word":"approvisionnement","translation":"供应"}
+{"word":"demande","translation":"需求"}
+{"word":"stock","translation":"库存"}
+{"word":"suivi","translation":"跟踪"}
+{"word":"itinéraire","translation":"路线"}
+{"word":"horaire","translation":"时间表"}
+{"word":"emploi du temps","translation":"日程安排"}
+{"word":"transit","translation":"中转"}
+{"word":"port","translation":"港口"}
+{"word":"havre","translation":"港湾"}
+{"word":"conteneur","translation":"集装箱"}
+{"word":"palette","translation":"托盘"}
+{"word":"chariot élévateur","translation":"叉车"}
+{"word":"douane","translation":"海关"}
+{"word":"dédouanement","translation":"清关"}
+{"word":"manifeste","translation":"舱单"}
+{"word":"connaissement","translation":"提单"}
+{"word":"bon de livraison","translation":"送货单"}
+{"word":"étiquette d’expédition","translation":"运输标签"}
+{"word":"code-barres","translation":"条形码"}
+{"word":"scanner","translation":"扫描仪"}
+{"word":"ramassage","translation":"取件"}
+{"word":"kilométrage","translation":"里程"}
+{"word":"carburant","translation":"燃料"}
+{"word":"diesel","translation":"柴油"}
+{"word":"péage","translation":"过路费"}
+{"word":"autoroute","translation":"高速公路"}
+{"word":"route","translation":"道路"}
+{"word":"chemin de fer","translation":"铁路"}
+{"word":"train","translation":"火车"}
+{"word":"locomotive","translation":"机车"}
+{"word":"wagon","translation":"车厢"}
+{"word":"voiture","translation":"汽车"}
+{"word":"rail","translation":"铁轨"}
+{"word":"quai","translation":"站台"}
+{"word":"aéroport","translation":"机场"}
+{"word":"compagnie aérienne","translation":"航空公司"}
+{"word":"piste","translation":"跑道"}
+{"word":"terminal","translation":"航站楼"}
+{"word":"embarquement","translation":"登机"}
+{"word":"départ","translation":"出发"}
+{"word":"arrivée","translation":"到达"}
+{"word":"porte","translation":"登机口"}
+{"word":"bagages","translation":"行李"}
+{"word":"valises","translation":"行李箱"}
+{"word":"enregistrement","translation":"值机"}
+{"word":"déclaration en douane","translation":"报关申报"}
+{"word":"avion","translation":"飞机"}
+{"word":"aéronef","translation":"航空器"}
+{"word":"vol","translation":"航班"}
+{"word":"billet","translation":"机票"}
+{"word":"siège","translation":"座位"}
+{"word":"passager","translation":"乘客"}
+{"word":"pilote","translation":"飞行员"}
+{"word":"équipage","translation":"机组人员"}
+{"word":"bus","translation":"公交车"}
+{"word":"autocar","translation":"长途汽车"}
+{"word":"navette","translation":"班车"}
+{"word":"taxi","translation":"出租车"}
+{"word":"covoiturage","translation":"拼车"}
+{"word":"Uber","translation":"优步"}
+{"word":"Lyft","translation":"Lyft"}
+{"word":"tarif","translation":"费用"}
+{"word":"billetterie","translation":"售票处"}
+{"word":"réservation","translation":"预订"}
+{"word":"annulation","translation":"取消"}
+{"word":"retard","translation":"延误"}
+{"word":"trafic","translation":"交通"}
+{"word":"congestion","translation":"拥堵"}
+{"word":"GPS","translation":"全球定位系统"}
+{"word":"navigation","translation":"导航"}
+{"word":"planification d’itinéraire","translation":"路线规划"}
+{"word":"temps de livraison","translation":"交付时间"}
+{"word":"temps estimé","translation":"预计时间"}
+{"word":"temps réel","translation":"实时"}
+{"word":"hub","translation":"枢纽"}
+{"word":"dépôt","translation":"仓储点"}
+{"word":"chaîne logistique","translation":"物流链"}
+{"word":"dernier kilomètre","translation":"最后一公里"}
+{"word":"logistique inverse","translation":"逆向物流"}
+{"word":"e-commerce","translation":"电子商务"}
+{"word":"commande","translation":"订单"}
+{"word":"exécution","translation":"履约"}
+{"word":"fournisseur logistique","translation":"物流供应商"}
+{"word":"logistique tierce partie","translation":"第三方物流"}
+{"word":"3PL","translation":"第三方物流"}
+{"word":"4PL","translation":"第四方物流"}
+{"word":"flotte","translation":"车队"}
+{"word":"véhicule","translation":"车辆"}
+{"word":"conducteur","translation":"司机"}
+{"word":"permis","translation":"许可证"}
+{"word":"autorisation","translation":"授权"}
+{"word":"inspection","translation":"检查"}
+{"word":"conformité","translation":"合规"}
+{"word":"réglementation","translation":"法规"}
+{"word":"sécurité routière","translation":"道路安全"}
+{"word":"accident","translation":"事故"}
+{"word":"panne","translation":"故障"}
+{"word":"assurance","translation":"保险"}
+{"word":"couverture","translation":"保障"}
+{"word":"réparation","translation":"维修"}
+{"word":"maintenance","translation":"维护"}
+{"word":"pièces de rechange","translation":"备件"}
+{"word":"quai de chargement","translation":"装卸平台"}
+{"word":"remorque","translation":"拖车"}
+{"word":"semi-remorque","translation":"半挂车"}
+{"word":"camion articulé","translation":"铰接式卡车"}
+{"word":"transport de marchandises","translation":"货物运输"}
+{"word":"centre logistique","translation":"物流中心"}
+{"word":"gestion d’entrepôt","translation":"仓库管理"}
+{"word":"contrôle des stocks","translation":"库存控制"}
+{"word":"itinéraire de livraison","translation":"配送路线"}
+{"word":"préparation de commande","translation":"订单拣选"}
+{"word":"emballage de commande","translation":"订单包装"}
+{"word":"temps de transit","translation":"运输时间"}
+{"word":"transitaire","translation":"货运代理"}
+{"word":"logiciel logistique","translation":"物流软件"}
+{"word":"système de gestion du transport","translation":"运输管理系统"}
+{"word":"scanner de code-barres","translation":"条码扫描器"}
+{"word":"RFID","translation":"射频识别"}
+{"word":"chaîne du froid","translation":"冷链"}
+{"word":"contrôle de température","translation":"温度控制"}
+{"word":"produits périssables","translation":"易腐产品"}
+{"word":"matières dangereuses","translation":"危险品"}
+{"word":"assurance cargo","translation":"货物保险"}
+{"word":"suivi de conteneur","translation":"集装箱跟踪"}
+{"word":"droits de douane","translation":"关税"}
+{"word":"importation","translation":"进口"}
+{"word":"exportation","translation":"出口"}
+{"word":"incoterms","translation":"国际贸易术语"}
+{"word":"FOB","translation":"离岸价"}
+{"word":"CIF","translation":"到岸价"}
+{"word":"commissionnaire en douane","translation":"报关代理"}
+{"word":"entrepôt sous douane","translation":"保税仓库"}
+{"word":"facture de fret","translation":"运费发票"}
+{"word":"coordinateur logistique","translation":"物流协调员"}
+{"word":"optimisation d’itinéraire","translation":"路线优化"}
+{"word":"responsable chaîne d’approvisionnement","translation":"供应链经理"}
+{"word":"centre d’expédition","translation":"发货中心"}
+{"word":"suivi en temps réel","translation":"实时跟踪"}
+{"word":"réseau logistique","translation":"物流网络"}
+{"word":"analyse prédictive","translation":"预测分析"}
+{"word":"logistique numérique","translation":"数字物流"}
+{"word":"véhicule autonome","translation":"自动驾驶车辆"}
+{"word":"livraison par drone","translation":"无人机配送"}
+{"word":"camion électrique","translation":"电动卡车"}
+{"word":"empreinte carbone","translation":"碳足迹"}
+{"word":"durabilité","translation":"可持续性"}
+{"word":"logistique verte","translation":"绿色物流"}
+{"word":"intermodal","translation":"多式联运"}
+{"word":"multimodal","translation":"多模式运输"}
+{"word":"péniche","translation":"驳船"}
+{"word":"navire","translation":"船舶"}
+{"word":"compagnie maritime","translation":"航运公司"}
+{"word":"porte-conteneurs","translation":"集装箱船"}
+{"word":"transport maritime","translation":"海运"}
+{"word":"fret aérien","translation":"空运"}
+{"word":"fret maritime","translation":"海运货物"}
+{"word":"fret routier","translation":"公路货运"}
+{"word":"fret ferroviaire","translation":"铁路货运"}
+{"word":"fret en vrac","translation":"散货运输"}
+{"word":"fret général","translation":"普通货物"}
+{"word":"coût du fret","translation":"运费成本"}
+{"word":"supplément carburant","translation":"燃油附加费"}
+{"word":"hub logistique","translation":"物流枢纽"}
+{"word":"commerce mondial","translation":"全球贸易"}
+{"word":"marché du fret","translation":"货运市场"}
+{"word":"transporteur de fret","translation":"货运承运人"}
+{"word":"point de ramassage","translation":"取货点"}
+{"word":"confirmation de livraison","translation":"送达确认"}
+{"word":"preuve de livraison","translation":"送达证明"}
+{"word":"inspection douanière","translation":"海关检查"}
+{"word":"suivi du véhicule","translation":"车辆跟踪"}
+{"word":"télématique","translation":"车联网技术"}
+{"word":"gestion du fret","translation":"货运管理"}
+{"word":"gestion des commandes","translation":"订单管理"}],
+    "customsandbordersecurity": [{"word":"douanes","translation":"海关"}
+{"word":"frontière","translation":"边境"}
+{"word":"sécurité","translation":"安全"}
+{"word":"patrouille","translation":"巡逻"}
+{"word":"poste de contrôle","translation":"检查站"}
+{"word":"dédouanement","translation":"清关"}
+{"word":"passeport","translation":"护照"}
+{"word":"visa","translation":"签证"}
+{"word":"immigration","translation":"移民"}
+{"word":"déclaration","translation":"申报"}
+{"word":"taxe","translation":"税"}
+{"word":"tarif","translation":"关税"}
+{"word":"importation","translation":"进口"}
+{"word":"exportation","translation":"出口"}
+{"word":"contrebande","translation":"走私"}
+{"word":"inspection","translation":"检查"}
+{"word":"document","translation":"文件"}
+{"word":"identité","translation":"身份"}
+{"word":"contrôle","translation":"管控"}
+{"word":"scanner","translation":"扫描仪"}
+{"word":"rayons X","translation":"X射线"}
+{"word":"détection","translation":"检测"}
+{"word":"surveillance","translation":"监控"}
+{"word":"caméra","translation":"摄像头"}
+{"word":"radar","translation":"雷达"}
+{"word":"clôture","translation":"围栏"}
+{"word":"mur","translation":"墙"}
+{"word":"barrière","translation":"障碍物"}
+{"word":"porte","translation":"门"}
+{"word":"entrée","translation":"入口"}
+{"word":"sortie","translation":"出口"}
+{"word":"passage","translation":"通道"}
+{"word":"port","translation":"港口"}
+{"word":"port maritime","translation":"海港"}
+{"word":"aéroport","translation":"机场"}
+{"word":"frontière terrestre","translation":"陆地边境"}
+{"word":"agent des douanes","translation":"海关人员"}
+{"word":"agent frontalier","translation":"边境人员"}
+{"word":"agent d’immigration","translation":"移民官"}
+{"word":"droit de douane","translation":"关税"}
+{"word":"amende","translation":"罚款"}
+{"word":"sanction","translation":"制裁"}
+{"word":"réglementation","translation":"法规"}
+{"word":"conformité","translation":"合规"}
+{"word":"loi","translation":"法律"}
+{"word":"restriction","translation":"限制"}
+{"word":"interdit","translation":"禁止"}
+{"word":"banni","translation":"被禁"}
+{"word":"contrôlé","translation":"受控"}
+{"word":"quota","translation":"配额"}
+{"word":"licence","translation":"许可证"}
+{"word":"permis","translation":"许可"}
+{"word":"marchandises","translation":"货物"}
+{"word":"cargo","translation":"货物"}
+{"word":"expédition","translation":"发货"}
+{"word":"fret","translation":"货运"}
+{"word":"entrepôt","translation":"仓库"}
+{"word":"zone sous douane","translation":"海关监管区"}
+{"word":"transit","translation":"中转"}
+{"word":"itinéraire","translation":"路线"}
+{"word":"voyage","translation":"旅行"}
+{"word":"transport","translation":"运输"}
+{"word":"formulaire douanier","translation":"海关表格"}
+{"word":"manifeste","translation":"舱单"}
+{"word":"certificat","translation":"证书"}
+{"word":"origine","translation":"原产地"}
+{"word":"destination","translation":"目的地"}
+{"word":"facture","translation":"发票"}
+{"word":"liste de colisage","translation":"装箱单"}
+{"word":"formulaire de déclaration","translation":"申报表"}
+{"word":"commissionnaire en douane","translation":"报关代理"}
+{"word":"agence","translation":"机构"}
+{"word":"administration","translation":"管理机构"}
+{"word":"droit international","translation":"国际法"}
+{"word":"zone frontalière","translation":"边境地区"}
+{"word":"exemption de visa","translation":"免签"}
+{"word":"réfugié","translation":"难民"}
+{"word":"asile","translation":"庇护"}
+{"word":"nationalité","translation":"国籍"}
+{"word":"citoyenneté","translation":"公民身份"}
+{"word":"résidence","translation":"居留"}
+{"word":"interdiction d’entrée","translation":"入境禁令"}
+{"word":"liste noire","translation":"黑名单"}
+{"word":"liste de surveillance","translation":"监控名单"}
+{"word":"biométrique","translation":"生物识别"}
+{"word":"empreinte digitale","translation":"指纹"}
+{"word":"reconnaissance faciale","translation":"人脸识别"}
+{"word":"vérification d’identité","translation":"身份验证"}
+{"word":"détention","translation":"拘留"}
+{"word":"arrestation","translation":"逮捕"}
+{"word":"enquête","translation":"调查"}
+{"word":"application de la loi","translation":"执法"}
+{"word":"saisie","translation":"查扣"}
+{"word":"confiscation","translation":"没收"}
+{"word":"audit","translation":"审计"}
+{"word":"rapport","translation":"报告"}
+{"word":"renseignement","translation":"情报"}
+{"word":"informateur","translation":"线人"}
+{"word":"trafic de drogue","translation":"毒品走私"}
+{"word":"trafic humain","translation":"人口贩运"}
+{"word":"blanchiment d’argent","translation":"洗钱"}
+{"word":"immigration illégale","translation":"非法移民"}
+{"word":"séjour prolongé","translation":"逾期停留"}
+{"word":"sans papiers","translation":"无证人员"}
+{"word":"faux passeport","translation":"假护照"}
+{"word":"document falsifié","translation":"伪造文件"}
+{"word":"fausse identité","translation":"假身份"}
+{"word":"code des douanes","translation":"海关法"}
+{"word":"contrôle frontalier","translation":"边境管控"}
+{"word":"transfrontalier","translation":"跨境"}
+{"word":"zone","translation":"区域"}
+{"word":"périmètre","translation":"范围"}
+{"word":"alerte","translation":"警报"}
+{"word":"alarme","translation":"警报器"}
+{"word":"urgence","translation":"紧急情况"}
+{"word":"intervention rapide","translation":"快速响应"}
+{"word":"coordination","translation":"协调"}
+{"word":"opération conjointe","translation":"联合行动"}
+{"word":"coopération internationale","translation":"国际合作"}
+{"word":"accord","translation":"协议"}
+{"word":"traité","translation":"条约"}
+{"word":"convention","translation":"公约"}
+{"word":"contrôle de sécurité","translation":"安全检查"}
+{"word":"évaluation en douane","translation":"海关评估"}
+{"word":"union douanière","translation":"关税同盟"}
+{"word":"accord commercial","translation":"贸易协定"}
+{"word":"embargo","translation":"禁运"}
+{"word":"sanctions","translation":"制裁"}
+{"word":"restriction à l’importation","translation":"进口限制"}
+{"word":"licence d’exportation","translation":"出口许可证"}
+{"word":"contrôle du cargo","translation":"货物检查"}
+{"word":"unité canine","translation":"警犬队"}
+{"word":"chien renifleur","translation":"嗅探犬"}
+{"word":"stupéfiants","translation":"毒品"}
+{"word":"explosifs","translation":"爆炸物"}
+{"word":"armes","translation":"武器"}
+{"word":"munition","translation":"弹药"}
+{"word":"marchandises dangereuses","translation":"危险品"}
+{"word":"quarantaine","translation":"隔离"}
+{"word":"inspection sanitaire","translation":"卫生检查"}
+{"word":"sécurité alimentaire","translation":"食品安全"}
+{"word":"formation douanière","translation":"海关培训"}
+{"word":"officiel","translation":"官方人员"}
+{"word":"hors taxes","translation":"免税"}
+{"word":"processus de dédouanement","translation":"清关流程"}
+{"word":"clôture frontalière","translation":"边境围栏"}
+{"word":"passeport biométrique","translation":"生物护照"}
+{"word":"scanner douanier","translation":"海关扫描仪"}
+{"word":"inspection des bagages","translation":"行李检查"}
+{"word":"profilage","translation":"风险分析"}
+{"word":"voyageur","translation":"旅客"}
+{"word":"voie douanière","translation":"海关通道"}
+{"word":"couloir rouge","translation":"红色通道"}
+{"word":"couloir vert","translation":"绿色通道"}
+{"word":"déclaration en douane","translation":"海关申报"}
+{"word":"portiques automatiques","translation":"自动通关闸机"}
+{"word":"pré-dédouanement","translation":"预清关"}
+{"word":"informations passager avancées","translation":"旅客预报信息"}
+{"word":"demande de visa","translation":"签证申请"}
+{"word":"contrôle des passeports","translation":"护照检查"}
+{"word":"bureau des douanes","translation":"海关办公室"}
+{"word":"tampon d’entrée","translation":"入境章"}
+{"word":"tampon de sortie","translation":"出境章"}
+{"word":"réglementation douanière","translation":"海关法规"}
+{"word":"inspection douanière","translation":"海关检查"}
+{"word":"entretien de visa","translation":"签证面试"}
+{"word":"droit de l’immigration","translation":"移民法"}
+{"word":"carte de voyageur","translation":"旅行卡"}
+{"word":"migration","translation":"迁移"}
+{"word":"visa de transit","translation":"过境签证"}
+{"word":"logiciel douanier","translation":"海关软件"}
+{"word":"base de données douanière","translation":"海关数据库"}
+{"word":"tentative de contrebande","translation":"走私企图"}
+{"word":"système d’alerte","translation":"预警系统"}
+{"word":"coffre cargo","translation":"货舱"}
+{"word":"exonération de droits de douane","translation":"免关税"}
+{"word":"inspection du manifeste","translation":"舱单检查"}
+{"word":"manifeste de vol","translation":"航班舱单"}
+{"word":"autorité portuaire","translation":"港务局"}
+{"word":"inspection de conteneur","translation":"集装箱检查"}
+{"word":"transitaire","translation":"货运代理"}
+{"word":"entrepôt sous douane","translation":"保税仓库"}
+{"word":"conformité commerciale","translation":"贸易合规"}
+{"word":"taxe à l’importation","translation":"进口税"}
+{"word":"déclaration d’exportation","translation":"出口申报"}
+{"word":"poste frontière","translation":"边境站"}
+{"word":"patrouille nocturne","translation":"夜间巡逻"}
+{"word":"entrée illégale","translation":"非法入境"}
+{"word":"port d’entrée","translation":"入境口岸"}
+{"word":"permis d’entrée","translation":"入境许可"}
+{"word":"permis de séjour","translation":"居留许可"}
+{"word":"autorisation d’entrée","translation":"入境许可"}
+{"word":"zone restreinte","translation":"限制区域"}
+{"word":"détection de contrebande","translation":"走私检测"}
+{"word":"application des douanes","translation":"海关执法"}],
+    "diplomacyandinternationalrelations": [{"word":"diplomatie","translation":"外交"}
+{"word":"diplomate","translation":"外交官"}
+{"word":"ambassadeur","translation":"大使"}
+{"word":"ambassade","translation":"大使馆"}
+{"word":"consulat","translation":"领事馆"}
+{"word":"consulaire","translation":"领事的"}
+{"word":"étranger","translation":"外国人"}
+{"word":"relations","translation":"关系"}
+{"word":"international","translation":"国际的"}
+{"word":"négociation","translation":"谈判"}
+{"word":"accord","translation":"协议"}
+{"word":"traité","translation":"条约"}
+{"word":"protocole","translation":"议定书"}
+{"word":"sommet","translation":"峰会"}
+{"word":"bilatéral","translation":"双边的"}
+{"word":"multilatéral","translation":"多边的"}
+{"word":"délégation","translation":"代表团"}
+{"word":"envoyé","translation":"特使"}
+{"word":"chargé d’affaires","translation":"代办大使"}
+{"word":"ministre des affaires étrangères","translation":"外交部长"}
+{"word":"politique étrangère","translation":"外交政策"}
+{"word":"affaires étrangères","translation":"外交事务"}
+{"word":"mission diplomatique","translation":"外交任务"}
+{"word":"corps diplomatique","translation":"外交使团"}
+{"word":"table de négociation","translation":"谈判桌"}
+{"word":"médiateur","translation":"调解人"}
+{"word":"médiation","translation":"调解"}
+{"word":"arbitrage","translation":"仲裁"}
+{"word":"alliance","translation":"联盟"}
+{"word":"coalition","translation":"联合体"}
+{"word":"pacte","translation":"公约"}
+{"word":"résolution","translation":"决议"}
+{"word":"reconnaissance","translation":"承认"}
+{"word":"souveraineté","translation":"主权"}
+{"word":"indépendance","translation":"独立"}
+{"word":"intergouvernemental","translation":"政府间的"}
+{"word":"mondial","translation":"全球的"}
+{"word":"mondialisation","translation":"全球化"}
+{"word":"régional","translation":"区域的"}
+{"word":"transnational","translation":"跨国的"}
+{"word":"coopération","translation":"合作"}
+{"word":"collaboration","translation":"协作"}
+{"word":"engagement","translation":"承诺"}
+{"word":"partenariat","translation":"伙伴关系"}
+{"word":"stratégique","translation":"战略的"}
+{"word":"droit international","translation":"国际法"}
+{"word":"paix","translation":"和平"}
+{"word":"maintien de la paix","translation":"维和"}
+{"word":"conflit","translation":"冲突"}
+{"word":"guerre","translation":"战争"}
+{"word":"cessez-le-feu","translation":"停火"}
+{"word":"trêve","translation":"休战"}
+{"word":"contrôle des armements","translation":"军备控制"}
+{"word":"désarmement","translation":"裁军"}
+{"word":"non-prolifération","translation":"防扩散"}
+{"word":"sanction","translation":"制裁"}
+{"word":"embargo","translation":"禁运"}
+{"word":"boycott","translation":"抵制"}
+{"word":"pression","translation":"压力"}
+{"word":"soft power","translation":"软实力"}
+{"word":"hard power","translation":"硬实力"}
+{"word":"diplomatie publique","translation":"公共外交"}
+{"word":"échange culturel","translation":"文化交流"}
+{"word":"immunité diplomatique","translation":"外交豁免权"}
+{"word":"passeport diplomatique","translation":"外交护照"}
+{"word":"réunion au sommet","translation":"首脑会议"}
+{"word":"pourparlers de haut niveau","translation":"高层会谈"}
+{"word":"dialogue","translation":"对话"}
+{"word":"table ronde","translation":"圆桌会议"}
+{"word":"relations bilatérales","translation":"双边关系"}
+{"word":"forum multilatéral","translation":"多边论坛"}
+{"word":"gouvernance mondiale","translation":"全球治理"}
+{"word":"organisme international","translation":"国际组织"}
+{"word":"Nations Unies","translation":"联合国"}
+{"word":"Conseil de sécurité de l’ONU","translation":"联合国安理会"}
+{"word":"Assemblée générale","translation":"大会"}
+{"word":"Cour internationale de Justice","translation":"国际法院"}
+{"word":"Cour pénale internationale","translation":"国际刑事法院"}
+{"word":"ONG","translation":"非政府组织"}
+{"word":"organisation internationale","translation":"国际组织"}
+{"word":"institution mondiale","translation":"全球机构"}
+{"word":"G7","translation":"七国集团"}
+{"word":"G20","translation":"二十国集团"}
+{"word":"Union européenne","translation":"欧盟"}
+{"word":"Union africaine","translation":"非盟"}
+{"word":"ASEAN","translation":"东盟"}
+{"word":"OTAN","translation":"北约"}
+{"word":"organisation de traités","translation":"条约组织"}
+{"word":"coopération inter-agences","translation":"跨机构合作"}
+{"word":"politique","translation":"政策"}
+{"word":"stratégie","translation":"战略"}
+{"word":"cadre","translation":"框架"}
+{"word":"agenda","translation":"议程"}
+{"word":"initiative","translation":"倡议"}
+{"word":"consensus","translation":"共识"}
+{"word":"ratification","translation":"批准"}
+{"word":"mise en œuvre","translation":"实施"}
+{"word":"motion","translation":"动议"}
+{"word":"veto","translation":"否决权"}
+{"word":"intervention","translation":"干预"}
+{"word":"humanitaire","translation":"人道主义"}
+{"word":"réfugié","translation":"难民"}
+{"word":"asile","translation":"庇护"}
+{"word":"migration","translation":"移民"}
+{"word":"visa","translation":"签证"}
+{"word":"frontière","translation":"边境"}
+{"word":"démarcation","translation":"划界"}
+{"word":"territoire","translation":"领土"}
+{"word":"nation","translation":"国家"}
+{"word":"État","translation":"国家"}
+{"word":"chef d’État","translation":"国家元首"}
+{"word":"chef de gouvernement","translation":"政府首脑"}
+{"word":"président","translation":"总统"}
+{"word":"premier ministre","translation":"总理"}
+{"word":"dignitaire étranger","translation":"外国政要"}
+{"word":"canal diplomatique","translation":"外交渠道"}
+{"word":"canal discret","translation":"秘密渠道"}
+{"word":"émissaire","translation":"特使"}
+{"word":"diplomatie de sommet","translation":"峰会外交"}
+{"word":"diplomatie navette","translation":"穿梭外交"}
+{"word":"diplomatie silencieuse","translation":"沉默外交"}
+{"word":"diplomatie préventive","translation":"预防性外交"}
+{"word":"diplomatie de crise","translation":"危机外交"}
+{"word":"pression internationale","translation":"国际压力"}
+{"word":"aide internationale","translation":"国际援助"}
+{"word":"aide au développement","translation":"发展援助"}
+{"word":"accord bilatéral","translation":"双边协议"}
+{"word":"déclaration conjointe","translation":"联合声明"}
+{"word":"communiqué","translation":"公报"}
+{"word":"acte final","translation":"最终文件"}
+{"word":"lettre d’intention","translation":"意向书"}
+{"word":"protocole d’accord","translation":"协议议定书"}
+{"word":"convention","translation":"公约"}
+{"word":"obligations du traité","translation":"条约义务"}
+{"word":"traité de paix","translation":"和平条约"}
+{"word":"accord frontalier","translation":"边界协议"}
+{"word":"accord maritime","translation":"海洋协议"}
+{"word":"accord nucléaire","translation":"核协议"}
+{"word":"accord commercial","translation":"贸易协议"}
+{"word":"libre-échange","translation":"自由贸易"}
+{"word":"levée d’embargo","translation":"解除禁运"}
+{"word":"tension diplomatique","translation":"外交紧张"}
+{"word":"conflit diplomatique","translation":"外交冲突"}
+{"word":"incident diplomatique","translation":"外交事件"}
+{"word":"rupture des négociations","translation":"谈判破裂"}
+{"word":"restauration des relations","translation":"关系恢复"}
+{"word":"normalisation","translation":"正常化"}
+{"word":"réétablissement","translation":"重新建立"}
+{"word":"rupture des relations","translation":"断交"}
+{"word":"expulsion","translation":"驱逐"}
+{"word":"rappel","translation":"召回"}
+{"word":"convocation","translation":"传唤"}
+{"word":"excuses","translation":"道歉"}
+{"word":"note de protestation","translation":"抗议信"}
+{"word":"démarche","translation":"外交行为"}
+{"word":"protestation diplomatique","translation":"外交抗议"}
+{"word":"visite bilatérale","translation":"双边访问"}
+{"word":"visite d’État","translation":"国事访问"}
+{"word":"visite de bonne volonté","translation":"友好访问"}
+{"word":"réunion ministérielle","translation":"部长级会议"}
+{"word":"communiqué de presse","translation":"新闻公报"}
+{"word":"note diplomatique","translation":"外交照会"}
+{"word":"note circulaire","translation":"通告"}
+{"word":"valise diplomatique","translation":"外交包裹"}
+{"word":"renseignement","translation":"情报"}
+{"word":"confidentiel","translation":"机密"}
+{"word":"classifié","translation":"分类"}
+{"word":"déclassifié","translation":"解密"}
+{"word":"discours diplomatique","translation":"外交演讲"}
+{"word":"statut international","translation":"国际地位"}
+{"word":"médiateur tiers","translation":"第三方调解人"}
+{"word":"mission d’enquête","translation":"调查任务"}
+{"word":"résolution de conflit","translation":"冲突解决"}
+{"word":"reconstruction post-conflit","translation":"战后重建"}
+{"word":"mission d’observation","translation":"观察任务"}
+{"word":"envoyé spécial","translation":"特别特使"}
+{"word":"accord de paix","translation":"和平协议"}
+{"word":"processus de paix","translation":"和平进程"}
+{"word":"démilitarisation","translation":"非军事化"}
+{"word":"organe de contrôle international","translation":"国际监管机构"}
+{"word":"conférence internationale","translation":"国际会议"}
+{"word":"aide étrangère","translation":"对外援助"}
+{"word":"déclaration de sommet","translation":"峰会声明"}
+{"word":"invitation officielle","translation":"正式邀请"}
+{"word":"pays hôte","translation":"东道国"}
+{"word":"pays partenaire","translation":"合作国"}
+{"word":"signataire","translation":"签署国"}
+{"word":"phase de négociation","translation":"谈判阶段"}
+{"word":"note politique","translation":"政策文件"}
+{"word":"groupe de travail","translation":"工作组"}
+{"word":"comité spécial","translation":"特别委员会"}
+{"word":"mission permanente","translation":"常驻任务"}],
+    "tradeandentrepreneurship": [{"word":"commerce","translation":"商业"},
+{"word":"entrepreneur","translation":"企业家"},
+{"word":"entrepreneuriat","translation":"创业"},
+{"word":"startup","translation":"初创公司"},
+{"word":"affaires","translation":"商业事务"},
+{"word":"entreprise","translation":"企业"},
+{"word":"société","translation":"公司"},
+{"word":"marché","translation":"市场"},
+{"word":"marketing","translation":"市场营销"},
+{"word":"ventes","translation":"销售"},
+{"word":"revenu","translation":"收入"},
+{"word":"profit","translation":"利润"},
+{"word":"perte","translation":"亏损"},
+{"word":"investissement","translation":"投资"},
+{"word":"investisseur","translation":"投资者"},
+{"word":"capital risque","translation":"风险投资"},
+{"word":"financement","translation":"融资"},
+{"word":"capital d’amorçage","translation":"种子资金"},
+{"word":"investisseur providentiel","translation":"天使投资人"},
+{"word":"fonds propres","translation":"自有资金"},
+{"word":"action","translation":"股份"},
+{"word":"actionnaire","translation":"股东"},
+{"word":"partie prenante","translation":"利益相关者"},
+{"word":"partenariat","translation":"合作伙伴关系"},
+{"word":"entreprise individuelle","translation":"个体经营"},
+{"word":"société responsabilité limitée","translation":"有限责任公司"},
+{"word":"plan d’affaires","translation":"商业计划书"},
+{"word":"présentation","translation":"演示"},
+{"word":"modèle économique","translation":"商业模式"},
+{"word":"proposition de valeur","translation":"价值主张"},
+{"word":"innovation","translation":"创新"},
+{"word":"rupture","translation":"颠覆性创新"},
+{"word":"scalabilité","translation":"可扩展性"},
+{"word":"croissance","translation":"增长"},
+{"word":"expansion","translation":"扩张"},
+{"word":"franchise","translation":"特许经营"},
+{"word":"licence","translation":"许可"},
+{"word":"distribution","translation":"分销"},
+{"word":"vente en gros","translation":"批发"},
+{"word":"vente au détail","translation":"零售"},
+{"word":"commerce électronique","translation":"电子商务"},
+{"word":"plateforme","translation":"平台"},
+{"word":"fournisseur","translation":"供应商"},
+{"word":"client","translation":"客户"},
+{"word":"consommateur","translation":"消费者"},
+{"word":"acheteur","translation":"买方"},
+{"word":"vendeur","translation":"卖方"},
+{"word":"service","translation":"服务"},
+{"word":"produit","translation":"产品"},
+{"word":"marchandises","translation":"商品"},
+{"word":"logistique","translation":"物流"},
+{"word":"chaîne d’approvisionnement","translation":"供应链"},
+{"word":"inventaire","translation":"库存"},
+{"word":"livraison","translation":"配送"},
+{"word":"commande","translation":"订单"},
+{"word":"facture","translation":"发票"},
+{"word":"paiement","translation":"支付"},
+{"word":"transaction","translation":"交易"},
+{"word":"paiement en ligne","translation":"在线支付"},
+{"word":"tarification","translation":"定价"},
+{"word":"coût","translation":"成本"},
+{"word":"marge","translation":"利润率"},
+{"word":"marge brute","translation":"毛利"},
+{"word":"bénéfice net","translation":"净利润"},
+{"word":"point mort","translation":"盈亏平衡点"},
+{"word":"flux de trésorerie","translation":"现金流"},
+{"word":"comptabilité","translation":"会计"},
+{"word":"tenue de livres","translation":"簿记"},
+{"word":"bilan","translation":"资产负债表"},
+{"word":"compte de résultat","translation":"损益表"},
+{"word":"rapport financier","translation":"财务报告"},
+{"word":"audit","translation":"审计"},
+{"word":"impôt","translation":"税"},
+{"word":"fiscalité","translation":"税务"},
+{"word":"déclaration fiscale","translation":"纳税申报"},
+{"word":"numéro fiscal","translation":"税号"},
+{"word":"importation","translation":"进口"},
+{"word":"exportation","translation":"出口"},
+{"word":"douane","translation":"海关"},
+{"word":"tarif","translation":"关税"},
+{"word":"accord commercial","translation":"贸易协定"},
+{"word":"barrière commerciale","translation":"贸易壁垒"},
+{"word":"libre-échange","translation":"自由贸易"},
+{"word":"syndicat","translation":"工会"},
+{"word":"commerce international","translation":"国际贸易"},
+{"word":"commerce intérieur","translation":"国内贸易"},
+{"word":"balance commerciale","translation":"贸易差额"},
+{"word":"offre","translation":"供给"},
+{"word":"demande","translation":"需求"},
+{"word":"politique économique","translation":"经济政策"},
+{"word":"taux d’intérêt","translation":"利率"},
+{"word":"inflation","translation":"通货膨胀"},
+{"word":"déflation","translation":"通货紧缩"},
+{"word":"récession","translation":"经济衰退"},
+{"word":"croissance économique","translation":"经济增长"},
+{"word":"PIB","translation":"国内生产总值"},
+{"word":"compétitivité","translation":"竞争力"},
+{"word":"productivité","translation":"生产率"},
+{"word":"travail","translation":"劳动"},
+{"word":"main-d’œuvre","translation":"劳动力"},
+{"word":"employeur","translation":"雇主"},
+{"word":"employé","translation":"员工"},
+{"word":"salaires","translation":"工资"},
+{"word":"rémunération","translation":"薪酬"},
+{"word":"paie","translation":"工资单"},
+{"word":"ressources humaines","translation":"人力资源"},
+{"word":"embauche","translation":"雇佣"},
+{"word":"recrutement","translation":"招聘"},
+{"word":"entretien","translation":"面试"},
+{"word":"contrat","translation":"合同"},
+{"word":"freelance","translation":"自由职业"},
+{"word":"externalisation","translation":"外包"},
+{"word":"enregistrement d’entreprise","translation":"公司注册"},
+{"word":"constitution","translation":"公司成立"},
+{"word":"marque déposée","translation":"注册商标"},
+{"word":"brevet","translation":"专利"},
+{"word":"propriété intellectuelle","translation":"知识产权"},
+{"word":"marque","translation":"品牌"},
+{"word":"branding","translation":"品牌建设"},
+{"word":"logo","translation":"标志"},
+{"word":"publicité","translation":"广告"},
+{"word":"campagne","translation":"活动"},
+{"word":"promotion","translation":"促销"},
+{"word":"relations publiques","translation":"公共关系"},
+{"word":"médias","translation":"媒体"},
+{"word":"réseaux sociaux","translation":"社交媒体"},
+{"word":"influenceur","translation":"网红"},
+{"word":"stratégie","translation":"战略"},
+{"word":"planification","translation":"规划"},
+{"word":"leadership","translation":"领导力"},
+{"word":"gestion","translation":"管理"},
+{"word":"opérations","translation":"运营"},
+{"word":"KPI","translation":"关键绩效指标"},
+{"word":"performance","translation":"绩效"},
+{"word":"objectif","translation":"目标"},
+{"word":"jalon","translation":"里程碑"},
+{"word":"date limite","translation":"截止日期"},
+{"word":"risque","translation":"风险"},
+{"word":"gestion des risques","translation":"风险管理"},
+{"word":"assurance","translation":"保险"},
+{"word":"responsabilité","translation":"责任"},
+{"word":"conformité","translation":"合规"},
+{"word":"réglementation","translation":"法规"},
+{"word":"structure juridique","translation":"法律结构"},
+{"word":"personne morale","translation":"法人"},
+{"word":"gouvernance","translation":"公司治理"},
+{"word":"conseil","translation":"董事会"},
+{"word":"PDG","translation":"首席执行官"},
+{"word":"fondateur","translation":"创始人"},
+{"word":"co-fondateur","translation":"联合创始人"},
+{"word":"incubateur d’entreprises","translation":"孵化器"},
+{"word":"accélérateur","translation":"加速器"},
+{"word":"espace de coworking","translation":"联合办公空间"},
+{"word":"mentor d’affaires","translation":"商业导师"},
+{"word":"coach d’affaires","translation":"商业教练"},
+{"word":"réseautage","translation":"人脉拓展"},
+{"word":"pitch","translation":"路演"},
+{"word":"journée de démonstration","translation":"演示日"},
+{"word":"financement participatif","translation":"众筹"},
+{"word":"pair-à-pair","translation":"点对点"},
+{"word":"bootstrap","translation":"自筹资金"},
+{"word":"monétisation","translation":"变现"},
+{"word":"vente additionnelle","translation":"追加销售"},
+{"word":"acquisition client","translation":"客户获取"},
+{"word":"conversion","translation":"转化"},
+{"word":"attrition","translation":"客户流失"},
+{"word":"expérience utilisateur","translation":"用户体验"},
+{"word":"UI","translation":"用户界面"},
+{"word":"UX","translation":"用户体验设计"},
+{"word":"agile","translation":"敏捷开发"},
+{"word":"lean startup","translation":"精益创业"},
+{"word":"MVP (Produit Minimum Viable)","translation":"最小可行产品"},
+{"word":"prototype","translation":"原型"},
+{"word":"itération","translation":"迭代"},
+{"word":"validation","translation":"验证"},
+{"word":"retour d’information","translation":"反馈"},
+{"word":"traction","translation":"用户增长"},
+{"word":"technologie","translation":"技术"},
+{"word":"mobile-first","translation":"移动优先"},
+{"word":"SaaS","translation":"软件即服务"},
+{"word":"B2B","translation":"企业对企业"},
+{"word":"B2C","translation":"企业对消费者"},
+{"word":"D2C","translation":"直接面向消费者"},
+{"word":"session pitch","translation":"路演环节"},
+{"word":"levée de fonds","translation":"融资"},
+{"word":"stratégie de sortie","translation":"退出策略"},
+{"word":"fusion","translation":"合并"},
+{"word":"acquisition","translation":"收购"},
+{"word":"IPO (Introduction en Bourse)","translation":"首次公开募股"}],
+    "humanitarianandngos": [{"word":"humanitaire","translation":"人道主义"},
+{"word":"ONG","translation":"非政府组织"},
+{"word":"organisation non gouvernementale","translation":"非政府组织"},
+{"word":"charité","translation":"慈善"},
+{"word":"aide","translation":"援助"},
+{"word":"secours","translation":"救援"},
+{"word":"soutien","translation":"支持"},
+{"word":"assistance","translation":"援助"},
+{"word":"urgence","translation":"紧急情况"},
+{"word":"crise","translation":"危机"},
+{"word":"catastrophe","translation":"灾难"},
+{"word":"reprise","translation":"恢复"},
+{"word":"réponse","translation":"应对"},
+{"word":"abri","translation":"避难所"},
+{"word":"nourriture","translation":"食物"},
+{"word":"eau","translation":"水"},
+{"word":"assainissement","translation":"卫生设施"},
+{"word":"hygiène","translation":"卫生"},
+{"word":"santé","translation":"健康"},
+{"word":"nutrition","translation":"营养"},
+{"word":"vaccination","translation":"疫苗接种"},
+{"word":"épidémie","translation":"疫情"},
+{"word":"pandémie","translation":"大流行"},
+{"word":"déplacement","translation":"流离失所"},
+{"word":"réfugié","translation":"难民"},
+{"word":"asile","translation":"庇护"},
+{"word":"migrant","translation":"移民"},
+{"word":"personne déplacée interne","translation":"境内流离失所者"},
+{"word":"réinstallation","translation":"安置"},
+{"word":"conflit","translation":"冲突"},
+{"word":"maintien de la paix","translation":"维和"},
+{"word":"protection","translation":"保护"},
+{"word":"sécurité","translation":"安全"},
+{"word":"genre","translation":"性别"},
+{"word":"violence basée sur le genre","translation":"基于性别的暴力"},
+{"word":"droits de l’homme","translation":"人权"},
+{"word":"plaidoyer","translation":"倡导"},
+{"word":"sensibilisation","translation":"宣传"},
+{"word":"campagne","translation":"活动"},
+{"word":"communauté","translation":"社区"},
+{"word":"développement","translation":"发展"},
+{"word":"projet","translation":"项目"},
+{"word":"programme","translation":"项目计划"},
+{"word":"initiative","translation":"倡议"},
+{"word":"collaboration","translation":"合作"},
+{"word":"partenariat","translation":"伙伴关系"},
+{"word":"donateur","translation":"捐助者"},
+{"word":"financement","translation":"资金"},
+{"word":"subvention","translation":"补助"},
+{"word":"don","translation":"捐赠"},
+{"word":"sponsor","translation":"赞助者"},
+{"word":"parrainage","translation":"资助"},
+{"word":"bénévole","translation":"志愿者"},
+{"word":"bénévolat","translation":"志愿服务"},
+{"word":"personnel","translation":"工作人员"},
+{"word":"travailleur de terrain","translation":"一线工作人员"},
+{"word":"coordinateur","translation":"协调员"},
+{"word":"logisticien","translation":"后勤人员"},
+{"word":"médecin","translation":"医生"},
+{"word":"conseiller","translation":"顾问"},
+{"word":"psychologue","translation":"心理学家"},
+{"word":"assistant social","translation":"社会工作者"},
+{"word":"éducation","translation":"教育"},
+{"word":"scolarisation","translation":"入学教育"},
+{"word":"alphabétisation","translation":"扫盲"},
+{"word":"autonomisation","translation":"赋权"},
+{"word":"inclusion","translation":"包容"},
+{"word":"équité","translation":"公平"},
+{"word":"justice","translation":"正义"},
+{"word":"dignité","translation":"尊严"},
+{"word":"renforcement des capacités","translation":"能力建设"},
+{"word":"formation","translation":"培训"},
+{"word":"évaluation","translation":"评估"},
+{"word":"suivi","translation":"监测"},
+{"word":"impact","translation":"影响"},
+{"word":"base de référence","translation":"基线"},
+{"word":"indicateur","translation":"指标"},
+{"word":"objectif","translation":"目标"},
+{"word":"bénéficiaire","translation":"受益人"},
+{"word":"vulnérable","translation":"脆弱群体"},
+{"word":"marginalisé","translation":"边缘化"},
+{"word":"basé sur la communauté","translation":"以社区为基础"},
+{"word":"local","translation":"本地"},
+{"word":"durabilité","translation":"可持续性"},
+{"word":"résilience","translation":"韧性"},
+{"word":"climat","translation":"气候"},
+{"word":"changement climatique","translation":"气候变化"},
+{"word":"insécurité alimentaire","translation":"粮食不安全"},
+{"word":"faim","translation":"饥饿"},
+{"word":"malnutrition","translation":"营养不良"},
+{"word":"moyens de subsistance","translation":"生计"},
+{"word":"agriculture","translation":"农业"},
+{"word":"culture","translation":"种植"},
+{"word":"microfinance","translation":"小额信贷"},
+{"word":"entrepreneuriat","translation":"创业"},
+{"word":"jeunesse","translation":"青年"},
+{"word":"enfants","translation":"儿童"},
+{"word":"femmes","translation":"女性"},
+{"word":"filles","translation":"女孩"},
+{"word":"hommes","translation":"男性"},
+{"word":"garçons","translation":"男孩"},
+{"word":"personnes âgées","translation":"老年人"},
+{"word":"handicapé","translation":"残疾人"},
+{"word":"inclusif","translation":"包容性"},
+{"word":"accès","translation":"获取"},
+{"word":"opportunité","translation":"机会"},
+{"word":"infrastructure","translation":"基础设施"},
+{"word":"reconstruction","translation":"重建"},
+{"word":"politique","translation":"政策"},
+{"word":"gouvernance","translation":"治理"},
+{"word":"partie prenante","translation":"利益相关者"},
+{"word":"coordination","translation":"协调"},
+{"word":"couloir humanitaire","translation":"人道主义通道"},
+{"word":"convoi","translation":"车队"},
+{"word":"distribution","translation":"分发"},
+{"word":"stock","translation":"库存"},
+{"word":"entrepôt","translation":"仓库"},
+{"word":"logistique","translation":"物流"},
+{"word":"transport","translation":"运输"},
+{"word":"expédition","translation":"发运"},
+{"word":"douane","translation":"海关"},
+{"word":"permis","translation":"许可证"},
+{"word":"documentation","translation":"文件"},
+{"word":"enregistrement","translation":"登记"},
+{"word":"identification","translation":"身份识别"},
+{"word":"données","translation":"数据"},
+{"word":"enquête","translation":"调查"},
+{"word":"formulaire","translation":"表格"},
+{"word":"rapport","translation":"报告"},
+{"word":"tableau de bord","translation":"仪表板"},
+{"word":"communication","translation":"沟通"},
+{"word":"médias","translation":"媒体"},
+{"word":"presse","translation":"新闻"},
+{"word":"déclaration","translation":"声明"},
+{"word":"appel","translation":"呼吁"},
+{"word":"appel d’urgence","translation":"紧急呼吁"},
+{"word":"droit international","translation":"国际法"},
+{"word":"droit humanitaire","translation":"人道法"},
+{"word":"Convention de Genève","translation":"日内瓦公约"},
+{"word":"Croix-Rouge","translation":"红十字会"},
+{"word":"CICR","translation":"红十字国际委员会"},
+{"word":"ONU","translation":"联合国"},
+{"word":"UNICEF","translation":"联合国儿童基金会"},
+{"word":"HCR","translation":"联合国难民署"},
+{"word":"PAM","translation":"世界粮食计划署"},
+{"word":"OMS","translation":"世界卫生组织"},
+{"word":"OCHA","translation":"联合国人道事务协调厅"},
+{"word":"ONG locale","translation":"本地非政府组织"},
+{"word":"ONG internationale","translation":"国际非政府组织"},
+{"word":"agence donatrice","translation":"捐助机构"},
+{"word":"société civile","translation":"公民社会"},
+{"word":"secteur privé","translation":"私营部门"},
+{"word":"lacune de financement","translation":"资金缺口"},
+{"word":"approvisionnement","translation":"采购"},
+{"word":"fournitures","translation":"物资"},
+{"word":"matériaux","translation":"材料"},
+{"word":"médicaments","translation":"药品"},
+{"word":"vaccin","translation":"疫苗"},
+{"word":"psychosocial","translation":"心理社会支持"},
+{"word":"traumatisme","translation":"创伤"},
+{"word":"guérison","translation":"康复"},
+{"word":"kit d’abri","translation":"避难套件"},
+{"word":"kit d’hygiène","translation":"卫生套件"},
+{"word":"kit dignité","translation":"尊严套件"},
+{"word":"colis alimentaire","translation":"食品包"},
+{"word":"ration","translation":"口粮"},
+{"word":"point de distribution","translation":"分发点"},
+{"word":"réunion de coordination","translation":"协调会议"},
+{"word":"visite de terrain","translation":"实地访问"},
+{"word":"mission","translation":"任务"},
+{"word":"briefing","translation":"简报"},
+{"word":"rapport de terrain","translation":"现场报告"},
+{"word":"rapport de situation","translation":"情况报告"},
+{"word":"plan logistique","translation":"物流计划"},
+{"word":"plan stratégique","translation":"战略计划"},
+{"word":"budget","translation":"预算"},
+{"word":"dépense","translation":"支出"},
+{"word":"responsabilité","translation":"责任"},
+{"word":"transparence","translation":"透明度"},
+{"word":"éthique","translation":"伦理"},
+{"word":"neutralité","translation":"中立"},
+{"word":"impartialité","translation":"公正"},
+{"word":"indépendance","translation":"独立"},
+{"word":"bureau de terrain","translation":"现场办公室"},
+{"word":"siège","translation":"总部"},
+{"word":"système de cluster","translation":"集群系统"},
+{"word":"cluster protection","translation":"保护集群"},
+{"word":"cluster WASH","translation":"供水与卫生集群"},
+{"word":"cluster sécurité alimentaire","translation":"粮食安全集群"},
+{"word":"cluster santé","translation":"卫生集群"},
+{"word":"cluster éducation","translation":"教育集群"},
+{"word":"transfert d’argent","translation":"现金转移"},
+{"word":"bon","translation":"代金券"},
+{"word":"mobile money","translation":"移动支付"},
+{"word":"leader communautaire","translation":"社区领袖"},
+{"word":"réunion des parties prenantes","translation":"利益相关者会议"}]
   },
   "arabic": {
     "lawandjustice": [],
