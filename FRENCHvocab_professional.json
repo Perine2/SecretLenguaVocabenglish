@@ -16270,7 +16270,7 @@
 {"word":"certificat de fin de formation","translation":"mezuniyet sertifikası"},
 {"word":"examen national","translation":"ulusal sınav"},
 {"word":"baccalauréat international","translation":"uluslararası bakalorya"}],
-    "tourismandhospitality": [{"word":"tourisme","translation":"turizm"},
+ "tourismandhospitality": [{"word":"tourisme","translation":"turizm"},
 {"word":"touriste","translation":"turist"},
 {"word":"voyageur","translation":"gezgin"},
 {"word":"voyage","translation":"seyahat"},
@@ -18578,8 +18578,7 @@
 {"word":"suivi du véhicule","translation":"отслеживание транспортного средства"},
 {"word":"télématique","translation":"телематика"},
 {"word":"gestion du fret","translation":"управление грузом"},
-{"word":"gestion des commandes","translation":"управление заказами"}
-],
+{"word":"gestion des commandes","translation":"управление заказами"}],
     "customsandbordersecurity": [{"word":"douanes","translation":"таможня"},
 {"word":"frontière","translation":"граница"},
 {"word":"sécurité","translation":"безопасность"},
