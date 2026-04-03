@@ -1955,17 +1955,1930 @@
     "tradeandentrepreneurship": [],
     "humanitarianandngos": []
   },
-  "german": {
-    "lawandjustice": [],
-    "healthandmedicine": [],
-    "economyandfinance": [],
-    "educationandteaching": [],
-    "tourismandhospitality": [],
-    "transportandlogistics": [],
-    "customsandbordersecurity": [],
-    "diplomacyandinternationalrelations": [],
-    "tradeandentrepreneurship": [],
-    "humanitarianandngos": []
+  "english": {
+    "lawandjustice": [{"word":"Justiz","translation":"justice"},
+{"word":"Gericht","translation":"court"},
+{"word":"Richter","translation":"judge"},
+{"word":"Anwalt","translation":"lawyer"},
+{"word":"Rechtsanwalt","translation":"attorney"},
+{"word":"Staatsanwalt","translation":"prosecutor"},
+{"word":"Angeklagter","translation":"defendant"},
+{"word":"Kläger","translation":"plaintiff"},
+{"word":"Prozess","translation":"trial"},
+{"word":"Jury","translation":"jury"},
+{"word":"Urteil","translation":"verdict"},
+{"word":"Strafe","translation":"punishment"},
+{"word":"Bestrafung","translation":"penalty"},
+{"word":"Gefängnis","translation":"prison"},
+{"word":"Haftanstalt","translation":"detention facility"},
+{"word":"Kaution","translation":"bail"},
+{"word":"Haftbefehl","translation":"arrest warrant"},
+{"word":"Festnahme","translation":"arrest"},
+{"word":"Polizeibeamter","translation":"police officer"},
+{"word":"Verbrechen","translation":"crime"},
+{"word":"Krimineller","translation":"criminal"},
+{"word":"schuldig","translation":"guilty"},
+{"word":"unschuldig","translation":"innocent"},
+{"word":"Beweis","translation":"evidence"},
+{"word":"Zeuge","translation":"witness"},
+{"word":"Aussage","translation":"testimony"},
+{"word":"Kreuzverhör","translation":"cross-examination"},
+{"word":"Einspruch","translation":"objection"},
+{"word":"abgelehnt","translation":"overruled"},
+{"word":"stattgegeben","translation":"sustained"},
+{"word":"Berufung","translation":"appeal"},
+{"word":"Fall","translation":"case"},
+{"word":"Anhörung","translation":"hearing"},
+{"word":"Vorladung","translation":"subpoena"},
+{"word":"eidesstattliche Erklärung","translation":"affidavit"},
+{"word":"Zeugenaussage unter Eid","translation":"sworn testimony"},
+{"word":"Entscheidung","translation":"decision"},
+{"word":"Gesetz","translation":"law"},
+{"word":"Verfassung","translation":"constitution"},
+{"word":"Verordnung","translation":"regulation"},
+{"word":"Gesetzbuch","translation":"code"},
+{"word":"Klausel","translation":"clause"},
+{"word":"Bestimmung","translation":"provision"},
+{"word":"Vertrag","translation":"contract"},
+{"word":"Vereinbarung","translation":"agreement"},
+{"word":"Vertragsbruch","translation":"breach of contract"},
+{"word":"Zustimmung","translation":"consent"},
+{"word":"Haftung","translation":"liability"},
+{"word":"Schadensersatz","translation":"damages"},
+{"word":"Entschädigung","translation":"compensation"},
+{"word":"Vergleich","translation":"settlement"},
+{"word":"Streitigkeit","translation":"dispute"},
+{"word":"Anspruch","translation":"claim"},
+{"word":"Klage","translation":"lawsuit"},
+{"word":"einstweilige Verfügung","translation":"injunction"},
+{"word":"Unterlassungsverfügung","translation":"cease and desist order"},
+{"word":"Sorgerecht","translation":"custody"},
+{"word":"Vormundschaft","translation":"guardianship"},
+{"word":"Adoption","translation":"adoption"},
+{"word":"Scheidung","translation":"divorce"},
+{"word":"Ehe","translation":"marriage"},
+{"word":"Ehepartner","translation":"spouse"},
+{"word":"Kindesunterhalt","translation":"child support"},
+{"word":"Unterhalt","translation":"alimony"},
+{"word":"Eigentum","translation":"property"},
+{"word":"Vermögen","translation":"assets"},
+{"word":"Erbschaft","translation":"inheritance"},
+{"word":"Testament","translation":"will"},
+{"word":"Testamentsvollstrecker","translation":"executor"},
+{"word":"Treuhänder","translation":"trustee"},
+{"word":"Begünstigter","translation":"beneficiary"},
+{"word":"Urkunde","translation":"deed"},
+{"word":"Eigentumstitel","translation":"title"},
+{"word":"Besitz","translation":"possession"},
+{"word":"Vermieter","translation":"landlord"},
+{"word":"Mieter","translation":"tenant"},
+{"word":"Mietvertrag","translation":"lease"},
+{"word":"Räumung","translation":"eviction"},
+{"word":"Zwangsvollstreckung","translation":"foreclosure"},
+{"word":"Insolvenz","translation":"insolvency"},
+{"word":"Gläubiger","translation":"creditor"},
+{"word":"Schuldner","translation":"debtor"},
+{"word":"Zahlungsverzug","translation":"default"},
+{"word":"Hypothek","translation":"mortgage"},
+{"word":"Pfandrecht","translation":"lien"},
+{"word":"Betrug","translation":"fraud"},
+{"word":"Unterschlagung","translation":"embezzlement"},
+{"word":"Bestechung","translation":"bribery"},
+{"word":"Korruption","translation":"corruption"},
+{"word":"Diebstahl","translation":"theft"},
+{"word":"Raub","translation":"robbery"},
+{"word":"Körperverletzung","translation":"assault"},
+{"word":"Tätlichkeit","translation":"battery"},
+{"word":"Mord","translation":"murder"},
+{"word":"Totschlag","translation":"manslaughter"},
+{"word":"Tötungsdelikt","translation":"homicide"},
+{"word":"Vergewaltigung","translation":"rape"},
+{"word":"Belästigung","translation":"harassment"},
+{"word":"Diskriminierung","translation":"discrimination"},
+{"word":"Rechte","translation":"rights"},
+{"word":"Freiheit","translation":"freedom"},
+{"word":"Freiheit (persönliche Freiheit)","translation":"personal liberty"},
+{"word":"Gleichheit","translation":"equality"},
+{"word":"ordnungsgemäßes Verfahren","translation":"due process"},
+{"word":"faires Verfahren","translation":"fair trial"},
+{"word":"Unschuldsvermutung","translation":"presumption of innocence"},
+{"word":"kreuzverhören","translation":"cross-examine"},
+{"word":"Verteidigung","translation":"defense"},
+{"word":"Anklage","translation":"prosecution"},
+{"word":"Strafvollzug","translation":"penal system"},
+{"word":"Rehabilitation","translation":"rehabilitation"},
+{"word":"Bewährung nach Haft","translation":"parole"},
+{"word":"Bewährung","translation":"probation"},
+{"word":"Jugendhaft","translation":"juvenile detention"},
+{"word":"Reform","translation":"reform"},
+{"word":"Terrorismus","translation":"terrorism"},
+{"word":"Verdächtiger","translation":"suspect"},
+{"word":"Verhör","translation":"interrogation"},
+{"word":"Geständnis","translation":"confession"},
+{"word":"Überwachung","translation":"surveillance"},
+{"word":"Ermittlung","translation":"investigation"},
+{"word":"Forensik","translation":"forensics"},
+{"word":"Fingerabdruck","translation":"fingerprint"},
+{"word":"DNA","translation":"DNA"},
+{"word":"Zuständigkeit","translation":"jurisdiction"},
+{"word":"Gerichtsstand","translation":"venue"},
+{"word":"Berufungsgericht","translation":"appeals court"},
+{"word":"Oberstes Gericht","translation":"supreme court"},
+{"word":"Bezirksgericht","translation":"district court"},
+{"word":"Magistrat","translation":"magistrate"},
+{"word":"Tribunal","translation":"tribunal"},
+{"word":"Durchsetzung","translation":"enforcement"},
+{"word":"Gesetzgebung","translation":"legislation"},
+{"word":"Verabschiedung","translation":"adoption"},
+{"word":"Lobby","translation":"lobby"},
+{"word":"Präzedenzfall","translation":"precedent"},
+{"word":"Gewohnheitsrecht","translation":"common law"},
+{"word":"Zivilrecht","translation":"civil law"},
+{"word":"Strafrecht","translation":"criminal law"},
+{"word":"Verwaltungsrecht","translation":"administrative law"},
+{"word":"Völkerrecht","translation":"international law"},
+{"word":"Menschenrechte","translation":"human rights"},
+{"word":"Pflichtverteidiger","translation":"public defender"},
+{"word":"Rechtshilfe","translation":"legal aid"},
+{"word":"Rechtssystem","translation":"legal system"},
+{"word":"Gerichtsverfahren","translation":"litigation"},
+{"word":"bindend","translation":"binding"},
+{"word":"nicht bindend","translation":"non-binding"},
+{"word":"Mediation","translation":"mediation"},
+{"word":"Schiedsverfahren","translation":"arbitration"},
+{"word":"Notar","translation":"notary"},
+{"word":"beglaubigte Unterschrift","translation":"notarized signature"},
+{"word":"Dokumentation","translation":"documentation"},
+{"word":"amtlich","translation":"official"},
+{"word":"Standesbeamter","translation":"registrar"},
+{"word":"Verurteilung","translation":"conviction"},
+{"word":"Freispruch","translation":"acquittal"},
+{"word":"Bewährungshelfer","translation":"probation officer"},
+{"word":"Rückfälligkeit","translation":"recidivism"},
+{"word":"Verjährungsfrist","translation":"statute of limitations"},
+{"word":"Immunität","translation":"immunity"},
+{"word":"Deal mit der Staatsanwaltschaft","translation":"plea bargain"},
+{"word":"Anklageschrift","translation":"indictment"},
+{"word":"Anklageverlesung","translation":"arraignment"},
+{"word":"Gerichtsdiener","translation":"court officer"},
+{"word":"Gerichtsakte","translation":"court record"},
+{"word":"Richterbank","translation":"bench"},
+{"word":"Kammer","translation":"chamber"},
+{"word":"Anwaltskammer","translation":"bar association"},
+{"word":"Ethik","translation":"ethics"},
+{"word":"Kunstfehler","translation":"malpractice"},
+{"word":"Vertraulichkeit","translation":"confidentiality"},
+{"word":"Mandant","translation":"client"},
+{"word":"Vorschuss","translation":"retainer"},
+{"word":"Rechtsstreit","translation":"litigation"},
+{"word":"unerlaubte Handlung","translation":"tort"},
+{"word":"Fahrlässigkeit","translation":"negligence"},
+{"word":"Schuld","translation":"guilt"},
+{"word":"Vorsatz","translation":"intent"},
+{"word":"Tatbestand","translation":"offense"},
+{"word":"Wiedergutmachung","translation":"restitution"},
+{"word":"Sanktion","translation":"sanction"}],
+    "healthandmedicine": [{"word":"Gesundheit","translation":"health"}
+{"word":"Medizin","translation":"medicine"}
+{"word":"Krankenhaus","translation":"hospital"}
+{"word":"Klinik","translation":"clinic"}
+{"word":"Arzt","translation":"doctor"}
+{"word":"Krankenschwester","translation":"nurse"}
+{"word":"Patient","translation":"patient"}
+{"word":"Diagnose","translation":"diagnosis"}
+{"word":"Behandlung","translation":"treatment"}
+{"word":"Therapie","translation":"therapy"}
+{"word":"Krankheit","translation":"disease / illness"}
+{"word":"Erkrankung","translation":"illness / condition"}
+{"word":"Zustand","translation":"condition / state"}
+{"word":"Symptom","translation":"symptom"}
+{"word":"Anzeichen","translation":"sign / indication"}
+{"word":"Prävention","translation":"prevention"}
+{"word":"Heilung","translation":"healing / cure"}
+{"word":"Chirurgie","translation":"surgery"}
+{"word":"Operation","translation":"operation / surgery"}
+{"word":"Notfall","translation":"emergency"}
+{"word":"Allgemeinmediziner","translation":"general practitioner"}
+{"word":"Facharzt","translation":"specialist doctor"}
+{"word":"Chirurg","translation":"surgeon"}
+{"word":"Zahnarzt","translation":"dentist"}
+{"word":"Apotheker","translation":"pharmacist"}
+{"word":"Therapeut","translation":"therapist"}
+{"word":"Psychologe","translation":"psychologist"}
+{"word":"Psychiater","translation":"psychiatrist"}
+{"word":"Pflegekraft","translation":"caregiver / nurse"}
+{"word":"Sanitäter","translation":"paramedic / EMT"}
+{"word":"Hebamme","translation":"midwife"}
+{"word":"Anästhesist","translation":"anesthesiologist"}
+{"word":"Radiologe","translation":"radiologist"}
+{"word":"Dermatologe","translation":"dermatologist"}
+{"word":"Kardiologe","translation":"cardiologist"}
+{"word":"Neurologe","translation":"neurologist"}
+{"word":"Onkologe","translation":"oncologist"}
+{"word":"Kinderarzt","translation":"pediatrician"}
+{"word":"Gynäkologe","translation":"gynecologist"}
+{"word":"Medikament","translation":"medication"}
+{"word":"Arzneimittel","translation":"pharmaceutical / medicine"}
+{"word":"Pille","translation":"pill"}
+{"word":"Tablette","translation":"tablet"}
+{"word":"Kapsel","translation":"capsule"}
+{"word":"Injektion","translation":"injection"}
+{"word":"Impfstoff","translation":"vaccine"}
+{"word":"Antibiotikum","translation":"antibiotic"}
+{"word":"Schmerzmittel","translation":"painkiller / analgesic"}
+{"word":"Antidepressivum","translation":"antidepressant"}
+{"word":"entzündungshemmendes Mittel","translation":"anti-inflammatory"}
+{"word":"antivirales Mittel","translation":"antiviral"}
+{"word":"Salbe","translation":"ointment / salve"}
+{"word":"Creme","translation":"cream"}
+{"word":"Sirup","translation":"syrup"}
+{"word":"Rezept","translation":"prescription"}
+{"word":"Dosierung","translation":"dosage"}
+{"word":"rezeptfrei","translation":"over-the-counter"}
+{"word":"Test","translation":"test"}
+{"word":"Scan","translation":"scan"}
+{"word":"Röntgen","translation":"X-ray"}
+{"word":"MRT","translation":"MRI"}
+{"word":"CT-Scan","translation":"CT scan"}
+{"word":"Bluttest","translation":"blood test"}
+{"word":"Urintest","translation":"urine test"}
+{"word":"Biopsie","translation":"biopsy"}
+{"word":"Screening","translation":"screening"}
+{"word":"Untersuchung","translation":"examination / check-up"}
+{"word":"EKG","translation":"ECG / electrocardiogram"}
+{"word":"Ultraschall","translation":"ultrasound"}
+{"word":"Labor","translation":"laboratory / lab"}
+{"word":"Monitor","translation":"monitor"}
+{"word":"Thermometer","translation":"thermometer"}
+{"word":"Stethoskop","translation":"stethoscope"}
+{"word":"Blutdruck","translation":"blood pressure"}
+{"word":"Puls","translation":"pulse"}
+{"word":"Herzschlag","translation":"heartbeat"}
+{"word":"Gehirn","translation":"brain"}
+{"word":"Herz","translation":"heart"}
+{"word":"Lungen","translation":"lungs"}
+{"word":"Leber","translation":"liver"}
+{"word":"Nieren","translation":"kidneys"}
+{"word":"Magen","translation":"stomach"}
+{"word":"Därme","translation":"intestines / bowel"}
+{"word":"Bauchspeicheldrüse","translation":"pancreas"}
+{"word":"Blase","translation":"bladder"}
+{"word":"Haut","translation":"skin"}
+{"word":"Knochen","translation":"bones"}
+{"word":"Muskeln","translation":"muscles"}
+{"word":"Nerven","translation":"nerves"}
+{"word":"Arterien","translation":"arteries"}
+{"word":"Venen","translation":"veins"}
+{"word":"Gelenke","translation":"joints"}
+{"word":"Hals","translation":"neck / throat"}
+{"word":"Nase","translation":"nose"}
+{"word":"Augen","translation":"eyes"}
+{"word":"Ohren","translation":"ears"}
+{"word":"Grippe","translation":"flu / influenza"}
+{"word":"Erkältung","translation":"cold"}
+{"word":"Fieber","translation":"fever"}
+{"word":"Infektion","translation":"infection"}
+{"word":"Virus","translation":"virus"}
+{"word":"Bakterien","translation":"bacteria"}
+{"word":"Diabetes","translation":"diabetes"}
+{"word":"Krebs","translation":"cancer"}
+{"word":"Asthma","translation":"asthma"}
+{"word":"Allergie","translation":"allergy"}
+{"word":"Bluthochdruck","translation":"high blood pressure / hypertension"}
+{"word":"Schlaganfall","translation":"stroke"}
+{"word":"Herzinfarkt","translation":"heart attack / myocardial infarction"}
+{"word":"Lungenentzündung","translation":"pneumonia"}
+{"word":"Tuberkulose","translation":"tuberculosis"}
+{"word":"Arthritis","translation":"arthritis"}
+{"word":"Migräne","translation":"migraine"}
+{"word":"Fettleibigkeit","translation":"obesity"}
+{"word":"Schlaflosigkeit","translation":"insomnia"}
+{"word":"Depression","translation":"depression"}
+{"word":"Husten","translation":"cough"}
+{"word":"Kopfschmerzen","translation":"headache"}
+{"word":"Halsschmerzen","translation":"sore throat"}
+{"word":"Übelkeit","translation":"nausea"}
+{"word":"Erbrechen","translation":"vomiting"}
+{"word":"Schwindel","translation":"dizziness"}
+{"word":"Müdigkeit","translation":"fatigue"}
+{"word":"Schwäche","translation":"weakness"}
+{"word":"Schwellung","translation":"swelling"}
+{"word":"Ausschlag","translation":"rash"}
+{"word":"Juckreiz","translation":"itching"}
+{"word":"Blutung","translation":"bleeding"}
+{"word":"Niesen","translation":"sneezing"}
+{"word":"laufende Nase","translation":"runny nose"}
+{"word":"Verstopfung","translation":"constipation"}
+{"word":"Schüttelfrost","translation":"chills"}
+{"word":"Krämpfe","translation":"cramps"}
+{"word":"Atemnot","translation":"shortness of breath"}
+{"word":"Schwitzen","translation":"sweating"}
+{"word":"Herzklopfen","translation":"palpitations"}
+{"word":"Krankenwagen","translation":"ambulance"}
+{"word":"Notaufnahme","translation":"emergency room / ER"}
+{"word":"Trauma","translation":"trauma / injury"}
+{"word":"Wunde","translation":"wound"}
+{"word":"Verbrennung","translation":"burn"}
+{"word":"Fraktur","translation":"fracture"}
+{"word":"Verstauchung","translation":"sprain"}
+{"word":"Herz-Lungen-Wiederbelebung","translation":"CPR / cardiopulmonary resuscitation"}
+{"word":"Defibrillator","translation":"defibrillator"}
+{"word":"Trage","translation":"stretcher"}
+{"word":"Verband","translation":"bandage / dressing"}
+{"word":"Wundverband","translation":"wound dressing"}
+{"word":"Sauerstoff","translation":"oxygen"}
+{"word":"Rettung","translation":"rescue / emergency service"}
+{"word":"Schock","translation":"shock"}
+{"word":"Triage","translation":"triage"}
+{"word":"Evakuierung","translation":"evacuation"}
+{"word":"Alarm","translation":"alarm / alert"}
+{"word":"Hygiene","translation":"hygiene"}
+{"word":"Sanitärversorgung","translation":"sanitation / sanitary services"}
+{"word":"Ernährung","translation":"nutrition"}
+{"word":"Impfung","translation":"vaccination"}
+{"word":"Gesundheitsversorgung","translation":"healthcare"}
+{"word":"öffentliche Gesundheit","translation":"public health"}
+{"word":"Epidemie","translation":"epidemic"}
+{"word":"Pandemie","translation":"pandemic"}
+{"word":"Quarantäne","translation":"quarantine"}
+{"word":"Isolation","translation":"isolation"}
+{"word":"Sensibilisierung","translation":"awareness / sensitization"}
+{"word":"Bildung","translation":"education (health education)"} 
+{"word":"Versicherung","translation":"insurance"}
+{"word":"Deckung","translation":"coverage"}
+{"word":"Gesundheitspolitik","translation":"health policy"}
+{"word":"Wohlbefinden","translation":"well-being"}
+{"word":"Lebensstil","translation":"lifestyle"}
+{"word":"Fitness","translation":"fitness"}
+{"word":"psychische Gesundheit","translation":"mental health"}
+{"word":"Krankenakte","translation":"medical record"}
+{"word":"Beratung","translation":"consultation / counseling"}
+{"word":"Überweisung","translation":"referral"}
+{"word":"Termin","translation":"appointment"}
+{"word":"Arztrechnung","translation":"medical bill"}
+{"word":"Genehmigung","translation":"authorization / approval"}
+{"word":"Dokumentation","translation":"documentation"}
+{"word":"Versicherungsschutz","translation":"insurance coverage"}
+{"word":"Einwilligung","translation":"consent"}
+{"word":"Vertraulichkeit","translation":"confidentiality"}
+{"word":"Warteliste","translation":"waiting list"}
+{"word":"Aufnahme","translation":"admission"}
+{"word":"Entlassung","translation":"discharge"}
+{"word":"Behandlungsplan","translation":"treatment plan"}
+{"word":"Facharztbesuch","translation":"specialist visit"}
+{"word":"Fallmanager","translation":"case manager"}
+{"word":"Gesundheitsdienstleister","translation":"healthcare provider"}
+{"word":"Krankengeschichte","translation":"medical history"}
+{"word":"elektronische Gesundheitsakte (EHR)","translation":"electronic health record (EHR)"}],
+    "economyandfinance": [{"word":"Wirtschaft","translation":"economy"}
+{"word":"Finanzen","translation":"finance"}
+{"word":"Geld","translation":"money"}
+{"word":"Einkommen","translation":"income"}
+{"word":"Ausgabe","translation":"expense"}
+{"word":"Einnahmen","translation":"revenue"}
+{"word":"Gewinn","translation":"profit"}
+{"word":"Verlust","translation":"loss"}
+{"word":"Budget","translation":"budget"}
+{"word":"Kosten","translation":"costs"}
+{"word":"Investition","translation":"investment"}
+{"word":"Kapital","translation":"capital"}
+{"word":"Zinsen","translation":"interest"}
+{"word":"Darlehen","translation":"loan"}
+{"word":"Schulden","translation":"debt"}
+{"word":"Kredit","translation":"credit"}
+{"word":"Ersparnisse","translation":"savings"}
+{"word":"Kontostand","translation":"account balance"}
+{"word":"Transaktion","translation":"transaction"}
+{"word":"Bargeld","translation":"cash"}
+{"word":"Bank","translation":"bank"}
+{"word":"Bankkonto","translation":"bank account"}
+{"word":"Einzahlung","translation":"deposit"}
+{"word":"Abhebung","translation":"withdrawal"}
+{"word":"Kontoauszug","translation":"bank statement"}
+{"word":"Inflation","translation":"inflation"}
+{"word":"Deflation","translation":"deflation"}
+{"word":"Rezession","translation":"recession"}
+{"word":"Boom","translation":"boom"}
+{"word":"BIP","translation":"GDP"}
+{"word":"Wachstum","translation":"growth"}
+{"word":"Abschwung","translation":"downturn"}
+{"word":"Reichtum","translation":"wealth"}
+{"word":"Vermögenswerte","translation":"assets"}
+{"word":"Verbindlichkeiten","translation":"liabilities"}
+{"word":"Eigenkapital","translation":"equity"}
+{"word":"Aktionär","translation":"shareholder"}
+{"word":"Interessengruppen","translation":"stakeholders"}
+{"word":"Dividende","translation":"dividend"}
+{"word":"Aktie","translation":"stock"}
+{"word":"Anleihe","translation":"bond"}
+{"word":"Währung","translation":"currency"}
+{"word":"Wechselkurs","translation":"exchange rate"}
+{"word":"Markt","translation":"market"}
+{"word":"Handel","translation":"trade"}
+{"word":"Import","translation":"import"}
+{"word":"Export","translation":"export"}
+{"word":"Zoll","translation":"customs"}
+{"word":"Steuer","translation":"tax"}
+{"word":"Mehrwertsteuer","translation":"VAT"}
+{"word":"Prüfung","translation":"audit"}
+{"word":"Einkommensteuer","translation":"income tax"}
+{"word":"Körperschaftsteuer","translation":"corporate tax"}
+{"word":"Steuerbefreiung","translation":"tax exemption"}
+{"word":"Abzug","translation":"deduction"}
+{"word":"Lohnabrechnung","translation":"payroll"}
+{"word":"Lohn","translation":"wage"}
+{"word":"Gehalt","translation":"salary"}
+{"word":"Bonus","translation":"bonus"}
+{"word":"Rente","translation":"pension"}
+{"word":"Rentenfonds","translation":"pension fund"}
+{"word":"Subvention","translation":"subsidy"}
+{"word":"Zuschuss","translation":"grant"}
+{"word":"Politik","translation":"policy"}
+{"word":"Regulierung","translation":"regulation"}
+{"word":"Gesetz","translation":"law"}
+{"word":"Einhaltung","translation":"compliance"}
+{"word":"Betrug","translation":"fraud"}
+{"word":"Unterschlagung","translation":"embezzlement"}
+{"word":"Bankrott","translation":"bankruptcy"}
+{"word":"Insolvenz","translation":"insolvency"}
+{"word":"Fusion","translation":"merger"}
+{"word":"Übernahme","translation":"acquisition"}
+{"word":"Übernahmeangebot","translation":"takeover bid"}
+{"word":"Zinssatz","translation":"interest rate"}
+{"word":"Zentralbank","translation":"central bank"}
+{"word":"Geldpolitik","translation":"monetary policy"}
+{"word":"Fiskalpolitik","translation":"fiscal policy"}
+{"word":"Ausgaben","translation":"expenditure"}
+{"word":"Überschuss","translation":"surplus"}
+{"word":"Defizit","translation":"deficit"}
+{"word":"Handelsbilanz","translation":"trade balance"}
+{"word":"Verbraucher","translation":"consumer"}
+{"word":"Produzent","translation":"producer"}
+{"word":"Lieferant","translation":"supplier"}
+{"word":"Nachfrage","translation":"demand"}
+{"word":"Angebot","translation":"supply"}
+{"word":"Preis","translation":"price"}
+{"word":"Kostenpreis","translation":"cost price"}
+{"word":"Einzelhandelspreis","translation":"retail price"}
+{"word":"Großhandelspreis","translation":"wholesale price"}
+{"word":"Inflationsrate","translation":"inflation rate"}
+{"word":"Risiko","translation":"risk"}
+{"word":"Rendite","translation":"return"}
+{"word":"Ertrag","translation":"yield"}
+{"word":"Portfolio","translation":"portfolio"}
+{"word":"Diversifikation","translation":"diversification"}
+{"word":"Liquidität","translation":"liquidity"}
+{"word":"Solvenz","translation":"solvency"}
+{"word":"Hebelwirkung","translation":"leverage"}
+{"word":"Finanzierung","translation":"financing"}
+{"word":"Risikokapital","translation":"venture capital"}
+{"word":"Business Angel","translation":"business angel"}
+{"word":"Unternehmertum","translation":"entrepreneurship"}
+{"word":"Startup","translation":"startup"}
+{"word":"Unternehmen","translation":"company"}
+{"word":"Konzern","translation":"corporation"}
+{"word":"Firma","translation":"firm"}
+{"word":"Geschäftsführer","translation":"CEO"}
+{"word":"Finanzvorstand","translation":"CFO"}
+{"word":"Börsengang","translation":"IPO"}
+{"word":"Anteil","translation":"share"}
+{"word":"Broker","translation":"broker"}
+{"word":"Aktienmarkt","translation":"stock market"}
+{"word":"Börse","translation":"exchange"}
+{"word":"Index","translation":"index"}
+{"word":"NASDAQ","translation":"NASDAQ"}
+{"word":"NYSE","translation":"NYSE"}
+{"word":"Dow Jones","translation":"Dow Jones"}
+{"word":"FTSE","translation":"FTSE"}
+{"word":"Futures","translation":"futures"}
+{"word":"Optionen","translation":"options"}
+{"word":"Derivate","translation":"derivatives"}
+{"word":"Hedgefonds","translation":"hedge fund"}
+{"word":"Absicherung","translation":"hedging"}
+{"word":"Spekulation","translation":"speculation"}
+{"word":"Vermögenswert","translation":"asset"}
+{"word":"materieller Vermögenswert","translation":"tangible asset"}
+{"word":"immaterieller Vermögenswert","translation":"intangible asset"}
+{"word":"Nettovermögen","translation":"net worth"}
+{"word":"Gewinnmarge","translation":"profit margin"}
+{"word":"Bruttoeinkommen","translation":"gross income"}
+{"word":"Nettoeinkommen","translation":"net income"}
+{"word":"Betriebskosten","translation":"operating costs"}
+{"word":"Gemeinkosten","translation":"overhead"}
+{"word":"Abschreibung","translation":"depreciation"}
+{"word":"Amortisation","translation":"amortization"}
+{"word":"Rechnung","translation":"invoice"}
+{"word":"Abrechnung","translation":"statement"}
+{"word":"Quittung","translation":"receipt"}
+{"word":"Zahlung","translation":"payment"}
+{"word":"elektronische Überweisung","translation":"electronic transfer"}
+{"word":"Banküberweisung","translation":"bank transfer"}
+{"word":"Online-Banking","translation":"online banking"}
+{"word":"Mobile-Banking","translation":"mobile banking"}
+{"word":"verzinslich","translation":"interest-bearing"}
+{"word":"fester Zinssatz","translation":"fixed rate"}
+{"word":"variabler Zinssatz","translation":"variable rate"}
+{"word":"Hypothek","translation":"mortgage"}
+{"word":"Rate","translation":"installment"}
+{"word":"Sicherheit","translation":"collateral"}
+{"word":"Bürge","translation":"guarantor"}
+{"word":"Kreditwürdigkeit","translation":"creditworthiness"}
+{"word":"Kreditgeschichte","translation":"credit history"}
+{"word":"Kreditkarte","translation":"credit card"}
+{"word":"Debitkarte","translation":"debit card"}
+{"word":"Finanzberater","translation":"financial advisor"}
+{"word":"Finanzplaner","translation":"financial planner"}
+{"word":"Ökonom","translation":"economist"}
+{"word":"Sektor","translation":"sector"}
+{"word":"öffentlicher Sektor","translation":"public sector"}
+{"word":"privater Sektor","translation":"private sector"}
+{"word":"Non-Profit-Sektor","translation":"non-profit sector"}
+{"word":"Crowdfunding","translation":"crowdfunding"}
+{"word":"Fundraising","translation":"fundraising"}
+{"word":"Spenden","translation":"donations"}
+{"word":"Kosten-Nutzen-Analyse","translation":"cost-benefit analysis"}
+{"word":"Bewertung","translation":"valuation"}
+{"word":"Finanzbericht","translation":"financial report"}
+{"word":"Quartalsergebnisse","translation":"quarterly results"}
+{"word":"Jahresbericht","translation":"annual report"}
+{"word":"Prüfbericht","translation":"audit report"}
+{"word":"Bilanz","translation":"balance sheet"}
+{"word":"Gewinn- und Verlustrechnung","translation":"income statement"}
+{"word":"Cashflow","translation":"cash flow"}
+{"word":"Break-even","translation":"break-even"}
+{"word":"Prognose","translation":"forecast"}
+{"word":"Projektion","translation":"projection"}
+{"word":"Finanzmodell","translation":"financial model"}
+{"word":"Sensitivitätsanalyse","translation":"sensitivity analysis"}
+{"word":"Szenario","translation":"scenario"}
+{"word":"Benchmark","translation":"benchmark"}
+{"word":"Best Practice","translation":"best practice"}
+{"word":"Wirtschaftswachstum","translation":"economic growth"}
+{"word":"Makroökonomie","translation":"macroeconomics"}
+{"word":"Mikroökonomie","translation":"microeconomics"}
+{"word":"Lieferkette","translation":"supply chain"}
+{"word":"Logistik","translation":"logistics"}
+{"word":"Güter","translation":"goods"}
+{"word":"Dienstleistungen","translation":"services"}
+{"word":"Wettbewerbsfähigkeit","translation":"competitiveness"}
+{"word":"Produktivität","translation":"productivity"}
+{"word":"Finanzbildung","translation":"financial literacy"}],
+    "educationandteaching": [{"word":"Bildung","translation":"education"}
+{"word":"Unterricht","translation":"teaching"}
+{"word":"Lernen","translation":"learning"}
+{"word":"Student","translation":"student (university)"}
+{"word":"Schüler","translation":"student (school)"}
+{"word":"Lehrer","translation":"teacher"}
+{"word":"Pädagoge","translation":"educator"}
+{"word":"Ausbilder","translation":"trainer"}
+{"word":"Professor","translation":"professor"}
+{"word":"Dozent","translation":"lecturer"}
+{"word":"Tutor","translation":"tutor"}
+{"word":"Mentor","translation":"mentor"}
+{"word":"Coach","translation":"coach"}
+{"word":"Auszubildender","translation":"apprentice"}
+{"word":"Klassenzimmer","translation":"classroom"}
+{"word":"Schule","translation":"school"}
+{"word":"Universität","translation":"university"}
+{"word":"Hochschule","translation":"college"}
+{"word":"Institution","translation":"institution"}
+{"word":"Akademie","translation":"academy"}
+{"word":"Lehrplan","translation":"curriculum"}
+{"word":"Lehrplanübersicht","translation":"syllabus"}
+{"word":"Fach","translation":"subject"}
+{"word":"Kurs","translation":"course"}
+{"word":"Lektion","translation":"lesson"}
+{"word":"Vorlesung","translation":"lecture"}
+{"word":"Workshop","translation":"workshop"}
+{"word":"Seminar","translation":"seminar"}
+{"word":"Ausbildung","translation":"education / training"}
+{"word":"Modul","translation":"module"}
+{"word":"Einheit","translation":"unit"}
+{"word":"Aufgabe","translation":"assignment"}
+{"word":"Hausaufgaben","translation":"homework"}
+{"word":"Test","translation":"test"}
+{"word":"Prüfung","translation":"exam"}
+{"word":"Bewertung","translation":"assessment"}
+{"word":"Quiz","translation":"quiz"}
+{"word":"Note","translation":"grade / mark"}
+{"word":"Punktzahl","translation":"score"}
+{"word":"Diplom","translation":"diploma"}
+{"word":"Zertifikat","translation":"certificate"}
+{"word":"Abschluss","translation":"degree / graduation"}
+{"word":"Bachelor","translation":"bachelor's degree"}
+{"word":"Master","translation":"master's degree"}
+{"word":"Doktorgrad","translation":"doctoral degree"}
+{"word":"PhD","translation":"PhD"}
+{"word":"These","translation":"thesis"}
+{"word":"Dissertation","translation":"dissertation"}
+{"word":"Forschung","translation":"research"}
+{"word":"Studium","translation":"studies"}
+{"word":"Projekt","translation":"project"}
+{"word":"Bildungssystem","translation":"education system"}
+{"word":"Grundschulbildung","translation":"primary education"}
+{"word":"Sekundarbildung","translation":"secondary education"}
+{"word":"Hochschulbildung","translation":"higher education"}
+{"word":"Vorschule","translation":"preschool"}
+{"word":"Kindergarten","translation":"kindergarten"}
+{"word":"Grundschule","translation":"elementary school"}
+{"word":"Mittelschule","translation":"middle school"}
+{"word":"Gymnasium","translation":"high school / grammar school"}
+{"word":"Absolvent","translation":"graduate"}
+{"word":"Postgraduiert","translation":"postgraduate"}
+{"word":"Einschreibung","translation":"enrollment"}
+{"word":"Zulassung","translation":"admission"}
+{"word":"Registrierung","translation":"registration"}
+{"word":"Akademiker","translation":"academic"}
+{"word":"Stipendium","translation":"scholarship"}
+{"word":"Fördermittel","translation":"funding"}
+{"word":"Studiengebühren","translation":"tuition fees"}
+{"word":"Semester","translation":"semester"}
+{"word":"Trimester","translation":"trimester"}
+{"word":"Schuljahr","translation":"school year"}
+{"word":"akademisches Jahr","translation":"academic year"}
+{"word":"Ferien","translation":"vacation / holiday"}
+{"word":"Pause","translation":"break / recess"}
+{"word":"Feiertag","translation":"holiday"}
+{"word":"Schreibtisch","translation":"desk"}
+{"word":"Stuhl","translation":"chair"}
+{"word":"Tafel","translation":"blackboard / board"}
+{"word":"Whiteboard","translation":"whiteboard"}
+{"word":"Marker","translation":"marker"}
+{"word":"Kreide","translation":"chalk"}
+{"word":"Radiergummi","translation":"eraser"}
+{"word":"Lehrbuch","translation":"textbook"}
+{"word":"Arbeitsbuch","translation":"workbook"}
+{"word":"Notizbuch","translation":"notebook"}
+{"word":"Übungsheft","translation":"exercise book"}
+{"word":"Ordner","translation":"folder"}
+{"word":"Ringordner","translation":"binder"}
+{"word":"Stift","translation":"pen"}
+{"word":"Bleistift","translation":"pencil"}
+{"word":"Lineal","translation":"ruler"}
+{"word":"Taschenrechner","translation":"calculator"}
+{"word":"Laptop","translation":"laptop"}
+{"word":"Tablet","translation":"tablet"}
+{"word":"E-Learning","translation":"e-learning"}
+{"word":"Online-Kurs","translation":"online course"}
+{"word":"digitales Lernen","translation":"digital learning"}
+{"word":"Fernlernen","translation":"distance learning / remote learning"}
+{"word":"Blended Learning","translation":"blended learning"}
+{"word":"Plattform","translation":"platform"}
+{"word":"App","translation":"app"}
+{"word":"Quiz-App","translation":"quiz app"}
+{"word":"Prüfungsausschuss","translation":"exam board"}
+{"word":"Feedback","translation":"feedback"}
+{"word":"Teilnahme","translation":"participation"}
+{"word":"Anwesenheit","translation":"attendance"}
+{"word":"Pünktlichkeit","translation":"punctuality"}
+{"word":"Disziplin","translation":"discipline"}
+{"word":"Schulregeln","translation":"school rules"}
+{"word":"Verhalten","translation":"behavior"}
+{"word":"Motivation","translation":"motivation"}
+{"word":"Anstrengung","translation":"effort"}
+{"word":"Leistung","translation":"performance"}
+{"word":"Erfolg","translation":"success"}
+{"word":"Misserfolg","translation":"failure"}
+{"word":"Wiederholung","translation":"repetition / retake"}
+{"word":"Schulabbruch","translation":"dropout"}
+{"word":"Unterstützung","translation":"support"}
+{"word":"Nachhilfe","translation":"tutoring"}
+{"word":"zusätzliche Hilfe","translation":"additional help"}
+{"word":"Förderklasse","translation":"remedial class"}
+{"word":"Begabtenprogramm","translation":"gifted program"}
+{"word":"Sonderpädagogik","translation":"special education"}
+{"word":"inklusive Bildung","translation":"inclusive education"}
+{"word":"Pädagogik","translation":"pedagogy"}
+{"word":"Didaktik","translation":"didactics"}
+{"word":"Methodologie","translation":"methodology"}
+{"word":"Ansatz","translation":"approach"}
+{"word":"Lernstil","translation":"learning style"}
+{"word":"visueller Lerner","translation":"visual learner"}
+{"word":"auditiver Lerner","translation":"auditory learner"}
+{"word":"kinästhetischer Lerner","translation":"kinesthetic learner"}
+{"word":"kritisches Denken","translation":"critical thinking"}
+{"word":"Problemlösung","translation":"problem solving"}
+{"word":"Zusammenarbeit","translation":"collaboration"}
+{"word":"Teamarbeit","translation":"teamwork"}
+{"word":"Kreativität","translation":"creativity"}
+{"word":"Innovation","translation":"innovation"}
+{"word":"Wissen","translation":"knowledge"}
+{"word":"Fähigkeit","translation":"skill"}
+{"word":"Kompetenz","translation":"competence"}
+{"word":"Alphabetisierung","translation":"literacy"}
+{"word":"Rechenkompetenz","translation":"numeracy"}
+{"word":"zweisprachig","translation":"bilingual"}
+{"word":"mehrsprachig","translation":"multilingual"}
+{"word":"Fremdsprache","translation":"foreign language"}
+{"word":"Zweitsprache","translation":"second language"}
+{"word":"Sprachenlernen","translation":"language learning"}
+{"word":"Grammatik","translation":"grammar"}
+{"word":"Wortschatz","translation":"vocabulary"}
+{"word":"Aussprache","translation":"pronunciation"}
+{"word":"Rechtschreibung","translation":"spelling"}
+{"word":"Lesen","translation":"reading"}
+{"word":"Schreiben","translation":"writing"}
+{"word":"Sprechen","translation":"speaking"}
+{"word":"Hören","translation":"listening"}
+{"word":"Verständnis","translation":"comprehension"}
+{"word":"Sprachflüssigkeit","translation":"fluency"}
+{"word":"Genauigkeit","translation":"accuracy"}
+{"word":"Prüfungsvorbereitung","translation":"exam preparation"}
+{"word":"Auswendiglernen","translation":"memorization"}
+{"word":"Lernziele","translation":"learning objectives"}
+{"word":"Lernergebnisse","translation":"learning outcomes"}
+{"word":"schülerzentriert","translation":"student-centered"}
+{"word":"lehrerzentriert","translation":"teacher-centered"}
+{"word":"Bewertungskriterien","translation":"assessment criteria"}
+{"word":"Lernumgebung","translation":"learning environment"}
+{"word":"inklusives Klassenzimmer","translation":"inclusive classroom"}
+{"word":"Klassenmanagement","translation":"classroom management"}
+{"word":"Schulmaterial","translation":"school supplies"}
+{"word":"Eltern-Lehrer-Gespräch","translation":"parent-teacher conference"}
+{"word":"Schulbericht","translation":"school report"}
+{"word":"akademische Leistung","translation":"academic achievement"}
+{"word":"Auszeichnung","translation":"award"}
+{"word":"Jahrgangsbester","translation":"valedictorian"}
+{"word":"Dekan","translation":"dean"}
+{"word":"Schulleiter","translation":"principal / headmaster"}
+{"word":"Rektor","translation":"rector"}
+{"word":"Schulrat","translation":"school board"}
+{"word":"Bildungsministerium","translation":"Ministry of Education"}
+{"word":"Bildungsreform","translation":"education reform"}
+{"word":"öffentliche Schule","translation":"public school"}
+{"word":"Privatschule","translation":"private school"}
+{"word":"Internat","translation":"boarding school"}
+{"word":"Hausunterricht","translation":"home schooling"}
+{"word":"standardisierter Test","translation":"standardized test"}
+{"word":"IQ-Test","translation":"IQ test"}
+{"word":"Teilnahmezertifikat","translation":"certificate of participation"}
+{"word":"nationale Prüfung","translation":"national exam"}
+{"word":"Internationales Abitur","translation":"International Baccalaureate"}],
+    "tourismandhospitality": [{"word":"Tourismus","translation":"tourism"},
+{"word":"Tourist","translation":"tourist"},
+{"word":"Reisender","translation":"traveler"},
+{"word":"Reise","translation":"trip"},
+{"word":"Urlaub","translation":"vacation"},
+{"word":"Ferien","translation":"holiday"},
+{"word":"Reisen","translation":"travel"},
+{"word":"Tourismusbranche","translation":"tourism industry"},
+{"word":"Gastgewerbe","translation":"hospitality industry"},
+{"word":"Gastgeber","translation":"host"},
+{"word":"Gast","translation":"guest"},
+{"word":"Reiseziel","translation":"destination"},
+{"word":"Attraktion","translation":"attraction"},
+{"word":"Besichtigung","translation":"sightseeing"},
+{"word":"Ausflug","translation":"excursion"},
+{"word":"Reiseplan","translation":"itinerary"},
+{"word":"Rundreise","translation":"tour"},
+{"word":"Reisebüro","translation":"travel agency"},
+{"word":"Reiseführer","translation":"tour guide"},
+{"word":"Reiseagent","translation":"travel agent"},
+{"word":"Reiseversicherung","translation":"travel insurance"},
+{"word":"Buchung","translation":"booking"},
+{"word":"Reservierung","translation":"reservation"},
+{"word":"Check-in","translation":"check-in"},
+{"word":"Check-out","translation":"check-out"},
+{"word":"Bestätigung","translation":"confirmation"},
+{"word":"Stornierung","translation":"cancellation"},
+{"word":"Umbuchung","translation":"rebooking"},
+{"word":"Zeitplan","translation":"schedule"},
+{"word":"Verspätung","translation":"delay"},
+{"word":"Abflug","translation":"departure"},
+{"word":"Ankunft","translation":"arrival"},
+{"word":"Flughafen","translation":"airport"},
+{"word":"Terminal","translation":"terminal"},
+{"word":"Gate","translation":"gate"},
+{"word":"Fluggesellschaft","translation":"airline"},
+{"word":"Flug","translation":"flight"},
+{"word":"Bordkarte","translation":"boarding pass"},
+{"word":"Ticket","translation":"ticket"},
+{"word":"Reisepass","translation":"passport"},
+{"word":"Visum","translation":"visa"},
+{"word":"Zoll","translation":"customs"},
+{"word":"Einwanderung","translation":"immigration"},
+{"word":"Sicherheitskontrolle","translation":"security check"},
+{"word":"Gepäck","translation":"luggage"},
+{"word":"Koffer","translation":"suitcase"},
+{"word":"Handgepäck","translation":"carry-on"},
+{"word":"Gepäckausgabe","translation":"baggage claim"},
+{"word":"verlorenes Gepäck","translation":"lost luggage"},
+{"word":"Transport","translation":"transport"},
+{"word":"Taxi","translation":"taxi"},
+{"word":"Shuttle","translation":"shuttle"},
+{"word":"Bus","translation":"bus"},
+{"word":"Reisebus","translation":"coach"},
+{"word":"Zug","translation":"train"},
+{"word":"Eisenbahn","translation":"railway"},
+{"word":"U-Bahn","translation":"subway"},
+{"word":"Metro","translation":"metro"},
+{"word":"Straßenbahn","translation":"tram"},
+{"word":"Autovermietung","translation":"car rental"},
+{"word":"Führerschein","translation":"driver's license"},
+{"word":"GPS","translation":"GPS"},
+{"word":"Kraftstoff","translation":"fuel"},
+{"word":"Maut","translation":"toll"},
+{"word":"Parkplatz","translation":"parking"},
+{"word":"Hotel","translation":"hotel"},
+{"word":"Hostel","translation":"hostel"},
+{"word":"Motel","translation":"motel"},
+{"word":"Resort","translation":"resort"},
+{"word":"Pension","translation":"guesthouse"},
+{"word":"Gasthof","translation":"inn"},
+{"word":"Bed and Breakfast","translation":"bed and breakfast"},
+{"word":"Unterkunft","translation":"accommodation"},
+{"word":"Beherbergung","translation":"lodging"},
+{"word":"Rezeption","translation":"reception"},
+{"word":"Empfang","translation":"front desk"},
+{"word":"Concierge","translation":"concierge"},
+{"word":"Gepäckträger","translation":"bellboy"},
+{"word":"Türsteher","translation":"doorman"},
+{"word":"Housekeeping","translation":"housekeeping"},
+{"word":"Zimmerservice","translation":"room service"},
+{"word":"Reinigung","translation":"cleaning"},
+{"word":"Wäscherei","translation":"laundry"},
+{"word":"Doppelzimmer","translation":"double room"},
+{"word":"Einzelzimmer","translation":"single room"},
+{"word":"Suite","translation":"suite"},
+{"word":"Zweibettzimmer","translation":"twin room"},
+{"word":"Deluxe-Zimmer","translation":"deluxe room"},
+{"word":"Standardzimmer","translation":"standard room"},
+{"word":"Reservierungsnummer","translation":"reservation number"},
+{"word":"Ausstattung","translation":"amenities"},
+{"word":"Pool","translation":"pool"},
+{"word":"Fitnessstudio","translation":"gym"},
+{"word":"Spa","translation":"spa"},
+{"word":"Wellness","translation":"wellness"},
+{"word":"Massage","translation":"massage"},
+{"word":"Restaurant","translation":"restaurant"},
+{"word":"Café","translation":"cafe"},
+{"word":"Bar","translation":"bar"},
+{"word":"Kneipe","translation":"pub"},
+{"word":"Buffet","translation":"buffet"},
+{"word":"à la carte","translation":"à la carte"},
+{"word":"Frühstück","translation":"breakfast"},
+{"word":"Mittagessen","translation":"lunch"},
+{"word":"Abendessen","translation":"dinner"},
+{"word":"Speisekarte","translation":"menu"},
+{"word":"Mahlzeit","translation":"meal"},
+{"word":"Gericht","translation":"dish"},
+{"word":"Vorspeise","translation":"starter"},
+{"word":"Hauptgericht","translation":"main course"},
+{"word":"Dessert","translation":"dessert"},
+{"word":"Getränk","translation":"drink"},
+{"word":"Kellner","translation":"waiter"},
+{"word":"Kellnerin","translation":"waitress"},
+{"word":"Servicekraft","translation":"server"},
+{"word":"Koch","translation":"cook"},
+{"word":"Küchenchef","translation":"chef"},
+{"word":"Küche","translation":"kitchen"},
+{"word":"Gastgewerbepersonal","translation":"hospitality staff"},
+{"word":"Trinkgeld","translation":"tip"},
+{"word":"Rechnung","translation":"bill"},
+{"word":"Quittung","translation":"receipt"},
+{"word":"Zahlung","translation":"payment"},
+{"word":"Bargeld","translation":"cash"},
+{"word":"Karte","translation":"card"},
+{"word":"Kreditkarte","translation":"credit card"},
+{"word":"Debitkarte","translation":"debit card"},
+{"word":"Fremdwährung","translation":"foreign currency"},
+{"word":"Wechselkurs","translation":"exchange rate"},
+{"word":"Bank","translation":"bank"},
+{"word":"Geldautomat","translation":"ATM"},
+{"word":"geführte Tour","translation":"guided tour"},
+{"word":"Audioguide","translation":"audio guide"},
+{"word":"Museum","translation":"museum"},
+{"word":"Denkmal","translation":"monument"},
+{"word":"historische Stätte","translation":"historic site"},
+{"word":"Schloss","translation":"castle"},
+{"word":"Kirche","translation":"church"},
+{"word":"Tempel","translation":"temple"},
+{"word":"Moschee","translation":"mosque"},
+{"word":"kulturelle Veranstaltung","translation":"cultural event"},
+{"word":"Festival","translation":"festival"},
+{"word":"Parade","translation":"parade"},
+{"word":"Strand","translation":"beach"},
+{"word":"Berg","translation":"mountain"},
+{"word":"Natur","translation":"nature"},
+{"word":"Wandern","translation":"hiking"},
+{"word":"Abenteuer","translation":"adventure"},
+{"word":"Safari","translation":"safari"},
+{"word":"Kreuzfahrt","translation":"cruise"},
+{"word":"Fähre","translation":"ferry"},
+{"word":"Boot","translation":"boat"},
+{"word":"Yacht","translation":"yacht"},
+{"word":"Segeln","translation":"sailing"},
+{"word":"Tauchen","translation":"diving"},
+{"word":"Schnorcheln","translation":"snorkeling"},
+{"word":"Schwimmen","translation":"swimming"},
+{"word":"Surfen","translation":"surfing"},
+{"word":"Camping","translation":"camping"},
+{"word":"Campingplatz","translation":"campsite"},
+{"word":"Zelt","translation":"tent"},
+{"word":"Rucksack","translation":"backpack"},
+{"word":"Reiseführerbuch","translation":"travel guidebook"},
+{"word":"GPS-App","translation":"GPS app"},
+{"word":"Bewertung","translation":"review"},
+{"word":"Empfehlung","translation":"recommendation"},
+{"word":"Reiseblog","translation":"travel blog"},
+{"word":"Reisevlog","translation":"travel vlog"},
+{"word":"Influencer","translation":"influencer"},
+{"word":"Erlebnis","translation":"experience"},
+{"word":"Erinnerungen","translation":"memories"},
+{"word":"Foto","translation":"photo"},
+{"word":"Kamera","translation":"camera"},
+{"word":"Video","translation":"video"},
+{"word":"Sprachbarriere","translation":"language barrier"},
+{"word":"Übersetzung","translation":"translation"},
+{"word":"Kommunikation","translation":"communication"},
+{"word":"Sicherheit","translation":"safety"},
+{"word":"Notfall","translation":"emergency"},
+{"word":"Gesundheit","translation":"health"},
+{"word":"Klinik","translation":"clinic"},
+{"word":"Krankenhaus","translation":"hospital"},
+{"word":"Reisewarnung","translation":"travel advisory"},
+{"word":"Botschaft","translation":"embassy"},
+{"word":"Konsulat","translation":"consulate"},
+{"word":"lokale Bräuche","translation":"local customs"},
+{"word":"Souvenir","translation":"souvenir"},
+{"word":"Einkaufen","translation":"shopping"},
+{"word":"Markt","translation":"market"},
+{"word":"Street Food","translation":"street food"},
+{"word":"öffentliche Verkehrsmittel","translation":"public transport"},
+{"word":"Reisetipp","translation":"travel tip"}],
+    "transportandlogistics": [{"word":"Transport","translation":"transport"},
+{"word":"Logistik","translation":"logistics"},
+{"word":"Sendung","translation":"shipment"},
+{"word":"Lieferung","translation":"delivery"},
+{"word":"Fracht","translation":"freight"},
+{"word":"Ladung","translation":"cargo"},
+{"word":"Lkw-Transport","translation":"truck transport"},
+{"word":"Lager","translation":"warehouse"},
+{"word":"Bestand","translation":"inventory"},
+{"word":"Lagerung","translation":"storage"},
+{"word":"Distribution","translation":"distribution"},
+{"word":"Verpackung","translation":"packaging"},
+{"word":"Beladung","translation":"loading"},
+{"word":"Entladung","translation":"unloading"},
+{"word":"Versand","translation":"shipping"},
+{"word":"Kurier","translation":"courier"},
+{"word":"Frachtführer","translation":"carrier"},
+{"word":"Logistikmanager","translation":"logistics manager"},
+{"word":"Lieferkette","translation":"supply chain"},
+{"word":"Angebot und Nachfrage","translation":"supply and demand"},
+{"word":"Verfolgung","translation":"tracking"},
+{"word":"Route","translation":"route"},
+{"word":"Zeitplan","translation":"schedule"},
+{"word":"Fahrplan","translation":"timetable"},
+{"word":"Transit","translation":"transit"},
+{"word":"Hafen","translation":"port"},
+{"word":"Hafenbecken","translation":"harbor basin"},
+{"word":"Container","translation":"container"},
+{"word":"Palette","translation":"pallet"},
+{"word":"Gabelstapler","translation":"forklift"},
+{"word":"Zollabfertigung","translation":"customs clearance"},
+{"word":"Frachtmanifest","translation":"cargo manifest"},
+{"word":"Konnossement","translation":"bill of lading"},
+{"word":"Lieferschein","translation":"delivery note"},
+{"word":"Versandetikett","translation":"shipping label"},
+{"word":"Barcode","translation":"barcode"},
+{"word":"Scanner","translation":"scanner"},
+{"word":"Abholung","translation":"pickup"},
+{"word":"Abgabe","translation":"drop-off"},
+{"word":"Kilometerstand","translation":"mileage"},
+{"word":"Kraftstoff","translation":"fuel"},
+{"word":"Diesel","translation":"diesel"},
+{"word":"Maut","translation":"toll"},
+{"word":"Autobahn","translation":"highway"},
+{"word":"Straße","translation":"road"},
+{"word":"Eisenbahn","translation":"railway"},
+{"word":"Zug","translation":"train"},
+{"word":"Lokomotive","translation":"locomotive"},
+{"word":"Wagen","translation":"car"},
+{"word":"Güterwagen","translation":"freight car"},
+{"word":"Gleis","translation":"track"},
+{"word":"Bahnsteig","translation":"platform"},
+{"word":"Flughafen","translation":"airport"},
+{"word":"Fluggesellschaft","translation":"airline"},
+{"word":"Startbahn","translation":"runway"},
+{"word":"Terminal","translation":"terminal"},
+{"word":"Boarding","translation":"boarding"},
+{"word":"Abflug","translation":"departure"},
+{"word":"Ankunft","translation":"arrival"},
+{"word":"Gate","translation":"gate"},
+{"word":"Gepäck","translation":"luggage"},
+{"word":"Koffer","translation":"suitcase"},
+{"word":"Check-in","translation":"check-in"},
+{"word":"Zollerklärung","translation":"customs declaration"},
+{"word":"Flugzeug","translation":"airplane"},
+{"word":"Luftfahrzeug","translation":"aircraft"},
+{"word":"Flug","translation":"flight"},
+{"word":"Flugticket","translation":"air ticket"},
+{"word":"Sitzplatz","translation":"seat"},
+{"word":"Passagier","translation":"passenger"},
+{"word":"Pilot","translation":"pilot"},
+{"word":"Besatzung","translation":"crew"},
+{"word":"Bus","translation":"bus"},
+{"word":"Reisebus","translation":"coach"},
+{"word":"Shuttle","translation":"shuttle"},
+{"word":"Taxi","translation":"taxi"},
+{"word":"Mitfahrdienst","translation":"ride-sharing service"},
+{"word":"Uber","translation":"Uber"},
+{"word":"Lyft","translation":"Lyft"},
+{"word":"Fahrpreis","translation":"fare"},
+{"word":"Ticketverkauf","translation":"ticket sales"},
+{"word":"Reservierung","translation":"reservation"},
+{"word":"Buchung","translation":"booking"},
+{"word":"Stornierung","translation":"cancellation"},
+{"word":"Verspätung","translation":"delay"},
+{"word":"Verkehrsstaus","translation":"traffic jams"},
+{"word":"GPS-Navigation","translation":"GPS navigation"},
+{"word":"Routenplanung","translation":"route planning"},
+{"word":"Lieferzeit","translation":"delivery time"},
+{"word":"geschätzte Zeit","translation":"estimated time"},
+{"word":"Echtzeit","translation":"real time"},
+{"word":"Hub","translation":"hub"},
+{"word":"Depot","translation":"depot"},
+{"word":"Logistikkette","translation":"logistics chain"},
+{"word":"letzte Meile","translation":"last mile"},
+{"word":"Rückwärtslogistik","translation":"reverse logistics"},
+{"word":"E-Commerce","translation":"e-commerce"},
+{"word":"Auftragserfüllung","translation":"order fulfillment"},
+{"word":"Logistikdienstleister","translation":"logistics service provider"},
+{"word":"Drittanbieter-Logistik (3PL)","translation":"third-party logistics (3PL)"},
+{"word":"Viertanbieter-Logistik (4PL)","translation":"fourth-party logistics (4PL)"},
+{"word":"Flotte","translation":"fleet"},
+{"word":"Fahrzeug","translation":"vehicle"},
+{"word":"Führerschein","translation":"driver's license"},
+{"word":"Genehmigung","translation":"permit"},
+{"word":"Inspektion","translation":"inspection"},
+{"word":"Einhaltung","translation":"compliance"},
+{"word":"Regulierung","translation":"regulation"},
+{"word":"Verkehrssicherheit","translation":"traffic safety"},
+{"word":"Unfall","translation":"accident"},
+{"word":"Panne","translation":"breakdown"},
+{"word":"Versicherung","translation":"insurance"},
+{"word":"Versicherungsschutz","translation":"coverage"},
+{"word":"Reparatur","translation":"repair"},
+{"word":"Wartung","translation":"maintenance"},
+{"word":"Ersatzteile","translation":"spare parts"},
+{"word":"Laderampe","translation":"loading dock"},
+{"word":"Anhänger","translation":"trailer"},
+{"word":"Sattelzugmaschine","translation":"tractor unit"},
+{"word":"Sattelzug","translation":"semi-trailer truck"},
+{"word":"Transport","translation":"transport"},
+{"word":"Logistikzentrum","translation":"logistics center"},
+{"word":"Lagerverwaltung","translation":"warehouse management"},
+{"word":"Bestandskontrolle","translation":"inventory control"},
+{"word":"Inventur","translation":"stocktaking"},
+{"word":"Lieferroute","translation":"delivery route"},
+{"word":"Kommissionierung","translation":"order picking"},
+{"word":"Verpackung von Bestellungen","translation":"order packaging"},
+{"word":"Transitzeit","translation":"transit time"},
+{"word":"Spediteur","translation":"freight forwarder"},
+{"word":"Logistiksoftware","translation":"logistics software"},
+{"word":"Transportmanagementsystem","translation":"transport management system"},
+{"word":"Barcode-Scanner","translation":"barcode scanner"},
+{"word":"RFID","translation":"RFID"},
+{"word":"Kühlkette","translation":"cold chain"},
+{"word":"Temperaturkontrolle","translation":"temperature control"},
+{"word":"verderbliche Waren","translation":"perishable goods"},
+{"word":"Gefahrstoffe","translation":"hazardous materials"},
+{"word":"Frachtversicherung","translation":"cargo insurance"},
+{"word":"Containerverfolgung","translation":"container tracking"},
+{"word":"Zollgebühren","translation":"customs duties"},
+{"word":"Import","translation":"import"},
+{"word":"Export","translation":"export"},
+{"word":"Incoterms","translation":"Incoterms"},
+{"word":"FOB","translation":"FOB"},
+{"word":"CIF","translation":"CIF"},
+{"word":"Zollmakler","translation":"customs broker"},
+{"word":"Zolllager","translation":"bonded warehouse"},
+{"word":"Frachtrechnung","translation":"freight invoice"},
+{"word":"Logistikkoordinator","translation":"logistics coordinator"},
+{"word":"Routenoptimierung","translation":"route optimization"},
+{"word":"Lieferkettenmanager","translation":"supply chain manager"},
+{"word":"Versandzentrum","translation":"distribution center"},
+{"word":"Echtzeitverfolgung","translation":"real-time tracking"},
+{"word":"Logistiknetzwerk","translation":"logistics network"},
+{"word":"prädiktive Analytik","translation":"predictive analytics"},
+{"word":"digitale Logistik","translation":"digital logistics"},
+{"word":"autonomes Fahrzeug","translation":"autonomous vehicle"},
+{"word":"Drohnenlieferung","translation":"drone delivery"},
+{"word":"Elektro-Lkw","translation":"electric truck"},
+{"word":"CO2-Fußabdruck","translation":"carbon footprint"},
+{"word":"Nachhaltigkeit","translation":"sustainability"},
+{"word":"grüne Logistik","translation":"green logistics"},
+{"word":"intermodal","translation":"intermodal"},
+{"word":"multimodal","translation":"multimodal"},
+{"word":"Lastkahn","translation":"barge"},
+{"word":"Schiff","translation":"ship"},
+{"word":"Reederei","translation":"shipping company"},
+{"word":"Containerschiff","translation":"container ship"},
+{"word":"Seetransport","translation":"sea transport"},
+{"word":"Luftfracht","translation":"air freight"},
+{"word":"Seefracht","translation":"ocean freight"},
+{"word":"Straßenfracht","translation":"road freight"},
+{"word":"Schienenfracht","translation":"rail freight"},
+{"word":"Massengut","translation":"bulk cargo"},
+{"word":"Stückgut","translation":"general cargo"},
+{"word":"Frachtkosten","translation":"freight cost"},
+{"word":"Kraftstoffzuschlag","translation":"fuel surcharge"},
+{"word":"Logistikhub","translation":"logistics hub"},
+{"word":"globaler Handel","translation":"global trade"},
+{"word":"Frachtmarkt","translation":"freight market"},
+{"word":"Abholpunkt","translation":"pickup point"},
+{"word":"Lieferbestätigung","translation":"delivery confirmation"},
+{"word":"Zustellnachweis","translation":"proof of delivery"},
+{"word":"Zollinspektion","translation":"customs inspection"},
+{"word":"Fahrzeugverfolgung","translation":"vehicle tracking"},
+{"word":"Telematik","translation":"telematics"},
+{"word":"Frachtmanagement","translation":"freight management"},
+{"word":"Auftragsmanagement","translation":"order management"}],
+    "customsandbordersecurity": [{"word":"Zoll","translation":"customs"},
+{"word":"Grenze","translation":"border"},
+{"word":"Sicherheit","translation":"security"},
+{"word":"Patrouille","translation":"patrol"},
+{"word":"Kontrollpunkt","translation":"checkpoint"},
+{"word":"Abfertigung","translation":"clearance"},
+{"word":"Reisepass","translation":"passport"},
+{"word":"Visum","translation":"visa"},
+{"word":"Einwanderung","translation":"immigration"},
+{"word":"Deklaration","translation":"declaration"},
+{"word":"Abgabe","translation":"submission"},
+{"word":"Zolltarif","translation":"customs tariff"},
+{"word":"Import","translation":"import"},
+{"word":"Export","translation":"export"},
+{"word":"Schmuggel","translation":"smuggling"},
+{"word":"Schmuggelware","translation":"contraband"},
+{"word":"Inspektion","translation":"inspection"},
+{"word":"Dokument","translation":"document"},
+{"word":"Ausweis","translation":"ID card"},
+{"word":"Kontrolle","translation":"control"},
+{"word":"Scanner","translation":"scanner"},
+{"word":"Röntgen","translation":"X-ray"},
+{"word":"Erkennung","translation":"detection"},
+{"word":"Überwachung","translation":"surveillance"},
+{"word":"Kamera","translation":"camera"},
+{"word":"Radar","translation":"radar"},
+{"word":"Zaun","translation":"fence"},
+{"word":"Mauer","translation":"wall"},
+{"word":"Barriere","translation":"barrier"},
+{"word":"Tor","translation":"gate"},
+{"word":"Eintritt","translation":"entry"},
+{"word":"Ausgang","translation":"exit"},
+{"word":"Übergang","translation":"crossing"},
+{"word":"Hafen","translation":"port"},
+{"word":"Seehafen","translation":"seaport"},
+{"word":"Flughafen","translation":"airport"},
+{"word":"Landgrenze","translation":"land border"},
+{"word":"Zollbeamter","translation":"customs officer"},
+{"word":"Grenzbeamter","translation":"border officer"},
+{"word":"Einwanderungsbeamter","translation":"immigration officer"},
+{"word":"Zollabgabe","translation":"customs duty"},
+{"word":"Steuer","translation":"tax"},
+{"word":"Bußgeld","translation":"fine"},
+{"word":"Strafe","translation":"penalty"},
+{"word":"Regelung","translation":"regulation"},
+{"word":"Einhaltung","translation":"compliance"},
+{"word":"Gesetz","translation":"law"},
+{"word":"Beschränkung","translation":"restriction"},
+{"word":"Verboten","translation":"prohibited"},
+{"word":"Gesperrt","translation":"blocked"},
+{"word":"Kontrolliert","translation":"controlled"},
+{"word":"Quote","translation":"quota"},
+{"word":"Lizenz","translation":"license"},
+{"word":"Genehmigung","translation":"permit"},
+{"word":"Waren","translation":"goods"},
+{"word":"Handelsware","translation":"commercial goods"},
+{"word":"Fracht","translation":"freight"},
+{"word":"Sendung","translation":"shipment"},
+{"word":"Lager","translation":"warehouse"},
+{"word":"Zolllager","translation":"bonded warehouse"},
+{"word":"Transit","translation":"transit"},
+{"word":"Route","translation":"route"},
+{"word":"Reise","translation":"trip"},
+{"word":"Transport","translation":"transport"},
+{"word":"Zollformular","translation":"customs form"},
+{"word":"Manifest","translation":"manifest"},
+{"word":"Zertifikat","translation":"certificate"},
+{"word":"Ursprung","translation":"origin"},
+{"word":"Bestimmungsort","translation":"destination"},
+{"word":"Rechnung","translation":"invoice"},
+{"word":"Packliste","translation":"packing list"},
+{"word":"Deklarationsformular","translation":"declaration form"},
+{"word":"Zollmakler","translation":"customs broker"},
+{"word":"Agentur","translation":"agency"},
+{"word":"Verwaltung","translation":"administration"},
+{"word":"Völkerrecht","translation":"international law"},
+{"word":"Grenzzone","translation":"border zone"},
+{"word":"Visumfreiheit","translation":"visa exemption"},
+{"word":"Flüchtling","translation":"refugee"},
+{"word":"Asyl","translation":"asylum"},
+{"word":"Staatsangehörigkeit","translation":"nationality"},
+{"word":"Bürgerschaft","translation":"citizenship"},
+{"word":"Aufenthalt","translation":"residency"},
+{"word":"Einreiseverbot","translation":"entry ban"},
+{"word":"Schwarze Liste","translation":"blacklist"},
+{"word":"Beobachtungsliste","translation":"watchlist"},
+{"word":"Biometrisch","translation":"biometric"},
+{"word":"Fingerabdruck","translation":"fingerprint"},
+{"word":"Gesichtserkennung","translation":"facial recognition"},
+{"word":"Identitätskontrolle","translation":"identity check"},
+{"word":"Inhaftierung","translation":"detention"},
+{"word":"Verhaftung","translation":"arrest"},
+{"word":"Untersuchung","translation":"investigation"},
+{"word":"Durchsetzung","translation":"enforcement"},
+{"word":"Beschlagnahme","translation":"seizure"},
+{"word":"Konfiszierung","translation":"confiscation"},
+{"word":"Audit","translation":"audit"},
+{"word":"Bericht","translation":"report"},
+{"word":"Nachrichtendienst","translation":"intelligence service"},
+{"word":"Informant","translation":"informant"},
+{"word":"Drogenhandel","translation":"drug trafficking"},
+{"word":"Menschenhandel","translation":"human trafficking"},
+{"word":"Geldwäsche","translation":"money laundering"},
+{"word":"Illegale Einwanderung","translation":"illegal immigration"},
+{"word":"Überziehung des Aufenthalts","translation":"overstaying"},
+{"word":"Undokumentiert","translation":"undocumented"},
+{"word":"Gefälschter Reisepass","translation":"fake passport"},
+{"word":"Gefälschtes Dokument","translation":"forged document"},
+{"word":"Gefälschter Ausweis","translation":"fake ID"},
+{"word":"Zollkodex","translation":"customs code"},
+{"word":"Grenzkontrolle","translation":"border control"},
+{"word":"Grenzüberschreitung","translation":"border crossing"},
+{"word":"Zone","translation":"zone"},
+{"word":"Perimeter","translation":"perimeter"},
+{"word":"Alarm","translation":"alarm"},
+{"word":"Notfall","translation":"emergency"},
+{"word":"Schnelle Reaktion","translation":"rapid response"},
+{"word":"Koordination","translation":"coordination"},
+{"word":"Gemeinsame Operation","translation":"joint operation"},
+{"word":"Internationale Zusammenarbeit","translation":"international cooperation"},
+{"word":"Abkommen","translation":"agreement"},
+{"word":"Vertrag","translation":"treaty"},
+{"word":"Konvention","translation":"convention"},
+{"word":"Sicherheitskontrolle","translation":"security check"},
+{"word":"Zollbewertung","translation":"customs valuation"},
+{"word":"Zollunion","translation":"customs union"},
+{"word":"Handelsabkommen","translation":"trade agreement"},
+{"word":"Embargo","translation":"embargo"},
+{"word":"Sanktionen","translation":"sanctions"},
+{"word":"Importbeschränkung","translation":"import restriction"},
+{"word":"Exportlizenz","translation":"export license"},
+{"word":"Frachtkontrolle","translation":"cargo inspection"},
+{"word":"Hundeeinheit","translation":"canine unit"},
+{"word":"Spürhund","translation":"sniffer dog"},
+{"word":"Rauschgift","translation":"narcotics"},
+{"word":"Sprengstoff","translation":"explosives"},
+{"word":"Waffen","translation":"weapons"},
+{"word":"Munition","translation":"ammunition"},
+{"word":"Gefährliche Güter","translation":"dangerous goods"},
+{"word":"Quarantäne","translation":"quarantine"},
+{"word":"Gesundheitskontrolle","translation":"health inspection"},
+{"word":"Lebensmittelsicherheit","translation":"food safety"},
+{"word":"Zollschulung","translation":"customs training"},
+{"word":"Beamter","translation":"officer"},
+{"word":"Zollfrei","translation":"duty-free"},
+{"word":"Abfertigungsprozess","translation":"clearance process"},
+{"word":"Grenzzaun","translation":"border fence"},
+{"word":"Biometrischer Reisepass","translation":"biometric passport"},
+{"word":"Zollscanner","translation":"customs scanner"},
+{"word":"Gepäckkontrolle","translation":"baggage check"},
+{"word":"Profiling","translation":"profiling"},
+{"word":"Reisender","translation":"traveler"},
+{"word":"Zollspur","translation":"customs lane"},
+{"word":"Roter Kanal","translation":"red channel"},
+{"word":"Grüner Kanal","translation":"green channel"},
+{"word":"Zollerklärung","translation":"customs declaration"},
+{"word":"E-Gates","translation":"e-gates"},
+{"word":"Vorabkontrolle","translation":"pre-clearance"},
+{"word":"Erweiterte Passagierinformationen","translation":"advanced passenger information"},
+{"word":"Visumantrag","translation":"visa application"},
+{"word":"Passkontrolle","translation":"passport control"},
+{"word":"Zollamt","translation":"customs office"},
+{"word":"Einreisestempel","translation":"entry stamp"},
+{"word":"Ausreisestempel","translation":"exit stamp"},
+{"word":"Zollvorschrift","translation":"customs regulation"},
+{"word":"Zollinspektion","translation":"customs inspection"},
+{"word":"Visumsgespräch","translation":"visa interview"},
+{"word":"Einwanderungsgesetz","translation":"immigration law"},
+{"word":"Reisekarte","translation":"travel map"},
+{"word":"Migration","translation":"migration"},
+{"word":"Transitvisum","translation":"transit visa"},
+{"word":"Zollsoftware","translation":"customs software"},
+{"word":"Zolldatenbank","translation":"customs database"},
+{"word":"Schmuggelversuch","translation":"smuggling attempt"},
+{"word":"Alarmsystem","translation":"alarm system"},
+{"word":"Laderaum","translation":"cargo hold"},
+{"word":"Zollbefreiung","translation":"customs exemption"},
+{"word":"Manifestprüfung","translation":"manifest check"},
+{"word":"Flugmanifest","translation":"flight manifest"},
+{"word":"Hafenbehörde","translation":"port authority"},
+{"word":"Containerinspektion","translation":"container inspection"},
+{"word":"Spediteur","translation":"freight forwarder"},
+{"word":"Handelskonformität","translation":"trade compliance"},
+{"word":"Importsteuer","translation":"import tax"},
+{"word":"Exportdeklaration","translation":"export declaration"},
+{"word":"Nachtpatrouille","translation":"night patrol"},
+{"word":"Illegale Einreise","translation":"illegal entry"},
+{"word":"Einreisehafen","translation":"port of entry"},
+{"word":"Einreisegenehmigung","translation":"entry permit"},
+{"word":"Aufenthaltsgenehmigung","translation":"residency permit"},
+{"word":"Einreiseabfertigung","translation":"entry clearance"},
+{"word":"Eingeschränktes Gebiet","translation":"restricted area"},
+{"word":"Schmuggelware-Erkennung","translation":"contraband detection"},
+{"word":"Zolldurchsetzung","translation":"customs enforcement"}],
+    "diplomacyandinternationalrelations": [{"word":"Diplomatie","translation":"diplomacy"},
+{"word":"Diplomat","translation":"diplomat"},
+{"word":"Botschafter","translation":"ambassador"},
+{"word":"Botschaft","translation":"embassy"},
+{"word":"Konsulat","translation":"consulate"},
+{"word":"Konsularisch","translation":"consular"},
+{"word":"Ausländisch","translation":"foreign"},
+{"word":"Beziehungen","translation":"relations"},
+{"word":"International","translation":"international"},
+{"word":"Verhandlung","translation":"negotiation"},
+{"word":"Abkommen","translation":"agreement"},
+{"word":"Vertrag","translation":"treaty"},
+{"word":"Protokoll","translation":"protocol"},
+{"word":"Gipfel","translation":"summit"},
+{"word":"Bilateral","translation":"bilateral"},
+{"word":"Multilateral","translation":"multilateral"},
+{"word":"Delegation","translation":"delegation"},
+{"word":"Gesandter","translation":"envoy"},
+{"word":"Geschäftsträger","translation":"chargé d'affaires"},
+{"word":"Außenminister","translation":"foreign minister"},
+{"word":"Außenpolitik","translation":"foreign policy"},
+{"word":"Auswärtige Angelegenheiten","translation":"foreign affairs"},
+{"word":"Diplomatische Mission","translation":"diplomatic mission"},
+{"word":"Diplomatisches Korps","translation":"diplomatic corps"},
+{"word":"Verhandlungstisch","translation":"negotiation table"},
+{"word":"Mediator","translation":"mediator"},
+{"word":"Mediation","translation":"mediation"},
+{"word":"Schiedsgericht","translation":"arbitration court"},
+{"word":"Allianz","translation":"alliance"},
+{"word":"Koalition","translation":"coalition"},
+{"word":"Pakt","translation":"pact"},
+{"word":"Übereinkunft","translation":"accord"},
+{"word":"Resolution","translation":"resolution"},
+{"word":"Anerkennung","translation":"recognition"},
+{"word":"Souveränität","translation":"sovereignty"},
+{"word":"Unabhängigkeit","translation":"independence"},
+{"word":"Zwischenstaatlich","translation":"interstate"},
+{"word":"Global","translation":"global"},
+{"word":"Globalisierung","translation":"globalization"},
+{"word":"Regional","translation":"regional"},
+{"word":"Transnational","translation":"transnational"},
+{"word":"Kooperation","translation":"cooperation"},
+{"word":"Zusammenarbeit","translation":"collaboration"},
+{"word":"Engagement","translation":"engagement"},
+{"word":"Partnerschaft","translation":"partnership"},
+{"word":"Strategisch","translation":"strategic"},
+{"word":"Völkerrecht","translation":"international law"},
+{"word":"Frieden","translation":"peace"},
+{"word":"Friedenssicherung","translation":"peacekeeping"},
+{"word":"Konflikt","translation":"conflict"},
+{"word":"Krieg","translation":"war"},
+{"word":"Waffenstillstand","translation":"ceasefire"},
+{"word":"Truce (Waffenruhe)","translation":"truce"},
+{"word":"Rüstungskontrolle","translation":"arms control"},
+{"word":"Abrüstung","translation":"disarmament"},
+{"word":"Nichtverbreitung","translation":"non-proliferation"},
+{"word":"Sanktion","translation":"sanction"},
+{"word":"Embargo","translation":"embargo"},
+{"word":"Boykott","translation":"boycott"},
+{"word":"Druck","translation":"pressure"},
+{"word":"Weiche Macht","translation":"soft power"},
+{"word":"Harte Macht","translation":"hard power"},
+{"word":"Öffentliche Diplomatie","translation":"public diplomacy"},
+{"word":"Kulturaustausch","translation":"cultural exchange"},
+{"word":"Diplomatische Immunität","translation":"diplomatic immunity"},
+{"word":"Diplomatenpass","translation":"diplomatic passport"},
+{"word":"Gipfeltreffen","translation":"summit meeting"},
+{"word":"Hochrangige Gespräche","translation":"high-level talks"},
+{"word":"Dialog","translation":"dialogue"},
+{"word":"Runder Tisch","translation":"round table"},
+{"word":"Bilaterale Beziehungen","translation":"bilateral relations"},
+{"word":"Multilaterales Forum","translation":"multilateral forum"},
+{"word":"Globale Governance","translation":"global governance"},
+{"word":"Internationale Organisation","translation":"international organization"},
+{"word":"Vereinte Nationen","translation":"United Nations"},
+{"word":"UN-Sicherheitsrat","translation":"UN Security Council"},
+{"word":"Generalversammlung","translation":"General Assembly"},
+{"word":"Internationaler Gerichtshof","translation":"International Court of Justice"},
+{"word":"Internationaler Strafgerichtshof","translation":"International Criminal Court"},
+{"word":"NGO","translation":"NGO"},
+{"word":"Globale Institution","translation":"global institution"},
+{"word":"G7","translation":"G7"},
+{"word":"G20","translation":"G20"},
+{"word":"Europäische Union","translation":"European Union"},
+{"word":"Afrikanische Union","translation":"African Union"},
+{"word":"ASEAN","translation":"ASEAN"},
+{"word":"NATO","translation":"NATO"},
+{"word":"Vertragsorganisation","translation":"treaty organization"},
+{"word":"Interagentur-Zusammenarbeit","translation":"interagency cooperation"},
+{"word":"Politik","translation":"policy"},
+{"word":"Strategie","translation":"strategy"},
+{"word":"Rahmen","translation":"framework"},
+{"word":"Agenda","translation":"agenda"},
+{"word":"Initiative","translation":"initiative"},
+{"word":"Konsens","translation":"consensus"},
+{"word":"Ratifizierung","translation":"ratification"},
+{"word":"Umsetzung","translation":"implementation"},
+{"word":"Beschluss","translation":"decision"},
+{"word":"Veto","translation":"veto"},
+{"word":"Intervention","translation":"intervention"},
+{"word":"Humanitär","translation":"humanitarian"},
+{"word":"Flüchtling","translation":"refugee"},
+{"word":"Asyl","translation":"asylum"},
+{"word":"Migration","translation":"migration"},
+{"word":"Visum","translation":"visa"},
+{"word":"Grenze","translation":"border"},
+{"word":"Demarkation","translation":"demarcation"},
+{"word":"Territorium","translation":"territory"},
+{"word":"Nation","translation":"nation"},
+{"word":"Staat","translation":"state"},
+{"word":"Staatsoberhaupt","translation":"head of state"},
+{"word":"Regierungschef","translation":"head of government"},
+{"word":"Präsident","translation":"president"},
+{"word":"Premierminister","translation":"prime minister"},
+{"word":"Ausländische Würdenträger","translation":"foreign dignitaries"},
+{"word":"Diplomatischer Kanal","translation":"diplomatic channel"},
+{"word":"Hinterkanal","translation":"back channel"},
+{"word":"Beauftragter","translation":"envoy/representative"},
+{"word":"Gipfeldiplomatie","translation":"summit diplomacy"},
+{"word":"Shuttle-Diplomatie","translation":"shuttle diplomacy"},
+{"word":"Stille Diplomatie","translation":"quiet diplomacy"},
+{"word":"Präventive Diplomatie","translation":"preventive diplomacy"},
+{"word":"Krisendiplomatie","translation":"crisis diplomacy"},
+{"word":"Internationaler Druck","translation":"international pressure"},
+{"word":"Internationale Hilfe","translation":"international aid"},
+{"word":"Entwicklungshilfe","translation":"development aid"},
+{"word":"Bilaterales Abkommen","translation":"bilateral agreement"},
+{"word":"Gemeinsame Erklärung","translation":"joint statement"},
+{"word":"Kommuniqué","translation":"communiqué"},
+{"word":"Abschließender Akt","translation":"final act"},
+{"word":"Absichtserklärung","translation":"letter of intent"},
+{"word":"Absichtserklärung (Memorandum of Understanding)","translation":"memorandum of understanding"},
+{"word":"Konvention","translation":"convention"},
+{"word":"Vertragspflichten","translation":"treaty obligations"},
+{"word":"Friedensvertrag","translation":"peace treaty"},
+{"word":"Grenzabkommen","translation":"border agreement"},
+{"word":"Maritimes Abkommen","translation":"maritime agreement"},
+{"word":"Atomabkommen","translation":"nuclear agreement"},
+{"word":"Handelsabkommen","translation":"trade agreement"},
+{"word":"Freihandel","translation":"free trade"},
+{"word":"Aufhebung des Embargos","translation":"lifting of embargo"},
+{"word":"Diplomatische Spannungen","translation":"diplomatic tensions"},
+{"word":"Diplomatischer Konflikt","translation":"diplomatic conflict"},
+{"word":"Diplomatischer Zwischenfall","translation":"diplomatic incident"},
+{"word":"Abbruch der Verhandlungen","translation":"breakdown of negotiations"},
+{"word":"Wiederherstellung der Beziehungen","translation":"restoration of relations"},
+{"word":"Normalisierung","translation":"normalization"},
+{"word":"Wiederaufnahme","translation":"resumption"},
+{"word":"Abbruch der Beziehungen","translation":"severing of relations"},
+{"word":"Ausweisung","translation":"expulsion"},
+{"word":"Rückberufung","translation":"recall"},
+{"word":"Einbestellung","translation":"summons"},
+{"word":"Entschuldigung","translation":"apology"},
+{"word":"Protestnote","translation":"note of protest"},
+{"word":"Demarche","translation":"demarche"},
+{"word":"Diplomatischer Protest","translation":"diplomatic protest"},
+{"word":"Bilateraler Besuch","translation":"bilateral visit"},
+{"word":"Staatsbesuch","translation":"state visit"},
+{"word":"Güterwille-Besuch","translation":"courtesy visit"},
+{"word":"Ministertreffen","translation":"ministerial meeting"},
+{"word":"Pressemitteilung","translation":"press release"},
+{"word":"Diplomatische Note","translation":"diplomatic note"},
+{"word":"Rundschreiben","translation":"circular"},
+{"word":"Diplomatenpost","translation":"diplomatic mail"},
+{"word":"Nachrichtendienst","translation":"intelligence service"},
+{"word":"Vertraulich","translation":"confidential"},
+{"word":"Klassifiziert","translation":"classified"},
+{"word":"Deklassifiziert","translation":"declassified"},
+{"word":"Diplomatische Rede","translation":"diplomatic speech"},
+{"word":"Erklärung","translation":"statement"},
+{"word":"Internationaler Status","translation":"international status"},
+{"word":"Drittparteien-Mediator","translation":"third-party mediator"},
+{"word":"Auftragsmission / Fact-finding Mission","translation":"fact-finding mission"},
+{"word":"Konfliktlösung","translation":"conflict resolution"},
+{"word":"Nachkonflikt-Wiederaufbau","translation":"post-conflict reconstruction"},
+{"word":"Beobachtermission","translation":"observer mission"},
+{"word":"Sondergesandter","translation":"special envoy"},
+{"word":"Friedensabkommen","translation":"peace agreement"},
+{"word":"Friedensprozess","translation":"peace process"},
+{"word":"Friedenspakt","translation":"peace pact"},
+{"word":"Demilitarisierung","translation":"demilitarization"},
+{"word":"Internationale Aufsicht","translation":"international supervision"},
+{"word":"Internationale Konferenz","translation":"international conference"},
+{"word":"Ausländische Hilfe","translation":"foreign aid"},
+{"word":"Gipfelerklärung","translation":"summit declaration"},
+{"word":"Offizielle Einladung","translation":"official invitation"},
+{"word":"Gastland","translation":"host country"},
+{"word":"Partnerland","translation":"partner country"},
+{"word":"Unterzeichner","translation":"signatory"},
+{"word":"Verhandlungsphase","translation":"negotiation phase"},
+{"word":"Politikpapier","translation":"policy paper"},
+{"word":"Arbeitsgruppe","translation":"working group"},
+{"word":"Sonderausschuss","translation":"special committee"},
+{"word":"Ständige Mission","translation":"permanent mission"}],
+    "tradeandentrepreneurship": [{"word":"Handel","translation":"trade"},
+{"word":"Commerce","translation":"commerce"},
+{"word":"Unternehmer","translation":"entrepreneur"},
+{"word":"Unternehmertum","translation":"entrepreneurship"},
+{"word":"Startup","translation":"startup"},
+{"word":"Geschäft","translation":"business"},
+{"word":"Firma","translation":"company"},
+{"word":"Unternehmen","translation":"enterprise"},
+{"word":"Markt","translation":"market"},
+{"word":"Marketing","translation":"marketing"},
+{"word":"Vertrieb","translation":"sales"},
+{"word":"Umsatz","translation":"revenue"},
+{"word":"Gewinn","translation":"profit"},
+{"word":"Verlust","translation":"loss"},
+{"word":"Investition","translation":"investment"},
+{"word":"Investor","translation":"investor"},
+{"word":"Kapital","translation":"capital"},
+{"word":"Venture","translation":"venture"},
+{"word":"Finanzierung","translation":"financing"},
+{"word":"Startkapital","translation":"seed capital"},
+{"word":"Angel-Investor","translation":"angel investor"},
+{"word":"Risikokapitalgeber","translation":"venture capitalist"},
+{"word":"Eigenkapital","translation":"equity"},
+{"word":"Anteil","translation":"share"},
+{"word":"Aktie","translation":"stock"},
+{"word":"Aktionär","translation":"shareholder"},
+{"word":"Stakeholder","translation":"stakeholder"},
+{"word":"Partnerschaft","translation":"partnership"},
+{"word":"Einzelunternehmen","translation":"sole proprietorship"},
+{"word":"Kapitalgesellschaft","translation":"corporation"},
+{"word":"Haftungsbeschränkt","translation":"limited liability"},
+{"word":"Geschäftsplan","translation":"business plan"},
+{"word":"Pitch","translation":"pitch"},
+{"word":"Geschäftsmodell","translation":"business model"},
+{"word":"Wertangebot","translation":"value proposition"},
+{"word":"Innovation","translation":"innovation"},
+{"word":"Disruption","translation":"disruption"},
+{"word":"Skalierung","translation":"scaling"},
+{"word":"Wachstum","translation":"growth"},
+{"word":"Expansion","translation":"expansion"},
+{"word":"Franchise","translation":"franchise"},
+{"word":"Lizenzierung","translation":"licensing"},
+{"word":"Distribution","translation":"distribution"},
+{"word":"Großhandel","translation":"wholesale"},
+{"word":"Einzelhandel","translation":"retail"},
+{"word":"E-Commerce","translation":"e-commerce"},
+{"word":"Plattform","translation":"platform"},
+{"word":"Lieferant","translation":"supplier"},
+{"word":"Kunde","translation":"customer"},
+{"word":"Verbraucher","translation":"consumer"},
+{"word":"Käufer","translation":"buyer"},
+{"word":"Verkäufer","translation":"seller"},
+{"word":"Klient","translation":"client"},
+{"word":"Dienstleistung","translation":"service"},
+{"word":"Produkt","translation":"product"},
+{"word":"Waren","translation":"goods"},
+{"word":"Logistik","translation":"logistics"},
+{"word":"Lieferkette","translation":"supply chain"},
+{"word":"Inventar","translation":"inventory"},
+{"word":"Lieferung","translation":"delivery"},
+{"word":"Bestellung","translation":"order"},
+{"word":"Rechnung","translation":"invoice"},
+{"word":"Zahlung","translation":"payment"},
+{"word":"Transaktion","translation":"transaction"},
+{"word":"Checkout","translation":"checkout"},
+{"word":"Online-Zahlung","translation":"online payment"},
+{"word":"Preisgestaltung","translation":"pricing"},
+{"word":"Kosten","translation":"cost"},
+{"word":"Marge","translation":"margin"},
+{"word":"Bruttomarge","translation":"gross margin"},
+{"word":"Nettogewinn","translation":"net profit"},
+{"word":"Break-even","translation":"break-even"},
+{"word":"Cashflow","translation":"cash flow"},
+{"word":"Buchhaltung","translation":"accounting"},
+{"word":"Buchführung","translation":"bookkeeping"},
+{"word":"Bilanz","translation":"balance sheet"},
+{"word":"Gewinn- und Verlustrechnung","translation":"profit and loss statement"},
+{"word":"Finanzbericht","translation":"financial report"},
+{"word":"Prüfung","translation":"audit"},
+{"word":"Steuer","translation":"tax"},
+{"word":"Besteuerung","translation":"taxation"},
+{"word":"Steuererklärung","translation":"tax return"},
+{"word":"Steuer-ID","translation":"tax ID"},
+{"word":"Import","translation":"import"},
+{"word":"Export","translation":"export"},
+{"word":"Zoll","translation":"customs"},
+{"word":"Zolltarif","translation":"customs tariff"},
+{"word":"Handelsabkommen","translation":"trade agreement"},
+{"word":"Handelsbarriere","translation":"trade barrier"},
+{"word":"Freihandel","translation":"free trade"},
+{"word":"Gewerkschaft","translation":"union"},
+{"word":"Internationaler Handel","translation":"international trade"},
+{"word":"Inländischer Handel","translation":"domestic trade"},
+{"word":"Handelsbilanz","translation":"trade balance"},
+{"word":"Angebot","translation":"supply"},
+{"word":"Nachfrage","translation":"demand"},
+{"word":"Wirtschaftspolitik","translation":"economic policy"},
+{"word":"Zinssatz","translation":"interest rate"},
+{"word":"Inflation","translation":"inflation"},
+{"word":"Deflation","translation":"deflation"},
+{"word":"Rezession","translation":"recession"},
+{"word":"Wirtschaftswachstum","translation":"economic growth"},
+{"word":"BIP","translation":"GDP"},
+{"word":"Wettbewerbsfähigkeit","translation":"competitiveness"},
+{"word":"Produktivität","translation":"productivity"},
+{"word":"Arbeit","translation":"labor"},
+{"word":"Arbeitskraft","translation":"workforce"},
+{"word":"Arbeitgeber","translation":"employer"},
+{"word":"Arbeitnehmer","translation":"employee"},
+{"word":"Lohn","translation":"wage"},
+{"word":"Gehalt","translation":"salary"},
+{"word":"Gehaltsabrechnung","translation":"payroll"},
+{"word":"Personalwesen","translation":"human resources"},
+{"word":"Einstellung","translation":"hiring"},
+{"word":"Rekrutierung","translation":"recruitment"},
+{"word":"Interview","translation":"interview"},
+{"word":"Vertrag","translation":"contract"},
+{"word":"Freiberuflich","translation":"freelance"},
+{"word":"Outsourcing","translation":"outsourcing"},
+{"word":"Geschäftsanmeldung","translation":"business registration"},
+{"word":"Gründung","translation":"founding"},
+{"word":"Marke","translation":"brand"},
+{"word":"Patent","translation":"patent"},
+{"word":"Geistiges Eigentum","translation":"intellectual property"},
+{"word":"Branding","translation":"branding"},
+{"word":"Logo","translation":"logo"},
+{"word":"Werbung","translation":"advertising"},
+{"word":"Kampagne","translation":"campaign"},
+{"word":"Promotion","translation":"promotion"},
+{"word":"Öffentlichkeitsarbeit","translation":"public relations"},
+{"word":"Medien","translation":"media"},
+{"word":"Soziale Medien","translation":"social media"},
+{"word":"Influencer","translation":"influencer"},
+{"word":"Strategie","translation":"strategy"},
+{"word":"Planung","translation":"planning"},
+{"word":"Führung","translation":"leadership"},
+{"word":"Management","translation":"management"},
+{"word":"Betrieb","translation":"operations"},
+{"word":"KPI","translation":"KPI"},
+{"word":"Leistung","translation":"performance"},
+{"word":"Ziel","translation":"goal"},
+{"word":"Objektiv","translation":"objective"},
+{"word":"Meilenstein","translation":"milestone"},
+{"word":"Frist","translation":"deadline"},
+{"word":"Risiko","translation":"risk"},
+{"word":"Risikomanagement","translation":"risk management"},
+{"word":"Versicherung","translation":"insurance"},
+{"word":"Haftung","translation":"liability"},
+{"word":"Compliance","translation":"compliance"},
+{"word":"Regulierung","translation":"regulation"},
+{"word":"Rechtsstruktur","translation":"legal structure"},
+{"word":"Rechtliche Einheit","translation":"legal entity"},
+{"word":"Governance","translation":"governance"},
+{"word":"Vorstand","translation":"board"},
+{"word":"CEO","translation":"CEO"},
+{"word":"Gründer","translation":"founder"},
+{"word":"Mitgründer","translation":"co-founder"},
+{"word":"Business-Inkubator","translation":"business incubator"},
+{"word":"Accelerator","translation":"accelerator"},
+{"word":"Coworking-Space","translation":"coworking space"},
+{"word":"Business-Mentor","translation":"business mentor"},
+{"word":"Business-Coach","translation":"business coach"},
+{"word":"Networking","translation":"networking"},
+{"word":"Pitch-Deck","translation":"pitch deck"},
+{"word":"Demo-Day","translation":"demo day"},
+{"word":"Crowdfunding","translation":"crowdfunding"},
+{"word":"Peer-to-Peer","translation":"peer-to-peer"},
+{"word":"Bootstrap","translation":"bootstrap"},
+{"word":"Monetarisierung","translation":"monetization"},
+{"word":"Upsell","translation":"upsell"},
+{"word":"Kundengewinnung","translation":"customer acquisition"},
+{"word":"Conversion","translation":"conversion"},
+{"word":"Churn","translation":"churn"},
+{"word":"Benutzererfahrung","translation":"user experience"},
+{"word":"UI","translation":"UI"},
+{"word":"UX","translation":"UX"},
+{"word":"Agil","translation":"agile"},
+{"word":"Lean Startup","translation":"lean startup"},
+{"word":"MVP (Minimal funktionsfähiges Produkt)","translation":"MVP (minimum viable product)"},
+{"word":"Prototyp","translation":"prototype"},
+{"word":"Iteration","translation":"iteration"},
+{"word":"Validierung","translation":"validation"},
+{"word":"Feedback","translation":"feedback"},
+{"word":"Traktion","translation":"traction"},
+{"word":"Skalierbarkeit","translation":"scalability"},
+{"word":"Tech-fähig","translation":"tech-enabled"},
+{"word":"Mobile-first","translation":"mobile-first"},
+{"word":"SaaS","translation":"SaaS"},
+{"word":"B2B","translation":"B2B"},
+{"word":"B2C","translation":"B2C"},
+{"word":"D2C","translation":"D2C"},
+{"word":"Pitch-Session","translation":"pitch session"},
+{"word":"Kapitalbeschaffung","translation":"fundraising"},
+{"word":"Exit-Strategie","translation":"exit strategy"},
+{"word":"Fusion","translation":"merger"},
+{"word":"Akquisition","translation":"acquisition"},
+{"word":"Börsengang (IPO)","translation":"IPO"}],
+    "humanitarianandngos": [{"word":"Humanitär","translation":"humanitarian"},
+{"word":"NGO","translation":"NGO"},
+{"word":"Nichtregierungsorganisation","translation":"non-governmental organization"},
+{"word":"Wohltätigkeit","translation":"charity"},
+{"word":"Hilfe","translation":"aid"},
+{"word":"Nothilfe","translation":"emergency aid"},
+{"word":"Unterstützung","translation":"support"},
+{"word":"Beistand","translation":"assistance"},
+{"word":"Notfall","translation":"emergency"},
+{"word":"Krise","translation":"crisis"},
+{"word":"Katastrophe","translation":"disaster"},
+{"word":"Wiederaufbau","translation":"reconstruction"},
+{"word":"Reaktion","translation":"response"},
+{"word":"Unterkunft","translation":"shelter"},
+{"word":"Essen","translation":"food"},
+{"word":"Wasser","translation":"water"},
+{"word":"Sanitär","translation":"sanitation"},
+{"word":"Hygiene","translation":"hygiene"},
+{"word":"Gesundheit","translation":"health"},
+{"word":"Ernährung","translation":"nutrition"},
+{"word":"Impfung","translation":"vaccination"},
+{"word":"Ausbruch","translation":"outbreak"},
+{"word":"Epidemie","translation":"epidemic"},
+{"word":"Pandemie","translation":"pandemic"},
+{"word":"Vertreibung","translation":"displacement"},
+{"word":"Flüchtling","translation":"refugee"},
+{"word":"Asyl","translation":"asylum"},
+{"word":"Migrant","translation":"migrant"},
+{"word":"Binnenvertriebene","translation":"internally displaced persons"},
+{"word":"Umsiedlung","translation":"resettlement"},
+{"word":"Konflikt","translation":"conflict"},
+{"word":"Friedenssicherung","translation":"peacekeeping"},
+{"word":"Schutz","translation":"protection"},
+{"word":"Sicherheit","translation":"safety"},
+{"word":"Geschlecht","translation":"gender"},
+{"word":"Geschlechtsbasierte Gewalt","translation":"gender-based violence"},
+{"word":"Menschenrechte","translation":"human rights"},
+{"word":"Lobbyarbeit","translation":"advocacy"},
+{"word":"Bewusstsein","translation":"awareness"},
+{"word":"Kampagne","translation":"campaign"},
+{"word":"Aufklärung","translation":"education"},
+{"word":"Gemeinschaft","translation":"community"},
+{"word":"Entwicklung","translation":"development"},
+{"word":"Projekt","translation":"project"},
+{"word":"Programm","translation":"program"},
+{"word":"Initiative","translation":"initiative"},
+{"word":"Zusammenarbeit","translation":"collaboration"},
+{"word":"Partnerschaft","translation":"partnership"},
+{"word":"Geber","translation":"donor"},
+{"word":"Finanzierung","translation":"funding"},
+{"word":"Zuschuss","translation":"grant"},
+{"word":"Spende","translation":"donation"},
+{"word":"Sponsor","translation":"sponsor"},
+{"word":"Sponsoring","translation":"sponsorship"},
+{"word":"Freiwilliger","translation":"volunteer"},
+{"word":"Freiwilligenarbeit","translation":"volunteering"},
+{"word":"Personal","translation":"staff"},
+{"word":"Feldarbeiter","translation":"field worker"},
+{"word":"Koordinator","translation":"coordinator"},
+{"word":"Logistiker","translation":"logistician"},
+{"word":"Sanitäter","translation":"paramedic"},
+{"word":"Berater","translation":"consultant"},
+{"word":"Psychologe","translation":"psychologist"},
+{"word":"Sozialarbeiter","translation":"social worker"},
+{"word":"Bildung","translation":"education"},
+{"word":"Schulwesen","translation":"schooling"},
+{"word":"Alphabetisierung","translation":"literacy"},
+{"word":"Ermächtigung","translation":"empowerment"},
+{"word":"Inklusion","translation":"inclusion"},
+{"word":"Gleichberechtigung","translation":"equality"},
+{"word":"Gerechtigkeit","translation":"justice"},
+{"word":"Würde","translation":"dignity"},
+{"word":"Kapazitätsaufbau","translation":"capacity building"},
+{"word":"Schulung","translation":"training"},
+{"word":"Evaluation","translation":"evaluation"},
+{"word":"Überwachung","translation":"monitoring"},
+{"word":"Auswirkung","translation":"impact"},
+{"word":"Bewertung","translation":"assessment"},
+{"word":"Basislinie","translation":"baseline"},
+{"word":"Indikator","translation":"indicator"},
+{"word":"Ziel","translation":"goal"},
+{"word":"Begünstigter","translation":"beneficiary"},
+{"word":"Verwundbar","translation":"vulnerable"},
+{"word":"Marginalisiert","translation":"marginalized"},
+{"word":"Gemeindebasiert","translation":"community-based"},
+{"word":"Basisorientiert","translation":"grassroots"},
+{"word":"Nachhaltigkeit","translation":"sustainability"},
+{"word":"Resilienz","translation":"resilience"},
+{"word":"Klima","translation":"climate"},
+{"word":"Klimawandel","translation":"climate change"},
+{"word":"Ernährungsunsicherheit","translation":"food insecurity"},
+{"word":"Hunger","translation":"hunger"},
+{"word":"Mangelernährung","translation":"malnutrition"},
+{"word":"Lebensgrundlagen","translation":"livelihoods"},
+{"word":"Landwirtschaft","translation":"agriculture"},
+{"word":"Ackerbau","translation":"farming"},
+{"word":"Mikrofinanz","translation":"microfinance"},
+{"word":"Unternehmertum","translation":"entrepreneurship"},
+{"word":"Jugend","translation":"youth"},
+{"word":"Kinder","translation":"children"},
+{"word":"Frauen","translation":"women"},
+{"word":"Mädchen","translation":"girls"},
+{"word":"Männer","translation":"men"},
+{"word":"Jungen","translation":"boys"},
+{"word":"Ältere","translation":"elderly"},
+{"word":"Menschen mit Behinderung","translation":"people with disabilities"},
+{"word":"Inklusiv","translation":"inclusive"},
+{"word":"Zugang","translation":"access"},
+{"word":"Chance","translation":"opportunity"},
+{"word":"Infrastruktur","translation":"infrastructure"},
+{"word":"Wiederaufbau","translation":"reconstruction"},
+{"word":"Politik","translation":"policy"},
+{"word":"Governance","translation":"governance"},
+{"word":"Stakeholder","translation":"stakeholder"},
+{"word":"Koordination","translation":"coordination"},
+{"word":"Humanitärer Korridor","translation":"humanitarian corridor"},
+{"word":"Konvoi","translation":"convoy"},
+{"word":"Verteilung","translation":"distribution"},
+{"word":"Lagerbestand","translation":"stock"},
+{"word":"Lager","translation":"warehouse"},
+{"word":"Logistik","translation":"logistics"},
+{"word":"Transport","translation":"transport"},
+{"word":"Versand","translation":"shipping"},
+{"word":"Zoll","translation":"customs"},
+{"word":"Genehmigung","translation":"authorization"},
+{"word":"Dokumentation","translation":"documentation"},
+{"word":"Registrierung","translation":"registration"},
+{"word":"Identifikation","translation":"identification"},
+{"word":"Daten","translation":"data"},
+{"word":"Umfrage","translation":"survey"},
+{"word":"Formular","translation":"form"},
+{"word":"Bericht","translation":"report"},
+{"word":"Dashboard","translation":"dashboard"},
+{"word":"Kommunikation","translation":"communication"},
+{"word":"Medien","translation":"media"},
+{"word":"Presse","translation":"press"},
+{"word":"Erklärung","translation":"statement"},
+{"word":"Appell","translation":"appeal"},
+{"word":"Notfallappell","translation":"emergency appeal"},
+{"word":"Internationales Recht","translation":"international law"},
+{"word":"Humanitäres Recht","translation":"humanitarian law"},
+{"word":"Genfer Konvention","translation":"Geneva Convention"},
+{"word":"Rotes Kreuz","translation":"Red Cross"},
+{"word":"ICRC","translation":"ICRC"},
+{"word":"UN","translation":"UN"},
+{"word":"UNICEF","translation":"UNICEF"},
+{"word":"UNHCR","translation":"UNHCR"},
+{"word":"WFP","translation":"WFP"},
+{"word":"WHO","translation":"WHO"},
+{"word":"OCHA","translation":"OCHA"},
+{"word":"Lokale NGO","translation":"local NGO"},
+{"word":"Internationale NGO","translation":"international NGO"},
+{"word":"Geberagentur","translation":"donor agency"},
+{"word":"Zivilgesellschaft","translation":"civil society"},
+{"word":"Privatsektor","translation":"private sector"},
+{"word":"Finanzierungslücke","translation":"funding gap"},
+{"word":"Beschaffung","translation":"procurement"},
+{"word":"Lieferungen","translation":"supplies"},
+{"word":"Materialien","translation":"materials"},
+{"word":"Medizin","translation":"medicine"},
+{"word":"Impfstoff","translation":"vaccine"},
+{"word":"Psychosozial","translation":"psychosocial"},
+{"word":"Trauma","translation":"trauma"},
+{"word":"Heilung","translation":"healing"},
+{"word":"Unterkunftsset","translation":"shelter kit"},
+{"word":"Hygieneset","translation":"hygiene kit"},
+{"word":"Würde-Set","translation":"dignity kit"},
+{"word":"Lebensmittelpaket","translation":"food package"},
+{"word":"Ration","translation":"ration"},
+{"word":"Verteilungspunkt","translation":"distribution point"},
+{"word":"Koordinierungstreffen","translation":"coordination meeting"},
+{"word":"Feldbesuch","translation":"field visit"},
+{"word":"Mission","translation":"mission"},
+{"word":"Briefing","translation":"briefing"},
+{"word":"Feldbericht","translation":"field report"},
+{"word":"Lagebericht","translation":"situation report"},
+{"word":"Logistikplan","translation":"logistics plan"},
+{"word":"Strategieplan","translation":"strategy plan"},
+{"word":"Budget","translation":"budget"},
+{"word":"Ausgaben","translation":"expenditure"},
+{"word":"Rechenschaftspflicht","translation":"accountability"},
+{"word":"Transparenz","translation":"transparency"},
+{"word":"Ethik","translation":"ethics"},
+{"word":"Neutralität","translation":"neutrality"},
+{"word":"Unparteilichkeit","translation":"impartiality"},
+{"word":"Unabhängigkeit","translation":"independence"},
+{"word":"Feldbüro","translation":"field office"},
+{"word":"Hauptquartier","translation":"headquarters"},
+{"word":"Cluster-System","translation":"cluster system"},
+{"word":"Schutz-Cluster","translation":"protection cluster"},
+{"word":"WASH-Cluster","translation":"WASH cluster"},
+{"word":"Ernährungssicherheits-Cluster","translation":"food security cluster"},
+{"word":"Gesundheits-Cluster","translation":"health cluster"},
+{"word":"Bildungs-Cluster","translation":"education cluster"},
+{"word":"Bargeldtransfer","translation":"cash transfer"},
+{"word":"Gutschein","translation":"voucher"},
+{"word":"Mobile Geldmittel","translation":"mobile money"},
+{"word":"Gemeindeleiter","translation":"community leader"},
+{"word":"Stakeholder-Treffen","translation":"stakeholder meeting"}]
   },
   "italian": {
     "lawandjustice": [],
