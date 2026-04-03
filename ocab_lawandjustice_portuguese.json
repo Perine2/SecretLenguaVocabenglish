@@ -1944,17 +1944,1934 @@
 {"word":"Stakeholder-Treffen","translation":"réunion des parties prenantes"}]
   },
   "spanish": {
-    "lawandjustice": [],
-    "healthandmedicine": [],
-    "economyandfinance": [],
-    "educationandteaching": [],
-    "tourismandhospitality": [],
-    "transportandlogistics": [],
-    "customsandbordersecurity": [],
-    "diplomacyandinternationalrelations": [],
-    "tradeandentrepreneurship": [],
-    "humanitarianandngos": []
- },
+    "lawandjustice": [{"word":"Justiz","translation":"justicia"},
+{"word":"Gericht","translation":"tribunal"},
+{"word":"Richter","translation":"juez"},
+{"word":"Anwalt","translation":"abogado"},
+{"word":"Rechtsanwalt","translation":"abogado"},
+{"word":"Staatsanwalt","translation":"fiscal"},
+{"word":"Angeklagter","translation":"acusado"},
+{"word":"Kläger","translation":"demandante"},
+{"word":"Prozess","translation":"proceso"},
+{"word":"Jury","translation":"jurado"},
+{"word":"Urteil","translation":"sentencia"},
+{"word":"Strafe","translation":"pena"},
+{"word":"Bestrafung","translation":"castigo"},
+{"word":"Gefängnis","translation":"prisión"},
+{"word":"Haftanstalt","translation":"centro penitenciario"},
+{"word":"Kaution","translation":"fianza"},
+{"word":"Haftbefehl","translation":"orden de arresto"},
+{"word":"Festnahme","translation":"detención"},
+{"word":"Polizeibeamter","translation":"oficial de policía"},
+{"word":"Verbrechen","translation":"delito"},
+{"word":"Krimineller","translation":"criminal"},
+{"word":"schuldig","translation":"culpable"},
+{"word":"unschuldig","translation":"inocente"},
+{"word":"Beweis","translation":"prueba"},
+{"word":"Zeuge","translation":"testigo"},
+{"word":"Aussage","translation":"declaración"},
+{"word":"Kreuzverhör","translation":"contrainterrogatorio"},
+{"word":"Einspruch","translation":"objeción"},
+{"word":"abgelehnt","translation":"rechazado"},
+{"word":"stattgegeben","translation":"aceptado"},
+{"word":"Berufung","translation":"apelación"},
+{"word":"Fall","translation":"caso"},
+{"word":"Anhörung","translation":"audiencia"},
+{"word":"Vorladung","translation":"citación"},
+{"word":"eidesstattliche Erklärung","translation":"declaración jurada"},
+{"word":"Zeugenaussage unter Eid","translation":"testimonio bajo juramento"},
+{"word":"Entscheidung","translation":"decisión"},
+{"word":"Gesetz","translation":"ley"},
+{"word":"Verfassung","translation":"constitución"},
+{"word":"Verordnung","translation":"reglamento"},
+{"word":"Gesetzbuch","translation":"código legal"},
+{"word":"Klausel","translation":"cláusula"},
+{"word":"Bestimmung","translation":"disposición"},
+{"word":"Vertrag","translation":"contrato"},
+{"word":"Vereinbarung","translation":"acuerdo"},
+{"word":"Vertragsbruch","translation":"incumplimiento de contrato"},
+{"word":"Zustimmung","translation":"consentimiento"},
+{"word":"Haftung","translation":"responsabilidad"},
+{"word":"Schadensersatz","translation":"indemnización"},
+{"word":"Entschädigung","translation":"compensación"},
+{"word":"Vergleich","translation":"acuerdo conciliatorio"},
+{"word":"Streitigkeit","translation":"disputa"},
+{"word":"Anspruch","translation":"reclamación"},
+{"word":"Klage","translation":"demanda"},
+{"word":"einstweilige Verfügung","translation":"orden cautelar"},
+{"word":"Unterlassungsverfügung","translation":"orden de restricción"},
+{"word":"Sorgerecht","translation":"custodia"},
+{"word":"Vormundschaft","translation":"tutela"},
+{"word":"Adoption","translation":"adopción"},
+{"word":"Scheidung","translation":"divorcio"},
+{"word":"Ehe","translation":"matrimonio"},
+{"word":"Ehepartner","translation":"cónyuge"},
+{"word":"Kindesunterhalt","translation":"manutención infantil"},
+{"word":"Unterhalt","translation":"pensión alimenticia"},
+{"word":"Eigentum","translation":"propiedad"},
+{"word":"Vermögen","translation":"patrimonio"},
+{"word":"Erbschaft","translation":"herencia"},
+{"word":"Testament","translation":"testamento"},
+{"word":"Testamentsvollstrecker","translation":"albacea"},
+{"word":"Treuhänder","translation":"fiduciario"},
+{"word":"Begünstigter","translation":"beneficiario"},
+{"word":"Urkunde","translation":"documento"},
+{"word":"Eigentumstitel","translation":"título de propiedad"},
+{"word":"Besitz","translation":"posesión"},
+{"word":"Vermieter","translation":"arrendador"},
+{"word":"Mieter","translation":"inquilino"},
+{"word":"Mietvertrag","translation":"contrato de arrendamiento"},
+{"word":"Räumung","translation":"desalojo"},
+{"word":"Zwangsvollstreckung","translation":"ejecución forzosa"},
+{"word":"Insolvenz","translation":"bancarrota"},
+{"word":"Gläubiger","translation":"acreedor"},
+{"word":"Schuldner","translation":"deudor"},
+{"word":"Zahlungsverzug","translation":"incumplimiento de pago"},
+{"word":"Hypothek","translation":"hipoteca"},
+{"word":"Pfandrecht","translation":"derecho de prenda"},
+{"word":"Betrug","translation":"fraude"},
+{"word":"Unterschlagung","translation":"malversación"},
+{"word":"Bestechung","translation":"soborno"},
+{"word":"Korruption","translation":"corrupción"},
+{"word":"Diebstahl","translation":"robo"},
+{"word":"Raub","translation":"asalto / robo con violencia"},
+{"word":"Körperverletzung","translation":"lesiones"},
+{"word":"Tätlichkeit","translation":"agresión"},
+{"word":"Mord","translation":"asesinato"},
+{"word":"Totschlag","translation":"homicidio"},
+{"word":"Tötungsdelikt","translation":"delito de homicidio"},
+{"word":"Vergewaltigung","translation":"violación"},
+{"word":"Belästigung","translation":"acoso"},
+{"word":"Diskriminierung","translation":"discriminación"},
+{"word":"Rechte","translation":"derechos"},
+{"word":"Freiheit","translation":"libertad"},
+{"word":"Freiheit (persönliche Freiheit)","translation":"libertad personal"},
+{"word":"Gleichheit","translation":"igualdad"},
+{"word":"ordnungsgemäßes Verfahren","translation":"debido proceso"},
+{"word":"faires Verfahren","translation":"juicio justo"},
+{"word":"Unschuldsvermutung","translation":"presunción de inocencia"},
+{"word":"kreuzverhören","translation":"contrainterrogatorio"},
+{"word":"Verteidigung","translation":"defensa"},
+{"word":"Anklage","translation":"acusación"},
+{"word":"Strafvollzug","translation":"cumplimiento de pena"},
+{"word":"Rehabilitation","translation":"rehabilitación"},
+{"word":"Bewährung nach Haft","translation":"libertad condicional"},
+{"word":"Bewährung","translation":"libertad condicional / prueba"},
+{"word":"Jugendhaft","translation":"detención juvenil"},
+{"word":"Reform","translation":"reforma"},
+{"word":"Terrorismus","translation":"terrorismo"},
+{"word":"Verdächtiger","translation":"sospechoso"},
+{"word":"Verhör","translation":"interrogatorio"},
+{"word":"Geständnis","translation":"confesión"},
+{"word":"Überwachung","translation":"vigilancia"},
+{"word":"Ermittlung","translation":"investigación"},
+{"word":"Forensik","translation":"forense"},
+{"word":"Fingerabdruck","translation":"huella dactilar"},
+{"word":"DNA","translation":"ADN"},
+{"word":"Zuständigkeit","translation":"jurisdicción"},
+{"word":"Gerichtsstand","translation":"competencia judicial"},
+{"word":"Berufungsgericht","translation":"tribunal de apelación"},
+{"word":"Oberstes Gericht","translation":"tribunal supremo"},
+{"word":"Bezirksgericht","translation":"tribunal de distrito"},
+{"word":"Magistrat","translation":"magistrado"},
+{"word":"Tribunal","translation":"tribunal"},
+{"word":"Durchsetzung","translation":"ejecución"},
+{"word":"Gesetzgebung","translation":"legislación"},
+{"word":"Verabschiedung","translation":"adopción / aprobación"},
+{"word":"Lobby","translation":"lobby / grupo de presión"},
+{"word":"Präzedenzfall","translation":"precedente"},
+{"word":"Gewohnheitsrecht","translation":"derecho consuetudinario"},
+{"word":"Zivilrecht","translation":"derecho civil"},
+{"word":"Strafrecht","translation":"derecho penal"},
+{"word":"Verwaltungsrecht","translation":"derecho administrativo"},
+{"word":"Völkerrecht","translation":"derecho internacional"},
+{"word":"Menschenrechte","translation":"derechos humanos"},
+{"word":"Pflichtverteidiger","translation":"defensor público"},
+{"word":"Rechtshilfe","translation":"asistencia legal"},
+{"word":"Rechtssystem","translation":"sistema judicial"},
+{"word":"Gerichtsverfahren","translation":"procedimiento judicial"},
+{"word":"bindend","translation":"vinculante"},
+{"word":"nicht bindend","translation":"no vinculante"},
+{"word":"Mediation","translation":"mediación"},
+{"word":"Schiedsverfahren","translation":"arbitraje"},
+{"word":"Notar","translation":"notario"},
+{"word":"beglaubigte Unterschrift","translation":"firma certificada"},
+{"word":"Dokumentation","translation":"documentación"},
+{"word":"amtlich","translation":"oficial"},
+{"word":"Standesbeamter","translation":"oficial del registro civil"},
+{"word":"Berufungsgericht","translation":"tribunal de apelación"},
+{"word":"Verurteilung","translation":"condena"},
+{"word":"Freispruch","translation":"absolución"},
+{"word":"Bewährungshelfer","translation":"oficial de libertad condicional"},
+{"word":"Rückfälligkeit","translation":"reincidencia"},
+{"word":"Verjährungsfrist","translation":"plazo de prescripción"},
+{"word":"Immunität","translation":"inmunidad"},
+{"word":"Geständnis","translation":"confesión"},
+{"word":"Deal mit der Staatsanwaltschaft","translation":"acuerdo con la fiscalía"},
+{"word":"Anklageschrift","translation":"acusación formal"},
+{"word":"Anklageverlesung","translation":"lectura de cargos"},
+{"word":"Gerichtsdiener","translation":"oficial judicial"},
+{"word":"Gerichtsakte","translation":"expediente judicial"},
+{"word":"Richterbank","translation":"banca del juez"},
+{"word":"Kammer","translation":"cámara / sala"},
+{"word":"Anwaltskammer","translation":"colegio de abogados"},
+{"word":"Ethik","translation":"ética"},
+{"word":"Kunstfehler","translation":"negligencia profesional"},
+{"word":"Vertraulichkeit","translation":"confidencialidad"},
+{"word":"Mandant","translation":"cliente"},
+{"word":"Vorschuss","translation":"anticipo"},
+{"word":"Rechtsstreit","translation":"litigio"},
+{"word":"unerlaubte Handlung","translation":"acto ilícito"},
+{"word":"Fahrlässigkeit","translation":"negligencia"},
+{"word":"Haftung","translation":"responsabilidad"},
+{"word":"Schuld","translation":"culpa"},
+{"word":"Vorsatz","translation":"intención"},
+{"word":"Tatbestand","translation":"hecho constitutivo"},
+{"word":"Tribunal","translation":"tribunal"},
+{"word":"Zuständigkeit","translation":"competencia"},
+{"word":"Vorladung","translation":"citación"},
+{"word":"Wiedergutmachung","translation":"reparación"},
+{"word":"Durchsetzung","translation":"ejecución"},
+{"word":"Sanktion","translation":"sanción"}],
+    "healthandmedicine": [{"word":"Gesundheit","translation":"salud"},
+{"word":"Medizin","translation":"medicina"},
+{"word":"Krankenhaus","translation":"hospital"},
+{"word":"Klinik","translation":"clínica"},
+{"word":"Arzt","translation":"médico"},
+{"word":"Krankenschwester","translation":"enfermera"},
+{"word":"Patient","translation":"paciente"},
+{"word":"Diagnose","translation":"diagnóstico"},
+{"word":"Behandlung","translation":"tratamiento"},
+{"word":"Therapie","translation":"terapia"},
+{"word":"Krankheit","translation":"enfermedad"},
+{"word":"Erkrankung","translation":"afección"},
+{"word":"Zustand","translation":"estado"},
+{"word":"Symptom","translation":"síntoma"},
+{"word":"Anzeichen","translation":"signo"},
+{"word":"Prävention","translation":"prevención"},
+{"word":"Heilung","translation":"curación"},
+{"word":"Chirurgie","translation":"cirugía"},
+{"word":"Operation","translation":"operación"},
+{"word":"Notfall","translation":"emergencia"},
+{"word":"Allgemeinmediziner","translation":"médico general"},
+{"word":"Facharzt","translation":"especialista"},
+{"word":"Chirurg","translation":"cirujano"},
+{"word":"Zahnarzt","translation":"dentista"},
+{"word":"Apotheker","translation":"farmacéutico"},
+{"word":"Therapeut","translation":"terapeuta"},
+{"word":"Psychologe","translation":"psicólogo"},
+{"word":"Psychiater","translation":"psiquiatra"},
+{"word":"Pflegekraft","translation":"personal de enfermería"},
+{"word":"Sanitäter","translation":"paramédico"},
+{"word":"Hebamme","translation":"partera"},
+{"word":"Anästhesist","translation":"anestesiólogo"},
+{"word":"Radiologe","translation":"radiólogo"},
+{"word":"Dermatologe","translation":"dermatólogo"},
+{"word":"Kardiologe","translation":"cardiólogo"},
+{"word":"Neurologe","translation":"neurólogo"},
+{"word":"Onkologe","translation":"oncólogo"},
+{"word":"Kinderarzt","translation":"pediatra"},
+{"word":"Gynäkologe","translation":"ginecólogo"},
+{"word":"Medikament","translation":"medicamento"},
+{"word":"Arzneimittel","translation":"fármaco"},
+{"word":"Pille","translation":"pastilla"},
+{"word":"Tablette","translation":"tableta"},
+{"word":"Kapsel","translation":"cápsula"},
+{"word":"Injektion","translation":"inyección"},
+{"word":"Impfstoff","translation":"vacuna"},
+{"word":"Antibiotikum","translation":"antibiótico"},
+{"word":"Schmerzmittel","translation":"analgésico"},
+{"word":"Antidepressivum","translation":"antidepresivo"},
+{"word":"entzündungshemmendes Mittel","translation":"antiinflamatorio"},
+{"word":"antivirales Mittel","translation":"antiviral"},
+{"word":"Salbe","translation":"ungüento"},
+{"word":"Creme","translation":"crema"},
+{"word":"Sirup","translation":"jarabe"},
+{"word":"Rezept","translation":"receta"},
+{"word":"Dosierung","translation":"dosis"},
+{"word":"rezeptfrei","translation":"sin receta"},
+{"word":"Nebenwirkung","translation":"efecto secundario"},
+{"word":"Test","translation":"prueba"},
+{"word":"Scan","translation":"escaneo"},
+{"word":"Röntgen","translation":"radiografía"},
+{"word":"MRT","translation":"resonancia magnética"},
+{"word":"CT-Scan","translation":"tomografía computarizada"},
+{"word":"Bluttest","translation":"análisis de sangre"},
+{"word":"Urintest","translation":"análisis de orina"},
+{"word":"Biopsie","translation":"biopsia"},
+{"word":"Screening","translation":"cribado"},
+{"word":"Untersuchung","translation":"examen"},
+{"word":"EKG","translation":"electrocardiograma"},
+{"word":"Ultraschall","translation":"ecografía"},
+{"word":"Labor","translation":"laboratorio"},
+{"word":"Monitor","translation":"monitor"},
+{"word":"Thermometer","translation":"termómetro"},
+{"word":"Stethoskop","translation":"estetoscopio"},
+{"word":"Blutdruck","translation":"presión arterial"},
+{"word":"Puls","translation":"pulso"},
+{"word":"Herzschlag","translation":"latido cardíaco"},
+{"word":"Gehirn","translation":"cerebro"},
+{"word":"Herz","translation":"corazón"},
+{"word":"Lungen","translation":"pulmones"},
+{"word":"Leber","translation":"hígado"},
+{"word":"Nieren","translation":"riñones"},
+{"word":"Magen","translation":"estómago"},
+{"word":"Därme","translation":"intestinos"},
+{"word":"Bauchspeicheldrüse","translation":"páncreas"},
+{"word":"Blase","translation":"vejiga"},
+{"word":"Haut","translation":"piel"},
+{"word":"Knochen","translation":"huesos"},
+{"word":"Muskeln","translation":"músculos"},
+{"word":"Nerven","translation":"nervios"},
+{"word":"Arterien","translation":"arterias"},
+{"word":"Venen","translation":"venas"},
+{"word":"Gelenke","translation":"articulaciones"},
+{"word":"Hals","translation":"cuello"},
+{"word":"Nase","translation":"nariz"},
+{"word":"Augen","translation":"ojos"},
+{"word":"Ohren","translation":"oídos"},
+{"word":"Grippe","translation":"gripe"},
+{"word":"Erkältung","translation":"resfriado"},
+{"word":"Fieber","translation":"fiebre"},
+{"word":"Infektion","translation":"infección"},
+{"word":"Virus","translation":"virus"},
+{"word":"Bakterien","translation":"bacterias"},
+{"word":"Diabetes","translation":"diabetes"},
+{"word":"Krebs","translation":"cáncer"},
+{"word":"Asthma","translation":"asma"},
+{"word":"Allergie","translation":"alergia"},
+{"word":"Bluthochdruck","translation":"hipertensión"},
+{"word":"Schlaganfall","translation":"ictus"},
+{"word":"Herzinfarkt","translation":"infarto de miocardio"},
+{"word":"Lungenentzündung","translation":"neumonía"},
+{"word":"Tuberkulose","translation":"tuberculosis"},
+{"word":"Arthritis","translation":"artritis"},
+{"word":"Migräne","translation":"migraña"},
+{"word":"Fettleibigkeit","translation":"obesidad"},
+{"word":"Schlaflosigkeit","translation":"insomnio"},
+{"word":"Depression","translation":"depresión"},
+{"word":"Husten","translation":"tos"},
+{"word":"Kopfschmerzen","translation":"dolor de cabeza"},
+{"word":"Halsschmerzen","translation":"dolor de garganta"},
+{"word":"Übelkeit","translation":"náusea"},
+{"word":"Erbrechen","translation":"vómito"},
+{"word":"Schwindel","translation":"mareo"},
+{"word":"Müdigkeit","translation":"cansancio"},
+{"word":"Schwäche","translation":"debilidad"},
+{"word":"Schwellung","translation":"hinchazón"},
+{"word":"Ausschlag","translation":"erupción"},
+{"word":"Juckreiz","translation":"picazón"},
+{"word":"Blutung","translation":"sangrado"},
+{"word":"Niesen","translation":"estornudo"},
+{"word":"laufende Nase","translation":"secreción nasal"},
+{"word":"Verstopfung","translation":"estreñimiento"},
+{"word":"Schüttelfrost","translation":"escalofríos"},
+{"word":"Krämpfe","translation":"calambres"},
+{"word":"Atemnot","translation":"dificultad para respirar"},
+{"word":"Schwitzen","translation":"sudoración"},
+{"word":"Herzklopfen","translation":"palpitaciones"},
+{"word":"Krankenwagen","translation":"ambulancia"},
+{"word":"Notaufnahme","translation":"urgencias"},
+{"word":"Trauma","translation":"trauma"},
+{"word":"Wunde","translation":"herida"},
+{"word":"Verbrennung","translation":"quemadura"},
+{"word":"Fraktur","translation":"fractura"},
+{"word":"Verstauchung","translation":"esguince"},
+{"word":"Herz-Lungen-Wiederbelebung","translation":"reanimación cardiopulmonar"},
+{"word":"Defibrillator","translation":"desfibrilador"},
+{"word":"Trage","translation":"camilla"},
+{"word":"Verband","translation":"venda"},
+{"word":"Wundverband","translation":"apósito"},
+{"word":"Sauerstoff","translation":"oxígeno"},
+{"word":"Rettung","translation":"rescate"},
+{"word":"Schock","translation":"shock"},
+{"word":"Triage","translation":"triaje"},
+{"word":"Evakuierung","translation":"evacuación"},
+{"word":"Alarm","translation":"alarma"},
+{"word":"Hygiene","translation":"higiene"},
+{"word":"Sanitärversorgung","translation":"saneamiento"},
+{"word":"Ernährung","translation":"nutrición"},
+{"word":"Gesundheitsversorgung","translation":"atención médica"},
+{"word":"öffentliche Gesundheit","translation":"salud pública"},
+{"word":"Epidemie","translation":"epidemia"},
+{"word":"Pandemie","translation":"pandemia"},
+{"word":"Quarantäne","translation":"cuarentena"},
+{"word":"Isolation","translation":"aislamiento"},
+{"word":"Sensibilisierung","translation":"concienciación"},
+{"word":"Bildung","translation":"educación"},
+{"word":"Versicherung","translation":"seguro"},
+{"word":"Deckung","translation":"cobertura"},
+{"word":"Gesundheitspolitik","translation":"política de salud"},
+{"word":"Wohlbefinden","translation":"bienestar"},
+{"word":"Lebensstil","translation":"estilo de vida"},
+{"word":"Fitness","translation":"condición física"},
+{"word":"psychische Gesundheit","translation":"salud mental"},
+{"word":"Krankenakte","translation":"historia clínica"},
+{"word":"Beratung","translation":"asesoramiento"},
+{"word":"Überweisung","translation":"derivación"},
+{"word":"Termin","translation":"cita"},
+{"word":"Arztrechnung","translation":"factura médica"},
+{"word":"Genehmigung","translation":"autorización"},
+{"word":"Dokumentation","translation":"documentación"},
+{"word":"Versicherungsschutz","translation":"cobertura de seguro"},
+{"word":"Einwilligung","translation":"consentimiento"},
+{"word":"Vertraulichkeit","translation":"confidencialidad"},
+{"word":"Warteliste","translation":"lista de espera"},
+{"word":"Aufnahme","translation":"ingreso"},
+{"word":"Entlassung","translation":"alta"},
+{"word":"Behandlungsplan","translation":"plan de tratamiento"},
+{"word":"Facharztbesuch","translation":"consulta especializada"},
+{"word":"Fallmanager","translation":"gestor de casos"},
+{"word":"Gesundheitsdienstleister","translation":"proveedor de salud"},
+{"word":"Krankengeschichte","translation":"historial médico"},
+{"word":"elektronische Gesundheitsakte (EHR)","translation":"historia clínica electrónica (HCE)"}],
+    "economyandfinance": [{"word":"Wirtschaft","translation":"economía"}
+{"word":"Finanzen","translation":"finanzas"}
+{"word":"Geld","translation":"dinero"}
+{"word":"Einkommen","translation":"ingreso"}
+{"word":"Ausgabe","translation":"gasto"}
+{"word":"Einnahmen","translation":"ingresos"}
+{"word":"Gewinn","translation":"beneficio"}
+{"word":"Verlust","translation":"pérdida"}
+{"word":"Budget","translation":"presupuesto"}
+{"word":"Kosten","translation":"costos"}
+{"word":"Investition","translation":"inversión"}
+{"word":"Kapital","translation":"capital"}
+{"word":"Zinsen","translation":"intereses"}
+{"word":"Darlehen","translation":"préstamo"}
+{"word":"Schulden","translation":"deuda"}
+{"word":"Kredit","translation":"crédito"}
+{"word":"Ersparnisse","translation":"ahorros"}
+{"word":"Kontostand","translation":"saldo de cuenta"}
+{"word":"Transaktion","translation":"transacción"}
+{"word":"Bargeld","translation":"efectivo"}
+{"word":"Bank","translation":"banco"}
+{"word":"Bankkonto","translation":"cuenta bancaria"}
+{"word":"Einzahlung","translation":"depósito"}
+{"word":"Abhebung","translation":"retiro"}
+{"word":"Kontoauszug","translation":"extracto de cuenta"}
+{"word":"Inflation","translation":"inflación"}
+{"word":"Deflation","translation":"deflación"}
+{"word":"Rezession","translation":"recesión"}
+{"word":"Boom","translation":"auge"}
+{"word":"BIP","translation":"PIB"}
+{"word":"Wachstum","translation":"crecimiento"}
+{"word":"Abschwung","translation":"declive"}
+{"word":"Reichtum","translation":"riqueza"}
+{"word":"Vermögenswerte","translation":"activos"}
+{"word":"Verbindlichkeiten","translation":"pasivos"}
+{"word":"Eigenkapital","translation":"capital propio"}
+{"word":"Aktionär","translation":"accionista"}
+{"word":"Interessengruppen","translation":"grupos de interés"}
+{"word":"Dividende","translation":"dividendo"}
+{"word":"Aktie","translation":"acción"}
+{"word":"Anleihe","translation":"bono"}
+{"word":"Währung","translation":"moneda"}
+{"word":"Wechselkurs","translation":"tipo de cambio"}
+{"word":"Markt","translation":"mercado"}
+{"word":"Handel","translation":"comercio"}
+{"word":"Import","translation":"importación"}
+{"word":"Export","translation":"exportación"}
+{"word":"Zoll","translation":"aduana"}
+{"word":"Steuer","translation":"impuesto"}
+{"word":"Mehrwertsteuer","translation":"IVA"}
+{"word":"Prüfung","translation":"auditoría"}
+{"word":"Einkommensteuer","translation":"impuesto sobre la renta"}
+{"word":"Körperschaftsteuer","translation":"impuesto sobre sociedades"}
+{"word":"Steuerbefreiung","translation":"exención fiscal"}
+{"word":"Abzug","translation":"deducción"}
+{"word":"Lohnabrechnung","translation":"nómina"}
+{"word":"Lohn","translation":"salario"}
+{"word":"Gehalt","translation":"sueldo"}
+{"word":"Bonus","translation":"bonificación"}
+{"word":"Rente","translation":"jubilación"}
+{"word":"Rentenfonds","translation":"fondo de pensiones"}
+{"word":"Subvention","translation":"subvención"}
+{"word":"Zuschuss","translation":"subsidio"}
+{"word":"Politik","translation":"política"}
+{"word":"Regulierung","translation":"regulación"}
+{"word":"Gesetz","translation":"ley"}
+{"word":"Einhaltung","translation":"cumplimiento"}
+{"word":"Betrug","translation":"fraude"}
+{"word":"Unterschlagung","translation":"malversación"}
+{"word":"Bankrott","translation":"bancarrota"}
+{"word":"Insolvenz","translation":"insolvencia"}
+{"word":"Fusion","translation":"fusión"}
+{"word":"Übernahme","translation":"adquisición"}
+{"word":"Übernahmeangebot","translation":"oferta de adquisición"}
+{"word":"Zinssatz","translation":"tipo de interés"}
+{"word":"Zentralbank","translation":"banco central"}
+{"word":"Geldpolitik","translation":"política monetaria"}
+{"word":"Fiskalpolitik","translation":"política fiscal"}
+{"word":"Ausgaben","translation":"gastos"}
+{"word":"Überschuss","translation":"superávit"}
+{"word":"Defizit","translation":"déficit"}
+{"word":"Handelsbilanz","translation":"balanza comercial"}
+{"word":"Verbraucher","translation":"consumidor"}
+{"word":"Produzent","translation":"productor"}
+{"word":"Lieferant","translation":"proveedor"}
+{"word":"Nachfrage","translation":"demanda"}
+{"word":"Angebot","translation":"oferta"}
+{"word":"Preis","translation":"precio"}
+{"word":"Kostenpreis","translation":"precio de coste"}
+{"word":"Einzelhandelspreis","translation":"precio minorista"}
+{"word":"Großhandelspreis","translation":"precio mayorista"}
+{"word":"Inflationsrate","translation":"tasa de inflación"}
+{"word":"Risiko","translation":"riesgo"}
+{"word":"Rendite","translation":"rendimiento"}
+{"word":"Ertrag","translation":"rentabilidad"}
+{"word":"Portfolio","translation":"portafolio"}
+{"word":"Diversifikation","translation":"diversificación"}
+{"word":"Liquidität","translation":"liquidez"}
+{"word":"Solvenz","translation":"solvencia"}
+{"word":"Hebelwirkung","translation":"apalancamiento"}
+{"word":"Finanzierung","translation":"financiación"}
+{"word":"Risikokapital","translation":"capital de riesgo"}
+{"word":"Business Angel","translation":"inversor ángel"}
+{"word":"Unternehmertum","translation":"emprendimiento"}
+{"word":"Startup","translation":"startup"}
+{"word":"Unternehmen","translation":"empresa"}
+{"word":"Konzern","translation":"corporación"}
+{"word":"Firma","translation":"firma"}
+{"word":"Geschäftsführer","translation":"director ejecutivo"}
+{"word":"Finanzvorstand","translation":"director financiero"}
+{"word":"Börsengang","translation":"salida a bolsa"}
+{"word":"Anteil","translation":"participación"}
+{"word":"Broker","translation":"corredor de bolsa"}
+{"word":"Aktienmarkt","translation":"mercado de valores"}
+{"word":"Börse","translation":"bolsa"}
+{"word":"Index","translation":"índice"}
+{"word":"NASDAQ","translation":"NASDAQ"}
+{"word":"NYSE","translation":"NYSE"}
+{"word":"Dow Jones","translation":"Dow Jones"}
+{"word":"FTSE","translation":"FTSE"}
+{"word":"Futures","translation":"futuros"}
+{"word":"Optionen","translation":"opciones"}
+{"word":"Derivate","translation":"derivados"}
+{"word":"Hedgefonds","translation":"fondos de cobertura"}
+{"word":"Absicherung","translation":"cobertura"}
+{"word":"Spekulation","translation":"especulación"}
+{"word":"Vermögenswert","translation":"activo"}
+{"word":"materieller Vermögenswert","translation":"activo tangible"}
+{"word":"immaterieller Vermögenswert","translation":"activo intangible"}
+{"word":"Nettovermögen","translation":"patrimonio neto"}
+{"word":"Gewinnmarge","translation":"margen de beneficio"}
+{"word":"Bruttoeinkommen","translation":"ingreso bruto"}
+{"word":"Nettoeinkommen","translation":"ingreso neto"}
+{"word":"Betriebskosten","translation":"costos operativos"}
+{"word":"Gemeinkosten","translation":"gastos generales"}
+{"word":"Abschreibung","translation":"depreciación"}
+{"word":"Amortisation","translation":"amortización"}
+{"word":"Rechnung","translation":"factura"}
+{"word":"Abrechnung","translation":"liquidación"}
+{"word":"Quittung","translation":"recibo"}
+{"word":"Zahlung","translation":"pago"}
+{"word":"elektronische Überweisung","translation":"transferencia electrónica"}
+{"word":"Banküberweisung","translation":"transferencia bancaria"}
+{"word":"Online-Banking","translation":"banca en línea"}
+{"word":"Mobile-Banking","translation":"banca móvil"}
+{"word":"verzinslich","translation":"con interés"}
+{"word":"fester Zinssatz","translation":"tasa de interés fija"}
+{"word":"variabler Zinssatz","translation":"tasa de interés variable"}
+{"word":"Hypothek","translation":"hipoteca"}
+{"word":"Rate","translation":"cuota"}
+{"word":"Sicherheit","translation":"garantía"}
+{"word":"Bürge","translation":"fiador"}
+{"word":"Kreditwürdigkeit","translation":"solvencia crediticia"}
+{"word":"Kreditgeschichte","translation":"historial crediticio"}
+{"word":"Kreditkarte","translation":"tarjeta de crédito"}
+{"word":"Debitkarte","translation":"tarjeta de débito"}
+{"word":"Finanzberater","translation":"asesor financiero"}
+{"word":"Finanzplaner","translation":"planificador financiero"}
+{"word":"Ökonom","translation":"economista"}
+{"word":"Sektor","translation":"sector"}
+{"word":"öffentlicher Sektor","translation":"sector público"}
+{"word":"privater Sektor","translation":"sector privado"}
+{"word":"Non-Profit-Sektor","translation":"sector sin fines de lucro"}
+{"word":"Crowdfunding","translation":"financiación colectiva"}
+{"word":"Fundraising","translation":"recaudación de fondos"}
+{"word":"Spenden","translation":"donaciones"}
+{"word":"Kosten-Nutzen-Analyse","translation":"análisis costo-beneficio"}
+{"word":"Bewertung","translation":"evaluación"}
+{"word":"Finanzbericht","translation":"informe financiero"}
+{"word":"Quartalsergebnisse","translation":"resultados trimestrales"}
+{"word":"Jahresbericht","translation":"informe anual"}
+{"word":"Prüfbericht","translation":"informe de auditoría"}
+{"word":"Bilanz","translation":"balance"}
+{"word":"Gewinn- und Verlustrechnung","translation":"estado de resultados"}
+{"word":"Cashflow","translation":"flujo de caja"}
+{"word":"Break-even","translation":"punto de equilibrio"}
+{"word":"Prognose","translation":"pronóstico"}
+{"word":"Projektion","translation":"proyección"}
+{"word":"Finanzmodell","translation":"modelo financiero"}
+{"word":"Sensitivitätsanalyse","translation":"análisis de sensibilidad"}
+{"word":"Szenario","translation":"escenario"}
+{"word":"Benchmark","translation":"referencia"}
+{"word":"Best Practice","translation":"mejores prácticas"}
+{"word":"Wirtschaftswachstum","translation":"crecimiento económico"}
+{"word":"Makroökonomie","translation":"macroeconomía"}
+{"word":"Mikroökonomie","translation":"microeconomía"}
+{"word":"Lieferkette","translation":"cadena de suministro"}
+{"word":"Logistik","translation":"logística"}
+{"word":"Güter","translation":"bienes"}
+{"word":"Dienstleistungen","translation":"servicios"}
+{"word":"Wettbewerbsfähigkeit","translation":"competitividad"}
+{"word":"Produktivität","translation":"productividad"}
+{"word":"Finanzbildung","translation":"educación financiera"}],
+    "educationandteaching": [{"word":"Bildung","translation":"educación"}
+{"word":"Unterricht","translation":"enseñanza"}
+{"word":"Lernen","translation":"aprendizaje"}
+{"word":"Student","translation":"estudiante universitario"}
+{"word":"Schüler","translation":"estudiante"}
+{"word":"Lehrer","translation":"profesor"}
+{"word":"Pädagoge","translation":"pedagogo"}
+{"word":"Ausbilder","translation":"instructor"}
+{"word":"Professor","translation":"profesor universitario"}
+{"word":"Dozent","translation":"docente"}
+{"word":"Tutor","translation":"tutor"}
+{"word":"Mentor","translation":"mentor"}
+{"word":"Coach","translation":"entrenador"}
+{"word":"Auszubildender","translation":"aprendiz"}
+{"word":"Klassenzimmer","translation":"aula"}
+{"word":"Schule","translation":"escuela"}
+{"word":"Universität","translation":"universidad"}
+{"word":"Hochschule","translation":"instituto de educación superior"}
+{"word":"Institution","translation":"institución"}
+{"word":"Akademie","translation":"academia"}
+{"word":"Lehrplan","translation":"plan de estudios"}
+{"word":"Lehrplanübersicht","translation":"resumen del plan de estudios"}
+{"word":"Fach","translation":"asignatura"}
+{"word":"Kurs","translation":"curso"}
+{"word":"Lektion","translation":"lección"}
+{"word":"Vorlesung","translation":"clase magistral"}
+{"word":"Workshop","translation":"taller"}
+{"word":"Seminar","translation":"seminario"}
+{"word":"Ausbildung","translation":"formación profesional"}
+{"word":"Modul","translation":"módulo"}
+{"word":"Einheit","translation":"unidad"}
+{"word":"Aufgabe","translation":"tarea"}
+{"word":"Hausaufgaben","translation":"deberes"}
+{"word":"Test","translation":"prueba"}
+{"word":"Prüfung","translation":"examen"}
+{"word":"Bewertung","translation":"evaluación"}
+{"word":"Quiz","translation":"cuestionario"}
+{"word":"Note","translation":"nota"}
+{"word":"Punktzahl","translation":"puntuación"}
+{"word":"Diplom","translation":"diploma"}
+{"word":"Zertifikat","translation":"certificado"}
+{"word":"Abschluss","translation":"título"}
+{"word":"Bachelor","translation":"licenciatura"}
+{"word":"Master","translation":"maestría"}
+{"word":"Doktorgrad","translation":"doctorado"}
+{"word":"PhD","translation":"doctorado"}
+{"word":"These","translation":"tesis"}
+{"word":"Dissertation","translation":"disertación"}
+{"word":"Forschung","translation":"investigación"}
+{"word":"Studium","translation":"estudios"}
+{"word":"Projekt","translation":"proyecto"}
+{"word":"Bildungssystem","translation":"sistema educativo"}
+{"word":"Grundschulbildung","translation":"educación primaria"}
+{"word":"Sekundarbildung","translation":"educación secundaria"}
+{"word":"Hochschulbildung","translation":"educación superior"}
+{"word":"Vorschule","translation":"preescolar"}
+{"word":"Kindergarten","translation":"jardín de infancia"}
+{"word":"Grundschule","translation":"escuela primaria"}
+{"word":"Mittelschule","translation":"escuela secundaria"}
+{"word":"Gymnasium","translation":"liceo"}
+{"word":"Absolvent","translation":"graduado"}
+{"word":"Postgraduiert","translation":"posgraduado"}
+{"word":"Einschreibung","translation":"inscripción"}
+{"word":"Zulassung","translation":"admisión"}
+{"word":"Registrierung","translation":"registro"}
+{"word":"Akademiker","translation":"académico"}
+{"word":"Stipendium","translation":"beca"}
+{"word":"Fördermittel","translation":"financiamiento"}
+{"word":"Studiengebühren","translation":"matrícula"}
+{"word":"Semester","translation":"semestre"}
+{"word":"Trimester","translation":"trimestre"}
+{"word":"Schuljahr","translation":"año escolar"}
+{"word":"akademisches Jahr","translation":"año académico"}
+{"word":"Ferien","translation":"vacaciones"}
+{"word":"Pause","translation":"recreo"}
+{"word":"Feiertag","translation":"día festivo"}
+{"word":"Schreibtisch","translation":"escritorio"}
+{"word":"Stuhl","translation":"silla"}
+{"word":"Tafel","translation":"pizarra"}
+{"word":"Whiteboard","translation":"pizarra blanca"}
+{"word":"Marker","translation":"marcador"}
+{"word":"Kreide","translation":"tiza"}
+{"word":"Radiergummi","translation":"goma de borrar"}
+{"word":"Lehrbuch","translation":"libro de texto"}
+{"word":"Arbeitsbuch","translation":"cuaderno de ejercicios"}
+{"word":"Notizbuch","translation":"cuaderno"}
+{"word":"Übungsheft","translation":"libro de prácticas"}
+{"word":"Ordner","translation":"carpeta"}
+{"word":"Ringordner","translation":"carpeta de anillas"}
+{"word":"Stift","translation":"bolígrafo"}
+{"word":"Bleistift","translation":"lápiz"}
+{"word":"Lineal","translation":"regla"}
+{"word":"Taschenrechner","translation":"calculadora"}
+{"word":"Laptop","translation":"portátil"}
+{"word":"Tablet","translation":"tableta"}
+{"word":"E-Learning","translation":"aprendizaje en línea"}
+{"word":"Online-Kurs","translation":"curso en línea"}
+{"word":"digitales Lernen","translation":"aprendizaje digital"}
+{"word":"Fernlernen","translation":"aprendizaje a distancia"}
+{"word":"Blended Learning","translation":"aprendizaje combinado"}
+{"word":"Plattform","translation":"plataforma"}
+{"word":"App","translation":"aplicación"}
+{"word":"Quiz-App","translation":"aplicación de cuestionarios"}
+{"word":"Prüfungsausschuss","translation":"comité de examen"}
+{"word":"Feedback","translation":"retroalimentación"}
+{"word":"Teilnahme","translation":"participación"}
+{"word":"Anwesenheit","translation":"asistencia"}
+{"word":"Pünktlichkeit","translation":"puntualidad"}
+{"word":"Disziplin","translation":"disciplina"}
+{"word":"Schulregeln","translation":"normas escolares"}
+{"word":"Verhalten","translation":"comportamiento"}
+{"word":"Motivation","translation":"motivación"}
+{"word":"Anstrengung","translation":"esfuerzo"}
+{"word":"Leistung","translation":"rendimiento"}
+{"word":"Erfolg","translation":"éxito"}
+{"word":"Misserfolg","translation":"fracaso"}
+{"word":"Wiederholung","translation":"repetición"}
+{"word":"Schulabbruch","translation":"abandono escolar"}
+{"word":"Unterstützung","translation":"apoyo"}
+{"word":"Nachhilfe","translation":"tutoría"}
+{"word":"zusätzliche Hilfe","translation":"ayuda adicional"}
+{"word":"Förderklasse","translation":"clase de apoyo"}
+{"word":"Begabtenprogramm","translation":"programa para talentosos"}
+{"word":"Sonderpädagogik","translation":"educación especial"}
+{"word":"inklusive Bildung","translation":"educación inclusiva"}
+{"word":"Pädagogik","translation":"pedagogía"}
+{"word":"Didaktik","translation":"didáctica"}
+{"word":"Methodologie","translation":"metodología"}
+{"word":"Ansatz","translation":"enfoque"}
+{"word":"Lernstil","translation":"estilo de aprendizaje"}
+{"word":"visueller Lerner","translation":"aprendiz visual"}
+{"word":"auditiver Lerner","translation":"aprendiz auditivo"}
+{"word":"kinästhetischer Lerner","translation":"aprendiz kinestésico"}
+{"word":"kritisches Denken","translation":"pensamiento crítico"}
+{"word":"Problemlösung","translation":"resolución de problemas"}
+{"word":"Zusammenarbeit","translation":"colaboración"}
+{"word":"Teamarbeit","translation":"trabajo en equipo"}
+{"word":"Kreativität","translation":"creatividad"}
+{"word":"Innovation","translation":"innovación"}
+{"word":"Wissen","translation":"conocimiento"}
+{"word":"Fähigkeit","translation":"habilidad"}
+{"word":"Kompetenz","translation":"competencia"}
+{"word":"Alphabetisierung","translation":"alfabetización"}
+{"word":"Rechenkompetenz","translation":"competencia matemática"}
+{"word":"zweisprachig","translation":"bilingüe"}
+{"word":"mehrsprachig","translation":"multilingüe"}
+{"word":"Fremdsprache","translation":"idioma extranjero"}
+{"word":"Zweitsprache","translation":"segundo idioma"}
+{"word":"Sprachenlernen","translation":"aprendizaje de idiomas"}
+{"word":"Grammatik","translation":"gramática"}
+{"word":"Wortschatz","translation":"vocabulario"}
+{"word":"Aussprache","translation":"pronunciación"}
+{"word":"Rechtschreibung","translation":"ortografía"}
+{"word":"Lesen","translation":"lectura"}
+{"word":"Schreiben","translation":"escritura"}
+{"word":"Sprechen","translation":"hablar"}
+{"word":"Hören","translation":"escucha"}
+{"word":"Verständnis","translation":"comprensión"}
+{"word":"Sprachflüssigkeit","translation":"fluidez lingüística"}
+{"word":"Genauigkeit","translation":"precisión"}
+{"word":"Prüfungsvorbereitung","translation":"preparación de examen"}
+{"word":"Auswendiglernen","translation":"memorización"}
+{"word":"Lernziele","translation":"objetivos de aprendizaje"}
+{"word":"Lernergebnisse","translation":"resultados de aprendizaje"}
+{"word":"schülerzentriert","translation":"centrado en el estudiante"}
+{"word":"lehrerzentriert","translation":"centrado en el profesor"}
+{"word":"Bewertungskriterien","translation":"criterios de evaluación"}
+{"word":"Lernumgebung","translation":"entorno de aprendizaje"}
+{"word":"inklusives Klassenzimmer","translation":"aula inclusiva"}
+{"word":"Klassenmanagement","translation":"gestión de clase"}
+{"word":"Schulmaterial","translation":"material escolar"}
+{"word":"Eltern-Lehrer-Gespräch","translation":"reunión padres-profesor"}
+{"word":"Schulbericht","translation":"informe escolar"}
+{"word":"akademische Leistung","translation":"rendimiento académico"}
+{"word":"Auszeichnung","translation":"reconocimiento"}
+{"word":"Jahrgangsbester","translation":"mejor del año"}
+{"word":"Dekan","translation":"decano"}
+{"word":"Schulleiter","translation":"director de escuela"}
+{"word":"Rektor","translation":"rector"}
+{"word":"Schulrat","translation":"consejo escolar"}
+{"word":"Bildungsministerium","translation":"ministerio de educación"}
+{"word":"Bildungsreform","translation":"reforma educativa"}
+{"word":"öffentliche Schule","translation":"escuela pública"}
+{"word":"Privatschule","translation":"escuela privada"}
+{"word":"Internat","translation":"internado"}
+{"word":"Hausunterricht","translation":"educación en casa"}
+{"word":"standardisierter Test","translation":"prueba estandarizada"}
+{"word":"IQ-Test","translation":"test de CI"}
+{"word":"Teilnahmezertifikat","translation":"certificado de participación"}
+{"word":"nationale Prüfung","translation":"examen nacional"}
+{"word":"Internationales Abitur","translation":"bachillerato internacional"}],
+    "tourismandhospitality": [{"word":"Tourismus","translation":"turismo"}
+{"word":"Tourist","translation":"turista"}
+{"word":"Reisender","translation":"viajero"}
+{"word":"Reise","translation":"viaje"}
+{"word":"Urlaub","translation":"vacaciones"}
+{"word":"Ferien","translation":"vacaciones"}
+{"word":"Reisen","translation":"viajar"}
+{"word":"Tourismusbranche","translation":"industria del turismo"}
+{"word":"Gastgewerbe","translation":"hostelería"}
+{"word":"Gastgeber","translation":"anfitrión"}
+{"word":"Gast","translation":"huésped"}
+{"word":"Reiseziel","translation":"destino turístico"}
+{"word":"Attraktion","translation":"atracción"}
+{"word":"Besichtigung","translation":"visita turística"}
+{"word":"Ausflug","translation":"excursión"}
+{"word":"Reiseplan","translation":"itinerario"}
+{"word":"Rundreise","translation":"viaje organizado"}
+{"word":"Reisebüro","translation":"agencia de viajes"}
+{"word":"Reiseführer","translation":"guía de viajes"}
+{"word":"Reiseagent","translation":"agente de viajes"}
+{"word":"Reiseversicherung","translation":"seguro de viaje"}
+{"word":"Buchung","translation":"reserva"}
+{"word":"Reservierung","translation":"reserva"}
+{"word":"Check-in","translation":"registro de entrada"}
+{"word":"Check-out","translation":"registro de salida"}
+{"word":"Bestätigung","translation":"confirmación"}
+{"word":"Stornierung","translation":"cancelación"}
+{"word":"Umbuchung","translation":"cambio de reserva"}
+{"word":"Zeitplan","translation":"horario"}
+{"word":"Verspätung","translation":"retraso"}
+{"word":"Abflug","translation":"salida del vuelo"}
+{"word":"Ankunft","translation":"llegada"}
+{"word":"Flughafen","translation":"aeropuerto"}
+{"word":"Terminal","translation":"terminal"}
+{"word":"Gate","translation":"puerta de embarque"}
+{"word":"Fluggesellschaft","translation":"aerolínea"}
+{"word":"Flug","translation":"vuelo"}
+{"word":"Bordkarte","translation":"tarjeta de embarque"}
+{"word":"Ticket","translation":"billete"}
+{"word":"Reisepass","translation":"pasaporte"}
+{"word":"Visum","translation":"visado"}
+{"word":"Zoll","translation":"aduana"}
+{"word":"Einwanderung","translation":"inmigración"}
+{"word":"Sicherheitskontrolle","translation":"control de seguridad"}
+{"word":"Gepäck","translation":"equipaje"}
+{"word":"Koffer","translation":"maleta"}
+{"word":"Handgepäck","translation":"equipaje de mano"}
+{"word":"Gepäckausgabe","translation":"reclamación de equipaje"}
+{"word":"verlorenes Gepäck","translation":"equipaje perdido"}
+{"word":"Transport","translation":"transporte"}
+{"word":"Taxi","translation":"taxi"}
+{"word":"Shuttle","translation":"servicio de traslado"}
+{"word":"Bus","translation":"autobús"}
+{"word":"Reisebus","translation":"autocar"}
+{"word":"Zug","translation":"tren"}
+{"word":"Eisenbahn","translation":"ferrocarril"}
+{"word":"U-Bahn","translation":"metro"}
+{"word":"Metro","translation":"metro"}
+{"word":"Straßenbahn","translation":"tranvía"}
+{"word":"Autovermietung","translation":"alquiler de coches"}
+{"word":"Führerschein","translation":"carné de conducir"}
+{"word":"GPS","translation":"GPS"}
+{"word":"Kraftstoff","translation":"combustible"}
+{"word":"Maut","translation":"peaje"}
+{"word":"Parkplatz","translation":"aparcamiento"}
+{"word":"Hotel","translation":"hotel"}
+{"word":"Hostel","translation":"hostal"}
+{"word":"Motel","translation":"motel"}
+{"word":"Resort","translation":"resort"}
+{"word":"Pension","translation":"pensión"}
+{"word":"Gasthof","translation":"posada"}
+{"word":"Bed and Breakfast","translation":"bed and breakfast"}
+{"word":"Unterkunft","translation":"alojamiento"}
+{"word":"Beherbergung","translation":"alojamiento"}
+{"word":"Rezeption","translation":"recepción"}
+{"word":"Empfang","translation":"recepción"}
+{"word":"Concierge","translation":"conserje"}
+{"word":"Gepäckträger","translation":"botones / portaequipajes"}
+{"word":"Türsteher","translation":"portero de seguridad"}
+{"word":"Housekeeping","translation":"servicio de limpieza"}
+{"word":"Zimmerservice","translation":"servicio de habitaciones"}
+{"word":"Reinigung","translation":"limpieza"}
+{"word":"Wäscherei","translation":"lavandería"}
+{"word":"Doppelzimmer","translation":"habitación doble"}
+{"word":"Einzelzimmer","translation":"habitación individual"}
+{"word":"Suite","translation":"suite"}
+{"word":"Zweibettzimmer","translation":"habitación con dos camas"}
+{"word":"Deluxe-Zimmer","translation":"habitación deluxe"}
+{"word":"Standardzimmer","translation":"habitación estándar"}
+{"word":"Reservierungsnummer","translation":"número de reserva"}
+{"word":"Ausstattung","translation":"instalaciones"}
+{"word":"Pool","translation":"piscina"}
+{"word":"Fitnessstudio","translation":"gimnasio"}
+{"word":"Spa","translation":"spa"}
+{"word":"Wellness","translation":"bienestar"}
+{"word":"Massage","translation":"masaje"}
+{"word":"Restaurant","translation":"restaurante"}
+{"word":"Café","translation":"cafetería"}
+{"word":"Bar","translation":"bar"}
+{"word":"Kneipe","translation":"pub"}
+{"word":"Buffet","translation":"buffet"}
+{"word":"à la carte","translation":"a la carta"}
+{"word":"Frühstück","translation":"desayuno"}
+{"word":"Mittagessen","translation":"almuerzo"}
+{"word":"Abendessen","translation":"cena"}
+{"word":"Speisekarte","translation":"menú"}
+{"word":"Mahlzeit","translation":"comida"}
+{"word":"Gericht","translation":"plato"}
+{"word":"Vorspeise","translation":"entrada"}
+{"word":"Hauptgericht","translation":"plato principal"}
+{"word":"Dessert","translation":"postre"}
+{"word":"Getränk","translation":"bebida"}
+{"word":"Kellner","translation":"camarero"}
+{"word":"Kellnerin","translation":"camarera"}
+{"word":"Servicekraft","translation":"personal de servicio"}
+{"word":"Koch","translation":"cocinero"}
+{"word":"Küchenchef","translation":"chef"}
+{"word":"Küche","translation":"cocina"}
+{"word":"Gastgewerbepersonal","translation":"personal de hostelería"}
+{"word":"Trinkgeld","translation":"propina"}
+{"word":"Rechnung","translation":"factura"}
+{"word":"Quittung","translation":"recibo"}
+{"word":"Zahlung","translation":"pago"}
+{"word":"Bargeld","translation":"efectivo"}
+{"word":"Karte","translation":"tarjeta"}
+{"word":"Kreditkarte","translation":"tarjeta de crédito"}
+{"word":"Debitkarte","translation":"tarjeta de débito"}
+{"word":"Fremdwährung","translation":"moneda extranjera"}
+{"word":"Wechselkurs","translation":"tipo de cambio"}
+{"word":"Bank","translation":"banco"}
+{"word":"Geldautomat","translation":"cajero automático"}
+{"word":"geführte Tour","translation":"tour guiado"}
+{"word":"Audioguide","translation":"audioguía"}
+{"word":"Museum","translation":"museo"}
+{"word":"Denkmal","translation":"monumento"}
+{"word":"historische Stätte","translation":"sitio histórico"}
+{"word":"Schloss","translation":"castillo"}
+{"word":"Kirche","translation":"iglesia"}
+{"word":"Tempel","translation":"templo"}
+{"word":"Moschee","translation":"mezquita"}
+{"word":"kulturelle Veranstaltung","translation":"evento cultural"}
+{"word":"Festival","translation":"festival"}
+{"word":"Parade","translation":"desfile"}
+{"word":"Strand","translation":"playa"}
+{"word":"Berg","translation":"montaña"}
+{"word":"Natur","translation":"naturaleza"}
+{"word":"Wandern","translation":"senderismo"}
+{"word":"Abenteuer","translation":"aventura"}
+{"word":"Safari","translation":"safari"}
+{"word":"Kreuzfahrt","translation":"crucero"}
+{"word":"Fähre","translation":"ferry"}
+{"word":"Boot","translation":"barco"}
+{"word":"Yacht","translation":"yate"}
+{"word":"Segeln","translation":"vela"}
+{"word":"Tauchen","translation":"buceo"}
+{"word":"Schnorcheln","translation":"snorkel"}
+{"word":"Schwimmen","translation":"natación"}
+{"word":"Surfen","translation":"surf"}
+{"word":"Camping","translation":"camping"}
+{"word":"Campingplatz","translation":"camping"}
+{"word":"Zelt","translation":"tienda de campaña"}
+{"word":"Rucksack","translation":"mochila"}
+{"word":"Reiseführerbuch","translation":"guía de viajes"}
+{"word":"GPS-App","translation":"aplicación GPS"}
+{"word":"Bewertung","translation":"reseña"}
+{"word":"Empfehlung","translation":"recomendación"}
+{"word":"Reiseblog","translation":"blog de viajes"}
+{"word":"Reisevlog","translation":"vlog de viajes"}
+{"word":"Influencer","translation":"influencer"}
+{"word":"Erlebnis","translation":"experiencia"}
+{"word":"Erinnerungen","translation":"recuerdos"}
+{"word":"Foto","translation":"foto"}
+{"word":"Kamera","translation":"cámara"}
+{"word":"Video","translation":"video"}
+{"word":"Sprachbarriere","translation":"barrera idiomática"}
+{"word":"Übersetzung","translation":"traducción"}
+{"word":"Kommunikation","translation":"comunicación"}
+{"word":"Sicherheit","translation":"seguridad"}
+{"word":"Notfall","translation":"emergencia"}
+{"word":"Gesundheit","translation":"salud"}
+{"word":"Klinik","translation":"clínica"}
+{"word":"Krankenhaus","translation":"hospital"}
+{"word":"Reisewarnung","translation":"advertencia de viaje"}
+{"word":"Botschaft","translation":"embajada"}
+{"word":"Konsulat","translation":"consulado"}
+{"word":"lokale Bräuche","translation":"costumbres locales"}
+{"word":"Souvenir","translation":"recuerdo"}
+{"word":"Einkaufen","translation":"compras"}
+{"word":"Markt","translation":"mercado"}
+{"word":"Street Food","translation":"comida callejera"}
+{"word":"öffentliche Verkehrsmittel","translation":"transporte público"}
+{"word":"Reisetipp","translation":"consejo de viaje"}],
+    "transportandlogistics": [{"word":"Transport","translation":"transporte"}
+{"word":"Logistik","translation":"logística"}
+{"word":"Sendung","translation":"envío"}
+{"word":"Lieferung","translation":"entrega"}
+{"word":"Fracht","translation":"carga"}
+{"word":"Ladung","translation":"carga"}
+{"word":"Lkw-Transport","translation":"transporte por camión"}
+{"word":"Lager","translation":"almacén"}
+{"word":"Bestand","translation":"inventario"}
+{"word":"Lagerung","translation":"almacenamiento"}
+{"word":"Distribution","translation":"distribución"}
+{"word":"Verpackung","translation":"empaque"}
+{"word":"Beladung","translation":"carga"}
+{"word":"Entladung","translation":"descarga"}
+{"word":"Versand","translation":"envío"}
+{"word":"Kurier","translation":"mensajero"}
+{"word":"Frachtführer","translation":"transportista"}
+{"word":"Logistikmanager","translation":"gerente de logística"}
+{"word":"Lieferkette","translation":"cadena de suministro"}
+{"word":"Angebot und Nachfrage","translation":"oferta y demanda"}
+{"word":"Verfolgung","translation":"seguimiento"}
+{"word":"Route","translation":"ruta"}
+{"word":"Zeitplan","translation":"horario"}
+{"word":"Fahrplan","translation":"horario de transporte"}
+{"word":"Transit","translation":"tránsito"}
+{"word":"Hafen","translation":"puerto"}
+{"word":"Hafenbecken","translation":"muelle"}
+{"word":"Container","translation":"contenedor"}
+{"word":"Palette","translation":"palé"}
+{"word":"Gabelstapler","translation":"montacargas"}
+{"word":"Zollabfertigung","translation":"despacho aduanero"}
+{"word":"Frachtmanifest","translation":"manifiesto de carga"}
+{"word":"Konnossement","translation":"conocimiento de embarque"}
+{"word":"Lieferschein","translation":"albarán"}
+{"word":"Versandetikett","translation":"etiqueta de envío"}
+{"word":"Barcode","translation":"código de barras"}
+{"word":"Scanner","translation":"escáner"}
+{"word":"Abholung","translation":"recogida"}
+{"word":"Abgabe","translation":"entrega"}
+{"word":"Kilometerstand","translation":"kilometraje"}
+{"word":"Kraftstoff","translation":"combustible"}
+{"word":"Diesel","translation":"diésel"}
+{"word":"Maut","translation":"peaje"}
+{"word":"Autobahn","translation":"autopista"}
+{"word":"Straße","translation":"carretera"}
+{"word":"Eisenbahn","translation":"ferrocarril"}
+{"word":"Zug","translation":"tren"}
+{"word":"Lokomotive","translation":"locomotora"}
+{"word":"Wagen","translation":"vagón"}
+{"word":"Güterwagen","translation":"vagón de carga"}
+{"word":"Gleis","translation":"vía"}
+{"word":"Bahnsteig","translation":"andén"}
+{"word":"Flughafen","translation":"aeropuerto"}
+{"word":"Fluggesellschaft","translation":"aerolínea"}
+{"word":"Startbahn","translation":"pista de despegue"}
+{"word":"Terminal","translation":"terminal"}
+{"word":"Boarding","translation":"embarque"}
+{"word":"Abflug","translation":"salida del vuelo"}
+{"word":"Ankunft","translation":"llegada"}
+{"word":"Gate","translation":"puerta de embarque"}
+{"word":"Gepäck","translation":"equipaje"}
+{"word":"Koffer","translation":"maleta"}
+{"word":"Check-in","translation":"registro de entrada"}
+{"word":"Zollerklärung","translation":"declaración aduanera"}
+{"word":"Flugzeug","translation":"avión"}
+{"word":"Luftfahrzeug","translation":"aeronave"}
+{"word":"Flug","translation":"vuelo"}
+{"word":"Flugticket","translation":"billete de avión"}
+{"word":"Sitzplatz","translation":"asiento"}
+{"word":"Passagier","translation":"pasajero"}
+{"word":"Pilot","translation":"piloto"}
+{"word":"Besatzung","translation":"tripulación"}
+{"word":"Bus","translation":"autobús"}
+{"word":"Reisebus","translation":"autocar"}
+{"word":"Shuttle","translation":"servicio de traslado"}
+{"word":"Taxi","translation":"taxi"}
+{"word":"Mitfahrdienst","translation":"servicio de coche compartido"}
+{"word":"Uber","translation":"Uber"}
+{"word":"Lyft","translation":"Lyft"}
+{"word":"Fahrpreis","translation":"tarifa"}
+{"word":"Ticketverkauf","translation":"venta de billetes"}
+{"word":"Reservierung","translation":"reserva"}
+{"word":"Buchung","translation":"reserva"}
+{"word":"Stornierung","translation":"cancelación"}
+{"word":"Verspätung","translation":"retraso"}
+{"word":"Verkehrsstaus","translation":"atascos"}
+{"word":"GPS-Navigation","translation":"navegación GPS"}
+{"word":"Routenplanung","translation":"planificación de ruta"}
+{"word":"Lieferzeit","translation":"tiempo de entrega"}
+{"word":"geschätzte Zeit","translation":"tiempo estimado"}
+{"word":"Echtzeit","translation":"tiempo real"}
+{"word":"Hub","translation":"centro logístico"}
+{"word":"Depot","translation":"depósito"}
+{"word":"Logistikkette","translation":"cadena logística"}
+{"word":"letzte Meile","translation":"última milla"}
+{"word":"Rückwärtslogistik","translation":"logística inversa"}
+{"word":"E-Commerce","translation":"comercio electrónico"}
+{"word":"Auftragserfüllung","translation":"cumplimiento de pedidos"}
+{"word":"Logistikdienstleister","translation":"proveedor de logística"}
+{"word":"Drittanbieter-Logistik (3PL)","translation":"logística de terceros (3PL)"}
+{"word":"Viertanbieter-Logistik (4PL)","translation":"logística de cuarto nivel (4PL)"}
+{"word":"Flotte","translation":"flota"}
+{"word":"Fahrzeug","translation":"vehículo"}
+{"word":"Führerschein","translation":"carné de conducir"}
+{"word":"Genehmigung","translation":"permiso"}
+{"word":"Inspektion","translation":"inspección"}
+{"word":"Einhaltung","translation":"cumplimiento"}
+{"word":"Regulierung","translation":"regulación"}
+{"word":"Verkehrssicherheit","translation":"seguridad vial"}
+{"word":"Unfall","translation":"accidente"}
+{"word":"Panne","translation":"avería"}
+{"word":"Versicherung","translation":"seguro"}
+{"word":"Versicherungsschutz","translation":"cobertura del seguro"}
+{"word":"Reparatur","translation":"reparación"}
+{"word":"Wartung","translation":"mantenimiento"}
+{"word":"Ersatzteile","translation":"repuestos"}
+{"word":"Laderampe","translation":"rampa de carga"}
+{"word":"Anhänger","translation":"remolque"}
+{"word":"Sattelzugmaschine","translation":"tractora"}
+{"word":"Sattelzug","translation":"camión articulado"}
+{"word":"Transport","translation":"transporte"}
+{"word":"Logistikzentrum","translation":"centro logístico"}
+{"word":"Lagerverwaltung","translation":"gestión de almacén"}
+{"word":"Bestandskontrolle","translation":"control de inventario"}
+{"word":"Inventur","translation":"inventario"}
+{"word":"Lieferroute","translation":"ruta de entrega"}
+{"word":"Kommissionierung","translation":"preparación de pedidos"}
+{"word":"Verpackung von Bestellungen","translation":"empaque de pedidos"}
+{"word":"Transitzeit","translation":"tiempo de tránsito"}
+{"word":"Spediteur","translation":"transportista / transitario"}
+{"word":"Logistiksoftware","translation":"software de logística"}
+{"word":"Transportmanagementsystem","translation":"sistema de gestión de transporte"}
+{"word":"Barcode-Scanner","translation":"escáner de código de barras"}
+{"word":"RFID","translation":"RFID"}
+{"word":"Kühlkette","translation":"cadena de frío"}
+{"word":"Temperaturkontrolle","translation":"control de temperatura"}
+{"word":"verderbliche Waren","translation":"mercancías perecederas"}
+{"word":"Gefahrstoffe","translation":"mercancías peligrosas"}
+{"word":"Frachtversicherung","translation":"seguro de carga"}
+{"word":"Containerverfolgung","translation":"seguimiento de contenedores"}
+{"word":"Zollgebühren","translation":"aranceles aduaneros"}
+{"word":"Import","translation":"importación"}
+{"word":"Export","translation":"exportación"}
+{"word":"Incoterms","translation":"Incoterms"}
+{"word":"FOB","translation":"FOB"}
+{"word":"CIF","translation":"CIF"}
+{"word":"Zollmakler","translation":"agente de aduanas"}
+{"word":"Zolllager","translation":"depósito aduanero"}
+{"word":"Frachtrechnung","translation":"factura de carga"}
+{"word":"Logistikkoordinator","translation":"coordinador de logística"}
+{"word":"Routenoptimierung","translation":"optimización de rutas"}
+{"word":"Lieferkettenmanager","translation":"gerente de cadena de suministro"}
+{"word":"Versandzentrum","translation":"centro de distribución"}
+{"word":"Echtzeitverfolgung","translation":"seguimiento en tiempo real"}
+{"word":"Logistiknetzwerk","translation":"red logística"}
+{"word":"prädiktive Analytik","translation":"análisis predictivo"}
+{"word":"digitale Logistik","translation":"logística digital"}
+{"word":"autonomes Fahrzeug","translation":"vehículo autónomo"}
+{"word":"Drohnenlieferung","translation":"entrega por drones"}
+{"word":"Elektro-Lkw","translation":"camión eléctrico"}
+{"word":"CO2-Fußabdruck","translation":"huella de carbono"}
+{"word":"Nachhaltigkeit","translation":"sostenibilidad"}
+{"word":"grüne Logistik","translation":"logística verde"}
+{"word":"intermodal","translation":"intermodal"}
+{"word":"multimodal","translation":"multimodal"}
+{"word":"Lastkahn","translation":"barcaza"}
+{"word":"Schiff","translation":"barco"}
+{"word":"Reederei","translation":"compañía naviera"}
+{"word":"Containerschiff","translation":"portacontenedores"}
+{"word":"Seetransport","translation":"transporte marítimo"}
+{"word":"Luftfracht","translation":"transporte aéreo"}
+{"word":"Seefracht","translation":"carga marítima"}
+{"word":"Straßenfracht","translation":"transporte por carretera"}
+{"word":"Schienenfracht","translation":"transporte ferroviario"}
+{"word":"Massengut","translation":"carga a granel"}
+{"word":"Stückgut","translation":"carga general"}
+{"word":"Frachtkosten","translation":"coste de transporte"}
+{"word":"Kraftstoffzuschlag","translation":"recargo por combustible"}
+{"word":"Logistikhub","translation":"centro logístico"}
+{"word":"globaler Handel","translation":"comercio global"}
+{"word":"Frachtmarkt","translation":"mercado de carga"}
+{"word":"Abholpunkt","translation":"punto de recogida"}
+{"word":"Lieferbestätigung","translation":"confirmación de entrega"}
+{"word":"Zustellnachweis","translation":"prueba de entrega"}
+{"word":"Zollinspektion","translation":"inspección aduanera"}
+{"word":"Fahrzeugverfolgung","translation":"seguimiento de vehículos"}
+{"word":"Telematik","translation":"telemetría"}
+{"word":"Frachtmanagement","translation":"gestión de carga"}
+{"word":"Auftragsmanagement","translation":"gestión de pedidos"}],
+    "customsandbordersecurity": [{"word":"Zoll","translation":"aduana"}
+{"word":"Grenze","translation":"frontera"}
+{"word":"Sicherheit","translation":"seguridad"}
+{"word":"Patrouille","translation":"patrulla"}
+{"word":"Kontrollpunkt","translation":"puesto de control"}
+{"word":"Abfertigung","translation":"despacho"}
+{"word":"Reisepass","translation":"pasaporte"}
+{"word":"Visum","translation":"visado"}
+{"word":"Einwanderung","translation":"inmigración"}
+{"word":"Deklaration","translation":"declaración"}
+{"word":"Abgabe","translation":"entrega"}
+{"word":"Zolltarif","translation":"arancel aduanero"}
+{"word":"Import","translation":"importación"}
+{"word":"Export","translation":"exportación"}
+{"word":"Schmuggel","translation":"contrabando"}
+{"word":"Schmuggelware","translation":"mercancía de contrabando"}
+{"word":"Inspektion","translation":"inspección"}
+{"word":"Dokument","translation":"documento"}
+{"word":"Ausweis","translation":"identificación"}
+{"word":"Kontrolle","translation":"control"}
+{"word":"Scanner","translation":"escáner"}
+{"word":"Röntgen","translation":"rayos X"}
+{"word":"Erkennung","translation":"detección"}
+{"word":"Überwachung","translation":"vigilancia"}
+{"word":"Kamera","translation":"cámara"}
+{"word":"Radar","translation":"radar"}
+{"word":"Zaun","translation":"valla"}
+{"word":"Mauer","translation":"muro"}
+{"word":"Barriere","translation":"barrera"}
+{"word":"Tor","translation":"puerta"}
+{"word":"Eintritt","translation":"entrada"}
+{"word":"Ausgang","translation":"salida"}
+{"word":"Übergang","translation":"paso"}
+{"word":"Hafen","translation":"puerto"}
+{"word":"Seehafen","translation":"puerto marítimo"}
+{"word":"Flughafen","translation":"aeropuerto"}
+{"word":"Landgrenze","translation":"frontera terrestre"}
+{"word":"Zollbeamter","translation":"agente de aduanas"}
+{"word":"Grenzbeamter","translation":"oficial de frontera"}
+{"word":"Einwanderungsbeamter","translation":"oficial de inmigración"}
+{"word":"Zollabgabe","translation":"impuesto aduanero"}
+{"word":"Steuer","translation":"impuesto"}
+{"word":"Bußgeld","translation":"multa"}
+{"word":"Strafe","translation":"pena"}
+{"word":"Regelung","translation":"regulación"}
+{"word":"Einhaltung","translation":"cumplimiento"}
+{"word":"Gesetz","translation":"ley"}
+{"word":"Beschränkung","translation":"restricción"}
+{"word":"Verboten","translation":"prohibido"}
+{"word":"Gesperrt","translation":"bloqueado"}
+{"word":"Kontrolliert","translation":"controlado"}
+{"word":"Quote","translation":"cuota"}
+{"word":"Lizenz","translation":"licencia"}
+{"word":"Genehmigung","translation":"permiso"}
+{"word":"Waren","translation":"mercancías"}
+{"word":"Handelsware","translation":"mercancía comercial"}
+{"word":"Fracht","translation":"carga"}
+{"word":"Sendung","translation":"envío"}
+{"word":"Lager","translation":"almacén"}
+{"word":"Zolllager","translation":"depósito aduanero"}
+{"word":"Transit","translation":"tránsito"}
+{"word":"Route","translation":"ruta"}
+{"word":"Reise","translation":"viaje"}
+{"word":"Transport","translation":"transporte"}
+{"word":"Zollformular","translation":"formulario aduanero"}
+{"word":"Manifest","translation":"manifiesto"}
+{"word":"Zertifikat","translation":"certificado"}
+{"word":"Ursprung","translation":"origen"}
+{"word":"Bestimmungsort","translation":"destino"}
+{"word":"Rechnung","translation":"factura"}
+{"word":"Packliste","translation":"lista de empaque"}
+{"word":"Deklarationsformular","translation":"formulario de declaración"}
+{"word":"Zollmakler","translation":"agente aduanero"}
+{"word":"Agentur","translation":"agencia"}
+{"word":"Verwaltung","translation":"administración"}
+{"word":"Völkerrecht","translation":"derecho internacional"}
+{"word":"Grenzzone","translation":"zona fronteriza"}
+{"word":"Visumfreiheit","translation":"exención de visado"}
+{"word":"Flüchtling","translation":"refugiado"}
+{"word":"Asyl","translation":"asilo"}
+{"word":"Staatsangehörigkeit","translation":"nacionalidad"}
+{"word":"Bürgerschaft","translation":"ciudadanía"}
+{"word":"Aufenthalt","translation":"residencia"}
+{"word":"Einreiseverbot","translation":"prohibición de entrada"}
+{"word":"Schwarze Liste","translation":"lista negra"}
+{"word":"Beobachtungsliste","translation":"lista de vigilancia"}
+{"word":"Biometrisch","translation":"biométrico"}
+{"word":"Fingerabdruck","translation":"huella dactilar"}
+{"word":"Gesichtserkennung","translation":"reconocimiento facial"}
+{"word":"Identitätskontrolle","translation":"control de identidad"}
+{"word":"Inhaftierung","translation":"detención"}
+{"word":"Verhaftung","translation":"arresto"}
+{"word":"Untersuchung","translation":"investigación"}
+{"word":"Durchsetzung","translation":"aplicación"}
+{"word":"Beschlagnahme","translation":"incautación"}
+{"word":"Konfiszierung","translation":"confiscación"}
+{"word":"Audit","translation":"auditoría"}
+{"word":"Bericht","translation":"informe"}
+{"word":"Nachrichtendienst","translation":"servicio de inteligencia"}
+{"word":"Informant","translation":"informante"}
+{"word":"Drogenhandel","translation":"tráfico de drogas"}
+{"word":"Menschenhandel","translation":"trata de personas"}
+{"word":"Geldwäsche","translation":"lavado de dinero"}
+{"word":"Illegale Einwanderung","translation":"inmigración ilegal"}
+{"word":"Überziehung des Aufenthalts","translation":"exceso de estancia"}
+{"word":"Undokumentiert","translation":"indocumentado"}
+{"word":"Gefälschter Reisepass","translation":"pasaporte falsificado"}
+{"word":"Gefälschtes Dokument","translation":"documento falsificado"}
+{"word":"Gefälschter Ausweis","translation":"identificación falsificada"}
+{"word":"Zollkodex","translation":"código aduanero"}
+{"word":"Grenzkontrolle","translation":"control fronterizo"}
+{"word":"Grenzüberschreitung","translation":"cruce fronterizo"}
+{"word":"Zone","translation":"zona"}
+{"word":"Perimeter","translation":"perímetro"}
+{"word":"Alarm","translation":"alarma"}
+{"word":"Notfall","translation":"emergencia"}
+{"word":"Schnelle Reaktion","translation":"respuesta rápida"}
+{"word":"Koordination","translation":"coordinación"}
+{"word":"Gemeinsame Operation","translation":"operación conjunta"}
+{"word":"Internationale Zusammenarbeit","translation":"cooperación internacional"}
+{"word":"Abkommen","translation":"acuerdo"}
+{"word":"Vertrag","translation":"contrato"}
+{"word":"Konvention","translation":"convención"}
+{"word":"Sicherheitskontrolle","translation":"control de seguridad"}
+{"word":"Zollbewertung","translation":"valoración aduanera"}
+{"word":"Zollunion","translation":"unión aduanera"}
+{"word":"Handelsabkommen","translation":"acuerdo comercial"}
+{"word":"Embargo","translation":"embargo"}
+{"word":"Sanktionen","translation":"sanciones"}
+{"word":"Importbeschränkung","translation":"restricción de importación"}
+{"word":"Exportlizenz","translation":"licencia de exportación"}
+{"word":"Frachtkontrolle","translation":"control de carga"}
+{"word":"Hundeeinheit","translation":"unidad canina"}
+{"word":"Spürhund","translation":"perro detector"}
+{"word":"Rauschgift","translation":"drogas"}
+{"word":"Sprengstoff","translation":"explosivos"}
+{"word":"Waffen","translation":"armas"}
+{"word":"Munition","translation":"municiones"}
+{"word":"Gefährliche Güter","translation":"mercancías peligrosas"}
+{"word":"Quarantäne","translation":"cuarentena"}
+{"word":"Gesundheitskontrolle","translation":"control sanitario"}
+{"word":"Lebensmittelsicherheit","translation":"seguridad alimentaria"}
+{"word":"Zollschulung","translation":"formación aduanera"}
+{"word":"Beamter","translation":"funcionario"}
+{"word":"Zollfrei","translation":"libre de impuestos"}
+{"word":"Abfertigungsprozess","translation":"proceso de despacho"}
+{"word":"Grenzzaun","translation":"valla fronteriza"}
+{"word":"Biometrischer Reisepass","translation":"pasaporte biométrico"}
+{"word":"Zollscanner","translation":"escáner aduanero"}
+{"word":"Gepäckkontrolle","translation":"control de equipaje"}
+{"word":"Profiling","translation":"perfilado"}
+{"word":"Reisender","translation":"viajero"}
+{"word":"Zollspur","translation":"carril aduanero"}
+{"word":"Roter Kanal","translation":"canal rojo"}
+{"word":"Grüner Kanal","translation":"canal verde"}
+{"word":"Zollerklärung","translation":"declaración aduanera"}
+{"word":"E-Gates","translation":"puertas electrónicas"}
+{"word":"Vorabkontrolle","translation":"control previo"}
+{"word":"Erweiterte Passagierinformationen","translation":"información avanzada de pasajeros"}
+{"word":"Visumantrag","translation":"solicitud de visado"}
+{"word":"Passkontrolle","translation":"control de pasaportes"}
+{"word":"Zollamt","translation":"oficina de aduanas"}
+{"word":"Einreisestempel","translation":"sello de entrada"}
+{"word":"Ausreisestempel","translation":"sello de salida"}
+{"word":"Zollvorschrift","translation":"reglamento aduanero"}
+{"word":"Zollinspektion","translation":"inspección aduanera"}
+{"word":"Visumsgespräch","translation":"entrevista de visado"}
+{"word":"Einwanderungsgesetz","translation":"ley de inmigración"}
+{"word":"Reisekarte","translation":"tarjeta de viaje"}
+{"word":"Migration","translation":"migración"}
+{"word":"Transitvisum","translation":"visado de tránsito"}
+{"word":"Zollsoftware","translation":"software aduanero"}
+{"word":"Zolldatenbank","translation":"base de datos aduanera"}
+{"word":"Schmuggelversuch","translation":"intento de contrabando"}
+{"word":"Alarmsystem","translation":"sistema de alarma"}
+{"word":"Laderaum","translation":"bodega"}
+{"word":"Zollbefreiung","translation":"exención de aduana"}
+{"word":"Manifestprüfung","translation":"verificación de manifiesto"}
+{"word":"Flugmanifest","translation":"manifiesto de vuelo"}
+{"word":"Hafenbehörde","translation":"autoridad portuaria"}
+{"word":"Containerinspektion","translation":"inspección de contenedores"}
+{"word":"Spediteur","translation":"transportista / transitario"}
+{"word":"Handelskonformität","translation":"cumplimiento comercial"}
+{"word":"Importsteuer","translation":"impuesto de importación"}
+{"word":"Exportdeklaration","translation":"declaración de exportación"}
+{"word":"Nachtpatrouille","translation":"patrulla nocturna"}
+{"word":"Illegale Einreise","translation":"entrada ilegal"}
+{"word":"Einreisehafen","translation":"puerto de entrada"}
+{"word":"Einreisegenehmigung","translation":"permiso de entrada"}
+{"word":"Aufenthaltsgenehmigung","translation":"permiso de residencia"}
+{"word":"Einreiseabfertigung","translation":"despacho de entrada"}
+{"word":"Eingeschränktes Gebiet","translation":"zona restringida"}
+{"word":"Schmuggelware-Erkennung","translation":"detección de mercancía de contrabando"}
+{"word":"Zolldurchsetzung","translation":"aplicación aduanera"}],
+    "diplomacyandinternationalrelations": [{"word":"Diplomatie","translation":"diplomacia"}
+{"word":"Diplomat","translation":"diplomático"}
+{"word":"Botschafter","translation":"embajador"}
+{"word":"Botschaft","translation":"embajada"}
+{"word":"Konsulat","translation":"consulado"}
+{"word":"Konsularisch","translation":"consular"}
+{"word":"Ausländisch","translation":"extranjero"}
+{"word":"Beziehungen","translation":"relaciones"}
+{"word":"International","translation":"internacional"}
+{"word":"Verhandlung","translation":"negociación"}
+{"word":"Abkommen","translation":"acuerdo"}
+{"word":"Vertrag","translation":"tratado"}
+{"word":"Protokoll","translation":"protocolo"}
+{"word":"Gipfel","translation":"cumbre"}
+{"word":"Bilateral","translation":"bilateral"}
+{"word":"Multilateral","translation":"multilateral"}
+{"word":"Delegation","translation":"delegación"}
+{"word":"Gesandter","translation":"enviado"}
+{"word":"Geschäftsträger","translation":"encargado de negocios"}
+{"word":"Außenminister","translation":"ministro de exteriores"}
+{"word":"Außenpolitik","translation":"política exterior"}
+{"word":"Auswärtige Angelegenheiten","translation":"asuntos exteriores"}
+{"word":"Diplomatische Mission","translation":"misión diplomática"}
+{"word":"Diplomatisches Korps","translation":"cuerpo diplomático"}
+{"word":"Verhandlungstisch","translation":"mesa de negociación"}
+{"word":"Mediator","translation":"mediador"}
+{"word":"Mediation","translation":"mediación"}
+{"word":"Schiedsgericht","translation":"tribunal arbitral"}
+{"word":"Allianz","translation":"alianza"}
+{"word":"Koalition","translation":"coalición"}
+{"word":"Pakt","translation":"pacto"}
+{"word":"Übereinkunft","translation":"acuerdo"}
+{"word":"Resolution","translation":"resolución"}
+{"word":"Anerkennung","translation":"reconocimiento"}
+{"word":"Souveränität","translation":"soberanía"}
+{"word":"Unabhängigkeit","translation":"independencia"}
+{"word":"Zwischenstaatlich","translation":"intergubernamental"}
+{"word":"Global","translation":"global"}
+{"word":"Globalisierung","translation":"globalización"}
+{"word":"Regional","translation":"regional"}
+{"word":"Transnational","translation":"transnacional"}
+{"word":"Kooperation","translation":"cooperación"}
+{"word":"Zusammenarbeit","translation":"colaboración"}
+{"word":"Engagement","translation":"compromiso"}
+{"word":"Partnerschaft","translation":"asociación"}
+{"word":"Strategisch","translation":"estratégico"}
+{"word":"Völkerrecht","translation":"derecho internacional"}
+{"word":"Frieden","translation":"paz"}
+{"word":"Friedenssicherung","translation":"mantenimiento de la paz"}
+{"word":"Konflikt","translation":"conflicto"}
+{"word":"Krieg","translation":"guerra"}
+{"word":"Waffenstillstand","translation":"alto el fuego"}
+{"word":"Truce (Waffenruhe)","translation":"tregua"}
+{"word":"Rüstungskontrolle","translation":"control de armamentos"}
+{"word":"Abrüstung","translation":"desarme"}
+{"word":"Nichtverbreitung","translation":"no proliferación"}
+{"word":"Sanktion","translation":"sanción"}
+{"word":"Embargo","translation":"embargo"}
+{"word":"Boykott","translation":"boicot"}
+{"word":"Druck","translation":"presión"}
+{"word":"Weiche Macht","translation":"poder blando"}
+{"word":"Harte Macht","translation":"poder duro"}
+{"word":"Öffentliche Diplomatie","translation":"diplomacia pública"}
+{"word":"Kulturaustausch","translation":"intercambio cultural"}
+{"word":"Diplomatische Immunität","translation":"inmunidad diplomática"}
+{"word":"Diplomatenpass","translation":"pasaporte diplomático"}
+{"word":"Gipfeltreffen","translation":"cumbre"}
+{"word":"Hochrangige Gespräche","translation":"conversaciones de alto nivel"}
+{"word":"Dialog","translation":"diálogo"}
+{"word":"Runder Tisch","translation":"mesa redonda"}
+{"word":"Bilaterale Beziehungen","translation":"relaciones bilaterales"}
+{"word":"Multilaterales Forum","translation":"foro multilateral"}
+{"word":"Globale Governance","translation":"gobernanza global"}
+{"word":"Internationale Organisation","translation":"organización internacional"}
+{"word":"Vereinte Nationen","translation":"Naciones Unidas"}
+{"word":"UN-Sicherheitsrat","translation":"Consejo de Seguridad de la ONU"}
+{"word":"Generalversammlung","translation":"Asamblea General"}
+{"word":"Internationaler Gerichtshof","translation":"Corte Internacional de Justicia"}
+{"word":"Internationaler Strafgerichtshof","translation":"Corte Penal Internacional"}
+{"word":"NGO","translation":"ONG"}
+{"word":"Globale Institution","translation":"institución global"}
+{"word":"G7","translation":"G7"}
+{"word":"G20","translation":"G20"}
+{"word":"Europäische Union","translation":"Unión Europea"}
+{"word":"Afrikanische Union","translation":"Unión Africana"}
+{"word":"ASEAN","translation":"ASEAN"}
+{"word":"NATO","translation":"OTAN"}
+{"word":"Vertragsorganisation","translation":"organización de tratados"}
+{"word":"Interagentur-Zusammenarbeit","translation":"cooperación interagencial"}
+{"word":"Politik","translation":"política"}
+{"word":"Strategie","translation":"estrategia"}
+{"word":"Rahmen","translation":"marco"}
+{"word":"Agenda","translation":"agenda"}
+{"word":"Initiative","translation":"iniciativa"}
+{"word":"Konsens","translation":"consenso"}
+{"word":"Ratifizierung","translation":"ratificación"}
+{"word":"Umsetzung","translation":"implementación"}
+{"word":"Beschluss","translation":"resolución / decisión"}
+{"word":"Veto","translation":"veto"}
+{"word":"Intervention","translation":"intervención"}
+{"word":"Humanitär","translation":"humanitario"}
+{"word":"Flüchtling","translation":"refugiado"}
+{"word":"Asyl","translation":"asilo"}
+{"word":"Migration","translation":"migración"}
+{"word":"Visum","translation":"visado"}
+{"word":"Grenze","translation":"frontera"}
+{"word":"Demarkation","translation":"demarcación"}
+{"word":"Territorium","translation":"territorio"}
+{"word":"Nation","translation":"nación"}
+{"word":"Staat","translation":"estado"}
+{"word":"Staatsoberhaupt","translation":"jefe de estado"}
+{"word":"Regierungschef","translation":"jefe de gobierno"}
+{"word":"Präsident","translation":"presidente"}
+{"word":"Premierminister","translation":"primer ministro"}
+{"word":"Ausländische Würdenträger","translation":"dignatarios extranjeros"}
+{"word":"Diplomatischer Kanal","translation":"canal diplomático"}
+{"word":"Hinterkanal","translation":"canal secreto"}
+{"word":"Beauftragter","translation":"comisionado / representante"}
+{"word":"Gipfeldiplomatie","translation":"diplomacia de cumbre"}
+{"word":"Shuttle-Diplomatie","translation":"diplomacia de lanzadera"}
+{"word":"Stille Diplomatie","translation":"diplomacia silenciosa"}
+{"word":"Präventive Diplomatie","translation":"diplomacia preventiva"}
+{"word":"Krisendiplomatie","translation":"diplomacia de crisis"}
+{"word":"Internationaler Druck","translation":"presión internacional"}
+{"word":"Internationale Hilfe","translation":"ayuda internacional"}
+{"word":"Entwicklungshilfe","translation":"ayuda al desarrollo"}
+{"word":"Bilaterales Abkommen","translation":"acuerdo bilateral"}
+{"word":"Gemeinsame Erklärung","translation":"declaración conjunta"}
+{"word":"Kommuniqué","translation":"comunicado"}
+{"word":"Abschließender Akt","translation":"acto final"}
+{"word":"Absichtserklärung","translation":"carta de intención / memorando"}
+{"word":"Konvention","translation":"convención"}
+{"word":"Vertragspflichten","translation":"obligaciones contractuales"}
+{"word":"Friedensvertrag","translation":"tratado de paz"}
+{"word":"Grenzabkommen","translation":"acuerdo fronterizo"}
+{"word":"Maritimes Abkommen","translation":"acuerdo marítimo"}
+{"word":"Atomabkommen","translation":"acuerdo nuclear"}
+{"word":"Handelsabkommen","translation":"acuerdo comercial"}
+{"word":"Freihandel","translation":"libre comercio"}
+{"word":"Aufhebung des Embargos","translation":"levantamiento del embargo"}
+{"word":"Diplomatische Spannungen","translation":"tensiones diplomáticas"}
+{"word":"Diplomatischer Konflikt","translation":"conflicto diplomático"}
+{"word":"Diplomatischer Zwischenfall","translation":"incidente diplomático"}
+{"word":"Abbruch der Verhandlungen","translation":"ruptura de negociaciones"}
+{"word":"Wiederherstellung der Beziehungen","translation":"restauración de relaciones"}
+{"word":"Normalisierung","translation":"normalización"}
+{"word":"Wiederaufnahme","translation":"reanudación"}
+{"word":"Abbruch der Beziehungen","translation":"ruptura de relaciones"}
+{"word":"Ausweisung","translation":"expulsión"}
+{"word":"Rückberufung","translation":"retirada / recall"}
+{"word":"Einbestellung","translation":"citación / convocatoria"}
+{"word":"Entschuldigung","translation":"disculpa"}
+{"word":"Protestnote","translation":"nota de protesta"}
+{"word":"Demarche","translation":"demarche"}
+{"word":"Diplomatischer Protest","translation":"protesta diplomática"}
+{"word":"Bilateraler Besuch","translation":"visita bilateral"}
+{"word":"Staatsbesuch","translation":"visita de estado"}
+{"word":"Ministertreffen","translation":"reunión ministerial"}
+{"word":"Pressemitteilung","translation":"comunicado de prensa"}
+{"word":"Diplomatische Note","translation":"nota diplomática"}
+{"word":"Rundschreiben","translation":"circular"}
+{"word":"Diplomatenpost","translation":"correo diplomático"}
+{"word":"Nachrichtendienst","translation":"servicio de inteligencia"}
+{"word":"Vertraulich","translation":"confidencial"}
+{"word":"Klassifiziert","translation":"clasificado"}
+{"word":"Deklassifiziert","translation":"desclasificado"}
+{"word":"Diplomatische Rede","translation":"discurso diplomático"}
+{"word":"Erklärung","translation":"declaración"}
+{"word":"Internationaler Status","translation":"estatus internacional"}
+{"word":"Drittparteien-Mediator","translation":"mediador de terceros"}
+{"word":"Auftragsmission / Fact-finding Mission","translation":"misión de investigación"}
+{"word":"Konfliktlösung","translation":"resolución de conflictos"}
+{"word":"Nachkonflikt-Wiederaufbau","translation":"reconstrucción posconflicto"}
+{"word":"Beobachtermission","translation":"misión de observación"}
+{"word":"Sondergesandter","translation":"enviado especial"}
+{"word":"Friedensabkommen","translation":"acuerdo de paz"}
+{"word":"Friedensprozess","translation":"proceso de paz"}
+{"word":"Friedenspakt","translation":"pacto de paz"}
+{"word":"Demilitarisierung","translation":"desmilitarización"}
+{"word":"Internationale Aufsicht","translation":"supervisión internacional"}
+{"word":"Internationale Konferenz","translation":"conferencia internacional"}
+{"word":"Ausländische Hilfe","translation":"ayuda extranjera"}
+{"word":"Gipfelerklärung","translation":"declaración de cumbre"}
+{"word":"Offizielle Einladung","translation":"invitación oficial"}
+{"word":"Gastland","translation":"país anfitrión"}
+{"word":"Partnerland","translation":"país socio"}
+{"word":"Unterzeichner","translation":"firmante"}
+{"word":"Verhandlungsphase","translation":"fase de negociación"}
+{"word":"Politikpapier","translation":"documento de política"}
+{"word":"Arbeitsgruppe","translation":"grupo de trabajo"}
+{"word":"Sonderausschuss","translation":"comité especial"}
+{"word":"Ständige Mission","translation":"misión permanente"}],
+    "tradeandentrepreneurship": [{"word":"Handel","translation":"comercio"}
+{"word":"Commerce","translation":"comercio"}
+{"word":"Unternehmer","translation":"empresario"}
+{"word":"Unternehmertum","translation":"emprendimiento"}
+{"word":"Startup","translation":"startup / empresa emergente"}
+{"word":"Geschäft","translation":"negocio"}
+{"word":"Firma","translation":"firma / empresa"}
+{"word":"Unternehmen","translation":"empresa"}
+{"word":"Markt","translation":"mercado"}
+{"word":"Marketing","translation":"mercadotecnia / marketing"}
+{"word":"Vertrieb","translation":"ventas"}
+{"word":"Umsatz","translation":"facturación / ventas"}
+{"word":"Gewinn","translation":"beneficio / ganancia"}
+{"word":"Verlust","translation":"pérdida"}
+{"word":"Investition","translation":"inversión"}
+{"word":"Investor","translation":"inversor"}
+{"word":"Kapital","translation":"capital"}
+{"word":"Venture","translation":"empresa de riesgo / venture"}
+{"word":"Finanzierung","translation":"financiación"}
+{"word":"Startkapital","translation":"capital inicial"}
+{"word":"Angel-Investor","translation":"inversor ángel"}
+{"word":"Risikokapitalgeber","translation":"capitalista de riesgo"}
+{"word":"Eigenkapital","translation":"capital propio"}
+{"word":"Anteil","translation":"participación / cuota"}
+{"word":"Aktie","translation":"acción"}
+{"word":"Aktionär","translation":"accionista"}
+{"word":"Stakeholder","translation":"parte interesada / stakeholder"}
+{"word":"Partnerschaft","translation":"sociedad / asociación"}
+{"word":"Einzelunternehmen","translation":"empresa individual"}
+{"word":"Kapitalgesellschaft","translation":"sociedad de capital"}
+{"word":"Haftungsbeschränkt","translation":"responsabilidad limitada"}
+{"word":"Geschäftsplan","translation":"plan de negocio"}
+{"word":"Pitch","translation":"presentación / pitch"}
+{"word":"Geschäftsmodell","translation":"modelo de negocio"}
+{"word":"Wertangebot","translation":"propuesta de valor"}
+{"word":"Innovation","translation":"innovación"}
+{"word":"Disruption","translation":"disrupción"}
+{"word":"Skalierung","translation":"escalabilidad"}
+{"word":"Wachstum","translation":"crecimiento"}
+{"word":"Expansion","translation":"expansión"}
+{"word":"Franchise","translation":"franquicia"}
+{"word":"Lizenzierung","translation":"licenciamiento"}
+{"word":"Distribution","translation":"distribución"}
+{"word":"Großhandel","translation":"mayoreo / venta al por mayor"}
+{"word":"Einzelhandel","translation":"venta al por menor / retail"}
+{"word":"E-Commerce","translation":"comercio electrónico / e-commerce"}
+{"word":"Plattform","translation":"plataforma"}
+{"word":"Lieferant","translation":"proveedor"}
+{"word":"Kunde","translation":"cliente"}
+{"word":"Verbraucher","translation":"consumidor"}
+{"word":"Käufer","translation":"comprador"}
+{"word":"Verkäufer","translation":"vendedor"}
+{"word":"Klient","translation":"cliente / cliente profesional"}
+{"word":"Dienstleistung","translation":"servicio"}
+{"word":"Produkt","translation":"producto"}
+{"word":"Waren","translation":"mercancías / productos"}
+{"word":"Logistik","translation":"logística"}
+{"word":"Lieferkette","translation":"cadena de suministro"}
+{"word":"Inventar","translation":"inventario"}
+{"word":"Lieferung","translation":"entrega / envío"}
+{"word":"Bestellung","translation":"pedido / orden"}
+{"word":"Rechnung","translation":"factura"}
+{"word":"Zahlung","translation":"pago"}
+{"word":"Transaktion","translation":"transacción"}
+{"word":"Checkout","translation":"checkout / caja"}
+{"word":"Online-Zahlung","translation":"pago en línea"}
+{"word":"Preisgestaltung","translation":"fijación de precios / pricing"}
+{"word":"Kosten","translation":"costos"}
+{"word":"Marge","translation":"margen"}
+{"word":"Bruttomarge","translation":"margen bruto"}
+{"word":"Nettogewinn","translation":"beneficio neto"}
+{"word":"Break-even","translation":"punto de equilibrio"}
+{"word":"Cashflow","translation":"flujo de caja / flujo de efectivo"}
+{"word":"Buchhaltung","translation":"contabilidad"}
+{"word":"Buchführung","translation":"registro contable / contabilidad"}
+{"word":"Bilanz","translation":"balance"}
+{"word":"Gewinn- und Verlustrechnung","translation":"estado de resultados / cuenta de pérdidas y ganancias"}
+{"word":"Finanzbericht","translation":"informe financiero"}
+{"word":"Prüfung","translation":"auditoría / revisión"}
+{"word":"Steuer","translation":"impuesto"}
+{"word":"Besteuerung","translation":"tributación"}
+{"word":"Steuererklärung","translation":"declaración de impuestos"}
+{"word":"Steuer-ID","translation":"identificación fiscal / NIF"}
+{"word":"Import","translation":"importación"}
+{"word":"Export","translation":"exportación"}
+{"word":"Zoll","translation":"aduana"}
+{"word":"Zolltarif","translation":"arancel aduanero"}
+{"word":"Handelsabkommen","translation":"acuerdo comercial"}
+{"word":"Handelsbarriere","translation":"barrera comercial"}
+{"word":"Freihandel","translation":"libre comercio"}
+{"word":"Gewerkschaft","translation":"sindicato"}
+{"word":"Internationaler Handel","translation":"comercio internacional"}
+{"word":"Inländischer Handel","translation":"comercio doméstico"}
+{"word":"Handelsbilanz","translation":"balanza comercial"}
+{"word":"Angebot","translation":"oferta"}
+{"word":"Nachfrage","translation":"demanda"}
+{"word":"Wirtschaftspolitik","translation":"política económica"}
+{"word":"Zinssatz","translation":"tasa de interés"}
+{"word":"Inflation","translation":"inflación"}
+{"word":"Deflation","translation":"deflación"}
+{"word":"Rezession","translation":"recesión"}
+{"word":"Wirtschaftswachstum","translation":"crecimiento económico"}
+{"word":"BIP","translation":"PIB / Producto Interno Bruto"}
+{"word":"Wettbewerbsfähigkeit","translation":"competitividad"}
+{"word":"Produktivität","translation":"productividad"}
+{"word":"Arbeit","translation":"trabajo"}
+{"word":"Arbeitskraft","translation":"mano de obra"}
+{"word":"Arbeitgeber","translation":"empleador / patrono"}
+{"word":"Arbeitnehmer","translation":"empleado / trabajador"}
+{"word":"Lohn","translation":"salario"}
+{"word":"Gehalt","translation":"sueldo / salario"}
+{"word":"Gehaltsabrechnung","translation":"nómina"}
+{"word":"Personalwesen","translation":"recursos humanos"}
+{"word":"Einstellung","translation":"contratación"}
+{"word":"Rekrutierung","translation":"reclutamiento"}
+{"word":"Interview","translation":"entrevista"}
+{"word":"Vertrag","translation":"contrato"}
+{"word":"Freiberuflich","translation":"freelance / autónomo"}
+{"word":"Outsourcing","translation":"externalización / outsourcing"}
+{"word":"Geschäftsanmeldung","translation":"registro comercial"}
+{"word":"Gründung","translation":"fundación / creación"}
+{"word":"Marke","translation":"marca"}
+{"word":"Patent","translation":"patente"}
+{"word":"Geistiges Eigentum","translation":"propiedad intelectual"}
+{"word":"Branding","translation":"branding / marca"}
+{"word":"Logo","translation":"logotipo / logo"}
+{"word":"Werbung","translation":"publicidad"}
+{"word":"Kampagne","translation":"campaña"}
+{"word":"Promotion","translation":"promoción"}
+{"word":"Öffentlichkeitsarbeit","translation":"relaciones públicas"}
+{"word":"Medien","translation":"medios"}
+{"word":"Soziale Medien","translation":"redes sociales"}
+{"word":"Influencer","translation":"influencer / influyente"}
+{"word":"Strategie","translation":"estrategia"}
+{"word":"Planung","translation":"planificación"}
+{"word":"Führung","translation":"liderazgo / dirección"}
+{"word":"Management","translation":"gestión / administración"}
+{"word":"Betrieb","translation":"operación / negocio"}
+{"word":"KPI","translation":"indicador clave de rendimiento / KPI"}
+{"word":"Leistung","translation":"rendimiento / desempeño"}
+{"word":"Ziel","translation":"objetivo"}
+{"word":"Objektiv","translation":"meta / objetivo"}
+{"word":"Meilenstein","translation":"hito"}
+{"word":"Frist","translation":"plazo"}
+{"word":"Risiko","translation":"riesgo"}
+{"word":"Risikomanagement","translation":"gestión de riesgos"}
+{"word":"Versicherung","translation":"seguro"}
+{"word":"Haftung","translation":"responsabilidad"}
+{"word":"Compliance","translation":"cumplimiento / compliance"}
+{"word":"Regulierung","translation":"regulación"}
+{"word":"Rechtsstruktur","translation":"estructura legal"}
+{"word":"Rechtliche Einheit","translation":"entidad legal"}
+{"word":"Governance","translation":"gobernanza"}
+{"word":"Vorstand","translation":"junta directiva / consejo"}
+{"word":"CEO","translation":"CEO / director ejecutivo"}
+{"word":"Gründer","translation":"fundador"}
+{"word":"Mitgründer","translation":"cofundador"}
+{"word":"Business-Inkubator","translation":"incubadora de negocios"}
+{"word":"Accelerator","translation":"aceleradora"}
+{"word":"Coworking-Space","translation":"espacio de coworking"}
+{"word":"Business-Mentor","translation":"mentor empresarial"}
+{"word":"Business-Coach","translation":"coach empresarial"}
+{"word":"Networking","translation":"networking / creación de redes"}
+{"word":"Pitch-Deck","translation":"pitch deck / presentación"}
+{"word":"Demo-Day","translation":"día de demostración / demo day"}
+{"word":"Crowdfunding","translation":"financiación colectiva / crowdfunding"}
+{"word":"Peer-to-Peer","translation":"peer-to-peer / entre pares"}
+{"word":"Bootstrap","translation":"auto-financiación / bootstrap"}
+{"word":"Monetarisierung","translation":"monetización"}
+{"word":"Upsell","translation":"venta adicional / upsell"}
+{"word":"Kundengewinnung","translation":"adquisición de clientes"}
+{"word":"Conversion","translation":"conversión"}
+{"word":"Churn","translation":"rotación de clientes / churn"}
+{"word":"Benutzererfahrung","translation":"experiencia del usuario / UX"}
+{"word":"UI","translation":"interfaz de usuario / UI"}
+{"word":"UX","translation":"experiencia de usuario / UX"}
+{"word":"Agil","translation":"ágil"}
+{"word":"Lean Startup","translation":"Lean Startup"}
+{"word":"MVP (Minimal funktionsfähiges Produkt)","translation":"MVP / Producto mínimo viable"}
+{"word":"Prototyp","translation":"prototipo"}
+{"word":"Iteration","translation":"iteración"}
+{"word":"Validierung","translation":"validación"}
+{"word":"Feedback","translation":"retroalimentación / feedback"}
+{"word":"Traktion","translation":"tracción"}
+{"word":"Skalierbarkeit","translation":"escalabilidad"}
+{"word":"Tech-fähig","translation":"tecnológico / tech-enabled"}
+{"word":"Mobile-first","translation":"mobile-first / móvil primero"}
+{"word":"SaaS","translation":"SaaS / software como servicio"}
+{"word":"B2B","translation":"B2B / empresa a empresa"}
+{"word":"B2C","translation":"B2C / empresa a consumidor"}
+{"word":"D2C","translation":"D2C / directo al consumidor"}
+{"word":"Pitch-Session","translation":"sesión de pitch"}
+{"word":"Kapitalbeschaffung","translation":"financiación / recaudación de capital"}
+{"word":"Exit-Strategie","translation":"estrategia de salida"}
+{"word":"Fusion","translation":"fusión"}
+{"word":"Akquisition","translation":"adquisición"}
+{"word":"Börsengang (IPO)","translation":"salida a bolsa / IPO"}],
+    "humanitarianandngos": [{"word":"Humanitär","translation":"humanitario"},
+{"word":"NGO","translation":"ONG"},
+{"word":"Nichtregierungsorganisation","translation":"organización no gubernamental"},
+{"word":"Wohltätigkeit","translation":"caridad"},
+{"word":"Hilfe","translation":"ayuda"},
+{"word":"Nothilfe","translation":"ayuda de emergencia"},
+{"word":"Unterstützung","translation":"apoyo"},
+{"word":"Beistand","translation":"asistencia"},
+{"word":"Notfall","translation":"emergencia"},
+{"word":"Krise","translation":"crisis"},
+{"word":"Katastrophe","translation":"catástrofe"},
+{"word":"Wiederaufbau","translation":"reconstrucción"},
+{"word":"Reaktion","translation":"respuesta"},
+{"word":"Unterkunft","translation":"alojamiento"},
+{"word":"Essen","translation":"comida"},
+{"word":"Wasser","translation":"agua"},
+{"word":"Sanitär","translation":"saneamiento"},
+{"word":"Hygiene","translation":"higiene"},
+{"word":"Gesundheit","translation":"salud"},
+{"word":"Ernährung","translation":"nutrición"},
+{"word":"Impfung","translation":"vacunación"},
+{"word":"Ausbruch","translation":"brote"},
+{"word":"Epidemie","translation":"epidemia"},
+{"word":"Pandemie","translation":"pandemia"},
+{"word":"Vertreibung","translation":"desplazamiento"},
+{"word":"Flüchtling","translation":"refugiado"},
+{"word":"Asyl","translation":"asilo"},
+{"word":"Migrant","translation":"migrante"},
+{"word":"Binnenvertriebene","translation":"desplazado interno"},
+{"word":"Umsiedlung","translation":"reubicación"},
+{"word":"Konflikt","translation":"conflicto"},
+{"word":"Friedenssicherung","translation":"mantenimiento de la paz"},
+{"word":"Schutz","translation":"protección"},
+{"word":"Sicherheit","translation":"seguridad"},
+{"word":"Geschlecht","translation":"género"},
+{"word":"Geschlechtsbasierte Gewalt","translation":"violencia de género"},
+{"word":"Menschenrechte","translation":"derechos humanos"},
+{"word":"Lobbyarbeit","translation":"incidencia política"},
+{"word":"Bewusstsein","translation":"conciencia"},
+{"word":"Kampagne","translation":"campaña"},
+{"word":"Aufklärung","translation":"sensibilización"},
+{"word":"Gemeinschaft","translation":"comunidad"},
+{"word":"Entwicklung","translation":"desarrollo"},
+{"word":"Projekt","translation":"proyecto"},
+{"word":"Programm","translation":"programa"},
+{"word":"Initiative","translation":"iniciativa"},
+{"word":"Zusammenarbeit","translation":"cooperación"},
+{"word":"Partnerschaft","translation":"asociación"},
+{"word":"Geber","translation":"donante"},
+{"word":"Finanzierung","translation":"financiación"},
+{"word":"Zuschuss","translation":"subvención"},
+{"word":"Spende","translation":"donación"},
+{"word":"Sponsor","translation":"patrocinador"},
+{"word":"Sponsoring","translation":"patrocinio"},
+{"word":"Freiwilliger","translation":"voluntario"},
+{"word":"Freiwilligenarbeit","translation":"voluntariado"},
+{"word":"Personal","translation":"personal"},
+{"word":"Feldarbeiter","translation":"trabajador de campo"},
+{"word":"Koordinator","translation":"coordinador"},
+{"word":"Logistiker","translation":"logístico"},
+{"word":"Sanitäter","translation":"paramédico"},
+{"word":"Berater","translation":"asesor"},
+{"word":"Psychologe","translation":"psicólogo"},
+{"word":"Sozialarbeiter","translation":"trabajador social"},
+{"word":"Bildung","translation":"educación"},
+{"word":"Schulwesen","translation":"sistema escolar"},
+{"word":"Alphabetisierung","translation":"alfabetización"},
+{"word":"Ermächtigung","translation":"empoderamiento"},
+{"word":"Inklusion","translation":"inclusión"},
+{"word":"Gleichberechtigung","translation":"igualdad"},
+{"word":"Gerechtigkeit","translation":"justicia"},
+{"word":"Würde","translation":"dignidad"},
+{"word":"Kapazitätsaufbau","translation":"desarrollo de capacidades"},
+{"word":"Schulung","translation":"capacitación"},
+{"word":"Evaluation","translation":"evaluación"},
+{"word":"Überwachung","translation":"monitoreo"},
+{"word":"Auswirkung","translation":"impacto"},
+{"word":"Bewertung","translation":"valoración"},
+{"word":"Basislinie","translation":"línea base"},
+{"word":"Indikator","translation":"indicador"},
+{"word":"Ziel","translation":"objetivo"},
+{"word":"Begünstigter","translation":"beneficiario"},
+{"word":"Verwundbar","translation":"vulnerable"},
+{"word":"Marginalisiert","translation":"marginado"},
+{"word":"Gemeindebasiert","translation":"basado en la comunidad"},
+{"word":"Basisorientiert","translation":"orientado a la base"},
+{"word":"Nachhaltigkeit","translation":"sostenibilidad"},
+{"word":"Resilienz","translation":"resiliencia"},
+{"word":"Klima","translation":"clima"},
+{"word":"Klimawandel","translation":"cambio climático"},
+{"word":"Ernährungsunsicherheit","translation":"inseguridad alimentaria"},
+{"word":"Hunger","translation":"hambre"},
+{"word":"Mangelernährung","translation":"desnutrición"},
+{"word":"Lebensgrundlagen","translation":"medios de vida"},
+{"word":"Landwirtschaft","translation":"agricultura"},
+{"word":"Ackerbau","translation":"cultivo"},
+{"word":"Mikrofinanz","translation":"microfinanzas"},
+{"word":"Unternehmertum","translation":"emprendimiento"},
+{"word":"Jugend","translation":"juventud"},
+{"word":"Kinder","translation":"niños"},
+{"word":"Frauen","translation":"mujeres"},
+{"word":"Mädchen","translation":"niñas"},
+{"word":"Männer","translation":"hombres"},
+{"word":"Jungen","translation":"niños varones"},
+{"word":"Ältere","translation":"personas mayores"},
+{"word":"Menschen mit Behinderung","translation":"personas con discapacidad"},
+{"word":"Inklusiv","translation":"inclusivo"},
+{"word":"Zugang","translation":"acceso"},
+{"word":"Chance","translation":"oportunidad"},
+{"word":"Infrastruktur","translation":"infraestructura"},
+{"word":"Politik","translation":"política"},
+{"word":"Governance","translation":"gobernanza"},
+{"word":"Stakeholder","translation":"parte interesada"},
+{"word":"Koordination","translation":"coordinación"},
+{"word":"Humanitärer Korridor","translation":"corredor humanitario"},
+{"word":"Konvoi","translation":"convoy"},
+{"word":"Verteilung","translation":"distribución"},
+{"word":"Lagerbestand","translation":"inventario"},
+{"word":"Lager","translation":"almacén"},
+{"word":"Logistik","translation":"logística"},
+{"word":"Transport","translation":"transporte"},
+{"word":"Versand","translation":"envío"},
+{"word":"Zoll","translation":"aduana"},
+{"word":"Genehmigung","translation":"permiso"},
+{"word":"Dokumentation","translation":"documentación"},
+{"word":"Registrierung","translation":"registro"},
+{"word":"Identifikation","translation":"identificación"},
+{"word":"Daten","translation":"datos"},
+{"word":"Umfrage","translation":"encuesta"},
+{"word":"Formular","translation":"formulario"},
+{"word":"Bericht","translation":"informe"},
+{"word":"Dashboard","translation":"tablero de control"},
+{"word":"Kommunikation","translation":"comunicación"},
+{"word":"Medien","translation":"medios"},
+{"word":"Presse","translation":"prensa"},
+{"word":"Erklärung","translation":"declaración"},
+{"word":"Appell","translation":"llamado"},
+{"word":"Notfallappell","translation":"llamado de emergencia"},
+{"word":"Internationales Recht","translation":"derecho internacional"},
+{"word":"Humanitäres Recht","translation":"derecho humanitario"},
+{"word":"Genfer Konvention","translation":"Convención de Ginebra"},
+{"word":"Rotes Kreuz","translation":"Cruz Roja"},
+{"word":"ICRC","translation":"CICR"},
+{"word":"UN","translation":"ONU"},
+{"word":"UNICEF","translation":"UNICEF"},
+{"word":"UNHCR","translation":"ACNUR"},
+{"word":"WFP","translation":"PMA"},
+{"word":"WHO","translation":"OMS"},
+{"word":"OCHA","translation":"OCHA"},
+{"word":"Lokale NGO","translation":"ONG local"},
+{"word":"Internationale NGO","translation":"ONG internacional"},
+{"word":"Geberagentur","translation":"agencia donante"},
+{"word":"Zivilgesellschaft","translation":"sociedad civil"},
+{"word":"Privatsektor","translation":"sector privado"},
+{"word":"Finanzierungslücke","translation":"brecha de financiación"},
+{"word":"Beschaffung","translation":"adquisiciones"},
+{"word":"Lieferungen","translation":"entregas"},
+{"word":"Materialien","translation":"materiales"},
+{"word":"Medizin","translation":"medicamentos"},
+{"word":"Impfstoff","translation":"vacuna"},
+{"word":"Psychosozial","translation":"psicosocial"},
+{"word":"Trauma","translation":"trauma"},
+{"word":"Heilung","translation":"curación"},
+{"word":"Unterkunftsset","translation":"kit de alojamiento"},
+{"word":"Hygieneset","translation":"kit de higiene"},
+{"word":"Würde-Set","translation":"kit de dignidad"},
+{"word":"Lebensmittelpaket","translation":"paquete de alimentos"},
+{"word":"Ration","translation":"ración"},
+{"word":"Verteilungspunkt","translation":"punto de distribución"},
+{"word":"Koordinierungstreffen","translation":"reunión de coordinación"},
+{"word":"Feldbesuch","translation":"visita de campo"},
+{"word":"Mission","translation":"misión"},
+{"word":"Briefing","translation":"informe previo"},
+{"word":"Feldbericht","translation":"informe de campo"},
+{"word":"Lagebericht","translation":"informe de situación"},
+{"word":"Logistikplan","translation":"plan logístico"},
+{"word":"Strategieplan","translation":"plan estratégico"},
+{"word":"Budget","translation":"presupuesto"},
+{"word":"Ausgaben","translation":"gastos"},
+{"word":"Rechenschaftspflicht","translation":"responsabilidad"},
+{"word":"Transparenz","translation":"transparencia"},
+{"word":"Ethik","translation":"ética"},
+{"word":"Neutralität","translation":"neutralidad"},
+{"word":"Unparteilichkeit","translation":"imparcialidad"},
+{"word":"Unabhängigkeit","translation":"independencia"},
+{"word":"Feldbüro","translation":"oficina de campo"},
+{"word":"Hauptquartier","translation":"sede"},
+{"word":"Cluster-System","translation":"sistema de clúster"},
+{"word":"Schutz-Cluster","translation":"clúster de protección"},
+{"word":"WASH-Cluster","translation":"clúster de WASH"},
+{"word":"Ernährungssicherheits-Cluster","translation":"clúster de seguridad alimentaria"},
+{"word":"Gesundheits-Cluster","translation":"clúster de salud"},
+{"word":"Bildungs-Cluster","translation":"clúster de educación"},
+{"word":"Bargeldtransfer","translation":"transferencia de efectivo"},
+{"word":"Gutschein","translation":"vale"},
+{"word":"Mobile Geldmittel","translation":"fondos móviles"},
+{"word":"Gemeindeleiter","translation":"líder comunitario"},
+{"word":"Stakeholder-Treffen","translation":"reunión de partes interesadas"}]    
+  },
   "italian": {
     "lawandjustice": [{"word":"Justiz","translation":"giustizia"},
 {"word":"Gericht","translation":"tribunale"},
