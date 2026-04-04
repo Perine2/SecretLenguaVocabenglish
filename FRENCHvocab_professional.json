@@ -17434,18 +17434,6 @@
 {"word":"bon","translation":"талон"}
 {"word":"mobile money","translation":"мобильные деньги"}
 {"word":"leader communautaire","translation":"лидер сообщества"}
-{"word":"réunion des parties prenantes","translation":"встреча заинтересованных сторон"}]
- },
-  "turkish": {
-    "lawandjustice": [],
-    "healthandmedicine": [],
-    "economyandfinance": [],
-    "educationandteaching": [],
-    "tourismandhospitality": [],
-    "transportandlogistics": [],
-    "customsandbordersecurity": [],
-    "diplomacyandinternationalrelations": [],
-    "tradeandentrepreneurship": [],
-    "humanitarianandngos": []    
+{"word":"réunion des parties prenantes","translation":"встреча заинтересованных сторон"}] 
   }
 }
