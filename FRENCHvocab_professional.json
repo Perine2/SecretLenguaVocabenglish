@@ -18187,192 +18187,193 @@
 {"word":"certificat de fin de formation","translation":"сертификат о завершении обучения"},
 {"word":"examen national","translation":"национальный экзамен"},
 {"word":"baccalauréat international","translation":"международный бакалавриат (IB)"}],
-    "tourismandhospitality": [{"word":"touriste","translation":"турист"},
-{"word":"touriste","translation":"турист"},
-{"word":"voyageur","translation":"путешественник"},
-{"word":"voyage","translation":"путешествие"},
-{"word":"trajet","translation":"маршрут / поездка"},
-{"word":"vacances","translation":"отпуск / каникулы"},
-{"word":"industrie du tourisme","translation":"туристическая индустрия"},
-{"word":"hôtellerie","translation":"гостиничное дело"},
-{"word":"hôte","translation":"хозяин / принимающая сторона"},
-{"word":"invité","translation":"гость"},
-{"word":"destination","translation":"место назначения"},
-{"word":"attraction","translation":"достопримечательность"},
-{"word":"visite touristique","translation":"экскурсия"},
-{"word":"excursion","translation":"экскурсия / поездка"},
-{"word":"itinéraire","translation":"маршрут"},
-{"word":"tour","translation":"тур / экскурсия"},
-{"word":"agence de voyage","translation":"туристическое агентство"},
-{"word":"guide touristique","translation":"гид / экскурсовод"},
-{"word":"agent de voyage","translation":"туристический агент"},
-{"word":"assurance voyage","translation":"страховка для путешествий"},
-{"word":"réservation","translation":"бронирование"},
-{"word":"enregistrement","translation":"регистрация"},
-{"word":"départ","translation":"отправление"},
-{"word":"confirmation","translation":"подтверждение"},
-{"word":"annulation","translation":"отмена"},
-{"word":"nouvelle réservation","translation":"новое бронирование"},
-{"word":"horaire","translation":"расписание"},
-{"word":"retard","translation":"задержка"},
-{"word":"arrivée","translation":"прибытие"},
-{"word":"aéroport","translation":"аэропорт"},
-{"word":"terminal","translation":"терминал"},
-{"word":"porte d’embarquement","translation":"выход на посадку"},
-{"word":"compagnie aérienne","translation":"авиакомпания"},
-{"word":"vol","translation":"рейс / полёт"},
-{"word":"carte d’embarquement","translation":"посадочный талон"},
-{"word":"billet","translation":"билет"},
-{"word":"passeport","translation":"паспорт"},
-{"word":"visa","translation":"виза"},
-{"word":"douane","translation":"таможня"},
-{"word":"immigration","translation":"иммиграционный контроль"},
-{"word":"contrôle de sécurité","translation":"контроль безопасности"},
-{"word":"bagages","translation":"багаж"},
-{"word":"valise","translation":"чемодан"},
-{"word":"bagage à main","translation":"ручная кладь"},
-{"word":"récupération des bagages","translation":"получение багажа"},
-{"word":"bagages perdus","translation":"потерянный багаж"},
-{"word":"transport","translation":"транспорт"},
-{"word":"taxi","translation":"такси"},
-{"word":"navette","translation":"шаттл / трансфер"},
-{"word":"bus","translation":"автобус"},
-{"word":"autocar","translation":"междугородний автобус"},
-{"word":"train","translation":"поезд"},
-{"word":"chemin de fer","translation":"железная дорога"},
-{"word":"métro","translation":"метро"},
-{"word":"tramway","translation":"трамвай"},
-{"word":"location de voiture","translation":"аренда автомобиля"},
-{"word":"conducteur","translation":"водитель"},
-{"word":"permis","translation":"водительское удостоверение"},
-{"word":"GPS","translation":"GPS / навигация"},
-{"word":"carburant","translation":"топливо"},
-{"word":"péage","translation":"плата за проезд / дорожный сбор"},
-{"word":"parking","translation":"парковка"},
-{"word":"hôtel","translation":"отель"},
-{"word":"auberge","translation":"гостиница / хостел"},
-{"word":"motel","translation":"мотель"},
-{"word":"station balnéaire","translation":"курорт"},
-{"word":"maison d’hôtes","translation":"гостевой дом"},
-{"word":"chambre d’hôtes","translation":"комната в гостевом доме"},
-{"word":"hébergement","translation":"проживание"},
-{"word":"logement","translation":"жильё"},
-{"word":"réception","translation":"ресепшн / стойка регистрации"},
-{"word":"concierge","translation":"консьерж"},
-{"word":"portier","translation":"швейцар / носильщик"},
-{"word":"service de ménage","translation":"уборка"},
-{"word":"service en chambre","translation":"обслуживание в номере"},
-{"word":"nettoyage","translation":"чистка / уборка"},
-{"word":"blanchisserie","translation":"прачечная"},
-{"word":"chambre double","translation":"двухместный номер"},
-{"word":"chambre simple","translation":"одноместный номер"},
-{"word":"suite","translation":"люкс"},
-{"word":"chambre twin","translation":"номер с двумя кроватями"},
-{"word":"deluxe","translation":"делюкс"},
-{"word":"standard","translation":"стандартный номер"},
-{"word":"numéro de réservation","translation":"номер бронирования"},
-{"word":"équipements","translation":"удобства / оснащение"},
-{"word":"piscine","translation":"бассейн"},
-{"word":"salle de sport","translation":"спортзал"},
-{"word":"spa","translation":"спа"},
-{"word":"bien-être","translation":"оздоровление"},
-{"word":"massage","translation":"массаж"},
-{"word":"restaurant","translation":"ресторан"},
-{"word":"café","translation":"кафе"},
-{"word":"bar","translation":"бар"},
-{"word":"pub","translation":"паб"},
-{"word":"buffet","translation":"шведский стол"},
-{"word":"à la carte","translation":"по меню"},
-{"word":"petit-déjeuner","translation":"завтрак"},
-{"word":"déjeuner","translation":"обед"},
-{"word":"dîner","translation":"ужин"},
-{"word":"menu","translation":"меню"},
-{"word":"repas","translation":"еда / приём пищи"},
-{"word":"plat","translation":"блюдо"},
-{"word":"entrée","translation":"закуска"},
-{"word":"plat principal","translation":"основное блюдо"},
-{"word":"dessert","translation":"десерт"},
-{"word":"boisson","translation":"напиток"},
-{"word":"serveur","translation":"официант"},
-{"word":"serveuse","translation":"официантка"},
-{"word":"chef","translation":"шеф-повар"},
-{"word":"cuisinier","translation":"повар"},
-{"word":"cuisine","translation":"кухня"},
-{"word":"personnel hôtelier","translation":"отельный персонал"},
-{"word":"pourboire","translation":"чаевые"},
-{"word":"addition","translation":"счёт"},
-{"word":"reçu","translation":"квитанция"},
-{"word":"facture","translation":"счёт / инвойс"},
-{"word":"paiement","translation":"оплата"},
-{"word":"espèces","translation":"наличные"},
-{"word":"carte de crédit","translation":"кредитная карта"},
-{"word":"carte de débit","translation":"дебетовая карта"},
-{"word":"devise étrangère","translation":"иностранная валюта"},
-{"word":"taux de change","translation":"обменный курс"},
-{"word":"banque","translation":"банк"},
-{"word":"distributeur automatique","translation":"банкомат"},
-{"word":"visite guidée","translation":"экскурсия с гидом"},
-{"word":"audioguide","translation":"аудиогид"},
-{"word":"musée","translation":"музей"},
-{"word":"monument","translation":"памятник"},
-{"word":"site historique","translation":"историческое место"},
-{"word":"château","translation":"замок"},
-{"word":"église","translation":"церковь"},
-{"word":"temple","translation":"храм"},
-{"word":"mosquée","translation":"мечеть"},
-{"word":"événement culturel","translation":"культурное событие"},
-{"word":"festival","translation":"фестиваль"},
-{"word":"parade","translation":"парад"},
-{"word":"plage","translation":"пляж"},
-{"word":"montagne","translation":"гора"},
-{"word":"nature","translation":"природа"},
-{"word":"randonnée","translation":"поход / треккинг"},
-{"word":"aventure","translation":"приключение"},
-{"word":"safari","translation":"сафари"},
-{"word":"croisière","translation":"круиз"},
-{"word":"ferry","translation":"паром"},
-{"word":"bateau","translation":"лодка"},
-{"word":"yacht","translation":"яхта"},
-{"word":"navigation à voile","translation":"парусный спорт"},
-{"word":"plongée","translation":"дайвинг"},
-{"word":"plongée avec tuba","translation":"снорклинг"},
-{"word":"natation","translation":"плавание"},
-{"word":"surf","translation":"серфинг"},
-{"word":"camping","translation":"кемпинг"},
-{"word":"terrain de camping","translation":"кемпинговая площадка"},
-{"word":"tente","translation":"палатка"},
-{"word":"sac à dos","translation":"рюкзак"},
-{"word":"guide de voyage","translation":"путеводитель"},
-{"word":"carte","translation":"карта"},
-{"word":"avis","translation":"отзыв"},
-{"word":"évaluation","translation":"оценка / рейтинг"},
-{"word":"recommandation","translation":"рекомендация"},
-{"word":"blog de voyage","translation":"туристический блог"},
-{"word":"vlog de voyage","translation":"влог о путешествиях"},
-{"word":"influenceur","translation":"инфлюенсер"},
-{"word":"expérience","translation":"опыт / впечатление"},
-{"word":"souvenirs","translation":"сувениры"},
-{"word":"photo","translation":"фотография"},
-{"word":"appareil photo","translation":"фотоаппарат"},
-{"word":"vidéo","translation":"видео"},
-{"word":"barrière linguistique","translation":"языковой барьер"},
-{"word":"traduction","translation":"перевод"},
-{"word":"communication","translation":"коммуникация"},
-{"word":"sécurité","translation":"безопасность"},
-{"word":"urgence","translation":"чрезвычайная ситуация"},
-{"word":"santé","translation":"здоровье"},
-{"word":"clinique","translation":"клиника"},
-{"word":"hôpital","translation":"больница"},
-{"word":"conseil aux voyageurs","translation":"советы для путешественников"},
-{"word":"ambassade","translation":"посольство"},
-{"word":"consulat","translation":"консульство"},
-{"word":"coutumes locales","translation":"местные обычаи"},
-{"word":"souvenir","translation":"сувенир"},
-{"word":"shopping","translation":"шоппинг"},
-{"word":"marché","translation":"рынок"},
-{"word":"nourriture de rue","translation":"уличная еда"},
-{"word":"transport public","translation":"общественный транспорт"},
-{"word":"conseil de voyage","translation":"туристическая информация / советы"}],
+    "tourismandhospitality": [{"word":"tourisme","translation":"туризм"}
+{"word":"touriste","translation":"турист"}
+{"word":"voyageur","translation":"путешественник"}
+{"word":"voyage","translation":"путешествие"}
+{"word":"trajet","translation":"маршрут"}
+{"word":"vacances","translation":"отпуск"}
+{"word":"industrie du tourisme","translation":"туристическая индустрия"}
+{"word":"hôtellerie","translation":"гостиничный бизнес"}
+{"word":"hôte","translation":"хозяин"}
+{"word":"invité","translation":"гость"}
+{"word":"destination","translation":"пункт назначения"}
+{"word":"attraction","translation":"достопримечательность"}
+{"word":"visite touristique","translation":"туристическая экскурсия"}
+{"word":"excursion","translation":"экскурсия"}
+{"word":"itinéraire","translation":"маршрут"}
+{"word":"tour","translation":"тур"}
+{"word":"agence de voyage","translation":"туристическое агентство"}
+{"word":"guide touristique","translation":"туристический гид"}
+{"word":"agent de voyage","translation":"туристический агент"}
+{"word":"assurance voyage","translation":"страхование путешествий"}
+{"word":"réservation","translation":"бронирование"}
+{"word":"enregistrement","translation":"регистрация"}
+{"word":"départ","translation":"отправление"}
+{"word":"confirmation","translation":"подтверждение"}
+{"word":"annulation","translation":"отмена"}
+{"word":"nouvelle réservation","translation":"новое бронирование"}
+{"word":"horaire","translation":"расписание"}
+{"word":"retard","translation":"задержка"}
+{"word":"arrivée","translation":"прибытие"}
+{"word":"aéroport","translation":"аэропорт"}
+{"word":"terminal","translation":"терминал"}
+{"word":"porte d’embarquement","translation":"выход на посадку"}
+{"word":"compagnie aérienne","translation":"авиакомпания"}
+{"word":"vol","translation":"рейс"}
+{"word":"carte d’embarquement","translation":"посадочный талон"}
+{"word":"billet","translation":"билет"}
+{"word":"passeport","translation":"паспорт"}
+{"word":"visa","translation":"виза"}
+{"word":"douane","translation":"таможня"}
+{"word":"immigration","translation":"иммиграционный контроль"}
+{"word":"contrôle de sécurité","translation":"контроль безопасности"}
+{"word":"bagages","translation":"багаж"}
+{"word":"valise","translation":"чемодан"}
+{"word":"bagage à main","translation":"ручная кладь"}
+{"word":"récupération des bagages","translation":"получение багажа"}
+{"word":"bagages perdus","translation":"потерянный багаж"}
+{"word":"transport","translation":"транспорт"}
+{"word":"taxi","translation":"такси"}
+{"word":"navette","translation":"шаттл"}
+{"word":"bus","translation":"автобус"}
+{"word":"autocar","translation":"междугородний автобус"}
+{"word":"train","translation":"поезд"}
+{"word":"chemin de fer","translation":"железная дорога"}
+{"word":"métro","translation":"метро"}
+{"word":"tramway","translation":"трамвай"}
+{"word":"location de voiture","translation":"аренда автомобиля"}
+{"word":"conducteur","translation":"водитель"}
+{"word":"permis","translation":"водительские права"}
+{"word":"GPS","translation":"GPS"}
+{"word":"carburant","translation":"топливо"}
+{"word":"péage","translation":"платная дорога"}
+{"word":"parking","translation":"парковка"}
+{"word":"hôtel","translation":"отель"}
+{"word":"auberge","translation":"гостевой дом"}
+{"word":"motel","translation":"мотель"}
+{"word":"station balnéaire","translation":"курорт"}
+{"word":"maison d’hôtes","translation":"дом для гостей"}
+{"word":"chambre d’hôtes","translation":"комната в гостевом доме"}
+{"word":"hébergement","translation":"размещение"}
+{"word":"logement","translation":"жильё"}
+{"word":"réception","translation":"рецепция"}
+{"word":"concierge","translation":"консьерж"}
+{"word":"portier","translation":"швейцар/дверной"}
+{"word":"service de ménage","translation":"уборка"}
+{"word":"service en chambre","translation":"обслуживание номеров"}
+{"word":"nettoyage","translation":"чистка"}
+{"word":"blanchisserie","translation":"прачечная"}
+{"word":"chambre double","translation":"двухместный номер"}
+{"word":"chambre simple","translation":"одноместный номер"}
+{"word":"suite","translation":"люкс"}
+{"word":"chambre twin","translation":"номер с двумя кроватями"}
+{"word":"deluxe","translation":"делюкс"}
+{"word":"standard","translation":"стандарт"}
+{"word":"numéro de réservation","translation":"номер бронирования"}
+{"word":"équipements","translation":"удобства"}
+{"word":"piscine","translation":"бассейн"}
+{"word":"salle de sport","translation":"тренажёрный зал"}
+{"word":"spa","translation":"спа"}
+{"word":"bien-être","translation":"благополучие"}
+{"word":"massage","translation":"массаж"}
+{"word":"restaurant","translation":"ресторан"}
+{"word":"café","translation":"кафе"}
+{"word":"bar","translation":"бар"}
+{"word":"pub","translation":"паб"}
+{"word":"buffet","translation":"шведский стол"}
+{"word":"à la carte","translation":"по меню"}
+{"word":"petit-déjeuner","translation":"завтрак"}
+{"word":"déjeuner","translation":"обед"}
+{"word":"dîner","translation":"ужин"}
+{"word":"menu","translation":"меню"}
+{"word":"repas","translation":"еда"}
+{"word":"plat","translation":"блюдо"}
+{"word":"entrée","translation":"закуска"}
+{"word":"plat principal","translation":"основное блюдо"}
+{"word":"dessert","translation":"десерт"}
+{"word":"boisson","translation":"напиток"}
+{"word":"serveur","translation":"официант"}
+{"word":"serveuse","translation":"официантка"}
+{"word":"chef","translation":"шеф-повар"}
+{"word":"cuisinier","translation":"повар"}
+{"word":"cuisine","translation":"кухня"}
+{"word":"personnel hôtelier","translation":"отельный персонал"}
+{"word":"pourboire","translation":"чаевые"}
+{"word":"addition","translation":"счёт"}
+{"word":"reçu","translation":"квитанция"}
+{"word":"facture","translation":"счёт-фактура"}
+{"word":"paiement","translation":"оплата"}
+{"word":"espèces","translation":"наличные"}
+{"word":"carte","translation":"карта"}
+{"word":"carte de crédit","translation":"кредитная карта"}
+{"word":"carte de débit","translation":"дебетовая карта"}
+{"word":"devise étrangère","translation":"иностранная валюта"}
+{"word":"taux de change","translation":"обменный курс"}
+{"word":"banque","translation":"банк"}
+{"word":"distributeur automatique","translation":"банкомат"}
+{"word":"visite guidée","translation":"экскурсия с гидом"}
+{"word":"audioguide","translation":"аудиогид"}
+{"word":"musée","translation":"музей"}
+{"word":"monument","translation":"памятник"}
+{"word":"site historique","translation":"исторический объект"}
+{"word":"château","translation":"замок"}
+{"word":"église","translation":"церковь"}
+{"word":"temple","translation":"храм"}
+{"word":"mosquée","translation":"мечеть"}
+{"word":"événement culturel","translation":"культурное событие"}
+{"word":"festival","translation":"фестиваль"}
+{"word":"parade","translation":"парад"}
+{"word":"plage","translation":"пляж"}
+{"word":"montagne","translation":"гора"}
+{"word":"nature","translation":"природа"}
+{"word":"randonnée","translation":"поход"}
+{"word":"aventure","translation":"приключение"}
+{"word":"safari","translation":"сафари"}
+{"word":"croisière","translation":"круиз"}
+{"word":"ferry","translation":"паром"}
+{"word":"bateau","translation":"лодка"}
+{"word":"yacht","translation":"яхта"}
+{"word":"navigation à voile","translation":"парусный спорт"}
+{"word":"plongée","translation":"дайвинг"}
+{"word":"plongée avec tuba","translation":"снорклинг"}
+{"word":"natation","translation":"плавание"}
+{"word":"surf","translation":"серфинг"}
+{"word":"camping","translation":"кемпинг"}
+{"word":"terrain de camping","translation":"кемпинговая площадка"}
+{"word":"tente","translation":"палатка"}
+{"word":"sac à dos","translation":"рюкзак"}
+{"word":"guide de voyage","translation":"путеводитель"}
+{"word":"application","translation":"приложение"}
+{"word":"avis","translation":"отзыв"}
+{"word":"évaluation","translation":"оценка"}
+{"word":"recommandation","translation":"рекомендация"}
+{"word":"blog de voyage","translation":"туристический блог"}
+{"word":"vlog de voyage","translation":"влог о путешествиях"}
+{"word":"influenceur","translation":"инфлюенсер"}
+{"word":"expérience","translation":"опыт"}
+{"word":"souvenirs","translation":"сувениры"}
+{"word":"photo","translation":"фото"}
+{"word":"appareil photo","translation":"фотокамера"}
+{"word":"vidéo","translation":"видео"}
+{"word":"barrière linguistique","translation":"языковой барьер"}
+{"word":"traduction","translation":"перевод"}
+{"word":"communication","translation":"коммуникация"}
+{"word":"sécurité","translation":"безопасность"}
+{"word":"urgence","translation":"чрезвычайная ситуация"}
+{"word":"santé","translation":"здоровье"}
+{"word":"clinique","translation":"клиника"}
+{"word":"hôpital","translation":"больница"}
+{"word":"conseil aux voyageurs","translation":"совет для путешественников"}
+{"word":"ambassade","translation":"посольство"}
+{"word":"consulat","translation":"консульство"}
+{"word":"coutumes locales","translation":"местные обычаи"}
+{"word":"souvenir","translation":"сувенир"}
+{"word":"shopping","translation":"шоппинг"}
+{"word":"marché","translation":"рынок"}
+{"word":"nourriture de rue","translation":"уличная еда"}
+{"word":"transport public","translation":"общественный транспорт"}
+{"word":"conseil de voyage","translation":"совет путешественнику"}],
     "transportandlogistics": [{"word":"transport","translation":"транспорт"}
 {"word":"logistique","translation":"логистика"}
 {"word":"expédition","translation":"отправка"}
@@ -18958,7 +18959,7 @@
 {"word":"entrepreneur","translation":"предприниматель"}
 {"word":"entrepreneuriat","translation":"предпринимательство"}
 {"word":"startup","translation":"стартап"}
-{"word":"affaires","translation":"дела / бизнес"}
+{"word":"affaires","translation":"бизнес"}
 {"word":"entreprise","translation":"предприятие"}
 {"word":"société","translation":"компания"}
 {"word":"marché","translation":"рынок"}
@@ -18975,11 +18976,11 @@
 {"word":"capital d’amorçage","translation":"посевной капитал"}
 {"word":"investisseur providentiel","translation":"бизнес-ангел"}
 {"word":"capital-risque","translation":"венчурный капитал"}
-{"word":"fonds propres","translation":"собственные средства"}
+{"word":"fonds propres","translation":"собственный капитал"}
 {"word":"action","translation":"акция"}
 {"word":"actionnaire","translation":"акционер"}
-{"word":"partie prenante","translation":"заинтересованное лицо"}
-{"word":"partenariat","translation":"партнерство"}
+{"word":"partie prenante","translation":"заинтересованная сторона"}
+{"word":"partenariat","translation":"партнёрство"}
 {"word":"entreprise individuelle","translation":"индивидуальное предприятие"}
 {"word":"responsabilité limitée","translation":"ограниченная ответственность"}
 {"word":"plan d’affaires","translation":"бизнес-план"}
@@ -18987,13 +18988,13 @@
 {"word":"modèle économique","translation":"бизнес-модель"}
 {"word":"proposition de valeur","translation":"ценностное предложение"}
 {"word":"innovation","translation":"инновация"}
-{"word":"rupture","translation":"разрыв / прорыв"}
+{"word":"rupture","translation":"разрыв/disruption"}
 {"word":"scalabilité","translation":"масштабируемость"}
 {"word":"croissance","translation":"рост"}
 {"word":"expansion","translation":"расширение"}
 {"word":"franchise","translation":"франшиза"}
 {"word":"licence","translation":"лицензия"}
-{"word":"distribution","translation":"распределение / дистрибуция"}
+{"word":"distribution","translation":"распространение"}
 {"word":"vente en gros","translation":"оптовая продажа"}
 {"word":"vente au détail","translation":"розничная продажа"}
 {"word":"commerce électronique","translation":"электронная коммерция"}
@@ -19008,13 +19009,13 @@
 {"word":"marchandises","translation":"товары"}
 {"word":"logistique","translation":"логистика"}
 {"word":"chaîne d’approvisionnement","translation":"цепочка поставок"}
-{"word":"inventaire","translation":"инвентарь / складской учет"}
+{"word":"inventaire","translation":"инвентарь"}
 {"word":"livraison","translation":"доставка"}
 {"word":"commande","translation":"заказ"}
-{"word":"facture","translation":"счет-фактура"}
+{"word":"facture","translation":"счёт-фактура"}
 {"word":"paiement","translation":"оплата"}
 {"word":"transaction","translation":"транзакция"}
-{"word":"paiement en ligne","translation":"онлайн-платеж"}
+{"word":"paiement en ligne","translation":"онлайн-платёж"}
 {"word":"tarification","translation":"ценообразование"}
 {"word":"coût","translation":"стоимость"}
 {"word":"marge","translation":"маржа"}
@@ -19022,11 +19023,11 @@
 {"word":"bénéfice net","translation":"чистая прибыль"}
 {"word":"point mort","translation":"точка безубыточности"}
 {"word":"flux de trésorerie","translation":"денежный поток"}
-{"word":"comptabilité","translation":"бухгалтерский учет"}
-{"word":"tenue de livres","translation":"ведение учета"}
+{"word":"comptabilité","translation":"бухгалтерия"}
+{"word":"tenue de livres","translation":"ведение учёта"}
 {"word":"bilan","translation":"баланс"}
-{"word":"compte de résultat","translation":"отчет о прибылях и убытках"}
-{"word":"rapport financier","translation":"финансовый отчет"}
+{"word":"compte de résultat","translation":"отчёт о прибылях и убытках"}
+{"word":"rapport financier","translation":"финансовый отчёт"}
 {"word":"audit","translation":"аудит"}
 {"word":"impôt","translation":"налог"}
 {"word":"fiscalité","translation":"налогообложение"}
@@ -19054,23 +19055,23 @@
 {"word":"PIB","translation":"ВВП"}
 {"word":"compétitivité","translation":"конкурентоспособность"}
 {"word":"productivité","translation":"производительность"}
-{"word":"travail","translation":"труд"}
+{"word":"travail","translation":"работа"}
 {"word":"main-d’œuvre","translation":"рабочая сила"}
 {"word":"employeur","translation":"работодатель"}
 {"word":"employé","translation":"сотрудник"}
-{"word":"salaires","translation":"зарплаты"}
+{"word":"salaires","translation":"зарплата"}
 {"word":"rémunération","translation":"вознаграждение"}
-{"word":"paie","translation":"оплата труда"}
-{"word":"ressources humaines","translation":"человеческие ресурсы"}
-{"word":"embauche","translation":"наем"}
+{"word":"paie","translation":"выплата"}
+{"word":"ressources humaines","translation":"кадровая служба"}
+{"word":"embauche","translation":"найм"}
 {"word":"recrutement","translation":"рекрутинг"}
 {"word":"entretien","translation":"собеседование"}
 {"word":"contrat","translation":"контракт"}
-{"word":"freelance","translation":"фриланс"}
+{"word":"freelance","translation":"фрилансер"}
 {"word":"externalisation","translation":"аутсорсинг"}
 {"word":"enregistrement d’entreprise","translation":"регистрация компании"}
-{"word":"constitution","translation":"учреждение / регистрация"}
-{"word":"marque déposée","translation":"зарегистрированная торговая марка"}
+{"word":"constitution","translation":"устав"}
+{"word":"marque déposée","translation":"торговая марка"}
 {"word":"brevet","translation":"патент"}
 {"word":"propriété intellectuelle","translation":"интеллектуальная собственность"}
 {"word":"marque","translation":"бренд"}
@@ -19079,7 +19080,7 @@
 {"word":"publicité","translation":"реклама"}
 {"word":"campagne","translation":"кампания"}
 {"word":"promotion","translation":"продвижение"}
-{"word":"relations publiques","translation":"публичные связи"}
+{"word":"relations publiques","translation":"связи с общественностью"}
 {"word":"médias","translation":"СМИ"}
 {"word":"réseaux sociaux","translation":"социальные сети"}
 {"word":"influenceur","translation":"инфлюенсер"}
@@ -19088,58 +19089,58 @@
 {"word":"leadership","translation":"лидерство"}
 {"word":"gestion","translation":"управление"}
 {"word":"opérations","translation":"операции"}
-{"word":"KPI","translation":"ключевые показатели эффективности"}
+{"word":"KPI","translation":"ключевой показатель эффективности"}
 {"word":"performance","translation":"эффективность"}
 {"word":"objectif","translation":"цель"}
-{"word":"jalon","translation":"этап / веха"}
+{"word":"jalon","translation":"веха"}
 {"word":"date limite","translation":"срок"}
 {"word":"gestion des risques","translation":"управление рисками"}
 {"word":"assurance","translation":"страхование"}
 {"word":"responsabilité","translation":"ответственность"}
 {"word":"conformité","translation":"соответствие"}
 {"word":"réglementation","translation":"регулирование"}
-{"word":"structure juridique","translation":"юридическая структура"}
+{"word":"structure juridique","translation":"правовая структура"}
 {"word":"personne morale","translation":"юридическое лицо"}
-{"word":"gouvernance","translation":"управление / корпоративное управление"}
+{"word":"gouvernance","translation":"управление"}
 {"word":"conseil","translation":"совет"}
 {"word":"PDG","translation":"генеральный директор"}
 {"word":"fondateur","translation":"основатель"}
-{"word":"co-fondateur","translation":"сооснователь"}
+{"word":"co-fondateur","translation":"соучредитель"}
 {"word":"incubateur d’entreprises","translation":"бизнес-инкубатор"}
 {"word":"accélérateur","translation":"акселератор"}
 {"word":"espace de coworking","translation":"коворкинг"}
 {"word":"mentor d’affaires","translation":"бизнес-наставник"}
-{"word":"coach d’affaires","translation":"бизнес-тренер"}
+{"word":"coach d’affaires","translation":"бизнес-коуч"}
 {"word":"réseautage","translation":"нетворкинг"}
-{"word":"présentation pitch","translation":"питч-презентация"}
-{"word":"journée de démonstration","translation":"день демонстрации"}
+{"word":"présentation pitch","translation":"презентация pitch"}
+{"word":"journée de démonstration","translation":"демо-день"}
 {"word":"financement participatif","translation":"краудфандинг"}
-{"word":"pair-à-pair","translation":"peer-to-peer"}
+{"word":"pair-à-pair","translation":"P2P"}
 {"word":"bootstrap","translation":"самофинансирование"}
 {"word":"monétisation","translation":"монетизация"}
 {"word":"vente additionnelle","translation":"дополнительная продажа"}
 {"word":"acquisition client","translation":"привлечение клиента"}
 {"word":"conversion","translation":"конверсия"}
-{"word":"attrition","translation":"отток клиентов"}
+{"word":"attrition","translation":"отток"}
 {"word":"expérience utilisateur","translation":"пользовательский опыт"}
 {"word":"UI","translation":"пользовательский интерфейс"}
-{"word":"UX","translation":"опыт пользователя"}
-{"word":"agile","translation":"гибкая методология"}
-{"word":"lean startup","translation":"бизнес-модель lean startup"}
-{"word":"MVP (Produit Minimum Viable)","translation":"MVP (минимально жизнеспособный продукт)"}
+{"word":"UX","translation":"пользовательский опыт"}
+{"word":"agile","translation":"agile"}
+{"word":"lean startup","translation":"lean startup"}
+{"word":"MVP (Produit Minimum Viable)","translation":"MVP (Минимально жизнеспособный продукт)"}
 {"word":"prototype","translation":"прототип"}
 {"word":"itération","translation":"итерация"}
 {"word":"validation","translation":"валидация"}
 {"word":"retour d’information","translation":"обратная связь"}
-{"word":"traction","translation":"тракшн / рыночный интерес"}
+{"word":"traction","translation":"тракшн"}
 {"word":"technologie","translation":"технология"}
-{"word":"mobile-first","translation":"мобильная стратегия"}
+{"word":"mobile-first","translation":"mobile-first"}
 {"word":"SaaS","translation":"SaaS"}
 {"word":"B2B","translation":"B2B"}
 {"word":"B2C","translation":"B2C"}
 {"word":"D2C","translation":"D2C"}
-{"word":"session pitch","translation":"питч-сессия"}
-{"word":"levée de fonds","translation":"раунд финансирования"}
+{"word":"session pitch","translation":"сессия pitch"}
+{"word":"levée de fonds","translation":"привлечение инвестиций"}
 {"word":"stratégie de sortie","translation":"стратегия выхода"}
 {"word":"fusion","translation":"слияние"}
 {"word":"acquisition","translation":"поглощение"}
