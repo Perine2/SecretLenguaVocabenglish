@@ -19144,22 +19144,23 @@
 {"word":"fusion","translation":"слияние"}
 {"word":"acquisition","translation":"поглощение"}
 {"word":"IPO (Introduction en Bourse)","translation":"IPO (первичное публичное размещение)"}],
-    "humanitarianandngos": [{"word":"ONG","translation":"НПО"}
+    "humanitarianandngos": [{"word":"humanitaire","translation":"гуманитарный"}
+{"word":"ONG","translation":"НПО"}
 {"word":"organisation non gouvernementale","translation":"негосударственная организация"}
 {"word":"charité","translation":"благотворительность"}
 {"word":"aide","translation":"помощь"}
-{"word":"secours","translation":"спасение / помощь"}
+{"word":"secours","translation":"спасение"}
 {"word":"soutien","translation":"поддержка"}
-{"word":"assistance","translation":"содействие / помощь"}
+{"word":"assistance","translation":"ассистанция"}
 {"word":"urgence","translation":"чрезвычайная ситуация"}
 {"word":"crise","translation":"кризис"}
 {"word":"catastrophe","translation":"катастрофа"}
 {"word":"reprise","translation":"восстановление"}
-{"word":"réponse","translation":"реагирование"}
-{"word":"abri","translation":"убежище"}
-{"word":"nourriture","translation":"питание"}
+{"word":"réponse","translation":"реакция"}
+{"word":"abri","translation":"приют"}
+{"word":"nourriture","translation":"пища"}
 {"word":"eau","translation":"вода"}
-{"word":"assainissement","translation":"санитария"}
+{"word":"assainissement","translation":"влагоотведение"}
 {"word":"hygiène","translation":"гигиена"}
 {"word":"santé","translation":"здоровье"}
 {"word":"nutrition","translation":"питание"}
@@ -19170,17 +19171,17 @@
 {"word":"réfugié","translation":"беженец"}
 {"word":"asile","translation":"убежище"}
 {"word":"migrant","translation":"мигрант"}
-{"word":"personne déplacée interne","translation":"внутренне перемещенное лицо"}
+{"word":"personne déplacée interne","translation":"внутренне перемещённое лицо"}
 {"word":"réinstallation","translation":"переселение"}
 {"word":"conflit","translation":"конфликт"}
-{"word":"maintien de la paix","translation":"поддержание мира"}
+{"word":"maintien de la paix","translation":"миротворчество"}
 {"word":"protection","translation":"защита"}
 {"word":"sécurité","translation":"безопасность"}
 {"word":"genre","translation":"гендер"}
-{"word":"violence basée sur le genre","translation":"насилие по признаку пола"}
+{"word":"violence basée sur le genre","translation":"гендерно‑обусловленное насилие"}
 {"word":"droits de l’homme","translation":"права человека"}
-{"word":"plaidoyer","translation":"адвокация / защита интересов"}
-{"word":"sensibilisation","translation":"повышение осведомленности"}
+{"word":"plaidoyer","translation":"адвокация"}
+{"word":"sensibilisation","translation":"повышение осведомлённости"}
 {"word":"campagne","translation":"кампания"}
 {"word":"communauté","translation":"сообщество"}
 {"word":"développement","translation":"развитие"}
@@ -19188,69 +19189,69 @@
 {"word":"programme","translation":"программа"}
 {"word":"initiative","translation":"инициатива"}
 {"word":"collaboration","translation":"сотрудничество"}
-{"word":"partenariat","translation":"партнерство"}
+{"word":"partenariat","translation":"партнёрство"}
 {"word":"donateur","translation":"донор"}
 {"word":"financement","translation":"финансирование"}
-{"word":"subvention","translation":"грант / субсидия"}
+{"word":"subvention","translation":"грант"}
 {"word":"don","translation":"пожертвование"}
 {"word":"sponsor","translation":"спонсор"}
-{"word":"parrainage","translation":"партнерство / спонсорство"}
-{"word":"bénévole","translation":"волонтер"}
-{"word":"bénévolat","translation":"волонтерская деятельность"}
+{"word":"parrainage","translation":"опека/спонсорская помощь"}
+{"word":"bénévole","translation":"волонтёр"}
+{"word":"bénévolat","translation":"волонтёрство"}
 {"word":"personnel","translation":"персонал"}
-{"word":"travailleur de terrain","translation":"полевой сотрудник"}
+{"word":"travailleur de terrain","translation":"полевой работник"}
 {"word":"coordinateur","translation":"координатор"}
 {"word":"logisticien","translation":"логист"}
 {"word":"médecin","translation":"врач"}
-{"word":"conseiller","translation":"советник"}
+{"word":"conseiller","translation":"консультант"}
 {"word":"psychologue","translation":"психолог"}
 {"word":"assistant social","translation":"социальный работник"}
 {"word":"éducation","translation":"образование"}
-{"word":"scolarisation","translation":"школьное обучение"}
+{"word":"scolarisation","translation":"обучение"}
 {"word":"alphabétisation","translation":"грамотность"}
 {"word":"autonomisation","translation":"расширение прав и возможностей"}
-{"word":"inclusion","translation":"включение / инклюзия"}
+{"word":"inclusion","translation":"инклюзия"}
 {"word":"équité","translation":"справедливость"}
 {"word":"justice","translation":"правосудие"}
 {"word":"dignité","translation":"достоинство"}
-{"word":"renforcement des capacités","translation":"повышение потенциала"}
+{"word":"renforcement des capacités","translation":"укрепление потенциала"}
 {"word":"formation","translation":"обучение"}
 {"word":"évaluation","translation":"оценка"}
 {"word":"suivi","translation":"мониторинг"}
-{"word":"impact","translation":"воздействие"}
-{"word":"base de référence","translation":"базовая линия / эталон"}
-{"word":"indicateur","translation":"показатель"}
+{"word":"impact","translation":"влияние"}
+{"word":"base de référence","translation":"базовый уровень"}
+{"word":"indicateur","translation":"индикатор"}
 {"word":"objectif","translation":"цель"}
-{"word":"bénéficiaire","translation":"бенефициар / получатель помощи"}
+{"word":"bénéficiaire","translation":"бенефициар/получатель помощи"}
 {"word":"vulnérable","translation":"уязвимый"}
 {"word":"marginalisé","translation":"маргинализированный"}
-{"word":"basé sur la communauté","translation":"на базе сообщества"}
+{"word":"basé sur la communauté","translation":"основано на сообществе"}
 {"word":"local","translation":"местный"}
 {"word":"durabilité","translation":"устойчивость"}
-{"word":"résilience","translation":"устойчивость / резильентность"}
+{"word":"résilience","translation":"устойчивость/жизнеспособность"}
 {"word":"climat","translation":"климат"}
 {"word":"changement climatique","translation":"изменение климата"}
-{"word":"insécurité alimentaire","translation":"продовольственная небезопасность"}
+{"word":"insécurité alimentaire","translation":"продовольственная нестабильность"}
 {"word":"faim","translation":"голод"}
 {"word":"malnutrition","translation":"недоедание"}
 {"word":"moyens de subsistance","translation":"средства к существованию"}
 {"word":"agriculture","translation":"сельское хозяйство"}
-{"word":"culture","translation":"культура / урожай"}
+{"word":"culture","translation":"культура"}
 {"word":"microfinance","translation":"микрофинансирование"}
 {"word":"entrepreneuriat","translation":"предпринимательство"}
-{"word":"jeunesse","translation":"молодежь"}
+{"word":"jeunesse","translation":"молодёжь"}
 {"word":"enfants","translation":"дети"}
 {"word":"femmes","translation":"женщины"}
 {"word":"filles","translation":"девочки"}
 {"word":"hommes","translation":"мужчины"}
 {"word":"garçons","translation":"мальчики"}
 {"word":"personnes âgées","translation":"пожилые люди"}
-{"word":"handicapé","translation":"инвалид"}
+{"word":"handicapé","translation":"человек с инвалидностью"}
 {"word":"inclusif","translation":"инклюзивный"}
 {"word":"accès","translation":"доступ"}
 {"word":"opportunité","translation":"возможность"}
 {"word":"infrastructure","translation":"инфраструктура"}
-{"word":"reconstruction","translation":"восстановление"}
+{"word":"reconstruction","translation":"реставрация"}
 {"word":"politique","translation":"политика"}
 {"word":"gouvernance","translation":"управление"}
 {"word":"partie prenante","translation":"заинтересованная сторона"}
@@ -19258,27 +19259,27 @@
 {"word":"couloir humanitaire","translation":"гуманитарный коридор"}
 {"word":"convoi","translation":"конвой"}
 {"word":"distribution","translation":"распределение"}
-{"word":"stock","translation":"запас / склад"}
+{"word":"stock","translation":"запас"}
 {"word":"entrepôt","translation":"склад"}
 {"word":"logistique","translation":"логистика"}
 {"word":"transport","translation":"транспорт"}
-{"word":"expédition","translation":"отправка / экспедиция"}
+{"word":"expédition","translation":"отправка"}
 {"word":"douane","translation":"таможня"}
 {"word":"permis","translation":"разрешение"}
 {"word":"documentation","translation":"документация"}
 {"word":"enregistrement","translation":"регистрация"}
 {"word":"identification","translation":"идентификация"}
 {"word":"données","translation":"данные"}
-{"word":"enquête","translation":"расследование / опрос"}
-{"word":"formulaire","translation":"форма / бланк"}
-{"word":"rapport","translation":"отчет"}
-{"word":"tableau de bord","translation":"панель мониторинга"}
+{"word":"enquête","translation":"опрос/расследование"}
+{"word":"formulaire","translation":"форма"}
+{"word":"rapport","translation":"отчёт"}
+{"word":"tableau de bord","translation":"панель управления"}
 {"word":"communication","translation":"коммуникация"}
 {"word":"médias","translation":"СМИ"}
 {"word":"presse","translation":"пресса"}
 {"word":"déclaration","translation":"заявление"}
-{"word":"appel","translation":"звонок / призыв"}
-{"word":"appel d’urgence","translation":"экстренный вызов"}
+{"word":"appel","translation":"призыв"}
+{"word":"appel d’urgence","translation":"экстренный призыв"}
 {"word":"droit international","translation":"международное право"}
 {"word":"droit humanitaire","translation":"гуманитарное право"}
 {"word":"Convention de Genève","translation":"Женевская конвенция"}
@@ -19289,7 +19290,7 @@
 {"word":"HCR","translation":"УВКБ ООН"}
 {"word":"PAM","translation":"ВПП"}
 {"word":"OMS","translation":"ВОЗ"}
-{"word":"OCHA","translation":"УВКОР"}
+{"word":"OCHA","translation":"УВКБ ООН (OCHA)"}
 {"word":"ONG locale","translation":"местная НПО"}
 {"word":"ONG internationale","translation":"международная НПО"}
 {"word":"agence donatrice","translation":"донорское агентство"}
@@ -19304,18 +19305,18 @@
 {"word":"psychosocial","translation":"психосоциальный"}
 {"word":"traumatisme","translation":"травма"}
 {"word":"guérison","translation":"исцеление"}
-{"word":"kit d’abri","translation":"набор для укрытия"}
+{"word":"kit d’abri","translation":"комплект для укрытия"}
 {"word":"kit d’hygiène","translation":"гигиенический набор"}
-{"word":"kit dignité","translation":"набор для соблюдения достоинства"}
-{"word":"colis alimentaire","translation":"продовольственный пакет"}
-{"word":"ration","translation":"норма питания"}
+{"word":"kit dignité","translation":"набор достоинства"}
+{"word":"colis alimentaire","translation":"продовольственный набор"}
+{"word":"ration","translation":"норма продовольствия"}
 {"word":"point de distribution","translation":"пункт распределения"}
-{"word":"réunion de coordination","translation":"координационное совещание"}
+{"word":"réunion de coordination","translation":"координационное собрание"}
 {"word":"visite de terrain","translation":"полевой визит"}
 {"word":"mission","translation":"миссия"}
 {"word":"briefing","translation":"брифинг"}
-{"word":"rapport de terrain","translation":"полевой отчет"}
-{"word":"rapport de situation","translation":"ситуационный отчет"}
+{"word":"rapport de terrain","translation":"полевой отчёт"}
+{"word":"rapport de situation","translation":"ситуационный отчёт"}
 {"word":"plan logistique","translation":"логистический план"}
 {"word":"plan stratégique","translation":"стратегический план"}
 {"word":"budget","translation":"бюджет"}
@@ -19326,16 +19327,16 @@
 {"word":"neutralité","translation":"нейтралитет"}
 {"word":"impartialité","translation":"беспристрастность"}
 {"word":"indépendance","translation":"независимость"}
-{"word":"bureau de terrain","translation":"полевое бюро"}
-{"word":"siège","translation":"штаб-квартира"}
+{"word":"bureau de terrain","translation":"полевой офис"}
+{"word":"siège","translation":"штаб"}
 {"word":"système de cluster","translation":"кластерная система"}
 {"word":"cluster protection","translation":"кластер защиты"}
-{"word":"cluster WASH","translation":"кластер ВОС (вода, санитария, гигиена)"}
+{"word":"cluster WASH","translation":"кластер ВОСГ"}
 {"word":"cluster sécurité alimentaire","translation":"кластер продовольственной безопасности"}
 {"word":"cluster santé","translation":"кластер здравоохранения"}
 {"word":"cluster éducation","translation":"кластер образования"}
 {"word":"transfert d’argent","translation":"денежный перевод"}
-{"word":"bon","translation":"талон / ваучер"}
+{"word":"bon","translation":"талон"}
 {"word":"mobile money","translation":"мобильные деньги"}
 {"word":"leader communautaire","translation":"лидер сообщества"}
 {"word":"réunion des parties prenantes","translation":"встреча заинтересованных сторон"}]
