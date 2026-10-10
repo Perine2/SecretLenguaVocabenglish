@@ -1070,8 +1070,7 @@
   {"word":"нейтралитет","translation":"neutralité"},
   {"word":"беспристрастность","translation":"impartialité"},
   {"word":"независимость","translation":"indépendance"},
-  {"word":"гуманность","translation":"humanité"}
-]]
+  {"word":"гуманность","translation":"humanité"}]
   },
   "spanish": {
     "lawandjustice": [ {"word":"закон","translation":"ley"},
@@ -1283,8 +1282,7 @@
   {"word":"рак","translation":"cáncer"},
   {"word":"инсульт","translation":"accidente cerebrovascular"},
   {"word":"инфаркт","translation":"infarto"},
-  {"word":"рецепт","translation":"receta médica"}
-],
+  {"word":"рецепт","translation":"receta médica"}],
     "economyandfinance": [ {"word":"экономика","translation":"economía"},
   {"word":"финансы","translation":"finanzas"},
   {"word":"деньги","translation":"dinero"},
