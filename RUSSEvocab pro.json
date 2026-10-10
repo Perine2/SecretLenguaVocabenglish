@@ -3327,8 +3327,7 @@
   {"word":"мировое соглашение","translation":"außergerichtlicher Vergleich"}]
   },
   "portuguese": {
-  "lawandjustice": [
-    {"word":"закон","translation":"lei"},
+  "lawandjustice": [{"word":"закон","translation":"lei"},
     {"word":"право","translation":"direito"},
     {"word":"правосудие","translation":"justiça"},
     {"word":"суд","translation":"tribunal"},
@@ -3429,8 +3428,7 @@
     {"word":"незаконный","translation":"ilegal"},
     {"word":"законный","translation":"legal"},
     {"word":"соблюдение закона","translation":"cumprimento da lei"}],
-  "healthandmedicine": [
-    {"word":"здоровье","translation":"saúde"},
+  "healthandmedicine": [{"word":"здоровье","translation":"saúde"},
     {"word":"медицина","translation":"medicina"},
     {"word":"врач","translation":"médico"},
     {"word":"медсестра","translation":"enfermeira"},
@@ -3635,10 +3633,8 @@
     {"word":"микрофинансирование","translation":"microfinanciamento"},
     {"word":"финансовая грамотность","translation":"literacia financeira"},
     {"word":"электронный кошелёк","translation":"carteira digital"},
-    {"word":"мобильный платёж","translation":"pagamento móvel"}
-  ],
-  "educationandteaching": [
-    {"word":"образование","translation":"educação"},
+    {"word":"мобильный платёж","translation":"pagamento móvel"}],
+  "educationandteaching": [{"word":"образование","translation":"educação"},
     {"word":"обучение","translation":"aprendizagem"},
     {"word":"преподавание","translation":"ensino"},
     {"word":"учитель","translation":"professor"},
@@ -4149,10 +4145,8 @@
     {"word":"международная помощь","translation":"ajuda internacional"},
     {"word":"глобальное управление","translation":"governação global"},
     {"word":"геополитика","translation":"geopolítica"},
-    {"word":"мировой порядок","translation":"ordem mundial"}
-  ],
-  "tradeandentrepreneurship": [
-    {"word":"торговля","translation":"comércio"},
+    {"word":"мировой порядок","translation":"ordem mundial"}],
+  "tradeandentrepreneurship": [{"word":"торговля","translation":"comércio"},
     {"word":"предпринимательство","translation":"empreendedorismo"},
     {"word":"предприниматель","translation":"empreendedor"},
     {"word":"бизнес","translation":"negócio"},
@@ -4254,10 +4248,8 @@
     {"word":"лицензия","translation":"licença"},
     {"word":"регистрация компании","translation":"registo da empresa"},
     {"word":"расширение бизнеса","translation":"expansão empresarial"},
-    {"word":"международная торговля","translation":"comércio internacional"}
-  ],
-  "humanitarianandngos": [
-    {"word":"гуманитарная помощь","translation":"ajuda humanitária"},
+    {"word":"международная торговля","translation":"comércio internacional"}],
+  "humanitarianandngos": [{"word":"гуманитарная помощь","translation":"ajuda humanitária"},
     {"word":"гуманитарная организация","translation":"organização humanitária"},
     {"word":"неправительственная организация","translation":"organização não governamental"},
     {"word":"НПО","translation":"ONG"},
@@ -4772,10 +4764,8 @@
     {"word":"академическая успеваемость","translation":"学业成绩"},
     {"word":"критическое мышление","translation":"批判性思维"},
     {"word":"творчество","translation":"创造力"},
-    {"word":"инклюзивное образование","translation":"融合教育"}
-  ],
-  "tourismandhospitality": [
-    {"word":"туризм","translation":"旅游业"},
+    {"word":"инклюзивное образование","translation":"融合教育"}],
+  "tourismandhospitality": [{"word":"туризм","translation":"旅游业"},
     {"word":"турист","translation":"游客"},
     {"word":"путешествие","translation":"旅行"},
     {"word":"отпуск","translation":"假期"},
@@ -4877,10 +4867,8 @@
     {"word":"экологический туризм","translation":"生态旅游"},
     {"word":"культурный туризм","translation":"文化旅游"},
     {"word":"массовый туризм","translation":"大众旅游"},
-    {"word":"устойчивый туризм","translation":"可持续旅游"}
-  ],
-  "transportandlogistics": [
-    {"word":"транспорт","translation":"交通运输"},
+    {"word":"устойчивый туризм","translation":"可持续旅游"}],
+  "transportandlogistics": [{"word":"транспорт","translation":"交通运输"},
     {"word":"логистика","translation":"物流"},
     {"word":"перевозка","translation":"运输"},
     {"word":"груз","translation":"货物"},
@@ -5808,10 +5796,8 @@
     {"word":"посещение","translation":"حضور"},
     {"word":"пропуск","translation":"غياب"},
     {"word":"выпускник","translation":"خريج"},
-    {"word":"образовательная политика","translation":"سياسة تعليمية"}
-  ],
-  "tourismandhospitality": [
-    {"word":"туризм","translation":"السياحة"},
+    {"word":"образовательная политика","translation":"سياسة تعليمية"}],
+  "tourismandhospitality": [{"word":"туризм","translation":"السياحة"},
     {"word":"турист","translation":"سائح"},
     {"word":"путешествие","translation":"رحلة"},
     {"word":"путешественник","translation":"مسافر"},
@@ -6215,10 +6201,8 @@
     {"word":"резолюция","translation":"قرار"},
     {"word":"международная помощь","translation":"مساعدة دولية"},
     {"word":"гуманитарная дипломатия","translation":"الدبلوماسية الإنسانية"},
-    {"word":"глобальное управление","translation":"الحوكمة العالمية"}
-  ],
-  "tradeandentrepreneurship": [
-    {"word":"торговля","translation":"تجارة"},
+    {"word":"глобальное управление","translation":"الحوكمة العالمية"}],
+  "tradeandentrepreneurship": [{"word":"торговля","translation":"تجارة"},
     {"word":"предпринимательство","translation":"ريادة الأعمال"},
     {"word":"предприниматель","translation":"رائد أعمال"},
     {"word":"бизнес","translation":"أعمال"},
