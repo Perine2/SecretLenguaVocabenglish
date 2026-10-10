@@ -2569,8 +2569,7 @@
   {"word":"образовательная система","translation":"Bildungssystem"},
   {"word":"грамотность","translation":"Alphabetisierung"},
   {"word":"обмен студентами","translation":"Studierendenaustausch"},
-  {"word":"академический год","translation":"akademisches Jahr"}
-],
+  {"word":"академический год","translation":"akademisches Jahr"}],
     "tourismandhospitality": [ {"word":"туризм","translation":"Tourismus"},
   {"word":"турист","translation":"Tourist"},
   {"word":"путешествие","translation":"Reise"},
@@ -3325,8 +3324,7 @@
   {"word":"бесплатная юридическая помощь","translation":"kostenlose Rechtsberatung"},
   {"word":"медиация","translation":"Mediation"},
   {"word":"арбитраж","translation":"Schiedsverfahren"},
-  {"word":"мировое соглашение","translation":"außergerichtlicher Vergleich"}
-]
+  {"word":"мировое соглашение","translation":"außergerichtlicher Vergleich"}]
   },
   "portuguese": {
   "lawandjustice": [
@@ -3430,8 +3428,7 @@
     {"word":"законность","translation":"legalidade"},
     {"word":"незаконный","translation":"ilegal"},
     {"word":"законный","translation":"legal"},
-    {"word":"соблюдение закона","translation":"cumprimento da lei"}
-  ],
+    {"word":"соблюдение закона","translation":"cumprimento da lei"}],
   "healthandmedicine": [
     {"word":"здоровье","translation":"saúde"},
     {"word":"медицина","translation":"medicina"},
@@ -3536,10 +3533,8 @@
     {"word":"дерматолог","translation":"dermatologista"},
     {"word":"онкология","translation":"oncologia"},
     {"word":"рак","translation":"cancro"},
-    {"word":"эпидемия","translation":"epidemia"}
-  ],
-  "economyandfinance": [
-    {"word":"экономика","translation":"economia"},
+    {"word":"эпидемия","translation":"epidemia"}],
+  "economyandfinance": [{"word":"экономика","translation":"economia"},
     {"word":"финансы","translation":"finanças"},
     {"word":"деньги","translation":"dinheiro"},
     {"word":"валюта","translation":"moeda"},
@@ -3744,10 +3739,8 @@
     {"word":"академическая успеваемость","translation":"aproveitamento escolar"},
     {"word":"критическое мышление","translation":"pensamento crítico"},
     {"word":"творчество","translation":"criatividade"},
-    {"word":"инклюзивное образование","translation":"educação inclusiva"}
-  ],
-  "tourismandhospitality": [
-    {"word":"туризм","translation":"turismo"},
+    {"word":"инклюзивное образование","translation":"educação inclusiva"}],
+  "tourismandhospitality": [{"word":"туризм","translation":"turismo"},
     {"word":"турист","translation":"turista"},
     {"word":"путешествие","translation":"viagem"},
     {"word":"отпуск","translation":"férias"},
@@ -3849,10 +3842,8 @@
     {"word":"экологический туризм","translation":"ecoturismo"},
     {"word":"культурный туризм","translation":"turismo cultural"},
     {"word":"массовый туризм","translation":"turismo de massas"},
-    {"word":"устойчивый туризм","translation":"turismo sustentável"}
-  ],
-  "transportandlogistics": [
-    {"word":"транспорт","translation":"transporte"},
+    {"word":"устойчивый туризм","translation":"turismo sustentável"}],
+  "transportandlogistics": [{"word":"транспорт","translation":"transporte"},
     {"word":"логистика","translation":"logística"},
     {"word":"перевозка","translation":"transporte"},
     {"word":"груз","translation":"carga"},
@@ -3954,10 +3945,8 @@
     {"word":"авиаперевозки","translation":"transporte aéreo"},
     {"word":"железнодорожные перевозки","translation":"transporte ferroviário"},
     {"word":"мультимодальные перевозки","translation":"transporte multimodal"},
-    {"word":"управление запасами","translation":"gestão de stocks"}
-  ],
-  "customsandbordersecurity": [
-    {"word":"таможня","translation":"alfândega"},
+    {"word":"управление запасами","translation":"gestão de stocks"}],
+  "customsandbordersecurity": [{"word":"таможня","translation":"alfândega"},
     {"word":"граница","translation":"fronteira"},
     {"word":"пограничник","translation":"guarda de fronteira"},
     {"word":"пограничная служба","translation":"serviço de fronteiras"},
@@ -4059,10 +4048,8 @@
     {"word":"временный ввоз","translation":"importação temporária"},
     {"word":"таможенный склад","translation":"entreposto aduaneiro"},
     {"word":"таможенное оформление","translation":"desalfandegamento"},
-    {"word":"таможенный союз","translation":"união aduaneira"}
-  ],
-  "diplomacyandinternationalrelations": [
-    {"word":"дипломатия","translation":"diplomacia"},
+    {"word":"таможенный союз","translation":"união aduaneira"}],
+  "diplomacyandinternationalrelations": [{"word":"дипломатия","translation":"diplomacia"},
     {"word":"международные отношения","translation":"relações internacionais"},
     {"word":"дипломат","translation":"diplomata"},
     {"word":"посол","translation":"embaixador"},
@@ -4374,12 +4361,10 @@
     {"word":"участие сообщества","translation":"participação comunitária"},
     {"word":"социальная защита","translation":"proteção social"},
     {"word":"борьба с бедностью","translation":"combate à pobreza"},
-    {"word":"устойчивость сообщества","translation":"resiliência comunitária"}
-  ]
+    {"word":"устойчивость сообщества","translation":"resiliência comunitária"}]
   },
   "chinese": {
-  "lawandjustice": [
-    {"word":"закон","translation":"法律"},
+  "lawandjustice": [{"word":"закон","translation":"法律"},
     {"word":"право","translation":"权利"},
     {"word":"правосудие","translation":"司法"},
     {"word":"суд","translation":"法院"},
@@ -4479,10 +4464,8 @@
     {"word":"законность","translation":"合法性"},
     {"word":"незаконный","translation":"非法的"},
     {"word":"законный","translation":"合法的"},
-    {"word":"соблюдение закона","translation":"遵守法律"}
-  ],
-  "healthandmedicine": [
-    {"word":"здоровье","translation":"健康"},
+    {"word":"соблюдение закона","translation":"遵守法律"}],
+  "healthandmedicine": [{"word":"здоровье","translation":"健康"},
     {"word":"медицина","translation":"医学"},
     {"word":"врач","translation":"医生"},
     {"word":"медсестра","translation":"护士"},
@@ -4585,10 +4568,8 @@
     {"word":"дерматолог","translation":"皮肤科医生"},
     {"word":"онкология","translation":"肿瘤学"},
     {"word":"рак","translation":"癌症"},
-    {"word":"эпидемия","translation":"流行病"}
-  ],
-  "economyandfinance": [
-    {"word":"экономика","translation":"经济"},
+    {"word":"эпидемия","translation":"流行病"}],
+  "economyandfinance": [{"word":"экономика","translation":"经济"},
     {"word":"финансы","translation":"金融"},
     {"word":"деньги","translation":"钱"},
     {"word":"валюта","translation":"货币"},
@@ -4689,10 +4670,8 @@
     {"word":"микрофинансирование","translation":"小额金融"},
     {"word":"финансовая грамотность","translation":"金融素养"},
     {"word":"электронный кошелёк","translation":"电子钱包"},
-    {"word":"мобильный платёж","translation":"移动支付"}
-  ],
-  "educationandteaching": [
-    {"word":"образование","translation":"教育"},
+    {"word":"мобильный платёж","translation":"移动支付"}],
+  "educationandteaching": [{"word":"образование","translation":"教育"},
     {"word":"обучение","translation":"学习"},
     {"word":"преподавание","translation":"教学"},
     {"word":"учитель","translation":"教师"},
@@ -5003,10 +4982,8 @@
     {"word":"авиаперевозки","translation":"航空运输"},
     {"word":"железнодорожные перевозки","translation":"铁路运输"},
     {"word":"мультимодальные перевозки","translation":"多式联运"},
-    {"word":"управление запасами","translation":"库存管理"}
-  ],
-  "customsandbordersecurity": [
-    {"word":"таможня","translation":"海关"},
+    {"word":"управление запасами","translation":"库存管理"}],
+  "customsandbordersecurity": [{"word":"таможня","translation":"海关"},
     {"word":"граница","translation":"边境"},
     {"word":"пограничник","translation":"边防人员"},
     {"word":"пограничная служба","translation":"边境管理部门"},
@@ -5108,10 +5085,8 @@
     {"word":"временный ввоз","translation":"临时进口"},
     {"word":"таможенный склад","translation":"海关仓库"},
     {"word":"таможенное оформление","translation":"海关清关"},
-    {"word":"таможенный союз","translation":"关税同盟"}
-  ],
-  "diplomacyandinternationalrelations": [
-    {"word":"дипломатия","translation":"外交"},
+    {"word":"таможенный союз","translation":"关税同盟"}],
+  "diplomacyandinternationalrelations": [{"word":"дипломатия","translation":"外交"},
     {"word":"международные отношения","translation":"国际关系"},
     {"word":"дипломат","translation":"外交官"},
     {"word":"посол","translation":"大使"},
@@ -5211,10 +5186,8 @@
     {"word":"международная помощь","translation":"国际援助"},
     {"word":"глобальное управление","translation":"全球治理"},
     {"word":"геополитика","translation":"地缘政治"},
-    {"word":"мировой порядок","translation":"世界秩序"}
-  ],
-  "tradeandentrepreneurship": [
-    {"word":"торговля","translation":"贸易"},
+    {"word":"мировой порядок","translation":"世界秩序"}],
+  "tradeandentrepreneurship": [{"word":"торговля","translation":"贸易"},
     {"word":"предпринимательство","translation":"创业"},
     {"word":"предприниматель","translation":"企业家"},
     {"word":"бизнес","translation":"商业"},
@@ -5316,10 +5289,8 @@
     {"word":"лицензия","translation":"许可证"},
     {"word":"регистрация компании","translation":"公司注册"},
     {"word":"расширение бизнеса","translation":"业务扩张"},
-    {"word":"международная торговля","translation":"国际贸易"}
-  ],
-  "humanitarianandngos": [
-    {"word":"гуманитарная помощь","translation":"人道主义援助"},
+    {"word":"международная торговля","translation":"国际贸易"}],
+  "humanitarianandngos": [{"word":"гуманитарная помощь","translation":"人道主义援助"},
     {"word":"гуманитарная организация","translation":"人道主义组织"},
     {"word":"неправительственная организация","translation":"非政府组织"},
     {"word":"НПО","translation":"非政府组织"},
@@ -5423,12 +5394,10 @@
     {"word":"участие сообщества","translation":"社区参与"},
     {"word":"социальная защита","translation":"社会保障"},
     {"word":"борьба с бедностью","translation":"消除贫困"},
-    {"word":"устойчивость сообщества","translation":"社区韧性"}
-  ]
+    {"word":"устойчивость сообщества","translation":"社区韧性"}]
   },
   "arabic": {
-  "lawandjustice": [
-    {"word":"закон","translation":"قانون"},
+  "lawandjustice": [{"word":"закон","translation":"قانون"},
     {"word":"право","translation":"حق"},
     {"word":"правосудие","translation":"عدالة"},
     {"word":"суд","translation":"محكمة"},
@@ -5530,10 +5499,8 @@
     {"word":"грабёж","translation":"سطو"},
     {"word":"убийство","translation":"قتل"},
     {"word":"насилие","translation":"عنف"},
-    {"word":"защита","translation":"حماية"}
-  ],
-  "healthandmedicine": [
-    {"word":"здоровье","translation":"صحة"},
+    {"word":"защита","translation":"حماية"}],
+  "healthandmedicine": [{"word":"здоровье","translation":"صحة"},
     {"word":"медицина","translation":"طب"},
     {"word":"врач","translation":"طبيب"},
     {"word":"медсестра","translation":"ممرضة"},
@@ -5636,10 +5603,8 @@
     {"word":"пандемия","translation":"جائحة"},
     {"word":"эпидемиология","translation":"علم الأوبئة"},
     {"word":"медицинская карта","translation":"ملف طبي"},
-    {"word":"рецепт","translation":"وصفة طبية"}
-  ],
-  "economyandfinance": [
-    {"word":"экономика","translation":"اقتصاد"},
+    {"word":"рецепт","translation":"وصفة طبية"}],
+  "economyandfinance": [{"word":"экономика","translation":"اقتصاد"},
     {"word":"финансы","translation":"مالية"},
     {"word":"деньги","translation":"مال"},
     {"word":"валюта","translation":"عملة"},
@@ -5741,10 +5706,8 @@
     {"word":"банкротство","translation":"إفلاس"},
     {"word":"финансовый кризис","translation":"أزمة مالية"},
     {"word":"центральный банк","translation":"البنك المركزي"},
-    {"word":"денежная политика","translation":"السياسة النقدية"}
-  ],
-  "educationandteaching": [
-    {"word":"образование","translation":"تعليم"},
+    {"word":"денежная политика","translation":"السياسة النقدية"}],
+  "educationandteaching": [{"word":"образование","translation":"تعليم"},
     {"word":"обучение","translation":"تعلّم"},
     {"word":"преподавание","translation":"تدريس"},
     {"word":"учитель","translation":"معلم"},
@@ -5952,10 +5915,8 @@
     {"word":"трансфер","translation":"خدمة النقل"},
     {"word":"поздний выезд","translation":"مغادرة متأخرة"},
     {"word":"ранний заезд","translation":"تسجيل دخول مبكر"},
-    {"word":"отмена бронирования","translation":"إلغاء الحجز"}
-  ],
-  "transportandlogistics": [
-    {"word":"транспорт","translation":"النقل"},
+    {"word":"отмена бронирования","translation":"إلغاء الحجز"}],
+  "transportandlogistics": [{"word":"транспорт","translation":"النقل"},
     {"word":"транспортировка","translation":"نقل"},
     {"word":"логистика","translation":"الخدمات اللوجستية"},
     {"word":"перевозка","translation":"شحن ونقل"},
@@ -6054,10 +6015,8 @@
     {"word":"управление запасами","translation":"إدارة المخزون"},
     {"word":"отслеживание","translation":"تتبع"},
     {"word":"таможенное оформление","translation":"تخليص جمركي"},
-    {"word":"транспортные расходы","translation":"تكاليف النقل"}
-  ],
-  "customsandbordersecurity": [
-    {"word":"таможня","translation":"الجمارك"},
+    {"word":"транспортные расходы","translation":"تكاليف النقل"}],
+  "customsandbordersecurity": [{"word":"таможня","translation":"الجمارك"},
     {"word":"таможенник","translation":"موظف جمارك"},
     {"word":"таможенная служба","translation":"مصلحة الجمارك"},
     {"word":"граница","translation":"حدود"},
@@ -6156,10 +6115,8 @@
     {"word":"транзитный пассажир","translation":"مسافر عابر"},
     {"word":"пункт досмотра","translation":"نقطة تفتيش أمني"},
     {"word":"таможенный инспектор","translation":"مفتش جمركي"},
-    {"word":"пограничное сотрудничество","translation":"التعاون الحدودي"}
-  ],
-  "diplomacyandinternationalrelations": [
-    {"word":"дипломатия","translation":"الدبلوماسية"},
+    {"word":"пограничное сотрудничество","translation":"التعاون الحدودي"}],
+  "diplomacyandinternationalrelations": [{"word":"дипломатия","translation":"الدبلوماسية"},
     {"word":"дипломат","translation":"دبلوماسي"},
     {"word":"международные отношения","translation":"العلاقات الدولية"},
     {"word":"внешняя политика","translation":"السياسة الخارجية"},
@@ -6361,10 +6318,8 @@
     {"word":"платёжный шлюз","translation":"بوابة دفع"},
     {"word":"обслуживание клиентов","translation":"خدمة العملاء"},
     {"word":"деловые отношения","translation":"علاقات تجارية"},
-    {"word":"расширение бизнеса","translation":"توسيع الأعمال"}
-  ],
-  "humanitarianandngos": [
-    {"word":"гуманитарная помощь","translation":"مساعدة إنسانية"},
+    {"word":"расширение бизнеса","translation":"توسيع الأعمال"}],
+  "humanitarianandngos": [{"word":"гуманитарная помощь","translation":"مساعدة إنسانية"},
     {"word":"гуманитарная деятельность","translation":"عمل إنساني"},
     {"word":"гуманитарная организация","translation":"منظمة إنسانية"},
     {"word":"неправительственная организация","translation":"منظمة غير حكومية"},
@@ -6464,12 +6419,10 @@
     {"word":"образовательная помощь","translation":"مساعدة تعليمية"},
     {"word":"защита здоровья","translation":"حماية الصحة"},
     {"word":"экономическое восстановление","translation":"التعافي الاقتصادي"},
-    {"word":"расширение возможностей общин","translation":"تعزيز قدرات المجتمعات"}
-  ]
+    {"word":"расширение возможностей общин","translation":"تعزيز قدرات المجتمعات"}]
   },
   "hindi": {
-  "lawandjustice": [
-    {"word":"закон","translation":"कानून"},
+  "lawandjustice": [{"word":"закон","translation":"कानून"},
     {"word":"право","translation":"अधिकार"},
     {"word":"правосудие","translation":"न्याय व्यवस्था"},
     {"word":"суд","translation":"अदालत"},
@@ -6571,10 +6524,8 @@
     {"word":"грабёж","translation":"लूट"},
     {"word":"убийство","translation":"हत्या"},
     {"word":"насилие","translation":"हिंसा"},
-    {"word":"защита","translation":"सुरक्षा"}
-  ],
-  "healthandmedicine": [
-    {"word":"здоровье","translation":"स्वास्थ्य"},
+    {"word":"защита","translation":"सुरक्षा"}],
+  "healthandmedicine": [{"word":"здоровье","translation":"स्वास्थ्य"},
     {"word":"медицина","translation":"चिकित्सा"},
     {"word":"врач","translation":"डॉक्टर"},
     {"word":"медсестра","translation":"नर्स"},
@@ -6677,10 +6628,8 @@
     {"word":"пандемия","translation":"वैश्विक महामारी"},
     {"word":"эпидемиология","translation":"महामारी विज्ञान"},
     {"word":"медицинская карта","translation":"चिकित्सा अभिलेख"},
-    {"word":"рецепт","translation":"चिकित्सकीय पर्चा"}
-  ],
-  "economyandfinance": [
-    {"word":"экономика","translation":"अर्थव्यवस्था"},
+    {"word":"рецепт","translation":"चिकित्सकीय पर्चा"}],
+  "economyandfinance": [{"word":"экономика","translation":"अर्थव्यवस्था"},
     {"word":"финансы","translation":"वित्त"},
     {"word":"деньги","translation":"पैसा"},
     {"word":"валюта","translation":"मुद्रा"},
@@ -6782,10 +6731,8 @@
     {"word":"банкротство","translation":"दिवालियापन"},
     {"word":"финансовый кризис","translation":"वित्तीय संकट"},
     {"word":"центральный банк","translation":"केंद्रीय बैंक"},
-    {"word":"денежная политика","translation":"मौद्रिक नीति"}
-  ],
-  "educationandteaching": [
-    {"word":"образование","translation":"शिक्षा"},
+    {"word":"денежная политика","translation":"मौद्रिक नीति"}],
+  "educationandteaching": [{"word":"образование","translation":"शिक्षा"},
     {"word":"обучение","translation":"सीखना"},
     {"word":"преподавание","translation":"अध्यापन"},
     {"word":"учитель","translation":"शिक्षक"},
@@ -6886,10 +6833,8 @@
     {"word":"посещение","translation":"उपस्थिति"},
     {"word":"пропуск","translation":"अनुपस्थिति"},
     {"word":"выпускник","translation":"स्नातक"},
-    {"word":"образовательная политика","translation":"शिक्षा नीति"}
-  ],
-  "tourismandhospitality": [
-    {"word":"туризм","translation":"पर्यटन"},
+    {"word":"образовательная политика","translation":"शिक्षा नीति"}],
+  "tourismandhospitality": [{"word":"туризм","translation":"पर्यटन"},
     {"word":"турист","translation":"पर्यटक"},
     {"word":"путешествие","translation":"यात्रा"},
     {"word":"путешественник","translation":"यात्री"},
@@ -6993,10 +6938,8 @@
     {"word":"трансфер","translation":"स्थानांतरण सेवा"},
     {"word":"поздний выезд","translation":"देर से चेक-आउट"},
     {"word":"ранний заезд","translation":"जल्दी चेक-इन"},
-    {"word":"отмена бронирования","translation":"बुकिंग रद्द करना"}
-  ],
-  "transportandlogistics": [
-    {"word":"транспорт","translation":"परिवहन"},
+    {"word":"отмена бронирования","translation":"बुकिंग रद्द करना"}],
+  "transportandlogistics": [{"word":"транспорт","translation":"परिवहन"},
     {"word":"транспортировка","translation":"ढुलाई"},
     {"word":"логистика","translation":"रसद"},
     {"word":"перевозка","translation":"परिवहन"},
@@ -7095,10 +7038,8 @@
     {"word":"управление запасами","translation":"भंडार प्रबंधन"},
     {"word":"отслеживание","translation":"ट्रैकिंग"},
     {"word":"таможенное оформление","translation":"सीमा शुल्क निकासी"},
-    {"word":"транспортные расходы","translation":"परिवहन लागत"}
-  ],
-  "customsandbordersecurity": [
-    {"word":"таможня","translation":"सीमा शुल्क विभाग"},
+    {"word":"транспортные расходы","translation":"परिवहन लागत"}],
+  "customsandbordersecurity": [{"word":"таможня","translation":"सीमा शुल्क विभाग"},
     {"word":"таможенник","translation":"सीमा शुल्क अधिकारी"},
     {"word":"таможенная служба","translation":"सीमा शुल्क सेवा"},
     {"word":"граница","translation":"सीमा"},
@@ -7197,10 +7138,8 @@
     {"word":"транзитный пассажир","translation":"पारगमन यात्री"},
     {"word":"пункт досмотра","translation":"सुरक्षा जाँच केंद्र"},
     {"word":"таможенный инспектор","translation":"सीमा शुल्क निरीक्षक"},
-    {"word":"пограничное сотрудничество","translation":"सीमा सहयोग"}
-  ],
-  "diplomacyandinternationalrelations": [
-    {"word":"дипломатия","translation":"कूटनीति"},
+    {"word":"пограничное сотрудничество","translation":"सीमा सहयोग"}],
+  "diplomacyandinternationalrelations": [{"word":"дипломатия","translation":"कूटनीति"},
     {"word":"дипломат","translation":"राजनयिक"},
     {"word":"международные отношения","translation":"अंतरराष्ट्रीय संबंध"},
     {"word":"внешняя политика","translation":"विदेश नीति"},
@@ -7299,10 +7238,8 @@
     {"word":"резолюция","translation":"प्रस्ताव"},
     {"word":"международная помощь","translation":"अंतरराष्ट्रीय सहायता"},
     {"word":"гуманитарная дипломатия","translation":"मानवीय कूटनीति"},
-    {"word":"глобальное управление","translation":"वैश्विक शासन"}
-  ],
-  "tradeandentrepreneurship": [
-    {"word":"торговля","translation":"व्यापार"},
+    {"word":"глобальное управление","translation":"वैश्विक शासन"}],
+  "tradeandentrepreneurship": [{"word":"торговля","translation":"व्यापार"},
     {"word":"предпринимательство","translation":"उद्यमिता"},
     {"word":"предприниматель","translation":"उद्यमी"},
     {"word":"бизнес","translation":"व्यवसाय"},
@@ -7402,10 +7339,8 @@
     {"word":"платёжный шлюз","translation":"भुगतान गेटवे"},
     {"word":"обслуживание клиентов","translation":"ग्राहक सेवा"},
     {"word":"деловые отношения","translation":"व्यावसायिक संबंध"},
-    {"word":"расширение бизнеса","translation":"व्यवसाय का विस्तार"}
-  ],
-  "humanitarianandngos": [
-    {"word":"гуманитарная помощь","translation":"मानवीय सहायता"},
+    {"word":"расширение бизнеса","translation":"व्यवसाय का विस्तार"}],
+  "humanitarianandngos": [{"word":"гуманитарная помощь","translation":"मानवीय सहायता"},
     {"word":"гуманитарная деятельность","translation":"मानवीय कार्य"},
     {"word":"гуманитарная организация","translation":"मानवीय संगठन"},
     {"word":"неправительственная организация","translation":"गैर-सरकारी संगठन"},
@@ -7505,12 +7440,10 @@
     {"word":"образовательная помощь","translation":"शैक्षिक सहायता"},
     {"word":"защита здоровья","translation":"स्वास्थ्य संरक्षण"},
     {"word":"экономическое восстановление","translation":"आर्थिक पुनर्बहाली"},
-    {"word":"расширение возможностей общин","translation":"समुदायों का सशक्तीकरण"}
-  ]
+    {"word":"расширение возможностей общин","translation":"समुदायों का सशक्तीकरण"}]
   },
   "turkish": {
-  "lawandjustice": [
-    {"word":"закон","translation":"kanun"},
+  "lawandjustice": [{"word":"закон","translation":"kanun"},
     {"word":"право","translation":"hak"},
     {"word":"правосудие","translation":"adalet sistemi"},
     {"word":"суд","translation":"mahkeme"},
@@ -7611,10 +7544,8 @@
     {"word":"грабёж","translation":"gasp"},
     {"word":"убийство","translation":"cinayet"},
     {"word":"насилие","translation":"şiddet"},
-    {"word":"защита","translation":"koruma"}
-  ],
-  "healthandmedicine": [
-    {"word":"здоровье","translation":"sağlık"},
+    {"word":"защита","translation":"koruma"}],
+  "healthandmedicine": [{"word":"здоровье","translation":"sağlık"},
     {"word":"медицина","translation":"tıp"},
     {"word":"врач","translation":"doktor"},
     {"word":"медсестра","translation":"hemşire"},
@@ -7717,10 +7648,8 @@
     {"word":"пандемия","translation":"pandemi"},
     {"word":"эпидемиология","translation":"epidemiyoloji"},
     {"word":"медицинская карта","translation":"hasta dosyası"},
-    {"word":"рецепт","translation":"reçete"}
-  ],
-  "economyandfinance": [
-    {"word":"экономика","translation":"ekonomi"},
+    {"word":"рецепт","translation":"reçete"}],
+  "economyandfinance": [{"word":"экономика","translation":"ekonomi"},
     {"word":"финансы","translation":"finans"},
     {"word":"деньги","translation":"para"},
     {"word":"валюта","translation":"para birimi"},
@@ -7822,10 +7751,8 @@
     {"word":"банкротство","translation":"iflas"},
     {"word":"финансовый кризис","translation":"finansal kriz"},
     {"word":"центральный банк","translation":"merkez bankası"},
-    {"word":"денежная политика","translation":"para politikası"}
-  ],
-  "educationandteaching": [
-    {"word":"образование","translation":"eğitim"},
+    {"word":"денежная политика","translation":"para politikası"}],
+  "educationandteaching": [{"word":"образование","translation":"eğitim"},
     {"word":"обучение","translation":"öğrenme"},
     {"word":"преподавание","translation":"öğretim"},
     {"word":"учитель","translation":"öğretmen"},
@@ -7926,10 +7853,8 @@
     {"word":"посещение","translation":"devam"},
     {"word":"пропуск","translation":"devamsızlık"},
     {"word":"выпускник","translation":"mezun"},
-    {"word":"образовательная политика","translation":"eğitim politikası"}
-  ],
-  "tourismandhospitality": [
-    {"word":"туризм","translation":"turizm"},
+    {"word":"образовательная политика","translation":"eğitim politikası"}],
+  "tourismandhospitality": [{"word":"туризм","translation":"turizm"},
     {"word":"турист","translation":"turist"},
     {"word":"путешествие","translation":"seyahat"},
     {"word":"путешественник","translation":"gezgin"},
@@ -8033,10 +7958,8 @@
     {"word":"трансфер","translation":"transfer"},
     {"word":"поздний выезд","translation":"geç çıkış"},
     {"word":"ранний заезд","translation":"erken giriş"},
-    {"word":"отмена бронирования","translation":"rezervasyon iptali"}
-  ],
-  "transportandlogistics": [
-    {"word":"транспорт","translation":"ulaşım"},
+    {"word":"отмена бронирования","translation":"rezervasyon iptali"}],
+  "transportandlogistics": [{"word":"транспорт","translation":"ulaşım"},
     {"word":"транспортировка","translation":"taşıma"},
     {"word":"логистика","translation":"lojistik"},
     {"word":"перевозка","translation":"nakliye"},
@@ -8135,10 +8058,8 @@
     {"word":"управление запасами","translation":"stok yönetimi"},
     {"word":"отслеживание","translation":"takip"},
     {"word":"таможенное оформление","translation":"gümrük işlemleri"},
-    {"word":"транспортные расходы","translation":"taşıma masrafları"}
-  ],
-  "customsandbordersecurity": [
-    {"word":"таможня","translation":"gümrük"},
+    {"word":"транспортные расходы","translation":"taşıma masrafları"}],
+  "customsandbordersecurity": [{"word":"таможня","translation":"gümrük"},
     {"word":"таможенник","translation":"gümrük memuru"},
     {"word":"таможенная служба","translation":"gümrük teşkilatı"},
     {"word":"граница","translation":"sınır"},
@@ -8237,10 +8158,8 @@
     {"word":"транзитный пассажир","translation":"transit yolcu"},
     {"word":"пункт досмотра","translation":"arama kontrol noktası"},
     {"word":"таможенный инспектор","translation":"gümrük müfettişi"},
-    {"word":"пограничное сотрудничество","translation":"sınır iş birliği"}
-  ],
-  "diplomacyandinternationalrelations": [
-    {"word":"дипломатия","translation":"diplomasi"},
+    {"word":"пограничное сотрудничество","translation":"sınır iş birliği"}],
+  "diplomacyandinternationalrelations": [{"word":"дипломатия","translation":"diplomasi"},
     {"word":"дипломат","translation":"diplomat"},
     {"word":"международные отношения","translation":"uluslararası ilişkiler"},
     {"word":"внешняя политика","translation":"dış politika"},
@@ -8339,10 +8258,8 @@
     {"word":"резолюция","translation":"karar tasarısı"},
     {"word":"международная помощь","translation":"uluslararası yardım"},
     {"word":"гуманитарная дипломатия","translation":"insani diplomasi"},
-    {"word":"глобальное управление","translation":"küresel yönetişim"}
-  ],
-  "tradeandentrepreneurship": [
-    {"word":"торговля","translation":"ticaret"},
+    {"word":"глобальное управление","translation":"küresel yönetişim"}],
+  "tradeandentrepreneurship": [{"word":"торговля","translation":"ticaret"},
     {"word":"предпринимательство","translation":"girişimcilik"},
     {"word":"предприниматель","translation":"girişimci"},
     {"word":"бизнес","translation":"iş dünyası"},
@@ -8442,10 +8359,8 @@
     {"word":"платёжный шлюз","translation":"ödeme ağ geçidi"},
     {"word":"обслуживание клиентов","translation":"müşteri hizmetleri"},
     {"word":"деловые отношения","translation":"iş ilişkileri"},
-    {"word":"расширение бизнеса","translation":"işletmenin büyümesi"}
-  ],
-  "humanitarianandngos": [
-    {"word":"гуманитарная помощь","translation":"insani yardım"},
+    {"word":"расширение бизнеса","translation":"işletmenin büyümesi"}],
+  "humanitarianandngos": [{"word":"гуманитарная помощь","translation":"insani yardım"},
     {"word":"гуманитарная деятельность","translation":"insani faaliyet"},
     {"word":"гуманитарная организация","translation":"insani yardım kuruluşu"},
     {"word":"неправительственная организация","translation":"sivil toplum kuruluşu"},
@@ -8545,12 +8460,10 @@
     {"word":"образовательная помощь","translation":"eğitim yardımı"},
     {"word":"защита здоровья","translation":"sağlığın korunması"},
     {"word":"экономическое восстановление","translation":"ekonomik toparlanma"},
-    {"word":"расширение возможностей общин","translation":"toplulukların güçlendirilmesi"}
-  ]
+    {"word":"расширение возможностей общин","translation":"toplulukların güçlendirilmesi"}]
   },
   "english": {
-  "lawandjustice": [
-    {"word":"закон","translation":"law"},
+  "lawandjustice": [{"word":"закон","translation":"law"},
     {"word":"право","translation":"right"},
     {"word":"правосудие","translation":"justice"},
     {"word":"суд","translation":"court"},
@@ -8651,10 +8564,8 @@
     {"word":"грабёж","translation":"robbery"},
     {"word":"убийство","translation":"murder"},
     {"word":"насилие","translation":"violence"},
-    {"word":"защита","translation":"protection"}
-  ],
-  "healthandmedicine": [
-    {"word":"здоровье","translation":"health"},
+    {"word":"защита","translation":"protection"}],
+  "healthandmedicine": [{"word":"здоровье","translation":"health"},
     {"word":"медицина","translation":"medicine"},
     {"word":"врач","translation":"doctor"},
     {"word":"медсестра","translation":"nurse"},
@@ -8757,10 +8668,8 @@
     {"word":"пандемия","translation":"pandemic"},
     {"word":"эпидемиология","translation":"epidemiology"},
     {"word":"медицинская карта","translation":"medical record"},
-    {"word":"рецепт","translation":"prescription"}
-  ],
-      "educationandteaching": [
-    {"word":"образование","translation":"education"},
+    {"word":"рецепт","translation":"prescription"}],
+      "educationandteaching": [{"word":"образование","translation":"education"},
     {"word":"обучение","translation":"learning"},
     {"word":"преподавание","translation":"teaching"},
     {"word":"учитель","translation":"teacher"},
@@ -8861,10 +8770,8 @@
     {"word":"посещение","translation":"attendance"},
     {"word":"пропуск","translation":"absence"},
     {"word":"выпускник","translation":"graduate"},
-    {"word":"образовательная политика","translation":"education policy"}
-  ],
-  "tourismandhospitality": [
-    {"word":"туризм","translation":"tourism"},
+    {"word":"образовательная политика","translation":"education policy"}],
+  "tourismandhospitality": [{"word":"туризм","translation":"tourism"},
     {"word":"турист","translation":"tourist"},
     {"word":"путешествие","translation":"journey"},
     {"word":"путешественник","translation":"traveller"},
@@ -8968,10 +8875,8 @@
     {"word":"трансфер","translation":"transfer"},
     {"word":"поздний выезд","translation":"late check-out"},
     {"word":"ранний заезд","translation":"early check-in"},
-    {"word":"отмена бронирования","translation":"booking cancellation"}
-  ],
-  "transportandlogistics": [
-    {"word":"транспорт","translation":"transport"},
+    {"word":"отмена бронирования","translation":"booking cancellation"}],
+  "transportandlogistics": [{"word":"транспорт","translation":"transport"},
     {"word":"транспортировка","translation":"transportation"},
     {"word":"логистика","translation":"logistics"},
     {"word":"перевозка","translation":"carriage"},
@@ -9070,10 +8975,8 @@
     {"word":"управление запасами","translation":"inventory management"},
     {"word":"отслеживание","translation":"tracking"},
     {"word":"таможенное оформление","translation":"customs clearance"},
-    {"word":"транспортные расходы","translation":"transport costs"}
-  ],
-  "customsandbordersecurity": [
-    {"word":"таможня","translation":"customs"},
+    {"word":"транспортные расходы","translation":"transport costs"}],
+  "customsandbordersecurity": [{"word":"таможня","translation":"customs"},
     {"word":"таможенник","translation":"customs officer"},
     {"word":"таможенная служба","translation":"customs service"},
     {"word":"граница","translation":"border"},
@@ -9172,10 +9075,8 @@
     {"word":"транзитный пассажир","translation":"transit passenger"},
     {"word":"пункт досмотра","translation":"screening point"},
     {"word":"таможенный инспектор","translation":"customs inspector"},
-    {"word":"пограничное сотрудничество","translation":"border cooperation"}
-  ],
-  "diplomacyandinternationalrelations": [
-    {"word":"дипломатия","translation":"diplomacy"},
+    {"word":"пограничное сотрудничество","translation":"border cooperation"}],
+  "diplomacyandinternationalrelations": [{"word":"дипломатия","translation":"diplomacy"},
     {"word":"дипломат","translation":"diplomat"},
     {"word":"международные отношения","translation":"international relations"},
     {"word":"внешняя политика","translation":"foreign policy"},
@@ -9274,10 +9175,8 @@
     {"word":"резолюция","translation":"resolution"},
     {"word":"международная помощь","translation":"international aid"},
     {"word":"гуманитарная дипломатия","translation":"humanitarian diplomacy"},
-    {"word":"глобальное управление","translation":"global governance"}
-  ],
-  "tradeandentrepreneurship": [
-    {"word":"торговля","translation":"trade"},
+    {"word":"глобальное управление","translation":"global governance"}],
+  "tradeandentrepreneurship": [{"word":"торговля","translation":"trade"},
     {"word":"предпринимательство","translation":"entrepreneurship"},
     {"word":"предприниматель","translation":"entrepreneur"},
     {"word":"бизнес","translation":"business"},
@@ -9377,10 +9276,8 @@
     {"word":"платёжный шлюз","translation":"payment gateway"},
     {"word":"обслуживание клиентов","translation":"customer service"},
     {"word":"деловые отношения","translation":"business relations"},
-    {"word":"расширение бизнеса","translation":"business expansion"}
-  ],
-  "humanitarianandngos": [
-    {"word":"гуманитарная помощь","translation":"humanitarian aid"},
+    {"word":"расширение бизнеса","translation":"business expansion"}],
+  "humanitarianandngos": [{"word":"гуманитарная помощь","translation":"humanitarian aid"},
     {"word":"гуманитарная деятельность","translation":"humanitarian work"},
     {"word":"гуманитарная организация","translation":"humanitarian organisation"},
     {"word":"неправительственная организация","translation":"non-governmental organisation"},
