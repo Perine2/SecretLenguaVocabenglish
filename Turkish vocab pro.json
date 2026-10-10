@@ -1,6 +1,6 @@
 {
   "french": {
-    "lawandjustice": [ {"word": "hukuk", "translation": "droit"},
+    "lawandjustice": [{"word": "hukuk", "translation": "droit"},
     {"word": "kanun", "translation": "loi"},
     {"word": "yasa", "translation": "législation"},
     {"word": "adalet", "translation": "justice"},
@@ -306,10 +306,8 @@
     {"word": "yaşam maliyeti", "translation": "coût de la vie"},
     {"word": "satın alma gücü", "translation": "pouvoir d'achat"},
     {"word": "ekonomik kriz", "translation": "crise économique"},
-    {"word": "sürdürülebilir kalkınma", "translation": "développement durable"}
-  ],
-      "educationandteaching": [
-    {"word": "eğitim", "translation": "éducation"},
+    {"word": "sürdürülebilir kalkınma", "translation": "développement durable"}],
+      "educationandteaching": [{"word": "eğitim", "translation": "éducation"},
     {"word": "öğretim", "translation": "enseignement"},
     {"word": "öğretmen", "translation": "enseignant"},
     {"word": "öğrenci", "translation": "élève"},
@@ -410,10 +408,8 @@
     {"word": "eğitim materyali", "translation": "matériel pédagogique"},
     {"word": "öğrenme hedefi", "translation": "objectif d'apprentissage"},
     {"word": "öğrenme çıktısı", "translation": "résultat d'apprentissage"},
-    {"word": "akreditasyon", "translation": "accréditation"}
-  ],
-      "tourismandhospitality": [
-    {"word": "turizm", "translation": "tourisme"},
+    {"word": "akreditasyon", "translation": "accréditation"}],
+      "tourismandhospitality": [{"word": "turizm", "translation": "tourisme"},
     {"word": "turist", "translation": "touriste"},
     {"word": "seyahat", "translation": "voyage"},
     {"word": "tatil", "translation": "vacances"},
@@ -617,10 +613,8 @@
     {"word": "sürdürülebilir lojistik", "translation": "logistique durable"},
     {"word": "ulaşım ağı", "translation": "réseau de transport"},
     {"word": "talep tahmini", "translation": "prévision de la demande"},
-    {"word": "lojistik planlama", "translation": "planification logistique"}
-  ],
-      "customsandbordersecurity": [
-    {"word": "gümrük", "translation": "douane"},
+    {"word": "lojistik planlama", "translation": "planification logistique"}],
+      "customsandbordersecurity": [{"word": "gümrük", "translation": "douane"},
     {"word": "sınır", "translation": "frontière"},
     {"word": "sınır güvenliği", "translation": "sécurité frontalière"},
     {"word": "gümrük memuru", "translation": "agent des douanes"},
@@ -719,10 +713,8 @@
     {"word": "kaçak geçiş", "translation": "franchissement clandestin"},
     {"word": "sınır anlaşması", "translation": "accord frontalier"},
     {"word": "gümrük mevzuatı", "translation": "réglementation douanière"},
-    {"word": "sınır güvenliği eğitimi", "translation": "formation à la sécurité frontalière"}
-  ],
-      "diplomacyandinternationalrelations": [
-    {"word": "diplomasi", "translation": "diplomatie"},
+    {"word": "sınır güvenliği eğitimi", "translation": "formation à la sécurité frontalière"}],
+      "diplomacyandinternationalrelations": [{"word": "diplomasi", "translation": "diplomatie"},
     {"word": "diplomat", "translation": "diplomate"},
     {"word": "diplomatik ilişki", "translation": "relation diplomatique"},
     {"word": "uluslararası ilişkiler", "translation": "relations internationales"},
@@ -822,10 +814,8 @@
     {"word": "resmî açıklama", "translation": "déclaration officielle"},
     {"word": "kamu diplomasisi", "translation": "diplomatie publique"},
     {"word": "kültürel diplomasi", "translation": "diplomatie culturelle"},
-    {"word": "diplomatik temas", "translation": "contact diplomatique"}
-  ],
-      "tradeandentrepreneurship": [
-    {"word": "ticaret", "translation": "commerce"},
+    {"word": "diplomatik temas", "translation": "contact diplomatique"}],
+      "tradeandentrepreneurship": [{"word": "ticaret", "translation": "commerce"},
     {"word": "işletme", "translation": "entreprise"},
     {"word": "girişimcilik", "translation": "entrepreneuriat"},
     {"word": "girişimci", "translation": "entrepreneur"},
@@ -928,10 +918,8 @@
     {"word": "ödeme sistemi", "translation": "système de paiement"},
     {"word": "dijital girişim", "translation": "entreprise numérique"},
     {"word": "sürdürülebilir işletme", "translation": "entreprise durable"},
-    {"word": "kurumsal sosyal sorumluluk", "translation": "responsabilité sociale des entreprises"}
-  ],
-      "humanitarianandngos": [
-    {"word": "insani yardım", "translation": "aide humanitaire"},
+    {"word": "kurumsal sosyal sorumluluk", "translation": "responsabilité sociale des entreprises"}],
+      "humanitarianandngos": [{"word": "insani yardım", "translation": "aide humanitaire"},
     {"word": "insani yardım kuruluşu", "translation": "organisation d'aide humanitaire"},
     {"word": "sivil toplum kuruluşu", "translation": "organisation de la société civile"},
     {"word": "sivil toplum", "translation": "société civile"},
@@ -1038,12 +1026,10 @@
     {"word": "bütçe", "translation": "budget"},
     {"word": "bütçe yönetimi", "translation": "gestion budgétaire"},
     {"word": "kaynak mobilizasyonu", "translation": "mobilisation des ressources"},
-    {"word": "sürdürülebilirlik", "translation": "durabilité"}
-  ]
+    {"word": "sürdürülebilirlik", "translation": "durabilité"}]
   },
   "spanish": {
-  "lawandjustice": [
-    {"word":"hukuk","translation":"derecho"},
+  "lawandjustice": [{"word":"hukuk","translation":"derecho"},
     {"word":"kanun","translation":"ley"},
     {"word":"yasa","translation":"legislación"},
     {"word":"adalet","translation":"justicia"},
@@ -1145,10 +1131,8 @@
     {"word":"rüşvet","translation":"soborno"},
     {"word":"sahtecilik","translation":"falsificación"},
     {"word":"kara para aklama","translation":"blanqueo de capitales"},
-    {"word":"hukuki danışmanlık","translation":"asesoría jurídica"}
-  ],
-      "healthandmedicine": [
-    {"word":"sağlık","translation":"salud"},
+    {"word":"hukuki danışmanlık","translation":"asesoría jurídica"}],
+      "healthandmedicine": [{"word":"sağlık","translation":"salud"},
     {"word":"tıp","translation":"medicina"},
     {"word":"doktor","translation":"médico"},
     {"word":"hekim","translation":"facultativo"},
@@ -1352,10 +1336,8 @@
     {"word":"yaşam maliyeti","translation":"coste de vida"},
     {"word":"satın alma gücü","translation":"poder adquisitivo"},
     {"word":"ekonomik kriz","translation":"crisis económica"},
-    {"word":"sürdürülebilir kalkınma","translation":"desarrollo sostenible"}
-  ],
-     "educationandteaching": [
-    {"word":"eğitim","translation":"educación"},
+    {"word":"sürdürülebilir kalkınma","translation":"desarrollo sostenible"}],
+     "educationandteaching": [{"word":"eğitim","translation":"educación"},
     {"word":"öğretim","translation":"enseñanza"},
     {"word":"öğretmen","translation":"profesor"},
     {"word":"öğrenci","translation":"estudiante"},
@@ -1456,10 +1438,8 @@
     {"word":"eğitim materyali","translation":"material educativo"},
     {"word":"öğrenme hedefi","translation":"objetivo de aprendizaje"},
     {"word":"öğrenme çıktısı","translation":"resultado de aprendizaje"},
-    {"word":"akreditasyon","translation":"acreditación"}
-  ],
-      "tourismandhospitality": [
-    {"word":"turizm","translation":"turismo"},
+    {"word":"akreditasyon","translation":"acreditación"}],
+      "tourismandhospitality": [{"word":"turizm","translation":"turismo"},
     {"word":"turist","translation":"turista"},
     {"word":"seyahat","translation":"viaje"},
     {"word":"tatil","translation":"vacaciones"},
@@ -1559,10 +1539,8 @@
     {"word":"turizm tanıtımı","translation":"promoción turística"},
     {"word":"müşteri deneyimi","translation":"experiencia del cliente"},
     {"word":"kalite standardı","translation":"estándar de calidad"},
-    {"word":"turizm işletmesi","translation":"empresa turística"}
-  ],
-      "transportandlogistics": [
-    {"word":"ulaşım","translation":"transporte"},
+    {"word":"turizm işletmesi","translation":"empresa turística"}],
+      "transportandlogistics": [{"word":"ulaşım","translation":"transporte"},
     {"word":"taşımacılık","translation":"transporte de mercancías"},
     {"word":"lojistik","translation":"logística"},
     {"word":"nakliye","translation":"transporte de carga"},
@@ -1663,10 +1641,8 @@
     {"word":"sürdürülebilir lojistik","translation":"logística sostenible"},
     {"word":"ulaşım ağı","translation":"red de transporte"},
     {"word":"talep tahmini","translation":"previsión de la demanda"},
-    {"word":"lojistik planlama","translation":"planificación logística"}
-  ],
-      "customsandbordersecurity": [
-    {"word":"gümrük","translation":"aduana"},
+    {"word":"lojistik planlama","translation":"planificación logística"}],
+      "customsandbordersecurity": [{"word":"gümrük","translation":"aduana"},
     {"word":"sınır","translation":"frontera"},
     {"word":"sınır güvenliği","translation":"seguridad fronteriza"},
     {"word":"gümrük memuru","translation":"agente de aduanas"},
@@ -1765,10 +1741,8 @@
     {"word":"kaçak geçiş","translation":"cruce clandestino"},
     {"word":"sınır anlaşması","translation":"acuerdo fronterizo"},
     {"word":"gümrük mevzuatı","translation":"normativa aduanera"},
-    {"word":"sınır güvenliği eğitimi","translation":"formación en seguridad fronteriza"}
-  ],
-      "diplomacyandinternationalrelations": [
-    {"word":"diplomasi","translation":"diplomacia"},
+    {"word":"sınır güvenliği eğitimi","translation":"formación en seguridad fronteriza"}],
+      "diplomacyandinternationalrelations": [{"word":"diplomasi","translation":"diplomacia"},
     {"word":"diplomat","translation":"diplomático"},
     {"word":"diplomatik ilişki","translation":"relación diplomática"},
     {"word":"uluslararası ilişkiler","translation":"relaciones internacionales"},
@@ -1868,10 +1842,8 @@
     {"word":"resmî açıklama","translation":"declaración oficial"},
     {"word":"kamu diplomasisi","translation":"diplomacia pública"},
     {"word":"kültürel diplomasi","translation":"diplomacia cultural"},
-    {"word":"diplomatik temas","translation":"contacto diplomático"}
-  ],
-      "tradeandentrepreneurship": [
-    {"word":"ticaret","translation":"comercio"},
+    {"word":"diplomatik temas","translation":"contacto diplomático"}],
+      "tradeandentrepreneurship": [{"word":"ticaret","translation":"comercio"},
     {"word":"işletme","translation":"empresa"},
     {"word":"girişimcilik","translation":"emprendimiento"},
     {"word":"girişimci","translation":"emprendedor"},
@@ -1974,10 +1946,8 @@
     {"word":"ödeme sistemi","translation":"sistema de pago"},
     {"word":"dijital girişim","translation":"empresa digital"},
     {"word":"sürdürülebilir işletme","translation":"empresa sostenible"},
-    {"word":"kurumsal sosyal sorumluluk","translation":"responsabilidad social corporativa"}
-  ],
-      "humanitarianandngos": [
-    {"word":"insani yardım","translation":"ayuda humanitaria"},
+    {"word":"kurumsal sosyal sorumluluk","translation":"responsabilidad social corporativa"}],
+      "humanitarianandngos": [{"word":"insani yardım","translation":"ayuda humanitaria"},
     {"word":"insani yardım kuruluşu","translation":"organización de ayuda humanitaria"},
     {"word":"sivil toplum kuruluşu","translation":"organización no gubernamental"},
     {"word":"sivil toplum","translation":"sociedad civil"},
@@ -2084,12 +2054,10 @@
     {"word":"bütçe","translation":"presupuesto"},
     {"word":"bütçe yönetimi","translation":"gestión presupuestaria"},
     {"word":"kaynak mobilizasyonu","translation":"movilización de recursos"},
-    {"word":"sürdürülebilirlik","translation":"sostenibilidad"}
-  ]
+    {"word":"sürdürülebilirlik","translation":"sostenibilidad"}]
   },
   "german": {
-  "lawandjustice": [
-    {"word":"hukuk","translation":"Recht"},
+  "lawandjustice": [{"word":"hukuk","translation":"Recht"},
     {"word":"kanun","translation":"Gesetz"},
     {"word":"yasa","translation":"Gesetz"},
     {"word":"adalet","translation":"Gerechtigkeit"},
@@ -2191,10 +2159,8 @@
     {"word":"rüşvet","translation":"Bestechung"},
     {"word":"sahtecilik","translation":"Fälschung"},
     {"word":"kara para aklama","translation":"Geldwäsche"},
-    {"word":"hukuki danışmanlık","translation":"Rechtsberatung"}
-  ],
-      "healthandmedicine": [
-    {"word":"sağlık","translation":"Gesundheit"},
+    {"word":"hukuki danışmanlık","translation":"Rechtsberatung"}],
+      "healthandmedicine": [{"word":"sağlık","translation":"Gesundheit"},
     {"word":"tıp","translation":"Medizin"},
     {"word":"doktor","translation":"Arzt"},
     {"word":"hekim","translation":"Mediziner"},
@@ -2294,10 +2260,8 @@
     {"word":"hamilelik","translation":"Schwangerschaft"},
     {"word":"doğum","translation":"Geburt"},
     {"word":"çocuk sağlığı","translation":"Kindergesundheit"},
-    {"word":"koruyucu sağlık","translation":"Präventivmedizin"}
-  ],
-      "economyandfinance": [
-    {"word":"ekonomi","translation":"Wirtschaft"},
+    {"word":"koruyucu sağlık","translation":"Präventivmedizin"}],
+      "economyandfinance": [{"word":"ekonomi","translation":"Wirtschaft"},
     {"word":"finans","translation":"Finanzen"},
     {"word":"maliye","translation":"Finanzwesen"},
     {"word":"bütçe","translation":"Haushalt"},
@@ -2398,10 +2362,8 @@
     {"word":"yaşam maliyeti","translation":"Lebenshaltungskosten"},
     {"word":"satın alma gücü","translation":"Kaufkraft"},
     {"word":"ekonomik kriz","translation":"Wirtschaftskrise"},
-    {"word":"sürdürülebilir kalkınma","translation":"nachhaltige Entwicklung"}
-  ],
-      "educationandteaching": [
-    {"word":"eğitim","translation":"Bildung"},
+    {"word":"sürdürülebilir kalkınma","translation":"nachhaltige Entwicklung"}],
+      "educationandteaching": [{"word":"eğitim","translation":"Bildung"},
     {"word":"öğretim","translation":"Unterricht"},
     {"word":"öğretmen","translation":"Lehrer"},
     {"word":"öğrenci","translation":"Schüler"},
@@ -2502,10 +2464,8 @@
     {"word":"eğitim materyali","translation":"Lehrmaterial"},
     {"word":"öğrenme hedefi","translation":"Lernziel"},
     {"word":"öğrenme çıktısı","translation":"Lernergebnis"},
-    {"word":"akreditasyon","translation":"Akkreditierung"}
-  ],
-      "tourismandhospitality": [
-    {"word":"turizm","translation":"Tourismus"},
+    {"word":"akreditasyon","translation":"Akkreditierung"}],
+      "tourismandhospitality": [{"word":"turizm","translation":"Tourismus"},
     {"word":"turist","translation":"Tourist"},
     {"word":"seyahat","translation":"Reise"},
     {"word":"tatil","translation":"Urlaub"},
@@ -2605,10 +2565,8 @@
     {"word":"turizm tanıtımı","translation":"Tourismuswerbung"},
     {"word":"müşteri deneyimi","translation":"Kundenerlebnis"},
     {"word":"kalite standardı","translation":"Qualitätsstandard"},
-    {"word":"turizm işletmesi","translation":"Tourismusunternehmen"}
-  ],
-      "transportandlogistics": [
-    {"word":"ulaşım","translation":"Verkehr"},
+    {"word":"turizm işletmesi","translation":"Tourismusunternehmen"}],
+      "transportandlogistics": [{"word":"ulaşım","translation":"Verkehr"},
     {"word":"taşımacılık","translation":"Transport"},
     {"word":"lojistik","translation":"Logistik"},
     {"word":"nakliye","translation":"Gütertransport"},
@@ -2709,10 +2667,8 @@
     {"word":"sürdürülebilir lojistik","translation":"nachhaltige Logistik"},
     {"word":"ulaşım ağı","translation":"Verkehrsnetz"},
     {"word":"talep tahmini","translation":"Nachfrageprognose"},
-    {"word":"lojistik planlama","translation":"Logistikplanung"}
-  ],
-      "customsandbordersecurity": [
-    {"word":"gümrük","translation":"Zoll"},
+    {"word":"lojistik planlama","translation":"Logistikplanung"}],
+      "customsandbordersecurity": [{"word":"gümrük","translation":"Zoll"},
     {"word":"sınır","translation":"Grenze"},
     {"word":"sınır güvenliği","translation":"Grenzsicherheit"},
     {"word":"gümrük memuru","translation":"Zollbeamter"},
@@ -2811,10 +2767,8 @@
     {"word":"kaçak geçiş","translation":"illegaler Grenzübertritt"},
     {"word":"sınır anlaşması","translation":"Grenzabkommen"},
     {"word":"gümrük mevzuatı","translation":"Zollvorschriften"},
-    {"word":"sınır güvenliği eğitimi","translation":"Schulung zur Grenzsicherheit"}
-  ],
-      "diplomacyandinternationalrelations": [
-    {"word":"diplomasi","translation":"Diplomatie"},
+    {"word":"sınır güvenliği eğitimi","translation":"Schulung zur Grenzsicherheit"}],
+      "diplomacyandinternationalrelations": [{"word":"diplomasi","translation":"Diplomatie"},
     {"word":"diplomat","translation":"Diplomat"},
     {"word":"diplomatik ilişki","translation":"diplomatische Beziehung"},
     {"word":"uluslararası ilişkiler","translation":"internationale Beziehungen"},
@@ -2914,10 +2868,8 @@
     {"word":"resmî açıklama","translation":"offizielle Erklärung"},
     {"word":"kamu diplomasisi","translation":"öffentliche Diplomatie"},
     {"word":"kültürel diplomasi","translation":"Kulturdiplomatie"},
-    {"word":"diplomatik temas","translation":"diplomatischer Kontakt"}
-  ],
-      "tradeandentrepreneurship": [
-    {"word":"ticaret","translation":"Handel"},
+    {"word":"diplomatik temas","translation":"diplomatischer Kontakt"}],
+      "tradeandentrepreneurship": [{"word":"ticaret","translation":"Handel"},
     {"word":"işletme","translation":"Unternehmen"},
     {"word":"girişimcilik","translation":"Unternehmertum"},
     {"word":"girişimci","translation":"Unternehmer"},
@@ -3020,10 +2972,8 @@
     {"word":"ödeme sistemi","translation":"Zahlungssystem"},
     {"word":"dijital girişim","translation":"digitales Unternehmen"},
     {"word":"sürdürülebilir işletme","translation":"nachhaltiges Unternehmen"},
-    {"word":"kurumsal sosyal sorumluluk","translation":"gesellschaftliche Unternehmensverantwortung"}
-  ],
-      "humanitarianandngos": [
-    {"word":"insani yardım","translation":"humanitäre Hilfe"},
+    {"word":"kurumsal sosyal sorumluluk","translation":"gesellschaftliche Unternehmensverantwortung"}],
+      "humanitarianandngos": [{"word":"insani yardım","translation":"humanitäre Hilfe"},
     {"word":"insani yardım kuruluşu","translation":"humanitäre Hilfsorganisation"},
     {"word":"sivil toplum kuruluşu","translation":"Nichtregierungsorganisation"},
     {"word":"sivil toplum","translation":"Zivilgesellschaft"},
@@ -3130,12 +3080,10 @@
     {"word":"bütçe","translation":"Budget"},
     {"word":"bütçe yönetimi","translation":"Budgetverwaltung"},
     {"word":"kaynak mobilizasyonu","translation":"Ressourcenmobilisierung"},
-    {"word":"sürdürülebilirlik","translation":"Nachhaltigkeit"}
-  ]
+    {"word":"sürdürülebilirlik","translation":"Nachhaltigkeit"}]
   },
   "italian": {
-  "lawandjustice": [
-    {"word":"hukuk","translation":"diritto"},
+  "lawandjustice": [{"word":"hukuk","translation":"diritto"},
     {"word":"kanun","translation":"legge"},
     {"word":"yasa","translation":"legge"},
     {"word":"adalet","translation":"giustizia"},
@@ -3237,10 +3185,8 @@
     {"word":"rüşvet","translation":"tangente"},
     {"word":"sahtecilik","translation":"falsificazione"},
     {"word":"kara para aklama","translation":"riciclaggio di denaro"},
-    {"word":"hukuki danışmanlık","translation":"consulenza legale"}
-  ],
-      "healthandmedicine": [
-    {"word":"sağlık","translation":"salute"},
+    {"word":"hukuki danışmanlık","translation":"consulenza legale"}],
+      "healthandmedicine": [{"word":"sağlık","translation":"salute"},
     {"word":"tıp","translation":"medicina"},
     {"word":"doktor","translation":"medico"},
     {"word":"hekim","translation":"dottore"},
@@ -3340,10 +3286,8 @@
     {"word":"hamilelik","translation":"gravidanza"},
     {"word":"doğum","translation":"parto"},
     {"word":"çocuk sağlığı","translation":"salute infantile"},
-    {"word":"koruyucu sağlık","translation":"medicina preventiva"}
-  ],
-      "economyandfinance": [
-    {"word":"ekonomi","translation":"economia"},
+    {"word":"koruyucu sağlık","translation":"medicina preventiva"}],
+      "economyandfinance": [{"word":"ekonomi","translation":"economia"},
     {"word":"finans","translation":"finanza"},
     {"word":"maliye","translation":"finanze pubbliche"},
     {"word":"bütçe","translation":"bilancio"},
@@ -3444,10 +3388,8 @@
     {"word":"yaşam maliyeti","translation":"costo della vita"},
     {"word":"satın alma gücü","translation":"potere d'acquisto"},
     {"word":"ekonomik kriz","translation":"crisi economica"},
-    {"word":"sürdürülebilir kalkınma","translation":"sviluppo sostenibile"}
-  ],
-      "educationandteaching": [
-    {"word":"eğitim","translation":"istruzione"},
+    {"word":"sürdürülebilir kalkınma","translation":"sviluppo sostenibile"}],
+      "educationandteaching": [{"word":"eğitim","translation":"istruzione"},
     {"word":"öğretim","translation":"insegnamento"},
     {"word":"öğretmen","translation":"insegnante"},
     {"word":"öğrenci","translation":"studente"},
@@ -3548,10 +3490,8 @@
     {"word":"eğitim materyali","translation":"materiale didattico"},
     {"word":"öğrenme hedefi","translation":"obiettivo di apprendimento"},
     {"word":"öğrenme çıktısı","translation":"risultato di apprendimento"},
-    {"word":"akreditasyon","translation":"accreditamento"}
-  ],
-     "tourismandhospitality": [
-    {"word":"turizm","translation":"turismo"},
+    {"word":"akreditasyon","translation":"accreditamento"}],
+     "tourismandhospitality": [{"word":"turizm","translation":"turismo"},
     {"word":"turist","translation":"turista"},
     {"word":"seyahat","translation":"viaggio"},
     {"word":"tatil","translation":"vacanza"},
@@ -3651,10 +3591,8 @@
     {"word":"turizm tanıtımı","translation":"promozione turistica"},
     {"word":"müşteri deneyimi","translation":"esperienza del cliente"},
     {"word":"kalite standardı","translation":"standard di qualità"},
-    {"word":"turizm işletmesi","translation":"impresa turistica"}
-  ],
-      "transportandlogistics": [
-    {"word":"ulaşım","translation":"trasporto"},
+    {"word":"turizm işletmesi","translation":"impresa turistica"}],
+      "transportandlogistics": [{"word":"ulaşım","translation":"trasporto"},
     {"word":"taşımacılık","translation":"trasporto merci"},
     {"word":"lojistik","translation":"logistica"},
     {"word":"nakliye","translation":"trasporto"},
@@ -3755,10 +3693,8 @@
     {"word":"sürdürülebilir lojistik","translation":"logistica sostenibile"},
     {"word":"ulaşım ağı","translation":"rete di trasporto"},
     {"word":"talep tahmini","translation":"previsione della domanda"},
-    {"word":"lojistik planlama","translation":"pianificazione logistica"}
-  ],
-      "customsandbordersecurity": [
-    {"word":"gümrük","translation":"dogana"},
+    {"word":"lojistik planlama","translation":"pianificazione logistica"}],
+      "customsandbordersecurity": [{"word":"gümrük","translation":"dogana"},
     {"word":"sınır","translation":"confine"},
     {"word":"sınır güvenliği","translation":"sicurezza delle frontiere"},
     {"word":"gümrük memuru","translation":"funzionario doganale"},
@@ -3857,10 +3793,8 @@
     {"word":"kaçak geçiş","translation":"attraversamento clandestino"},
     {"word":"sınır anlaşması","translation":"accordo di frontiera"},
     {"word":"gümrük mevzuatı","translation":"normativa doganale"},
-    {"word":"sınır güvenliği eğitimi","translation":"formazione sulla sicurezza delle frontiere"}
-  ],
-      "diplomacyandinternationalrelations": [
-    {"word":"diplomasi","translation":"diplomazia"},
+    {"word":"sınır güvenliği eğitimi","translation":"formazione sulla sicurezza delle frontiere"}],
+      "diplomacyandinternationalrelations": [{"word":"diplomasi","translation":"diplomazia"},
     {"word":"diplomat","translation":"diplomatico"},
     {"word":"diplomatik ilişki","translation":"relazione diplomatica"},
     {"word":"uluslararası ilişkiler","translation":"relazioni internazionali"},
@@ -3960,10 +3894,8 @@
     {"word":"resmî açıklama","translation":"dichiarazione ufficiale"},
     {"word":"kamu diplomasisi","translation":"diplomazia pubblica"},
     {"word":"kültürel diplomasi","translation":"diplomazia culturale"},
-    {"word":"diplomatik temas","translation":"contatto diplomatico"}
-  ],
-      "tradeandentrepreneurship": [
-    {"word":"ticaret","translation":"commercio"},
+    {"word":"diplomatik temas","translation":"contatto diplomatico"}],
+      "tradeandentrepreneurship": [{"word":"ticaret","translation":"commercio"},
     {"word":"işletme","translation":"impresa"},
     {"word":"girişimcilik","translation":"imprenditorialità"},
     {"word":"girişimci","translation":"imprenditore"},
@@ -4066,10 +3998,8 @@
     {"word":"ödeme sistemi","translation":"sistema di pagamento"},
     {"word":"dijital girişim","translation":"impresa digitale"},
     {"word":"sürdürülebilir işletme","translation":"impresa sostenibile"},
-    {"word":"kurumsal sosyal sorumluluk","translation":"responsabilità sociale d'impresa"}
-  ],
-      "humanitarianandngos": [
-    {"word":"insani yardım","translation":"aiuto umanitario"},
+    {"word":"kurumsal sosyal sorumluluk","translation":"responsabilità sociale d'impresa"}],
+      "humanitarianandngos": [{"word":"insani yardım","translation":"aiuto umanitario"},
     {"word":"insani yardım kuruluşu","translation":"organizzazione umanitaria"},
     {"word":"sivil toplum kuruluşu","translation":"organizzazione non governativa"},
     {"word":"sivil toplum","translation":"società civile"},
@@ -4176,12 +4106,10 @@
     {"word":"bütçe","translation":"bilancio"},
     {"word":"bütçe yönetimi","translation":"gestione del bilancio"},
     {"word":"kaynak mobilizasyonu","translation":"mobilitazione delle risorse"},
-    {"word":"sürdürülebilirlik","translation":"sostenibilità"}
-  ]
+    {"word":"sürdürülebilirlik","translation":"sostenibilità"}]
   },
   "portuguese": {
-  "lawandjustice": [
-    {"word":"hukuk","translation":"direito"},
+  "lawandjustice": [{"word":"hukuk","translation":"direito"},
     {"word":"kanun","translation":"lei"},
     {"word":"yasa","translation":"lei"},
     {"word":"adalet","translation":"justiça"},
@@ -4283,10 +4211,8 @@
     {"word":"rüşvet","translation":"suborno"},
     {"word":"sahtecilik","translation":"falsificação"},
     {"word":"kara para aklama","translation":"branqueamento de capitais"},
-    {"word":"hukuki danışmanlık","translation":"consultoria jurídica"}
-  ],
-      "healthandmedicine": [
-    {"word":"sağlık","translation":"saúde"},
+    {"word":"hukuki danışmanlık","translation":"consultoria jurídica"}],
+      "healthandmedicine": [{"word":"sağlık","translation":"saúde"},
     {"word":"tıp","translation":"medicina"},
     {"word":"doktor","translation":"médico"},
     {"word":"hekim","translation":"clínico"},
@@ -4386,10 +4312,8 @@
     {"word":"hamilelik","translation":"gravidez"},
     {"word":"doğum","translation":"parto"},
     {"word":"çocuk sağlığı","translation":"saúde infantil"},
-    {"word":"koruyucu sağlık","translation":"medicina preventiva"}
-  ],
-      "economyandfinance": [
-    {"word":"ekonomi","translation":"economia"},
+    {"word":"koruyucu sağlık","translation":"medicina preventiva"}],
+      "economyandfinance": [{"word":"ekonomi","translation":"economia"},
     {"word":"finans","translation":"finanças"},
     {"word":"maliye","translation":"finanças públicas"},
     {"word":"bütçe","translation":"orçamento"},
@@ -4490,10 +4414,8 @@
     {"word":"yaşam maliyeti","translation":"custo de vida"},
     {"word":"satın alma gücü","translation":"poder de compra"},
     {"word":"ekonomik kriz","translation":"crise económica"},
-    {"word":"sürdürülebilir kalkınma","translation":"desenvolvimento sustentável"}
-  ],
-      "educationandteaching": [
-    {"word":"eğitim","translation":"educação"},
+    {"word":"sürdürülebilir kalkınma","translation":"desenvolvimento sustentável"}],
+      "educationandteaching": [{"word":"eğitim","translation":"educação"},
     {"word":"öğretim","translation":"ensino"},
     {"word":"öğretmen","translation":"professor"},
     {"word":"öğrenci","translation":"estudante"},
@@ -4594,10 +4516,8 @@
     {"word":"eğitim materyali","translation":"material didático"},
     {"word":"öğrenme hedefi","translation":"objetivo de aprendizagem"},
     {"word":"öğrenme çıktısı","translation":"resultado da aprendizagem"},
-    {"word":"akreditasyon","translation":"acreditação"}
-  ],
-      "tourismandhospitality": [
-    {"word":"turizm","translation":"turismo"},
+    {"word":"akreditasyon","translation":"acreditação"}],
+      "tourismandhospitality": [{"word":"turizm","translation":"turismo"},
     {"word":"turist","translation":"turista"},
     {"word":"seyahat","translation":"viagem"},
     {"word":"tatil","translation":"férias"},
@@ -4697,10 +4617,8 @@
     {"word":"turizm tanıtımı","translation":"promoção turística"},
     {"word":"müşteri deneyimi","translation":"experiência do cliente"},
     {"word":"kalite standardı","translation":"padrão de qualidade"},
-    {"word":"turizm işletmesi","translation":"empresa turística"}
-  ],
-     "transportandlogistics": [
-    {"word":"ulaşım","translation":"transporte"},
+    {"word":"turizm işletmesi","translation":"empresa turística"}],
+     "transportandlogistics": [{"word":"ulaşım","translation":"transporte"},
     {"word":"taşımacılık","translation":"transporte de mercadorias"},
     {"word":"lojistik","translation":"logística"},
     {"word":"nakliye","translation":"transporte"},
@@ -4801,10 +4719,8 @@
     {"word":"sürdürülebilir lojistik","translation":"logística sustentável"},
     {"word":"ulaşım ağı","translation":"rede de transportes"},
     {"word":"talep tahmini","translation":"previsão da procura"},
-    {"word":"lojistik planlama","translation":"planeamento logístico"}
-  ],
-      "customsandbordersecurity": [
-    {"word":"gümrük","translation":"alfândega"},
+    {"word":"lojistik planlama","translation":"planeamento logístico"}],
+      "customsandbordersecurity": [{"word":"gümrük","translation":"alfândega"},
     {"word":"sınır","translation":"fronteira"},
     {"word":"sınır güvenliği","translation":"segurança fronteiriça"},
     {"word":"gümrük memuru","translation":"funcionário aduaneiro"},
@@ -4903,10 +4819,8 @@
     {"word":"kaçak geçiş","translation":"passagem clandestina"},
     {"word":"sınır anlaşması","translation":"acordo fronteiriço"},
     {"word":"gümrük mevzuatı","translation":"legislação aduaneira"},
-    {"word":"sınır güvenliği eğitimi","translation":"formação em segurança fronteiriça"}
-  ],
-     "diplomacyandinternationalrelations": [
-    {"word":"diplomasi","translation":"diplomacia"},
+    {"word":"sınır güvenliği eğitimi","translation":"formação em segurança fronteiriça"}],
+     "diplomacyandinternationalrelations": [{"word":"diplomasi","translation":"diplomacia"},
     {"word":"diplomat","translation":"diplomata"},
     {"word":"diplomatik ilişki","translation":"relação diplomática"},
     {"word":"uluslararası ilişkiler","translation":"relações internacionais"},
@@ -5006,10 +4920,8 @@
     {"word":"resmî açıklama","translation":"declaração oficial"},
     {"word":"kamu diplomasisi","translation":"diplomacia pública"},
     {"word":"kültürel diplomasi","translation":"diplomacia cultural"},
-    {"word":"diplomatik temas","translation":"contacto diplomático"}
-  ],
-      "tradeandentrepreneurship": [
-    {"word":"ticaret","translation":"comércio"},
+    {"word":"diplomatik temas","translation":"contacto diplomático"}],
+      "tradeandentrepreneurship": [{"word":"ticaret","translation":"comércio"},
     {"word":"işletme","translation":"empresa"},
     {"word":"girişimcilik","translation":"empreendedorismo"},
     {"word":"girişimci","translation":"empreendedor"},
@@ -5112,10 +5024,8 @@
     {"word":"ödeme sistemi","translation":"sistema de pagamento"},
     {"word":"dijital girişim","translation":"empreendimento digital"},
     {"word":"sürdürülebilir işletme","translation":"empresa sustentável"},
-    {"word":"kurumsal sosyal sorumluluk","translation":"responsabilidade social empresarial"}
-  ],
-      "humanitarianandngos": [
-    {"word":"insani yardım","translation":"ajuda humanitária"},
+    {"word":"kurumsal sosyal sorumluluk","translation":"responsabilidade social empresarial"}],
+      "humanitarianandngos": [{"word":"insani yardım","translation":"ajuda humanitária"},
     {"word":"insani yardım kuruluşu","translation":"organização humanitária"},
     {"word":"sivil toplum kuruluşu","translation":"organização não governamental"},
     {"word":"sivil toplum","translation":"sociedade civil"},
@@ -5222,12 +5132,10 @@
     {"word":"bütçe","translation":"orçamento"},
     {"word":"bütçe yönetimi","translation":"gestão orçamental"},
     {"word":"kaynak mobilizasyonu","translation":"mobilização de recursos"},
-    {"word":"sürdürülebilirlik","translation":"sustentabilidade"}
-  ]
+    {"word":"sürdürülebilirlik","translation":"sustentabilidade"}]
   },
   "chinese": {
-  "lawandjustice": [
-    {"word":"hukuk","translation":"法律"},
+    "lawandjustice": [{"word":"hukuk","translation":"法律"},
     {"word":"kanun","translation":"法律"},
     {"word":"adalet","translation":"正义"},
     {"word":"mahkeme","translation":"法院"},
@@ -5327,10 +5235,8 @@
     {"word":"rüşvet","translation":"贿赂"},
     {"word":"sahtecilik","translation":"伪造"},
     {"word":"kara para aklama","translation":"洗钱"},
-    {"word":"hukuki danışmanlık","translation":"法律咨询"}
-  ],
-      "healthandmedicine": [
-    {"word":"sağlık","translation":"健康"},
+    {"word":"hukuki danışmanlık","translation":"法律咨询"}],
+      "healthandmedicine": [{"word":"sağlık","translation":"健康"},
     {"word":"tıp","translation":"医学"},
     {"word":"doktor","translation":"医生"},
     {"word":"hekim","translation":"医师"},
@@ -5430,10 +5336,8 @@
     {"word":"hamilelik","translation":"怀孕"},
     {"word":"doğum","translation":"分娩"},
     {"word":"çocuk sağlığı","translation":"儿童健康"},
-    {"word":"koruyucu sağlık","translation":"预防医学"}
-  ],
-      "economyandfinance": [
-    {"word":"ekonomi","translation":"经济"},
+    {"word":"koruyucu sağlık","translation":"预防医学"}],
+      "economyandfinance": [{"word":"ekonomi","translation":"经济"},
     {"word":"finans","translation":"金融"},
     {"word":"maliye","translation":"财政"},
     {"word":"bütçe","translation":"预算"},
@@ -5534,10 +5438,8 @@
     {"word":"yaşam maliyeti","translation":"生活成本"},
     {"word":"satın alma gücü","translation":"购买力"},
     {"word":"ekonomik kriz","translation":"经济危机"},
-    {"word":"sürdürülebilir kalkınma","translation":"可持续发展"}
-  ],
-      "educationandteaching": [
-    {"word":"eğitim","translation":"教育"},
+    {"word":"sürdürülebilir kalkınma","translation":"可持续发展"}],
+      "educationandteaching": [{"word":"eğitim","translation":"教育"},
     {"word":"öğretim","translation":"教学"},
     {"word":"öğretmen","translation":"教师"},
     {"word":"öğrenci","translation":"学生"},
@@ -5638,10 +5540,8 @@
     {"word":"eğitim materyali","translation":"教学材料"},
     {"word":"öğrenme hedefi","translation":"学习目标"},
     {"word":"öğrenme çıktısı","translation":"学习成果"},
-    {"word":"akreditasyon","translation":"认证"}
-  ],
-      "tourismandhospitality": [
-    {"word":"turizm","translation":"旅游业"},
+    {"word":"akreditasyon","translation":"认证"}],
+      "tourismandhospitality": [{"word":"turizm","translation":"旅游业"},
     {"word":"turist","translation":"游客"},
     {"word":"seyahat","translation":"旅行"},
     {"word":"tatil","translation":"假期"},
@@ -5741,10 +5641,8 @@
     {"word":"turizm tanıtımı","translation":"旅游推广"},
     {"word":"müşteri deneyimi","translation":"客户体验"},
     {"word":"kalite standardı","translation":"质量标准"},
-    {"word":"turizm işletmesi","translation":"旅游企业"}
-  ],
-     "transportandlogistics": [
-    {"word":"ulaşım","translation":"交通"},
+    {"word":"turizm işletmesi","translation":"旅游企业"}],
+     "transportandlogistics": [{"word":"ulaşım","translation":"交通"},
     {"word":"taşımacılık","translation":"运输"},
     {"word":"lojistik","translation":"物流"},
     {"word":"nakliye","translation":"货运"},
@@ -5845,10 +5743,8 @@
     {"word":"sürdürülebilir lojistik","translation":"可持续物流"},
     {"word":"ulaşım ağı","translation":"交通网络"},
     {"word":"talep tahmini","translation":"需求预测"},
-    {"word":"lojistik planlama","translation":"物流规划"}
-  ],
-      "customsandbordersecurity": [
-    {"word":"gümrük","translation":"海关"},
+    {"word":"lojistik planlama","translation":"物流规划"}],
+      "customsandbordersecurity": [{"word":"gümrük","translation":"海关"},
     {"word":"sınır","translation":"边境"},
     {"word":"sınır güvenliği","translation":"边境安全"},
     {"word":"gümrük memuru","translation":"海关官员"},
@@ -5947,10 +5843,8 @@
     {"word":"kaçak geçiş","translation":"非法越境"},
     {"word":"sınır anlaşması","translation":"边境协议"},
     {"word":"gümrük mevzuatı","translation":"海关法规"},
-    {"word":"sınır güvenliği eğitimi","translation":"边境安全培训"}
-  ],
-     "diplomacyandinternationalrelations": [
-    {"word":"diplomasi","translation":"外交"},
+    {"word":"sınır güvenliği eğitimi","translation":"边境安全培训"}],
+     "diplomacyandinternationalrelations": [{"word":"diplomasi","translation":"外交"},
     {"word":"diplomat","translation":"外交官"},
     {"word":"diplomatik ilişki","translation":"外交关系"},
     {"word":"uluslararası ilişkiler","translation":"国际关系"},
@@ -6050,10 +5944,8 @@
     {"word":"resmî açıklama","translation":"正式声明"},
     {"word":"kamu diplomasisi","translation":"公共外交"},
     {"word":"kültürel diplomasi","translation":"文化外交"},
-    {"word":"diplomatik temas","translation":"外交接触"}
-  ],
-      "tradeandentrepreneurship": [
-    {"word":"ticaret","translation":"贸易"},
+    {"word":"diplomatik temas","translation":"外交接触"}],
+      "tradeandentrepreneurship": [{"word":"ticaret","translation":"贸易"},
     {"word":"işletme","translation":"企业"},
     {"word":"girişimcilik","translation":"创业"},
     {"word":"girişimci","translation":"企业家"},
@@ -6156,10 +6048,8 @@
     {"word":"ödeme sistemi","translation":"支付系统"},
     {"word":"dijital girişim","translation":"数字创业项目"},
     {"word":"sürdürülebilir işletme","translation":"可持续企业"},
-    {"word":"kurumsal sosyal sorumluluk","translation":"企业社会责任"}
-  ],
-      "humanitarianandngos": [
-    {"word":"insani yardım","translation":"人道主义援助"},
+    {"word":"kurumsal sosyal sorumluluk","translation":"企业社会责任"}],
+      "humanitarianandngos": [{"word":"insani yardım","translation":"人道主义援助"},
     {"word":"insani yardım kuruluşu","translation":"人道主义组织"},
     {"word":"sivil toplum kuruluşu","translation":"非政府组织"},
     {"word":"sivil toplum","translation":"公民社会"},
@@ -6266,12 +6156,10 @@
     {"word":"bütçe","translation":"预算"},
     {"word":"bütçe yönetimi","translation":"预算管理"},
     {"word":"kaynak mobilizasyonu","translation":"资源动员"},
-    {"word":"sürdürülebilirlik","translation":"可持续性"}
-  ]
+    {"word":"sürdürülebilirlik","translation":"可持续性"}]
   },
   "arabic": {
-  "lawandjustice": [
-    {"word":"hukuk","translation":"القانون"},
+  "lawandjustice": [{"word":"hukuk","translation":"القانون"},
     {"word":"kanun","translation":"القانون"},
     {"word":"adalet","translation":"العدالة"},
     {"word":"mahkeme","translation":"المحكمة"},
@@ -6371,10 +6259,8 @@
     {"word":"rüşvet","translation":"الرشوة"},
     {"word":"sahtecilik","translation":"التزوير"},
     {"word":"kara para aklama","translation":"غسل الأموال"},
-    {"word":"hukuki danışmanlık","translation":"الاستشارات القانونية"}
-  ],
-      "healthandmedicine": [
-    {"word":"sağlık","translation":"الصحة"},
+    {"word":"hukuki danışmanlık","translation":"الاستشارات القانونية"}],
+      "healthandmedicine": [{"word":"sağlık","translation":"الصحة"},
     {"word":"tıp","translation":"الطب"},
     {"word":"doktor","translation":"الطبيب"},
     {"word":"hekim","translation":"الطبيب"},
@@ -6474,10 +6360,8 @@
     {"word":"hamilelik","translation":"الحمل"},
     {"word":"doğum","translation":"الولادة"},
     {"word":"çocuk sağlığı","translation":"صحة الطفل"},
-    {"word":"koruyucu sağlık","translation":"الرعاية الصحية الوقائية"}
-  ],
-      "economyandfinance": [
-    {"word":"ekonomi","translation":"الاقتصاد"},
+    {"word":"koruyucu sağlık","translation":"الرعاية الصحية الوقائية"}],
+      "economyandfinance": [{"word":"ekonomi","translation":"الاقتصاد"},
     {"word":"finans","translation":"التمويل"},
     {"word":"maliye","translation":"المالية العامة"},
     {"word":"bütçe","translation":"الميزانية"},
@@ -6578,10 +6462,8 @@
     {"word":"yaşam maliyeti","translation":"تكلفة المعيشة"},
     {"word":"satın alma gücü","translation":"القوة الشرائية"},
     {"word":"ekonomik kriz","translation":"الأزمة الاقتصادية"},
-    {"word":"sürdürülebilir kalkınma","translation":"التنمية المستدامة"}
-  ],
-      "educationandteaching": [
-    {"word":"eğitim","translation":"التعليم"},
+    {"word":"sürdürülebilir kalkınma","translation":"التنمية المستدامة"}],
+      "educationandteaching": [{"word":"eğitim","translation":"التعليم"},
     {"word":"öğretim","translation":"التدريس"},
     {"word":"öğretmen","translation":"المعلم"},
     {"word":"öğrenci","translation":"الطالب"},
@@ -6682,10 +6564,8 @@
     {"word":"eğitim materyali","translation":"المادة التعليمية"},
     {"word":"öğrenme hedefi","translation":"هدف التعلم"},
     {"word":"öğrenme çıktısı","translation":"مخرجات التعلم"},
-    {"word":"akreditasyon","translation":"الاعتماد الأكاديمي"}
-  ],
-      "tourismandhospitality": [
-    {"word":"turizm","translation":"السياحة"},
+    {"word":"akreditasyon","translation":"الاعتماد الأكاديمي"}],
+      "tourismandhospitality": [{"word":"turizm","translation":"السياحة"},
     {"word":"turist","translation":"السائح"},
     {"word":"seyahat","translation":"السفر"},
     {"word":"tatil","translation":"العطلة"},
@@ -6785,10 +6665,8 @@
     {"word":"turizm tanıtımı","translation":"الترويج السياحي"},
     {"word":"müşteri deneyimi","translation":"تجربة العميل"},
     {"word":"kalite standardı","translation":"معيار الجودة"},
-    {"word":"turizm işletmesi","translation":"المؤسسة السياحية"}
-  ],
-      "transportandlogistics": [
-    {"word":"ulaşım","translation":"النقل"},
+    {"word":"turizm işletmesi","translation":"المؤسسة السياحية"}],
+      "transportandlogistics": [{"word":"ulaşım","translation":"النقل"},
     {"word":"taşımacılık","translation":"خدمات النقل"},
     {"word":"lojistik","translation":"الخدمات اللوجستية"},
     {"word":"nakliye","translation":"الشحن"},
@@ -6889,10 +6767,8 @@
     {"word":"sürdürülebilir lojistik","translation":"الخدمات اللوجستية المستدامة"},
     {"word":"ulaşım ağı","translation":"شبكة النقل"},
     {"word":"talep tahmini","translation":"توقع الطلب"},
-    {"word":"lojistik planlama","translation":"التخطيط اللوجستي"}
-  ],
-      "customsandbordersecurity": [
-    {"word":"gümrük","translation":"الجمارك"},
+    {"word":"lojistik planlama","translation":"التخطيط اللوجستي"}],
+      "customsandbordersecurity": [{"word":"gümrük","translation":"الجمارك"},
     {"word":"sınır","translation":"الحدود"},
     {"word":"sınır güvenliği","translation":"أمن الحدود"},
     {"word":"gümrük memuru","translation":"موظف الجمارك"},
@@ -6991,10 +6867,8 @@
     {"word":"kaçak geçiş","translation":"العبور غير القانوني"},
     {"word":"sınır anlaşması","translation":"اتفاقية الحدود"},
     {"word":"gümrük mevzuatı","translation":"التشريعات الجمركية"},
-    {"word":"sınır güvenliği eğitimi","translation":"التدريب على أمن الحدود"}
-  ],
-     "diplomacyandinternationalrelations": [
-    {"word":"diplomasi","translation":"الدبلوماسية"},
+    {"word":"sınır güvenliği eğitimi","translation":"التدريب على أمن الحدود"}],
+     "diplomacyandinternationalrelations": [{"word":"diplomasi","translation":"الدبلوماسية"},
     {"word":"diplomat","translation":"الدبلوماسي"},
     {"word":"diplomatik ilişki","translation":"العلاقات الدبلوماسية"},
     {"word":"uluslararası ilişkiler","translation":"العلاقات الدولية"},
@@ -7094,10 +6968,8 @@
     {"word":"resmî açıklama","translation":"البيان الرسمي"},
     {"word":"kamu diplomasisi","translation":"الدبلوماسية العامة"},
     {"word":"kültürel diplomasi","translation":"الدبلوماسية الثقافية"},
-    {"word":"diplomatik temas","translation":"الاتصال الدبلوماسي"}
-  ],
-      "tradeandentrepreneurship": [
-    {"word":"ticaret","translation":"التجارة"},
+    {"word":"diplomatik temas","translation":"الاتصال الدبلوماسي"}],
+      "tradeandentrepreneurship": [{"word":"ticaret","translation":"التجارة"},
     {"word":"işletme","translation":"المؤسسة التجارية"},
     {"word":"girişimcilik","translation":"ريادة الأعمال"},
     {"word":"girişimci","translation":"رائد الأعمال"},
@@ -7200,10 +7072,8 @@
     {"word":"ödeme sistemi","translation":"نظام الدفع"},
     {"word":"dijital girişim","translation":"المشروع الرقمي"},
     {"word":"sürdürülebilir işletme","translation":"المؤسسة المستدامة"},
-    {"word":"kurumsal sosyal sorumluluk","translation":"المسؤولية الاجتماعية للشركات"}
-  ],
-      "humanitarianandngos": [
-    {"word":"insani yardım","translation":"المساعدات الإنسانية"},
+    {"word":"kurumsal sosyal sorumluluk","translation":"المسؤولية الاجتماعية للشركات"}],
+      "humanitarianandngos": [{"word":"insani yardım","translation":"المساعدات الإنسانية"},
     {"word":"insani yardım kuruluşu","translation":"منظمة إنسانية"},
     {"word":"sivil toplum kuruluşu","translation":"منظمة غير حكومية"},
     {"word":"sivil toplum","translation":"المجتمع المدني"},
@@ -7310,13 +7180,10 @@
     {"word":"bütçe","translation":"الميزانية"},
     {"word":"bütçe yönetimi","translation":"إدارة الميزانية"},
     {"word":"kaynak mobilizasyonu","translation":"تعبئة الموارد"},
-    {"word":"sürdürülebilirlik","translation":"الاستدامة"}
-  ]
+    {"word":"sürdürülebilirlik","translation":"الاستدامة"}]
   },
-  {
   "hindi": {
-    "lawandjustice": [
-      {"word":"hukuk","translation":"कानून"},
+    "lawandjustice": [{"word":"hukuk","translation":"कानून"},
       {"word":"adalet","translation":"न्याय"},
       {"word":"mahkeme","translation":"अदालत"},
       {"word":"hâkim","translation":"न्यायाधीश"},
@@ -7419,10 +7286,8 @@
       {"word":"uluslararası hukuk","translation":"अंतरराष्ट्रीय कानून"},
       {"word":"hukuki sorumluluk","translation":"कानूनी ज़िम्मेदारी"},
       {"word":"yargı bağımsızlığı","translation":"न्यायपालिका की स्वतंत्रता"},
-      {"word":"hukuk danışmanı","translation":"कानूनी सलाहकार"}
-    ],
-    "healthandmedicine": [
-      {"word":"sağlık","translation":"स्वास्थ्य"},
+      {"word":"hukuk danışmanı","translation":"कानूनी सलाहकार"}],
+    "healthandmedicine": [{"word":"sağlık","translation":"स्वास्थ्य"},
       {"word":"hastalık","translation":"बीमारी"},
       {"word":"tedavi","translation":"इलाज"},
       {"word":"doktor","translation":"डॉक्टर"},
@@ -7523,10 +7388,8 @@
       {"word":"uzman doktor","translation":"विशेषज्ञ डॉक्टर"},
       {"word":"koruyucu sağlık","translation":"निवारक स्वास्थ्य सेवा"},
       {"word":"hasta dosyası","translation":"मरीज़ की फ़ाइल"},
-      {"word":"tıbbi cihaz","translation":"चिकित्सा उपकरण"}
-    ],
-    "economyandfinance": [
-      {"word":"ekonomi","translation":"अर्थव्यवस्था"},
+      {"word":"tıbbi cihaz","translation":"चिकित्सा उपकरण"}],
+    "economyandfinance": [{"word":"ekonomi","translation":"अर्थव्यवस्था"},
       {"word":"finans","translation":"वित्त"},
       {"word":"para","translation":"पैसा"},
       {"word":"banka","translation":"बैंक"},
@@ -7629,10 +7492,8 @@
       {"word":"para politikası","translation":"मौद्रिक नीति"},
       {"word":"mali politika","translation":"राजकोषीय नीति"},
       {"word":"gayrisafi yurt içi hasıla","translation":"सकल घरेलू उत्पाद"},
-      {"word":"ekonomik gösterge","translation":"आर्थिक संकेतक"}
-    ],
-    "educationandteaching": [
-      {"word":"eğitim","translation":"शिक्षा"},
+      {"word":"ekonomik gösterge","translation":"आर्थिक संकेतक"}],
+    "educationandteaching": [{"word":"eğitim","translation":"शिक्षा"},
       {"word":"öğretim","translation":"अध्यापन"},
       {"word":"öğretmen","translation":"शिक्षक"},
       {"word":"öğrenci","translation":"विद्यार्थी"},
@@ -7735,10 +7596,8 @@
       {"word":"eğitim politikası","translation":"शिक्षा नीति"},
       {"word":"eğitim yönetimi","translation":"शिक्षा प्रबंधन"},
       {"word":"eğitim kalitesi","translation":"शिक्षा की गुणवत्ता"},
-      {"word":"yaşam boyu öğrenme","translation":"आजीवन सीखना"}
-    ],
-    "tourismandhospitality": [
-      {"word":"turizm","translation":"पर्यटन"},
+      {"word":"yaşam boyu öğrenme","translation":"आजीवन सीखना"}],
+    "tourismandhospitality": [{"word":"turizm","translation":"पर्यटन"},
       {"word":"turist","translation":"पर्यटक"},
       {"word":"seyahat","translation":"यात्रा"},
       {"word":"tatil","translation":"छुट्टी"},
@@ -7841,10 +7700,8 @@
       {"word":"düşük sezon","translation":"कम पर्यटन मौसम"},
       {"word":"misafir ilişkileri","translation":"अतिथि संबंध"},
       {"word":"konuk değerlendirmesi","translation":"अतिथि समीक्षा"},
-      {"word":"engelsiz turizm","translation":"सुलभ पर्यटन"}
-    ],
-    "transportandlogistics": [
-      {"word":"ulaşım","translation":"परिवहन"},
+      {"word":"engelsiz turizm","translation":"सुलभ पर्यटन"}],
+    "transportandlogistics": [{"word":"ulaşım","translation":"परिवहन"},
       {"word":"taşımacılık","translation":"माल ढुलाई"},
       {"word":"lojistik","translation":"रसद"},
       {"word":"araç","translation":"वाहन"},
@@ -7947,10 +7804,8 @@
       {"word":"talep tahmini","translation":"मांग का पूर्वानुमान"},
       {"word":"envanter kontrolü","translation":"भंडार नियंत्रण"},
       {"word":"güvenli taşıma","translation":"सुरक्षित परिवहन"},
-      {"word":"hasarlı ürün","translation":"क्षतिग्रस्त उत्पाद"}
-    ],
-    "customsandbordersecurity": [
-      {"word":"gümrük","translation":"सीमा शुल्क"},
+      {"word":"hasarlı ürün","translation":"क्षतिग्रस्त उत्पाद"}],
+    "customsandbordersecurity": [{"word":"gümrük","translation":"सीमा शुल्क"},
       {"word":"sınır","translation":"सीमा"},
       {"word":"sınır kapısı","translation":"सीमा चौकी"},
       {"word":"gümrük memuru","translation":"सीमा शुल्क अधिकारी"},
@@ -8058,10 +7913,8 @@
       {"word":"idari para cezası","translation":"प्रशासनिक जुर्माना"},
       {"word":"eşya müsaderesi","translation":"सामान की ज़ब्ती"},
       {"word":"sınır geçiş belgesi","translation":"सीमा पार करने का दस्तावेज़"},
-      {"word":"giriş damgası","translation":"प्रवेश की मुहर"}
-    ],
-    "diplomacyandinternationalrelations": [
-      {"word":"diplomasi","translation":"कूटनीति"},
+      {"word":"giriş damgası","translation":"प्रवेश की मुहर"}],
+    "diplomacyandinternationalrelations": [{"word":"diplomasi","translation":"कूटनीति"},
       {"word":"diplomat","translation":"राजनयिक"},
       {"word":"büyükelçi","translation":"राजदूत"},
       {"word":"elçilik","translation":"दूतावास"},
@@ -8169,10 +8022,8 @@
       {"word":"uluslararası konferans","translation":"अंतरराष्ट्रीय सम्मेलन"},
       {"word":"diplomatik protokol","translation":"राजनयिक शिष्टाचार"},
       {"word":"uluslararası sözleşme","translation":"अंतरराष्ट्रीय समझौता"},
-      {"word":"stratejik ortaklık","translation":"रणनीतिक साझेदारी"}
-    ],
-    "tradeandentrepreneurship": [
-      {"word":"ticaret","translation":"व्यापार"},
+      {"word":"stratejik ortaklık","translation":"रणनीतिक साझेदारी"}],
+    "tradeandentrepreneurship": [{"word":"ticaret","translation":"व्यापार"},
       {"word":"girişimcilik","translation":"उद्यमिता"},
       {"word":"girişimci","translation":"उद्यमी"},
       {"word":"şirket","translation":"कंपनी"},
@@ -8274,10 +8125,8 @@
       {"word":"iş stratejisi","translation":"व्यवसाय रणनीति"},
       {"word":"iş hedefi","translation":"व्यवसाय लक्ष्य"},
       {"word":"gelir modeli","translation":"आय मॉडल"},
-      {"word":"iş sürekliliği","translation":"व्यवसाय निरंतरता"}
-    ],
-    "humanitarianandngos": [
-      {"word":"insani yardım","translation":"मानवीय सहायता"},
+      {"word":"iş sürekliliği","translation":"व्यवसाय निरंतरता"}],
+    "humanitarianandngos": [{"word":"insani yardım","translation":"मानवीय सहायता"},
       {"word":"insan hakları","translation":"मानवाधिकार"},
       {"word":"sivil toplum","translation":"नागरिक समाज"},
       {"word":"sivil toplum kuruluşu","translation":"गैर-सरकारी संगठन"},
@@ -8407,13 +8256,10 @@
       {"word":"dayanıklılık","translation":"लचीलापन"},
       {"word":"toplumun güçlendirilmesi","translation":"समुदाय का सशक्तिकरण"},
       {"word":"sürdürülebilir kalkınma","translation":"सतत विकास"},
-      {"word":"insani yardım standardı","translation":"मानवीय सहायता मानक"}
-    ]
+      {"word":"insani yardım standardı","translation":"मानवीय सहायता मानक"}]
   },
-  {
   "english": {
-    "lawandjustice": [
-      {"word":"hukuk","translation":"law"},
+    "lawandjustice": [{"word":"hukuk","translation":"law"},
       {"word":"adalet","translation":"justice"},
       {"word":"mahkeme","translation":"court"},
       {"word":"hakim","translation":"judge"},
@@ -8515,10 +8361,8 @@
       {"word":"insan hakları","translation":"human rights"},
       {"word":"hukukun üstünlüğü","translation":"rule of law"},
       {"word":"adil yargılanma","translation":"fair trial"},
-      {"word":"masumiyet karinesi","translation":"presumption of innocence"}
-    ],
-    "healthandmedicine": [
-      {"word":"sağlık","translation":"health"},
+      {"word":"masumiyet karinesi","translation":"presumption of innocence"}],
+    "healthandmedicine": [{"word":"sağlık","translation":"health"},
       {"word":"tıp","translation":"medicine"},
       {"word":"doktor","translation":"doctor"},
       {"word":"hekim","translation":"physician"},
@@ -8621,10 +8465,8 @@
       {"word":"yara","translation":"wound"},
       {"word":"kırık","translation":"fracture"},
       {"word":"yanık","translation":"burn"},
-      {"word":"dehidrasyon","translation":"dehydration"}
-    ],
-    "economyandfinance": [
-    {"word":"ekonomi","translation":"economy"},
+      {"word":"dehidrasyon","translation":"dehydration"}],
+    "economyandfinance": [{"word":"ekonomi","translation":"economy"},
     {"word":"finans","translation":"finance"},
     {"word":"bütçe","translation":"budget"},
     {"word":"gelir","translation":"income"},
@@ -8727,10 +8569,8 @@
     {"word":"finansal rapor","translation":"financial report"},
     {"word":"mali tablo","translation":"financial statement"},
     {"word":"büyüme oranı","translation":"growth rate"},
-    {"word":"satın alma gücü","translation":"purchasing power"}
-  ],
-  "educationandteaching": [
-    {"word":"eğitim","translation":"education"},
+    {"word":"satın alma gücü","translation":"purchasing power"}],
+  "educationandteaching": [{"word":"eğitim","translation":"education"},
     {"word":"öğretim","translation":"instruction"},
     {"word":"öğrenme","translation":"learning"},
     {"word":"öğretme","translation":"teaching"},
@@ -8833,8 +8673,7 @@
     {"word":"eğitim sistemi","translation":"education system"},
     {"word":"öğrenci işleri","translation":"student affairs"}
   ],
-  "tourismandhospitality": [
-    {"word":"turizm","translation":"tourism"},
+  "tourismandhospitality": [{"word":"turizm","translation":"tourism"},
     {"word":"turist","translation":"tourist"},
     {"word":"gezgin","translation":"traveler"},
     {"word":"seyahat","translation":"travel"},
@@ -8935,10 +8774,8 @@
     {"word":"konaklama ücreti","translation":"accommodation fee"},
     {"word":"gezi planı","translation":"travel plan"},
     {"word":"turizm işletmesi","translation":"tourism business"},
-    {"word":"sürdürülebilir turizm","translation":"sustainable tourism"}
-  ],
-  "transportandlogistics": [
-    {"word":"ulaşım","translation":"transport"},
+    {"word":"sürdürülebilir turizm","translation":"sustainable tourism"}],
+  "transportandlogistics": [{"word":"ulaşım","translation":"transport"},
     {"word":"taşımacılık","translation":"transportation"},
     {"word":"lojistik","translation":"logistics"},
     {"word":"nakliye","translation":"freight transport"},
@@ -9039,10 +8876,8 @@
     {"word":"uluslararası nakliye","translation":"international shipping"},
     {"word":"intermodal taşımacılık","translation":"intermodal transport"},
     {"word":"lojistik merkezi","translation":"logistics hub"},
-    {"word":"dağıtım merkezi","translation":"distribution center"}
-  ],
-  "customsandbordersecurity": [
-    {"word":"gümrük","translation":"customs"},
+    {"word":"dağıtım merkezi","translation":"distribution center"}],
+  "customsandbordersecurity": [{"word":"gümrük","translation":"customs"},
     {"word":"sınır","translation":"border"},
     {"word":"sınır güvenliği","translation":"border security"},
     {"word":"gümrük memuru","translation":"customs officer"},
@@ -9146,10 +8981,8 @@
     {"word":"sığınma başvurusu","translation":"asylum application"},
     {"word":"sınır güvenlik görevlisi","translation":"border security officer"},
     {"word":"gümrük denetimi","translation":"customs audit"},
-    {"word":"gümrük işlemi","translation":"customs procedure"}
-  ],
-  "diplomacyandinternationalrelations": [
-    {"word":"diplomasi","translation":"diplomacy"},
+    {"word":"gümrük işlemi","translation":"customs procedure"}],
+  "diplomacyandinternationalrelations": [{"word":"diplomasi","translation":"diplomacy"},
     {"word":"diplomat","translation":"diplomat"},
     {"word":"diplomatik ilişki","translation":"diplomatic relations"},
     {"word":"uluslararası ilişkiler","translation":"international relations"},
@@ -9251,10 +9084,8 @@
     {"word":"uluslararası gündem","translation":"international agenda"},
     {"word":"stratejik diyalog","translation":"strategic dialogue"},
     {"word":"güven artırıcı önlem","translation":"confidence-building measure"},
-    {"word":"diplomatik çözüm","translation":"diplomatic solution"}
-  ],
-  "tradeandentrepreneurship": [
-    {"word":"ticaret","translation":"trade"},
+    {"word":"diplomatik çözüm","translation":"diplomatic solution"}],
+  "tradeandentrepreneurship": [{"word":"ticaret","translation":"trade"},
     {"word":"işletme","translation":"business"},
     {"word":"girişimcilik","translation":"entrepreneurship"},
     {"word":"girişimci","translation":"entrepreneur"},
@@ -9357,10 +9188,8 @@
     {"word":"ithalat","translation":"import"},
     {"word":"uluslararası ticaret","translation":"international trade"},
     {"word":"ticaret fuarı","translation":"trade fair"},
-    {"word":"işletme yönetimi","translation":"business management"}
-  ],
-  "humanitarianandngos": [
-    {"word":"insani yardım","translation":"humanitarian aid"},
+    {"word":"işletme yönetimi","translation":"business management"}],
+  "humanitarianandngos": [{"word":"insani yardım","translation":"humanitarian aid"},
     {"word":"insani yardım kuruluşu","translation":"humanitarian organization"},
     {"word":"sivil toplum kuruluşu","translation":"non-governmental organization"},
     {"word":"STK","translation":"NGO"},
@@ -9466,12 +9295,10 @@
     {"word":"koordinasyon","translation":"coordination"},
     {"word":"ortaklık","translation":"partnership"},
     {"word":"sürdürülebilirlik","translation":"sustainability"},
-    {"word":"dayanıklılık","translation":"resilience"}
-  ]
+    {"word":"dayanıklılık","translation":"resilience"}]
   },
   "russian": {
-    "lawandjustice": [
-      {"word":"hukuk","translation":"право"},
+    "lawandjustice": [{"word":"hukuk","translation":"право"},
       {"word":"kanun","translation":"закон"},
       {"word":"yasa","translation":"закон"},
       {"word":"mahkeme","translation":"суд"},
@@ -9571,10 +9398,8 @@
       {"word":"iş hukuku","translation":"трудовое право"},
       {"word":"aile hukuku","translation":"семейное право"},
       {"word":"uluslararası hukuk","translation":"международное право"},
-      {"word":"hukuk bürosu","translation":"юридическая фирма"}
-    ],
-    "healthandmedicine": [
-      {"word":"sağlık","translation":"здоровье"},
+      {"word":"hukuk bürosu","translation":"юридическая фирма"}],
+    "healthandmedicine": [{"word":"sağlık","translation":"здоровье"},
       {"word":"tıp","translation":"медицина"},
       {"word":"doktor","translation":"врач"},
       {"word":"hekim","translation":"врач"},
@@ -9679,10 +9504,8 @@
       {"word":"kan testi","translation":"анализ крови"},
       {"word":"röntgen","translation":"рентген"},
       {"word":"ultrason","translation":"ультразвуковое исследование"},
-      {"word":"sağlık sigortası","translation":"медицинская страховка"}
-    ],
-    "economyandfinance": [
-      {"word":"ekonomi","translation":"экономика"},
+      {"word":"sağlık sigortası","translation":"медицинская страховка"}],
+    "economyandfinance": [{"word":"ekonomi","translation":"экономика"},
       {"word":"finans","translation":"финансы"},
       {"word":"bütçe","translation":"бюджет"},
       {"word":"gelir","translation":"доход"},
@@ -9785,10 +9608,8 @@
       {"word":"finansal rapor","translation":"финансовый отчёт"},
       {"word":"mali tablo","translation":"финансовая отчётность"},
       {"word":"büyüme oranı","translation":"темп роста"},
-      {"word":"satın alma gücü","translation":"покупательная способность"}
-    ],
-    "educationandteaching": [
-      {"word":"eğitim","translation":"образование"},
+      {"word":"satın alma gücü","translation":"покупательная способность"}],
+    "educationandteaching": [{"word":"eğitim","translation":"образование"},
       {"word":"öğretim","translation":"обучение"},
       {"word":"öğrenme","translation":"учёба"},
       {"word":"öğretme","translation":"преподавание"},
@@ -9889,10 +9710,8 @@
       {"word":"hayat boyu öğrenme","translation":"обучение на протяжении всей жизни"},
       {"word":"eğitim politikası","translation":"образовательная политика"},
       {"word":"eğitim sistemi","translation":"система образования"},
-      {"word":"öğrenci işleri","translation":"студенческий отдел"}
-    ],
-    "tourismandhospitality": [
-      {"word":"turizm","translation":"туризм"},
+      {"word":"öğrenci işleri","translation":"студенческий отдел"}],
+    "tourismandhospitality": [{"word":"turizm","translation":"туризм"},
       {"word":"turist","translation":"турист"},
       {"word":"gezgin","translation":"путешественник"},
       {"word":"seyahat","translation":"путешествие"},
@@ -9993,10 +9812,8 @@
       {"word":"konaklama ücreti","translation":"стоимость проживания"},
       {"word":"gezi planı","translation":"план поездки"},
       {"word":"turizm işletmesi","translation":"туристическое предприятие"},
-      {"word":"sürdürülebilir turizm","translation":"устойчивый туризм"}
-    ],
-    "transportandlogistics": [
-      {"word":"ulaşım","translation":"транспорт"},
+      {"word":"sürdürülebilir turizm","translation":"устойчивый туризм"}],
+    "transportandlogistics": [{"word":"ulaşım","translation":"транспорт"},
       {"word":"taşımacılık","translation":"перевозки"},
       {"word":"lojistik","translation":"логистика"},
       {"word":"nakliye","translation":"грузоперевозка"},
@@ -10097,10 +9914,8 @@
       {"word":"uluslararası nakliye","translation":"международные перевозки"},
       {"word":"intermodal taşımacılık","translation":"интермодальные перевозки"},
       {"word":"lojistik merkezi","translation":"логистический узел"},
-      {"word":"dağıtım merkezi","translation":"распределительный центр"}
-    ],
-    "customsandbordersecurity": [
-      {"word":"gümrük","translation":"таможня"},
+      {"word":"dağıtım merkezi","translation":"распределительный центр"}],
+    "customsandbordersecurity": [{"word":"gümrük","translation":"таможня"},
       {"word":"sınır","translation":"граница"},
       {"word":"sınır güvenliği","translation":"пограничная безопасность"},
       {"word":"gümrük memuru","translation":"таможенник"},
@@ -10204,10 +10019,8 @@
       {"word":"sığınma başvurusu","translation":"заявление о предоставлении убежища"},
       {"word":"sınır güvenlik görevlisi","translation":"сотрудник пограничной службы"},
       {"word":"gümrük denetimi","translation":"таможенный аудит"},
-      {"word":"gümrük işlemi","translation":"таможенная процедура"}
-    ],
-    "diplomacyandinternationalrelations": [
-      {"word":"diplomasi","translation":"дипломатия"},
+      {"word":"gümrük işlemi","translation":"таможенная процедура"}],
+    "diplomacyandinternationalrelations": [{"word":"diplomasi","translation":"дипломатия"},
       {"word":"diplomat","translation":"дипломат"},
       {"word":"diplomatik ilişki","translation":"дипломатические отношения"},
       {"word":"uluslararası ilişkiler","translation":"международные отношения"},
@@ -10309,10 +10122,8 @@
       {"word":"uluslararası gündem","translation":"международная повестка дня"},
       {"word":"stratejik diyalog","translation":"стратегический диалог"},
       {"word":"güven artırıcı önlem","translation":"мера укрепления доверия"},
-      {"word":"diplomatik çözüm","translation":"дипломатическое решение"}
-    ],
-    "tradeandentrepreneurship": [
-      {"word":"ticaret","translation":"торговля"},
+      {"word":"diplomatik çözüm","translation":"дипломатическое решение"}],
+    "tradeandentrepreneurship": [{"word":"ticaret","translation":"торговля"},
       {"word":"işletme","translation":"предприятие"},
       {"word":"girişimcilik","translation":"предпринимательство"},
       {"word":"girişimci","translation":"предприниматель"},
@@ -10415,10 +10226,8 @@
       {"word":"ithalat","translation":"импорт"},
       {"word":"uluslararası ticaret","translation":"международная торговля"},
       {"word":"ticaret fuarı","translation":"торговая выставка"},
-      {"word":"işletme yönetimi","translation":"управление предприятием"}
-    ],
-    "humanitarianandngos": [
-      {"word":"insani yardım","translation":"гуманитарная помощь"},
+      {"word":"işletme yönetimi","translation":"управление предприятием"}],
+    "humanitarianandngos": [{"word":"insani yardım","translation":"гуманитарная помощь"},
       {"word":"insani yardım kuruluşu","translation":"гуманитарная организация"},
       {"word":"sivil toplum kuruluşu","translation":"неправительственная организация"},
       {"word":"STK","translation":"НПО"},
