@@ -83,7 +83,7 @@
     "tradeandentrepreneurship": [],
     "humanitarianandngos": []
   },
-  "hindi": {
+  "english": {
     "lawandjustice": [],
     "healthandmedicine": [],
     "economyandfinance": [],
@@ -118,5 +118,17 @@
     "diplomacyandinternationalrelations": [],
     "tradeandentrepreneurship": [],
     "humanitarianandngos": []
-  }
+  },
+  "polish": {
+    "lawandjustice": [],
+    "healthandmedicine": [],
+    "economyandfinance": [],
+    "educationandteaching": [],
+    "tourismandhospitality": [],
+    "transportandlogistics": [],
+    "customsandbordersecurity": [],
+    "diplomacyandinternationalrelations": [],
+    "tradeandentrepreneurship": [],
+    "humanitarianandngos": []
+}
 }
