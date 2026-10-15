@@ -1,9 +1,136 @@
+```json
 {
-"vocabulary": 100,
-  "dictation": 33,
-  "grammar": 108,
-  "reading": 254,
-  "listening": 256,
-  "business": 100,
-  "advanced": 9
+  "french": {
+    "lawandjustice": [],
+    "healthandmedicine": [],
+    "economyandfinance": [],
+    "educationandteaching": [],
+    "tourismandhospitality": [],
+    "transportandlogistics": [],
+    "customsandbordersecurity": [],
+    "diplomacyandinternationalrelations": [],
+    "tradeandentrepreneurship": [],
+    "humanitarianandngos": []
+  },
+  "spanish": {
+    "lawandjustice": [],
+    "healthandmedicine": [],
+    "economyandfinance": [],
+    "educationandteaching": [],
+    "tourismandhospitality": [],
+    "transportandlogistics": [],
+    "customsandbordersecurity": [],
+    "diplomacyandinternationalrelations": [],
+    "tradeandentrepreneurship": [],
+    "humanitarianandngos": []
+  },
+  "german": {
+    "lawandjustice": [],
+    "healthandmedicine": [],
+    "economyandfinance": [],
+    "educationandteaching": [],
+    "tourismandhospitality": [],
+    "transportandlogistics": [],
+    "customsandbordersecurity": [],
+    "diplomacyandinternationalrelations": [],
+    "tradeandentrepreneurship": [],
+    "humanitarianandngos": []
+  },
+  "italian": {
+    "lawandjustice": [],
+    "healthandmedicine": [],
+    "economyandfinance": [],
+    "educationandteaching": [],
+    "tourismandhospitality": [],
+    "transportandlogistics": [],
+    "customsandbordersecurity": [],
+    "diplomacyandinternationalrelations": [],
+    "tradeandentrepreneurship": [],
+    "humanitarianandngos": []
+  },
+  "chinese": {
+    "lawandjustice": [],
+    "healthandmedicine": [],
+    "economyandfinance": [],
+    "educationandteaching": [],
+    "tourismandhospitality": [],
+    "transportandlogistics": [],
+    "customsandbordersecurity": [],
+    "diplomacyandinternationalrelations": [],
+    "tradeandentrepreneurship": [],
+    "humanitarianandngos": []
+  },
+  "arabic": {
+    "lawandjustice": [],
+    "healthandmedicine": [],
+    "economyandfinance": [],
+    "educationandteaching": [],
+    "tourismandhospitality": [],
+    "transportandlogistics": [],
+    "customsandbordersecurity": [],
+    "diplomacyandinternationalrelations": [],
+    "tradeandentrepreneurship": [],
+    "humanitarianandngos": []
+  },
+  "english": {
+    "lawandjustice": [],
+    "healthandmedicine": [],
+    "economyandfinance": [],
+    "educationandteaching": [],
+    "tourismandhospitality": [],
+    "transportandlogistics": [],
+    "customsandbordersecurity": [],
+    "diplomacyandinternationalrelations": [],
+    "tradeandentrepreneurship": [],
+    "humanitarianandngos": []
+  },
+  "polish": {
+    "lawandjustice": [],
+    "healthandmedicine": [],
+    "economyandfinance": [],
+    "educationandteaching": [],
+    "tourismandhospitality": [],
+    "transportandlogistics": [],
+    "customsandbordersecurity": [],
+    "diplomacyandinternationalrelations": [],
+    "tradeandentrepreneurship": [],
+    "humanitarianandngos": []
+  },
+  "turkish": {
+    "lawandjustice": [],
+    "healthandmedicine": [],
+    "economyandfinance": [],
+    "educationandteaching": [],
+    "tourismandhospitality": [],
+    "transportandlogistics": [],
+    "customsandbordersecurity": [],
+    "diplomacyandinternationalrelations": [],
+    "tradeandentrepreneurship": [],
+    "humanitarianandngos": []
+  },
+  "russian": {
+    "lawandjustice": [],
+    "healthandmedicine": [],
+    "economyandfinance": [],
+    "educationandteaching": [],
+    "tourismandhospitality": [],
+    "transportandlogistics": [],
+    "customsandbordersecurity": [],
+    "diplomacyandinternationalrelations": [],
+    "tradeandentrepreneurship": [],
+    "humanitarianandngos": []
+  },
+  "portuguese": {
+    "lawandjustice": [],
+    "healthandmedicine": [],
+    "economyandfinance": [],
+    "educationandteaching": [],
+    "tourismandhospitality": [],
+    "transportandlogistics": [],
+    "customsandbordersecurity": [],
+    "diplomacyandinternationalrelations": [],
+    "tradeandentrepreneurship": [],
+    "humanitarianandngos": []
+  }
 }
+```
